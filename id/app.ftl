@@ -770,3 +770,9 @@ exposed-data = Data terbuka:
 find-out-if-2 = Cari tahu apakah Anda terlibat dalam pelanggaran ini
 find-out-if-description = Kami akan membantu Anda dengan cepat melihat apakah alamat surel Anda terungkap dalam pelanggaran ini, dan memahami apa yang harus dilakukan selanjutnya.
 breach-detail-cta-signup = Periksa pelanggaran data
+
+## Floating banner
+
+floating-banner-text = Tingkatkan keamanan daring Anda dengan berita, kiat, dan pembaruan dari { -brand-Mozilla }.
+floating-banner-link-label = Daftar
+floating-banner-dismiss-button-label = Tidak, terima kasih
