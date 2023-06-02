@@ -701,3 +701,8 @@ exposed-data = Datos exponite:
 find-out-if-2 = Discoperi si tu era implicate in iste violation
 find-out-if-description = Nos te adjutara a presto vider si tu adresse email era exponite in iste violationes, e a comprender que facer postea.
 breach-detail-cta-signup = Verificar si il ha violationes
+
+## Floating banner
+
+floating-banner-link-label = Inscribe te
+floating-banner-dismiss-button-label = No, gratias
