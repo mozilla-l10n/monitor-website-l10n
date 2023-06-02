@@ -704,5 +704,6 @@ breach-detail-cta-signup = Verificar si il ha violationes
 
 ## Floating banner
 
+floating-banner-text = Meliora tu securitate online con novas, consilios, e actualisationes de { -brand-Mozilla }.
 floating-banner-link-label = Inscribe te
 floating-banner-dismiss-button-label = No, gratias
