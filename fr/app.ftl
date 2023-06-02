@@ -730,6 +730,6 @@ breach-detail-cta-signup = Vérifier les fuites de données
 
 ## Floating banner
 
-floating-banner-text = Renforcez votre sécurité en ligne avec les actualités, les astuces et les actualités de { -brand-Mozilla }.
-floating-banner-link-label = Se connecter
+floating-banner-text = Renforcez votre sécurité en ligne avec les actualités et les conseils de { -brand-Mozilla }.
+floating-banner-link-label = Je m’inscris
 floating-banner-dismiss-button-label = Non merci
