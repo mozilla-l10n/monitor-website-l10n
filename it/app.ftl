@@ -16,6 +16,7 @@
         [uppercase] Account Firefox
     }
 -brand-pocket = Pocket
+-brand-lockwise = Firefox Lockwise
 -brand-send = Firefox Send
 -brand-fpn = Firefox Private Network
 
