@@ -686,6 +686,6 @@ breach-detail-cta-signup = 檢查是否有外洩事件
 
 ## Floating banner
 
-floating-banner-text = 透過來自 { -brand-Mozilla } 的最新消息、使用秘訣與最新消息加強您的線上安全。
-floating-banner-link-label = 註冊
+floating-banner-text = 訂閱來自 { -brand-Mozilla } 的最新資訊與使用秘訣來加強您的線上安全。
+floating-banner-link-label = 訂閱
 floating-banner-dismiss-button-label = 不要，謝謝
