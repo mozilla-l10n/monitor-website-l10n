@@ -761,13 +761,13 @@ all-breaches-headline-2 = Semua pembobolan yang terdeteksi oleh { -brand-fx-moni
 all-breaches-lead = Kami memantau semua pembobolan data yang diketahui untuk mengetahui apakah informasi pribadi Anda telah disusupi. Berikut daftar lengkap semua pembobolan yang telah dilaporkan sejak 2007.
 search-breaches = Cari Pembobolan
 # the kind of user data exposed to hackers in data breach.
-exposed-data = Data terbongkar:
+exposed-data = Data terungkap:
 
 ## Public breach detail page
 
-find-out-if-2 = Cari tahu apakah Anda terlibat dalam pelanggaran ini
-find-out-if-description = Kami akan membantu Anda dengan cepat melihat apakah alamat surel Anda terungkap dalam pelanggaran ini, dan memahami apa yang harus dilakukan selanjutnya.
-breach-detail-cta-signup = Periksa pelanggaran data
+find-out-if-2 = Cari tahu apakah Anda terlibat dalam pembobolan ini
+find-out-if-description = Kami akan membantu untuk dengan cepat melihat apakah alamat surel Anda terungkap dalam pembobolan ini, dan memahami apa yang harus dilakukan selanjutnya.
+breach-detail-cta-signup = Periksa pembobolan data
 
 ## Floating banner
 
