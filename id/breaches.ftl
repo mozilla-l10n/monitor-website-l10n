@@ -89,7 +89,7 @@ breach-checklist-email-body = Ini dapat menyembunyikan alamat surel asli Anda sa
 
 # Credit reports list your bill payment history, loans, current debt, and other financial information.
 # They show where you work and live and whether you've been sued, arrested, or filed for bankruptcy.
-breach-checklist-ssn-header = Pantau laporan kredit Anda untuk akun, pinjaman, atau kartu kredit yang tidak Anda kenal.
+breach-checklist-ssn-header = Pantau laporan kredit finansial Anda termasuk akun, pinjol, atau kartu kredit yang tidak Anda kenal.
 # A security freeze prevents prospective creditors from accessing your credit file.
 # Creditors typically won't offer you credit if they can't access your credit reporting file,
 # so a security freeze, also called a credit freeze, prevents you or others from opening accounts in your name.
@@ -102,13 +102,13 @@ breach-checklist-ssn-body-2 = Anda juga dapat mempertimbangkan untuk membekukan 
 
 ## Prompts the user for changes when there is a breach detected of credit card
 
-breach-checklist-cc-header = Laporkan pelanggaran ini ke penerbit kartu kredit Anda dan minta kartu baru dengan nomor baru.
+breach-checklist-cc-header = Laporkan pembobolan ini ke penerbit kartu kredit Anda dan minta kartu baru dengan nomor baru.
 breach-checklist-cc-body = Anda juga harus meninjau laporan kartu kredit Anda untuk tagihan yang tidak dikenali.
 
 ## Prompts the user for changes when there is a breach detected of bank account
 
 breach-checklist-bank-header = Segera beri tahu bank Anda bahwa nomor rekening Anda telah disusupi.
-breach-checklist-bank-body = Melakukannya lebih cepat dapat memberi Anda lebih banyak perlindungan hukum untuk membantu Anda memulihkan kerugian apa pun. Anda juga ingin memeriksa akun Anda untuk tagihan yang tidak dikenali.
+breach-checklist-bank-body = Melakukannya lebih cepat dapat memberi Anda lebih banyak perlindungan hukum untuk membantu Anda memulihkan kerugian. Anda mungkin juga ingin memeriksa rekening Anda tentang tagihan yang tidak dikenali.
 
 ## Prompts the user for changes when there is a breach detected of pin
 
