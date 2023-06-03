@@ -88,23 +88,23 @@ email-2022-hibp-attribution = Data pembobolan disediakan oleh <a { $hibp-link-at
 
 email-unresolved-heading = Anda memiliki pembobolan yang belum ditindaklanjuti
 email-unresolved-subhead = Surel Anda telah terungkap. <br>Tindaklanjuti segera dengan { -product-name }.
-email-is-affected = Surel Anda, { $email-address }, terpengaruh oleh setidaknya satu pelanggaran data
-email-more-detail = Masuk ke { -product-name } sekarang untuk melihat detail lebih lanjut tentang pembobolan Anda (termasuk kapan itu terjadi dan data apa yang terungkap), dan pelajari apa yang harus Anda lakukan ketika surel Anda terekspos dalam pembobolan data.
-email-breach-status = Status pelanggaran saat ini
+email-is-affected = Surel Anda, { $email-address }, terdampak pada setidaknya satu pembobolan data
+email-more-detail = Masuk ke { -product-name } sekarang untuk melihat detail lebih lanjut tentang pembobolan Anda (termasuk waktu kejadian dan data apa yang terungkap), serta pelajari apa yang harus dilakukan ketika surel Anda terekspos dalam pembobolan data.
+email-breach-status = Status pembobolan saat ini
 # table row 1 label
 email-monitored = Total surel yang dipantau:
 # table row 2 label
-email-breach-total = Jumlah total pelanggaran:
+email-breach-total = Jumlah total pembobolan:
 # table row 3 label
-email-resolved = Pembobolan teratasi:
+email-resolved = Pembobolan ditindaklanjuti:
 # table row 4 label
-email-unresolved = Pelanggaran yang belum terselesaikan:
-email-resolve-cta = Atasi pelanggaran
+email-unresolved = Pembobolan yang belum ditindaklanjuti:
+email-resolve-cta = Tindaklanjuti pembobolan
 
 ## Verification email
 
 email-verify-heading = Lindungi data Anda, mulai sekarang
-email-verify-subhead = Verifikasi surel Anda untuk mulai melindungi data Anda setelah pembobolan.
+email-verify-subhead = Verifikasikan surel Anda untuk mulai melindungi data Anda setelah pembobolan.
 email-verify-simply-click = Cukup klik tautan di bawah ini untuk menyelesaikan verifikasi akun Anda.
 
 ## Breach report
