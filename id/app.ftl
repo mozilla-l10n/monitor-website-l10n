@@ -660,8 +660,6 @@ ad-unit-3-stay-in-the-game = Tetap dalam permainan!
 ad-unit-3-lets-you-keep = { -brand-mozilla-vpn } memungkinkan Anda menjaga koneksi yang stabil dan aman saat bermain game atau streaming film.
 # ad 3 list item 1
 ad-unit-3-prevent-throttling = Cegah pelambatan
-# ad 3 list item 2
-ad-unit-3-be-anywhere = Jadilah di mana saja di dunia
 # ad 3 list item 3
 ad-unit-3-access-more = Akses lebih banyak
 # ad 4 heading
@@ -676,14 +674,14 @@ ad-unit-5-connect-on-the-go = Sambungkan di mana saja
 ad-unit-5-privately-sign-in = Gunakan topeng surel saat Anda ingin masuk secara pribadi ke kedai kopi favorit atau Wi-Fi publik
 # ad 5 subheading 2
 ad-unit-5-email-receipts = Dapatkan tanda terima surel
-ad-unit-5-share-custom-email = Bagikan topeng surel kustom untuk tanda terima belanja tanpa membagikan surel asli Anda
+ad-unit-5-share-custom-email = Bagikan topeng surel kustom untuk mendapatkan kuitansi belanja tanpa perlu membagikan surel asli Anda
 # ad 5 subheading 3
 ad-unit-5-use-on-phone = Gunakan di ponsel Anda
 ad-unit-5-no-matter-where = Di mana pun Anda berada, buat topeng surel khusus dalam sekejap untuk semua yang ingin Anda lakukan
 # ad 6 heading
-ad-unit-6-worry-free = Pendaftaran Bebas Khawatir
-ad-unit-6-want-to-start = Ingin memulai langganan baru, merespon undangan, atau mendapatkan kode promo tawar-menawar tanpa spam membanjiri kotak masuk Anda?
-ad-unit-6-before-you-complete = Sebelum Anda menyelesaikan pendaftaran berikutnya, gunakan topeng surel alih-alih topeng asli Anda untuk melindungi info Anda dan tetap mengendalikan kotak masuk Anda
+ad-unit-6-worry-free = Pendaftaran Tanpa Perlu Khawatir
+ad-unit-6-want-to-start = Ingin memulai langganan baru, membalas undangan, atau mendapatkan kode promo diskon tanpa spam membanjiri kotak masuk Anda?
+ad-unit-6-before-you-complete = Sebelum menyelesaikan pendaftaran berikutnya, gunakan topeng surel alih-alih surel asli Anda untuk melindungi info Anda dan tetap mengendalikan kotak masuk Anda
 
 # Monitor V2
 
@@ -721,7 +719,7 @@ site-nav-breaches-link = Atasi Pembobolan Data
 site-nav-settings-link = Pengaturan
 site-nav-help-link = Bantuan dan Dukungan
 # This call-out is above 2 image links for Firefox Relay and Mozilla VPN 
-site-nav-ad-callout = Coba alat keamanan kami yang lain:
+site-nav-ad-callout = Coba alat keamanan kami lainnya:
 brand-relay = { -brand-relay }
 brand-mozilla-vpn = { -brand-mozilla-vpn }
 
@@ -755,15 +753,15 @@ error-page-error-404-cta-button = Kembali
 # Variables:
 #   $errorCode (number) - the status code of the error, e.g. 403
 error-page-error-other-title = { $errorCode } Ada yang tidak beres
-error-page-error-other-copy = Silakan coba lagi atau kembali lagi nanti
+error-page-error-other-copy = Coba lagi atau kembali lagi nanti
 
 ## Breach overview page
 
-all-breaches-headline-2 = Semua pembobolan terdeteksi oleh { -brand-fx-monitor }
+all-breaches-headline-2 = Semua pembobolan yang terdeteksi oleh { -brand-fx-monitor }
 all-breaches-lead = Kami memantau semua pembobolan data yang diketahui untuk mengetahui apakah informasi pribadi Anda telah disusupi. Berikut daftar lengkap semua pembobolan yang telah dilaporkan sejak 2007.
 search-breaches = Cari Pembobolan
 # the kind of user data exposed to hackers in data breach.
-exposed-data = Data terbuka:
+exposed-data = Data terbongkar:
 
 ## Public breach detail page
 
