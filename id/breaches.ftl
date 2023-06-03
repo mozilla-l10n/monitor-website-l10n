@@ -120,17 +120,17 @@ breach-checklist-pin-body = Pastikan PIN baru Anda, atau PIN lainnya, tidak meny
 # Variables:
 #   $mozillaVpnLink (string) - a link to the Mozilla VPN website, with { -breach-checklist-link-mozilla-vpn } as the label
 breach-checklist-ip-header-2 = Gunakan internet secara pribadi dengan VPN, seperti { $mozillaVpnLink }.
-breach-checklist-ip-body = Alamat IP Anda (alamat Protokol Internet) menunjukkan dengan tepat lokasi dan penyedia layanan internet Anda. VPN dapat menyembunyikan alamat IP asli Anda sehingga Anda dapat menggunakan internet secara pribadi.
+breach-checklist-ip-body = Alamat IP Anda (alamat Protokol Internet) menunjukkan lokasi dan penyedia layanan internet Anda. VPN dapat menyembunyikan alamat IP asli Anda sehingga Anda dapat menggunakan internet secara pribadi.
 
 ## Prompts the user for changes when there is a breach detected of physical address
 
-breach-checklist-address-header = Ubah sandi atau PIN yang menyertakan bagian mana pun dari alamat Anda.
-breach-checklist-address-body = Alamat mudah ditemukan dalam catatan publik dan dapat membuat kata sandi dan PIN mudah ditebak.
+breach-checklist-address-header = Ubah sandi atau PIN yang menyertakan bagian alamat Anda.
+breach-checklist-address-body = Alamat mudah ditemukan dalam data publik sehingga membuat kata sandi dan PIN mudah ditebak.
 
 ## Prompts the user for changes when there is a breach detected of date of birth
 
 breach-checklist-dob-header = Ubah sandi atau PIN yang menyertakan tanggal lahir Anda.
-breach-checklist-dob-body = Tanggal lahir mudah ditemukan dalam catatan publik, dan orang yang menemukannya dapat dengan mudah menebak PIN Anda.
+breach-checklist-dob-body = Tanggal lahir mudah ditemukan dalam data publik, dan orang yang menemukannya dapat dengan mudah menebak PIN Anda.
 
 ## Prompts the user for changes when there is a breach detected of phone number
 
@@ -146,7 +146,7 @@ breach-checklist-sq-body-text = Dalam kebanyakan kasus, kami menyarankan Anda me
 
 ## Prompts the user for changes when there is a breach detected of historical password
 
-breach-checklist-hp-header = Buat kata sandi yang unik dan kuat untuk akun mana pun yang telah Anda gunakan kembali kata sandinya.
+breach-checklist-hp-header = Buat kata sandi yang unik dan kuat untuk semua akun tempat Anda menggunakan kata sandi yang sama berulang kali.
 # Variables:
 #   $passwordManagerLink (string) - a link to the password manager documentation, with { -breach-checklist-link-password-manager } as the label
 breach-checklist-hp-body-2 = Pengelola kata sandi seperti { $passwordManagerLink } (yang gratis dan terpasang di peramban { -brand-firefox }) dapat membantu Anda melacak semua kata sandi Anda dan mengaksesnya dengan aman dari semua perangkat Anda.
@@ -156,4 +156,4 @@ breach-checklist-hp-body-2 = Pengelola kata sandi seperti { $passwordManagerLink
 # Variables:
 #   $breachDate (String) - Date of the breach
 #   $companyName (String) - Name of the company where the breach occurred
-breach-checklist-general-header = Hubungi { $companyName } untuk memberi tahu mereka tentang pelanggaran ini dan meminta langkah spesifik yang dapat Anda ambil.
+breach-checklist-general-header = Hubungi { $companyName } untuk memberi tahu mereka tentang pembobolan ini dan meminta langkah spesifik yang dapat Anda ambil.

@@ -76,7 +76,7 @@ monitor-another-email = Ingin memantau surel lainnya?
 
 # Variables:
 #   $unsubscribe-link-attr (string) - Link to email unsubscribe
-email-2022-unsubscribe = Anda menerima surel otomatis ini sebagai pelanggan { -product-name }. <br>Jangan ragu untuk mengubah preferensi surel Anda kapan saja <a { $unsubscribe-link-attr }>di sini</a>.
+email-2022-unsubscribe = Anda menerima surel otomatis ini sebagai pelanggan { -product-name }. <br>Anda dapat selalu dapat mengubah preferensi surel Anda kapan saja <a { $unsubscribe-link-attr }>di sini</a>.
 # Have I Been Pwned attribution
 # Variables:
 #   $hibp-link-attr (String) - Link to Have I Been Pwned
@@ -86,8 +86,8 @@ email-2022-hibp-attribution = Data pembobolan disediakan oleh <a { $hibp-link-at
 ## Variables:
 ##   $email-address (string) - Email address
 
-email-unresolved-heading = Anda memiliki pelanggaran yang belum terselesaikan
-email-unresolved-subhead = Surel Anda telah diekspos. <br>Perbaiki segera dengan { -product-name }.
+email-unresolved-heading = Anda memiliki pembobolan yang belum ditindaklanjuti
+email-unresolved-subhead = Surel Anda telah terungkap. <br>Tindaklanjuti segera dengan { -product-name }.
 email-is-affected = Surel Anda, { $email-address }, terpengaruh oleh setidaknya satu pelanggaran data
 email-more-detail = Masuk ke { -product-name } sekarang untuk melihat detail lebih lanjut tentang pembobolan Anda (termasuk kapan itu terjadi dan data apa yang terungkap), dan pelajari apa yang harus Anda lakukan ketika surel Anda terekspos dalam pembobolan data.
 email-breach-status = Status pelanggaran saat ini
