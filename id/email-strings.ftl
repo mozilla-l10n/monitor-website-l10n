@@ -112,11 +112,11 @@ email-verify-simply-click = Cukup klik tautan di bawah ini untuk menyelesaikan v
 ##   $email-address (string) - Email address
 
 email-breach-summary = Berikut ringkasan pembobolan data Anda
-email-breach-detected = Hasil pencarian untuk akun { $email-address } Anda telah mendeteksi bahwa surel Anda mungkin telah diekspos. Kami menyarankan Anda bertindak sekarang untuk mengatasi pelanggaran ini.
+email-breach-detected = Hasil pencarian untuk akun { $email-address } Anda telah mendeteksi bahwa surel Anda mungkin telah terekspos. Kami menyarankan Anda bertindak sekarang untuk menindaklanjuti pelanggaran ini.
 email-no-breach-detected = Berita bagus! Kami tidak menemukan pembobolan data yang memengaruhi surel Anda, { $email-address }.
 email-dashboard-cta = Buka Dasbor
 
 ## Breach alert
 
 email-may-have-been-exposed = Surel Anda mungkin telah terekspos dalam pembobolan data
-email-spotted-new-breach = Kami telah melihat pembobolan data baru
+email-spotted-new-breach = Kami telah menemukan pembobolan data baru
