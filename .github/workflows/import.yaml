@@ -1,4 +1,4 @@
-name: Import Source Strings
+name: Import source strings
 on:
   schedule:
     - cron: "0 7 * * 1-5" # Run Mon-Fri at 7AM UTC
