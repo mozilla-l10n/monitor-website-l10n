@@ -55,14 +55,14 @@ breaches-none-cta-button = Tambahkan alamat surel
 breaches-all-resolved-headline = Semua pembobolan telah ditindaklanjuti
 # Variables:
 #   $email (String) - An email address for which all breaches have been resolved, e.g. `someone@example.com`
-breaches-all-resolved-copy = Bagus! Anda telah menyelesaikan semua pelanggaran untuk { $email }. Kami akan terus memantau surel ini dan akan memberi tahu Anda jika ada pembobolan baru.
+breaches-all-resolved-copy = Bagus! Anda telah menindaklanjuti semua pembobolan untuk { $email }. Kami akan terus memantau surel ini dan akan memberi tahu Anda jika ada pembobolan baru.
 breaches-all-resolved-cta-blurb = Apakah Anda ingin memantau surel lainnya?
 breaches-all-resolved-cta-button = Tambahkan alamat surel
 # $breachDate and $addedDate are dates that should be localized via JS DateTimeFormat(). $dataClasses is a list of strings from data-classes.ftl that should be localized via JS ListFormat()
 # Variables:
 #   $breachDate (String) - Date of the breach
 #   $companyName (String) - Name of the company where the breach occurred
-breach-description = Pada { $breachDate }, { $companyName } dibobol. Setelah pembobolan ditemukan dan diverifikasi, itu ditambahkan ke basis data kami pada { $addedDate }. Pelanggaran ini termasuk: { $dataClasses }
+breach-description = Pada { $breachDate }, { $companyName } telah dibobol. Setelah pembobolan ditemukan dan diverifikasi, data pembobolan ditambahkan ke basis data kami pada { $addedDate }. Pembobolan ini menyertakan: { $dataClasses }
 
 ## Links that we might refer to when prompting the user to make changes after a breach
 
@@ -72,7 +72,7 @@ breach-checklist-link-mozilla-vpn = { -brand-mozilla-vpn }
 
 ## Prompts the user for changes when there is a breach detected of password
 
-breach-checklist-pw-header-text = Perbarui kata sandi Anda dan aktifkan otentikasi dua faktor (2FA).
+breach-checklist-pw-header-text = Perbarui kata sandi Anda dan aktifkan autentikasi dua faktor (2FA).
 # The `breached-company-link` tags will be replaced with link tags or stripped if no link is available.
 # Variables:
 #   $passwordManagerLink (string) - a link to the password manager documentation, with { -breach-checklist-link-password-manager } as the label
