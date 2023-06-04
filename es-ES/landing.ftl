@@ -8,7 +8,10 @@ get-started = Comenzar
 ## Why use Firefox Monitor?
 
 why-use-monitor = ¿Por qué usar { -brand-fx-monitor }?
+identifying-breaches = Identificar y resolver filtraciones de datos es un paso importante para garantizar tu privacidad en línea.
 protect-account = Protege tus cuentas
+protect-account-prevent-hackers = Evita que los piratas informáticos accedan a tus cuentas con contraseñas filtradas.
+prevent-fraud = Previene el fraude y los delitos cibernéticos
 get-alerts = Recibe alertas de nuevas filtraciones
 
 ## Here’s how it works
