@@ -44,6 +44,7 @@ settings-email-number-of-breaches-info =
 ## Cancel Premium subscription
 
 settings-cancel-premium-subscription-title = Cancelar la suscripción de { -brand-premium }
+settings-cancel-premium-subscription-info = Tu suscripción volverá a ser una cuenta gratuita después de que finalice el ciclo de facturación actual. Los resultados del análisis de protección de la privacidad se eliminarán de forma permanente y solo podrás supervisar filtraciones de datos para 1 dirección de correo electrónico.
 settings-cancel-premium-subscription-link-label = Cancela desde tu { -brand-fx-account }
 
 ## Deactivate account
