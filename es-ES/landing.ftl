@@ -49,3 +49,5 @@ depends-on-hackers = No todas las filtraciones exponen la misma información. So
 
 ## See if you’ve been in a data breach
 
+see-if-data-breach = Descubre si has sido afectado por una filtración de datos
+hibp-footer-attribution = Datos de filtración proporcionados por <b>{ -brand-HIBP }</b>
