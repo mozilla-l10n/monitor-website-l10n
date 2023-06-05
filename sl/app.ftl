@@ -856,5 +856,6 @@ breach-detail-cta-signup = Preverite kraje podatkov
 
 ## Floating banner
 
+floating-banner-text = Okrepite svojo spletno varnost z novicami, nasveti in posodobitvami { -brand-Mozilla(sklon: "rodilnik") }.
 floating-banner-link-label = Prijava
 floating-banner-dismiss-button-label = Ne, hvala
