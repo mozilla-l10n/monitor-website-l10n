@@ -46,6 +46,7 @@ settings-email-number-of-breaches-info =
 ## Cancel Premium subscription
 
 settings-cancel-premium-subscription-title = Eipe’a { -brand-premium } ñemboheraguapy
+settings-cancel-premium-subscription-link-label = Eipe’a ne { -brand-fx-account } guive
 
 ## Deactivate account
 
@@ -62,3 +63,6 @@ settings-send-email-verification-button = Emondo juajuha jehechajeyrã
 
 ## Unsubscribe Dialog Survey
 
+settings-unsubscribe-dialog-message-placeholder = ¿Mba’épa pe ohoporãvekuaáva?
+settings-unsubscribe-dialog-continue = Emongu’ejey pe jeipe’a
+settings-unsubscribe-dialog-cancel = Marave ndoikói, jajevyjey
