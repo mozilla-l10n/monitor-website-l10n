@@ -24,13 +24,14 @@ jobs:
           # Exclude hidden files, the "en" folder, markdown files
           rsync -av --progress --exclude="en/*" --exclude="*.md" --exclude=".*" l10n_repo/ code_repo/locales/
       - name: Get the current date for PR title
-        run: echo "current_date=$(date +"%Y-%m-%d %H:%M")" >> $GITHUB_ENV
+        run: echo "current_date=$(date +"%Y-%m-%d")" >> $GITHUB_ENV
       - uses: peter-evans/create-pull-request@v4
         with:
           path: code_repo
           token: ${{ secrets.MONITOR_L10N_TOKEN }}
           branch: l10n_automation
           author: mozilla-pontoon <mozilla-pontoon@users.noreply.github.com>
-          commit-message: "Import translations from l10n repository (${{ env.current_date }})"
-          delete-branch: true
           title: "Import translations from l10n repository (${{ env.current_date }})"
+          commit-message: "Import translations from l10n repository (${{ env.current_date }})"
+          labels: l10n
+          delete-branch: true

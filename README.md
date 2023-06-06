@@ -25,4 +25,4 @@ The following elements are excluded from sync:
 
 The workflow relies on the presence of a repository secret (token) called `MONITOR_L10N_TOKEN`. This token needs to have write access to the code repository in order to create a branch.
 
-This workflow will create a pull request in the repository with title `Import translations from l10n repository (DATETIME)`. It runs daily at 12PM, but can also be triggered manually.
+This workflow will create a pull request in the repository with title `Import translations from l10n repository (DATE)`. It runs daily at 12PM UTC, but can also be triggered manually.
