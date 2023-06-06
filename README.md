@@ -23,6 +23,6 @@ The following elements are excluded from sync:
 * `*.md` files (README, LICENSE).
 * Hidden folders (e.g. `.github`).
 
-The workflow relies on the presence of a repository secret (token) called `MONITOR_L10N_TOKEN`. This token needs to have write access to the default branch of the code repository (e.g., it needs to be excluded from branch protection rules).
+The workflow relies on the presence of a repository secret (token) called `MONITOR_L10N_TOKEN`. This token needs to have write access to the code repository in order to create a branch.
 
-This workflow will create a commit in the repository with title `Update translations (DATE)`. It runs daily at 6AM and 6PM UTC, but can also be triggered manually.
+This workflow will create a pull request in the repository with title `Import translations from l10n repository (DATETIME)`. It runs daily at 12PM, but can also be triggered manually.

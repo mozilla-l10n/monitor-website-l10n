@@ -1,7 +1,7 @@
 name: Export translations
 on:
   schedule:
-    - cron: "0 6,18 * * *" # Run daily at 6AM and 6PM UTC
+    - cron: "0 12 * * *" # Run daily at 12PM UTC
   workflow_dispatch:
 jobs:
   copy:
@@ -18,7 +18,6 @@ jobs:
           repository: mozilla/blurts-server
           fetch-depth: 0
           path: code_repo
-          token: ${{ secrets.MONITOR_L10N_TOKEN }}
       - name: Copy translation files
         run: |
           # Use rsync to sync the content of the "locales" folder
@@ -26,19 +25,12 @@ jobs:
           rsync -av --progress --exclude="en/*" --exclude="*.md" --exclude=".*" l10n_repo/ code_repo/locales/
       - name: Get the current date for PR title
         run: echo "current_date=$(date +"%Y-%m-%d %H:%M")" >> $GITHUB_ENV
-      - name: Commit changes and push
-        run: |
-          # Only try to commit if there are pending changes
-          cd code_repo
-          if [[ $(git diff --exit-code) || $(git ls-files --other --exclude-standard) ]]
-          then
-            git config user.name "mozilla-pontoon"
-            git config user.email "mozilla-pontoon@users.noreply.github.com"
-
-            # Only add files from the locales folder
-            git add locales
-            git commit -m "Update translations (${{ env.current_date }})"
-            git push -f origin
-          else
-            echo "No changes found."
-          fi
+      - uses: peter-evans/create-pull-request@v4
+        with:
+          path: code_repo
+          token: ${{ secrets.MONITOR_L10N_TOKEN }}
+          branch: l10n_automation
+          author: mozilla-pontoon <mozilla-pontoon@users.noreply.github.com>
+          commit-message: "Import translations from l10n repository (${{ env.current_date }})"
+          delete-branch: true
+          title: "Import translations from l10n repository (${{ env.current_date }})"
