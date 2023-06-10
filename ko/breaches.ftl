@@ -71,6 +71,15 @@ breach-checklist-email-body = 실제 받은 편지함으로 이메일을 전달�
 # Credit reports list your bill payment history, loans, current debt, and other financial information.
 # They show where you work and live and whether you've been sued, arrested, or filed for bankruptcy.
 breach-checklist-ssn-header = 알지 못하는 계좌나 대출, 신용카드의 신용 보고서를 모니터링하세요.
+# A security freeze prevents prospective creditors from accessing your credit file.
+# Creditors typically won't offer you credit if they can't access your credit reporting file,
+# so a security freeze, also called a credit freeze, prevents you or others from opening accounts in your name.
+# This will only be shown to users in the US.
+# Variables:
+#   $equifaxLink (string) - a link to the Equifax website
+#   $experianLink (string) - a link to the Experian website
+#   $transUnionLink (string) - a link to the TransUnion website
+breach-checklist-ssn-body-2 = 사기꾼이 귀하의 이름으로 새 계정을 개설하지 못하도록 { $equifaxLink }와 { $experianLink }, { $transUnionLink }에 신용 동결을 고려할 수 있습니다. 신용에 영향은 가지 않으며 무료입니다.
 
 ## Prompts the user for changes when there is a breach detected of credit card
 
@@ -84,9 +93,13 @@ breach-checklist-bank-header = 계좌 번호가 유출되었음을 즉시 은행
 ## Prompts the user for changes when there is a breach detected of pin
 
 breach-checklist-pin-header = 카드 발급사에 알리고 즉시 PIN을 변경하세요.
+breach-checklist-pin-body = 새 비밀번호 또는 다른 비밀번호가 쉽게 예측가능한 생년월일이나 주소와 같은 숫자들을 포함하지 않았는지 확인하십시오
 
 ## Prompts the user for changes when there is a breach detected of IP address
 
+# Variables:
+#   $mozillaVpnLink (string) - a link to the Mozilla VPN website, with { -breach-checklist-link-mozilla-vpn } as the label
+breach-checklist-ip-header-2 = { $mozillaVpnLink }과 같은 VPN으로 인터넷을 비공개로 사용하세요.
 breach-checklist-ip-body = IP 주소(인터넷 프로토콜 주소)는 사용자의 위치와 인터넷 서비스 제공업체를 정확히 파악합니다. VPN은 실제 IP 주소를 숨겨 인터넷을 비공개적으로 사용할 수 있도록 합니다.
 
 ## Prompts the user for changes when there is a breach detected of physical address
