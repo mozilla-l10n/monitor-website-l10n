@@ -16,10 +16,12 @@
     }
 -brand-Mozilla =
     { $sklon ->
-       *[imenovalnik] Mozilla
         [rodilnik] Mozille
         [dajalnik] Mozilli
         [tozilnik] Mozillo
+        [mestnik] Mozilli
+        [orodnik] Mozillo
+       *[imenovalnik] Mozilla
     }
 -brand-HIBP = Have I Been Pwned
 -brand-fxa =
