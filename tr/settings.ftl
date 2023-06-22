@@ -57,3 +57,4 @@ settings-send-email-verification-button = Doğrulama bağlantısını gönder
 settings-unsubscribe-dialog-title = Ayrılmanıza üzüldük. <br /> Neden ayrıldığınızı söylemek ister misiniz?
 settings-unsubscribe-dialog-info = Deneyiminiz bizim için önemli. Her yanıtı okuyup dikkate alıyoruz.
 settings-unsubscribe-dialog-continue = İptal işlemine devam et
+settings-unsubscribe-dialog-cancel = Vazgeçtim, geri dön
