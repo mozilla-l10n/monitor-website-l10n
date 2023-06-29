@@ -793,5 +793,6 @@ breach-detail-cta-signup = Undersøg for datalæk
 
 ## Floating banner
 
+floating-banner-text = Boost din sikkerhed på nettet med nyheder, tips og opdateringer fra { -brand-Mozilla }.
 floating-banner-link-label = Tilmeld dig
 floating-banner-dismiss-button-label = Nej tak

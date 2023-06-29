@@ -44,6 +44,7 @@ settings-email-number-of-breaches-info =
 ## Cancel Premium subscription
 
 settings-cancel-premium-subscription-title = Annuller { -brand-premium }-abonnement
+settings-cancel-premium-subscription-info = Dit abonnement vender tilbage til at være en gratis konto, når den aktuelle faktureringsperiode slutter. Resultaterne af dine privatlivsscanninger slettes permanent, og kun én mailadresse overvåges for datalæk.
 settings-cancel-premium-subscription-link-label = Annuller fra din { -brand-fx-account }
 
 ## Deactivate account
@@ -61,6 +62,10 @@ settings-send-email-verification-button = Send bekræftelseslink
 
 ## Unsubscribe Dialog Survey
 
+settings-unsubscribe-dialog-title = Vi er kede af, at du forlader os. <br /> Vil du fortælle os om, hvorfor du gør det?
+settings-unsubscribe-dialog-info = Dine erfaringer er vigtige for os. Vi læser alle svar og tager dem til eftertanke.
+settings-unsubscribe-dialog-message-placeholder = Hvad kunne have været bedre?
 # $faq_href is the URL for the faq page. HTML tags should not be translated, e.g. `<a>`
 settings-unsubscribe-dialog-confirmation = Bemærk, at alle dine { -brand-monitor-premium }-tjenester bliver <a { $faq_href }>slettet permanent</a>, efter din nuværende faktureringsperiode slutter.
 settings-unsubscribe-dialog-continue = Fortsæt til annullering
+settings-unsubscribe-dialog-cancel = Jag har skiftet mening - gå tilbage
