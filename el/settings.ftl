@@ -67,3 +67,4 @@ settings-unsubscribe-dialog-message-placeholder = Τι θα μπορούσε ν�
 # $faq_href is the URL for the faq page. HTML tags should not be translated, e.g. `<a>`
 settings-unsubscribe-dialog-confirmation = Παρακαλούμε σημειώστε ότι όλες οι υπηρεσίες σας στο { -brand-monitor-premium } <a { $faq_href }>θα διαγραφούν οριστικά</a> μετά το πέρας του τρέχοντος κύκλου χρέωσής σας.
 settings-unsubscribe-dialog-continue = Συνέχεια στην ακύρωση
+settings-unsubscribe-dialog-cancel = Άλλαξα γνώμη, θέλω να επιστρέψω
