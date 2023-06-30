@@ -780,8 +780,11 @@ menu-button-title = Μενού χρήστη
 menu-button-alt = Άνοιγμα μενού χρήστη
 menu-list-accessible-label = Μενού λογαριασμού
 menu-item-fxa = Διαχείριση του { -brand-fx-account(case: "gen", capitalization: "lower") } σας
+menu-item-fxa-alt = Άνοιγμα σελίδας { -brand-fx-account(case: "gen", capitalization: "lower") }
 menu-item-settings = Ρυθμίσεις
+menu-item-settings-alt = Άνοιγμα σελίδας ρυθμίσεων
 menu-item-help = Βοήθεια και υποστήριξη
+menu-item-help-alt = Άνοιγμα σελίδας βοήθειας και υποστήριξης
 menu-item-logout = Αποσύνδεση
 
 ## Footer

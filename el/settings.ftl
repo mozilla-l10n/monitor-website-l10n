@@ -44,6 +44,7 @@ settings-email-number-of-breaches-info =
 ## Cancel Premium subscription
 
 settings-cancel-premium-subscription-title = Ακύρωση συνδρομής { -brand-premium }
+settings-cancel-premium-subscription-link-label = Κάντε ακύρωση από τον { -brand-fx-account(case: "acc", capitalization: "lower") } σας
 
 ## Deactivate account
 
@@ -60,5 +61,6 @@ settings-send-email-verification-button = Αποστολή συνδέσμου ε
 
 ## Unsubscribe Dialog Survey
 
+settings-unsubscribe-dialog-title = Λυπούμαστε που φεύγετε. <br /> Θέλετε να μας πείτε γιατί φεύγετε;
 settings-unsubscribe-dialog-message-placeholder = Τι θα μπορούσε να είχε πάει καλύτερα;
 settings-unsubscribe-dialog-continue = Συνέχεια στην ακύρωση
