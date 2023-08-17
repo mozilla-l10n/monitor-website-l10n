@@ -797,4 +797,7 @@ floating-banner-dismiss-button-label = Nee, tankewol
 # Strings used in a banner (false door test) to observe engagement with Monitor premium and gauge user interest.
 
 false-door-test-content-part-one = Nimmen soe jo persoanlike ynformaasje keapje kinne moatte.
+false-door-test-content-part-two = Wiskje automatysk gegevens fan siden dy’t probearje it te ferkeapjen.
+false-door-test-content-part-two-dashboard = Smyt automatysk gegevens fan siden fuort dy’t probearje it te ferkeapjen.
+false-door-test-cta = Ik doch mei
 false-door-test-popup-close = Slute
