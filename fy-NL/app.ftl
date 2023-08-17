@@ -790,3 +790,11 @@ breach-detail-cta-signup = Kontrolearje op datalekken
 floating-banner-text = Ferheegje jo online feiligens mei nijs, tips en updates fan { -brand-Mozilla }.
 floating-banner-link-label = Registrearje
 floating-banner-dismiss-button-label = Nee, tankewol
+
+## False door test
+
+
+# Strings used in a banner (false door test) to observe engagement with Monitor premium and gauge user interest.
+
+false-door-test-content-part-one = Nimmen soe jo persoanlike ynformaasje keapje kinne moatte.
+false-door-test-popup-close = Slute
