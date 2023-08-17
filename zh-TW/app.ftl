@@ -695,8 +695,8 @@ floating-banner-dismiss-button-label = 不要，謝謝
 
 # Strings used in a banner (false door test) to observe engagement with Monitor premium and gauge user interest.
 
-false-door-test-content-part-one = 不應被任何人買下您的個人資訊。
+false-door-test-content-part-one = 不應有任何人能夠買到您的個人資訊。
 false-door-test-content-part-two = 自動從試圖銷售資料的網站移除資料。
-false-door-test-content-part-two-dashboard = 自動刪除試圖銷售資料的網站的資料。
+false-door-test-content-part-two-dashboard = 自動從試圖銷售資料的網站移除資料。
 false-door-test-cta = 也算我一份
 false-door-test-popup-close = 關閉
