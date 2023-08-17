@@ -728,7 +728,7 @@ floating-banner-dismiss-button-label = No grazie
 # Strings used in a banner (false door test) to observe engagement with Monitor premium and gauge user interest.
 
 false-door-test-content-part-one = Nessuno dovrebbe essere in grado di acquistare le tue informazioni personali.
-false-door-test-content-part-two = Rimuovi automaticamente i dati dai siti che cercano di venderli.
-false-door-test-content-part-two-dashboard = Elimina automaticamente i dati dai siti che cercano di venderli.
-false-door-test-cta = Contami
+false-door-test-content-part-two = Rimuovi automaticamente i tuoi dati dai siti che cercano di venderli.
+false-door-test-content-part-two-dashboard = Elimina automaticamente i tuoi dati dai siti che cercano di venderli.
+false-door-test-cta = Sono interessato
 false-door-test-popup-close = Chiudi
