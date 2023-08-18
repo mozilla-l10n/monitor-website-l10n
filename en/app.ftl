@@ -882,7 +882,7 @@ sign-in = Sign In
 site-nav-breaches-link = Resolve Data Breaches
 site-nav-settings-link = Settings
 site-nav-help-link = Help and Support
-# This call-out is above 2 image links for Firefox Relay and Mozilla VPN 
+# This call-out is above 2 image links for Firefox Relay and Mozilla VPN
 site-nav-ad-callout = Try our other security tools:
 brand-relay = { -brand-relay }
 brand-mozilla-vpn = { -brand-mozilla-vpn }
@@ -940,13 +940,3 @@ breach-detail-cta-signup = Check for breaches
 floating-banner-text = Boost your online security with news, tips, and updates from { -brand-Mozilla }.
 floating-banner-link-label = Sign up
 floating-banner-dismiss-button-label = No thanks
-
-## False door test
-
-# Strings used in a banner (false door test) to observe engagement with Monitor premium and gauge user interest.
-
-false-door-test-content-part-one = No one should be able to buy your personal information.
-false-door-test-content-part-two = Automatically remove data from sites trying to sell it.
-false-door-test-content-part-two-dashboard = Auto-delete data from sites trying to sell it.
-false-door-test-cta = Count me in
-false-door-test-popup-close = Close
