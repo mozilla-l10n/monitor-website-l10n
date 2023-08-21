@@ -15,6 +15,7 @@ breach-detail-meta-social-title = ¿Ne myangekói { $company } mba’ekuaarã ñ
 breach-detail-meta-social-description = Eipuru { -brand-fx-monitor } eikuaa hag̃ua ne maranduetépa oñemboguakuaára’e ha péicha rupi eikuaa mba’etépa ejapóta.
 breach-scan-meta-title = { -brand-fx-monitor } - Ñembogua Rehegua
 breach-scan-meta-social-title = { -brand-fx-monitor } - Ñembogua Rehegua
+breach-scan-meta-social-description = Eñepyrũ tembiapo { -brand-fx-monitor } ndive emoĩporã hag̃ua ñembogua ha ereko jehechameme ñembogua pyahu rovake.
 
 ## Breaches header
 
@@ -131,6 +132,9 @@ breach-checklist-dob-body = Umi teñoihague ára ndahasýi ijejuhu teraguapyháp
 
 ## Prompts the user for changes when there is a breach detected of phone number
 
+# Variables:
+#   $firefoxRelayLink (string) - a link to Firefox Relay, with { -breach-checklist-link-firefox-relay } as the label
+breach-checklist-phone-header-2 = Emo’ã ne pumbyry papapy mba’epuru rovamo’ãha { $firefoxRelayLink } ndive, oñomíva añetehápe ne pumbyry papapyete.
 
 ## Prompts the user for changes when there is a breach detected of security questions
 

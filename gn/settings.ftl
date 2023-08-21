@@ -64,6 +64,7 @@ settings-send-email-verification-button = Emondo juajuha jehechajeyrã
 ## Unsubscribe Dialog Survey
 
 settings-unsubscribe-dialog-title = Rombyasy resẽ haguére. <br /> ¿Ikatúpa emombe’umi mba’érepa resẽra’e?
+settings-unsubscribe-dialog-info = Nde rekoasakue ore romomba’eterei. Romoñe’ẽ peteĩteĩva ñembohovái ha rohecharamo akóinte.
 settings-unsubscribe-dialog-message-placeholder = ¿Mba’épa pe ohoporãvekuaáva?
 settings-unsubscribe-dialog-continue = Emongu’ejey pe jeipe’a
 settings-unsubscribe-dialog-cancel = Marave ndoikói, jajevyjey
