@@ -5,12 +5,14 @@
 breach-meta-title = { -brand-fx-monitor } - Mba’erupa
 breach-all-meta-title = { -brand-fx-monitor } - Opaite mba’ekuaarã ñembogua
 breach-all-meta-social-title = Opaite ñembogua ohecháva { -brand-fx-monitor }
+breach-all-meta-social-description = Ehapykueho { -brand-fx-monitor } ñemboguakuaa rysýi ojehechakuaáva, upéi ehecha ne marandúpa oñemboguakuaápara’e.
 # Variables:
 #   $company (String) - Name of the company that was breached, e.g. "PHP Freaks"
 breach-detail-meta-title = { -brand-fx-monitor } - { $company } Mba’ekuaarã Ñembogua
 # Variables:
 #   $company (String) - Name of the company that was breached, e.g. "PHP Freaks"
 breach-detail-meta-social-title = ¿Ne myangekói { $company } mba’ekuaarã ñembogua?
+breach-detail-meta-social-description = Eipuru { -brand-fx-monitor } eikuaa hag̃ua ne maranduetépa oñemboguakuaára’e ha péicha rupi eikuaa mba’etépa ejapóta.
 breach-scan-meta-title = { -brand-fx-monitor } - Ñembogua Rehegua
 breach-scan-meta-social-title = { -brand-fx-monitor } - Ñembogua Rehegua
 
