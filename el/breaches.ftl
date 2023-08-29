@@ -105,6 +105,7 @@ breach-checklist-pin-body = Βεβαιωθείτε ότι το νέο σας PIN
 # Variables:
 #   $mozillaVpnLink (string) - a link to the Mozilla VPN website, with { -breach-checklist-link-mozilla-vpn } as the label
 breach-checklist-ip-header-2 = Χρησιμοποιήστε το διαδίκτυο ιδιωτικά με ένα VPN, όπως το { $mozillaVpnLink }.
+breach-checklist-ip-body = Η διεύθυνση IP σας (διεύθυνση πρωτοκόλλου διαδικτύου) προσδιορίζει την τοποθεσία και τον πάροχο υπηρεσιών διαδικτύου σας. Ένα VPN μπορεί να αποκρύψει την πραγματική διεύθυνση IP σας ώστε να χρησιμοποιείτε το διαδίκτυο ιδιωτικά.
 
 ## Prompts the user for changes when there is a breach detected of physical address
 
