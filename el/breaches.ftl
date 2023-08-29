@@ -12,6 +12,7 @@ breach-detail-meta-title = { -brand-fx-monitor } - Παραβίαση δεδομ
 # Variables:
 #   $company (String) - Name of the company that was breached, e.g. "PHP Freaks"
 breach-detail-meta-social-title = Επηρεαστήκατε από την παραβίαση δεδομένων { $company };
+breach-detail-meta-social-description = Χρησιμοποιήστε το { -brand-fx-monitor } για να μάθετε εάν τα προσωπικά σας δεδομένα εκτέθηκαν σε αυτήν την παραβίαση και να κατανοήσετε τι πρέπει να κάνετε στη συνέχεια.
 breach-scan-meta-title = { -brand-fx-monitor } - Αποτελέσματα παραβίασης
 breach-scan-meta-social-title = { -brand-fx-monitor } - Αποτελέσματα παραβίασης
 breach-scan-meta-social-description = Συνδεθείτε στο { -brand-fx-monitor } για να επιλύσετε παραβιάσεις και να έχετε συνεχή εποπτεία για τυχόν νέες παραβιάσεις.
