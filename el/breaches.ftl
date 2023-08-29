@@ -80,6 +80,7 @@ breach-checklist-pw-header-text = Ενημερώστε τους κωδικούς
 # Variables:
 #   $firefoxRelayLink (string) - a link to Firefox Relay, with { -breach-checklist-link-firefox-relay } as the label
 breach-checklist-email-header-2 = Προστατέψτε το email σας με μια υπηρεσία απόκρυψης email, όπως το { $firefoxRelayLink }.
+breach-checklist-email-body = Αυτό μπορεί να αποκρύψει την πραγματική σας διεύθυνση email κατά την προώθηση των email στα πραγματικά εισερχόμενά σας.
 
 ## Prompts the user for changes when there is a breach detected of social security number
 

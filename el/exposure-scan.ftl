@@ -22,5 +22,6 @@ exposure-landing-result-overflow-footer-cta-label = Συνδεθείτε για 
 exposure-landing-result-some-hero-lead = Συνδεθείτε για να λάβετε σαφείς οδηγίες για την επίλυση αυτών των παραβιάσεων, την προβολή όλων των παραβιάσεων και τη συνεχή εποπτεία για τυχόν νέες παραβιάσεις.
 exposure-landing-result-some-hero-cta-label = Συνδεθείτε για επίλυση παραβιάσεων
 exposure-landing-result-some-footer-cta-label = Συνδεθείτε για επίλυση παραβιάσεων
+exposure-landing-result-none-hero-lead = Καλα νέα! Δεν βρέθηκαν γνωστές παραβιάσεις. Μείνετε ασφαλείς κάνοντας εγγραφή για ειδοποιήσεις σχετικά με νέες παραβιάσεις. Θα συνεχίσουμε να εποπτεύουμε αυτό το email και θα σας ενημερώσουμε εάν εμφανιστεί σε νέα παραβίαση.
 exposure-landing-result-none-hero-cta-label = Λάβετε ειδοποιήσεις για νέες παραβιάσεις
 exposure-landing-result-none-footer-cta-label = Εγγραφή για ειδοποιήσεις
