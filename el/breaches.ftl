@@ -132,6 +132,9 @@ breach-checklist-sq-header-text = Ενημερώστε τις ερωτήσεις
 ## Prompts the user for changes when there is a breach detected of historical password
 
 breach-checklist-hp-header = Δημιουργήστε μοναδικούς, ισχυρούς κωδικούς πρόσβασης για οποιονδήποτε λογαριασμό έχετε ξαναχρησιμοποιήσει κωδικούς πρόσβασης.
+# Variables:
+#   $passwordManagerLink (string) - a link to the password manager documentation, with { -breach-checklist-link-password-manager } as the label
+breach-checklist-hp-body-2 = Μια εφαρμογή διαχείρισης κωδικών πρόσβασης, όπως το { $passwordManagerLink } (το οποίο είναι δωρεάν και ενσωματωμένο στο { -brand-firefox }), μπορεί να σας βοηθήσει να έχετε ασφαλή πρόσβαση σε όλους τους κωδικούς πρόσβασής σας από όλες τις συσκευές σας.
 
 ## Prompts the user for changes when there is a breach detected of other types
 
