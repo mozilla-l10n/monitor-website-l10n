@@ -114,6 +114,7 @@ breach-checklist-address-header = Αλλάξτε τυχόν κωδικούς π�
 ## Prompts the user for changes when there is a breach detected of date of birth
 
 breach-checklist-dob-header = Αλλάξτε τυχόν κωδικούς πρόσβασης ή PIN που περιλαμβάνουν την ημερομηνία γέννησής σας.
+breach-checklist-dob-body = Οι ημερομηνίες γέννησης είναι εύκολο να βρεθούν στα δημόσια αρχεία και τα άτομα που τις βρίσκουν μπορούν εύκολα να μαντέψουν το PIN σας.
 
 ## Prompts the user for changes when there is a breach detected of phone number
 
