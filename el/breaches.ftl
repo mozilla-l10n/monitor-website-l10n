@@ -112,6 +112,7 @@ breach-checklist-ip-body = Η διεύθυνση IP σας (διεύθυνση �
 ## Prompts the user for changes when there is a breach detected of physical address
 
 breach-checklist-address-header = Αλλάξτε τυχόν κωδικούς πρόσβασης ή PIN που περιλαμβάνουν οποιοδήποτε μέρος της διεύθυνσής σας.
+breach-checklist-address-body = Οι διευθύνσεις είναι εύκολο να βρεθούν σε δημόσια αρχεία και μπορούν να κάνουν πιο προφανείς αυτούς τους κωδικούς πρόσβασης και τα PIN.
 
 ## Prompts the user for changes when there is a breach detected of date of birth
 
