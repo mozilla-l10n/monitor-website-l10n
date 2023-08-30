@@ -10,7 +10,7 @@ settings-page-title = Nastavitve { -product-short-name(sklon: "rodilnik") }
 
 ## Breach alert preferences
 
-settings-alert-preferences-title = Nastavitve opozoril o kršitvah
+settings-alert-preferences-title = Nastavitve opozoril o krajah
 settings-alert-preferences-option-one = Pošlji opozorila na ogrožen e-poštni naslov
 settings-alert-preferences-option-two = Pošlji vsa opozorila o vdorih podatkov na primarni e-poštni naslov
 
