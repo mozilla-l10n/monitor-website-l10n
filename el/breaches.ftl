@@ -91,6 +91,15 @@ breach-checklist-email-body = Αυτό μπορεί να αποκρύψει τη
 # Credit reports list your bill payment history, loans, current debt, and other financial information.
 # They show where you work and live and whether you've been sued, arrested, or filed for bankruptcy.
 breach-checklist-ssn-header = Παρακολουθήστε την έκθεση πίστωσής σας για λογαριασμούς, δάνεια ή πιστωτικές κάρτες που δεν αναγνωρίζετε.
+# A security freeze prevents prospective creditors from accessing your credit file.
+# Creditors typically won't offer you credit if they can't access your credit reporting file,
+# so a security freeze, also called a credit freeze, prevents you or others from opening accounts in your name.
+# This will only be shown to users in the US.
+# Variables:
+#   $equifaxLink (string) - a link to the Equifax website
+#   $experianLink (string) - a link to the Experian website
+#   $transUnionLink (string) - a link to the TransUnion website
+breach-checklist-ssn-body-2 = Εξετάστε επίσης το ενδεχόμενο να «παγώσετε» την πίστωσή σας στα { $equifaxLink }, { $experianLink } και { $transUnionLink }, ώστε να εμποδίσετε τους απατεώνες από το να ανοίξουν νέους λογαριασμούς στο όνομά σας. Είναι δωρεάν και δεν θα επηρεάσει την πιστωτική σας ικανότητα.
 
 ## Prompts the user for changes when there is a breach detected of credit card
 
@@ -100,6 +109,7 @@ breach-checklist-cc-body = Θα πρέπει επίσης να ελέγξετε 
 ## Prompts the user for changes when there is a breach detected of bank account
 
 breach-checklist-bank-header = Ειδοποιήστε αμέσως την τράπεζά σας ότι ο αριθμός λογαριασμού σας έχει παραβιαστεί.
+breach-checklist-bank-body = Ενεργώντας ταχύτερα, θα έχετε πιθανώς περισσότερη νομική προστασία, που θα σας βοηθήσει να ανακτήσετε τυχόν απώλειες. Καλό θα ήταν να ελέγξετε και τους λογαριασμούς σας για τυχόν χρεώσεις που δεν αναγνωρίζετε.
 
 ## Prompts the user for changes when there is a breach detected of pin
 
