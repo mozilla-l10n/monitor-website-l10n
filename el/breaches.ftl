@@ -74,6 +74,10 @@ breach-checklist-link-mozilla-vpn = { -brand-mozilla-vpn }
 ## Prompts the user for changes when there is a breach detected of password
 
 breach-checklist-pw-header-text = Ενημερώστε τους κωδικούς πρόσβασής σας και ενεργοποιήστε την ταυτοποίηση δύο παραγόντων (2FA).
+# The `breached-company-link` tags will be replaced with link tags or stripped if no link is available.
+# Variables:
+#   $passwordManagerLink (string) - a link to the password manager documentation, with { -breach-checklist-link-password-manager } as the label
+breach-checklist-pw-body-text = Στις περισσότερες περιπτώσεις, θα συνιστούσαμε να αλλάξετε τον κωδικό πρόσβασής σας στον ιστότοπο της εταιρείας. Ωστόσο, <b>ο ιστότοπός της ενδέχεται να είναι εκτός λειτουργίας ή να περιέχει κακόβουλο περιεχόμενο</b>, επομένως <breached-company-link>επισκεφτείτε τον ιστότοπο</breached-company-link> με προσοχή. Για πρόσθετη προστασία, βεβαιωθείτε ότι χρησιμοποιείτε μοναδικούς κωδικούς πρόσβασης για όλους τους λογαριασμούς, έτσι ώστε τυχόν κωδικοί πρόσβασης που διέρρευσαν να μην μπορούν να χρησιμοποιηθούν για πρόσβαση σε άλλους λογαριασμούς. Το { $passwordManagerLink } μπορεί να σας βοηθήσει να παρακολουθείτε με ασφάλεια όλους τους κωδικούς πρόσβασής σας.
 
 ## Prompts the user for changes when there is a breach detected of email
 
@@ -128,6 +132,8 @@ breach-checklist-phone-header-2 = Προστατέψτε τον αριθμό τ�
 ## Prompts the user for changes when there is a breach detected of security questions
 
 breach-checklist-sq-header-text = Ενημερώστε τις ερωτήσεις ασφαλείας σας.
+# The `breached-company-link` tags will be replaced with link tags or stripped if no link is available.
+breach-checklist-sq-body-text = Στις περισσότερες περιπτώσεις, θα συνιστούσαμε να ενημερώσετε τις ερωτήσεις ασφαλείας σας στον ιστότοπο της εταιρείας. Ωστόσο, <b>ο ιστότοπός της ενδέχεται να είναι εκτός λειτουργίας ή να περιέχει κακόβουλο περιεχόμενο</b>, επομένως <breached-company-link>επισκεφτείτε τον ιστότοπο</breached-company-link> με προσοχή. Για πρόσθετη προστασία, ενημερώστε αυτές τις ερωτήσεις ασφαλείας στους σημαντικούς λογαριασμούς όπου τις έχετε χρησιμοποιήσει και δημιουργήστε μοναδικούς κωδικούς πρόσβασης για όλους τους λογαριασμούς.
 
 ## Prompts the user for changes when there is a breach detected of historical password
 
