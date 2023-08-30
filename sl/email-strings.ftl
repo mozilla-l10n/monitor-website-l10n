@@ -87,7 +87,7 @@ email-2022-hibp-attribution = Podatke o krajah zagotavlja <a { $hibp-link-attr }
 ##   $email-address (string) - Email address
 
 email-unresolved-heading = Imate nerazrešene kraje podatkov
-email-unresolved-subhead = Vaš e-poštni naslov je bil razkrit. <br>Popravite težavo takoj s { -product-name }.
+email-unresolved-subhead = Vaš e-poštni naslov je bil razkrit. <br>Odpravite težavo takoj s { -product-name }.
 email-is-affected = Vaš e-poštni naslov { $email-address } je odkrit v vsaj eni kraji podatkov
 email-more-detail = Prijavite se v { -product-name }, če si želite ogledati več podrobnosti o svojih krajah (vključno s tem, kdaj je do njih prišlo in kateri podatki so bili izpostavljeni), ter izvedeti, kaj morate storiti, če je vaša e-pošta izpostavljena v kraji podatkov.
 email-breach-status = Trenutno stanje kraje
