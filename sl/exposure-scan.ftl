@@ -25,6 +25,6 @@ exposure-landing-result-overflow-footer-cta-label = Prijavite se za ogled vseh
 exposure-landing-result-some-hero-lead = Prijavite se za jasna navodila za razrešitev teh kraj, ogled vseh kraj in stalno spremljanje novih znanih kraj.
 exposure-landing-result-some-hero-cta-label = Prijavite se in razrešite kraje
 exposure-landing-result-some-footer-cta-label = Prijavite se in razrešite kraje
-exposure-landing-result-none-hero-lead = Dobra novica! Najdenih ni bilo nobenih znanih kršitev. Ostanite varni in se prijavite na opozorila o novih krajah. To e-poštno sporočilo bomo še naprej spremljali in vas obvestili, če se pojavi v novi kraji podatkov.
+exposure-landing-result-none-hero-lead = Dobra novica! Najdena ni bila nobena znana kraja. Ostanite varni in se prijavite na opozorila o novih krajah. Ta e-poštni naslov bomo še naprej spremljali in vas obvestili, če se pojavi v novi kraji podatkov.
 exposure-landing-result-none-hero-cta-label = Prejemajte opozorila o novih krajah podatkov
 exposure-landing-result-none-footer-cta-label = Prijavite se na opozorila
