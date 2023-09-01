@@ -36,12 +36,12 @@ settings-email-number-of-breaches-info = 出现在 { $breachCount } 次已知的
 ## Cancel Premium subscription
 
 settings-cancel-premium-subscription-title = 取消 { -brand-premium } 订阅
-settings-cancel-premium-subscription-info = 当前结算周期结束后，您的订阅将恢复为免费帐户。您的隐私保护扫描结果将被永久删除，您将只有 1 个电子邮件地址受到数据泄露监控。
+settings-cancel-premium-subscription-info = 当前结算周期结束后，您的订阅将恢复为免费账户。您的隐私保护扫描结果将被永久删除，并将只能监控 1 个电子邮件地址。
 settings-cancel-premium-subscription-link-label = 取消 { -brand-fx-account } 的订阅
 
 ## Deactivate account
 
-settings-deactivate-account-title = 禁用帐户
+settings-deactivate-account-title = 禁用账户
 settings-deactivate-account-info = 您可以通过删除您的 { -brand-fx-account } 来停用 { -product-short-name }。
 settings-fxa-link-label = 转到 { -brand-firefox } 设置
 
