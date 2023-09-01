@@ -69,7 +69,7 @@ breach-checklist-link-mozilla-vpn = { -brand-mozilla-vpn }
 
 ## Prompts the user for changes when there is a breach detected of password
 
-breach-checklist-pw-header-text = 更新您的密码并启用双因素身份验证 (2FA)。
+breach-checklist-pw-header-text = 更新您的密码并启用双因子身份验证（2FA）。
 # The `breached-company-link` tags will be replaced with link tags or stripped if no link is available.
 # Variables:
 #   $passwordManagerLink (string) - a link to the password manager documentation, with { -breach-checklist-link-password-manager } as the label
