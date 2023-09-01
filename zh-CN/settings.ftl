@@ -22,7 +22,7 @@ settings-email-label-primary = { $email } （主邮箱）
 settings-email-list-title = 受监控的电子邮件地址
 # Variables:
 #   $limit (number) - Number of email addresses included in the plan
-settings-email-limit-info = 您的帐户最多可对 { $limit } 个邮箱进行监控。
+settings-email-limit-info = 您的账户最多可对 { $limit } 个邮箱进行监控。
 settings-email-verification-callout = 需要电子邮件验证
 settings-resend-email-verification-link = 重发验证邮件
 settings-add-email-button = 添加邮箱地址
