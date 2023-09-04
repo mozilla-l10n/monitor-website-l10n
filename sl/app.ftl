@@ -349,7 +349,7 @@ facebook-breach-what-to-do-1-copy = Med tem razkritjem so se hekerji dokopali do
 # Please do not modify or remove "<a>", "</a>", "<span>" and "</span>".
 facebook-breach-what-to-do-2-headline = <span>Spremenite geslo, PIN ali druge prijavne podatke za svoje <a>račune pri mobilnem operaterju</a>, da preprečite zamenjavo SIM</span>.
 facebook-breach-what-to-do-2-copy = Pri zamenjavi SIM, imenovani tudi SIM-jacking, heker s telefonskimi številkami, datumom rojstva in drugimi podatki prevzame mobilno številko osebe in nato vdre v njeno e-pošto, družbena omrežja in celo finančne račune.
-facebook-breach-what-to-do-3 = Oglejte si vsa priporočila na naši Facebook strani
+facebook-breach-what-to-do-3 = Oglejte si vsa priporočila na naši strani o razkritju podatkov na Facebooku
 # "Appears in-page as: Showing: All Breaches"
 currently-showing = Prikazano:
 
@@ -705,7 +705,7 @@ ad-unit-2-do-you-worry = Vas skrbi varnost na javnih omrežjih Wi-Fi?
 ad-unit-3-stay-in-the-game = Ostanite v igri!
 ad-unit-3-lets-you-keep = { -brand-mozilla-vpn } vam ponuja varno in stabilno povezavo med igranjem iger ali pretakanjem filmov.
 # ad 3 list item 1
-ad-unit-3-prevent-throttling = Prepreči dušenje
+ad-unit-3-prevent-throttling = Prepreči omejevanje
 # ad 3 list item 2
 ad-unit-3-be-anywhere = Bodite kjerkoli na svetu
 # ad 3 list item 3
