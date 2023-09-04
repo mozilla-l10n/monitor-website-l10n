@@ -340,7 +340,7 @@ no-other-breaches-found = V osnovnem iskanju ni bilo drugih kraj podatkov
 no-results-blurb = Te kraje ni v naši bazi podatkov.
 # This string contains nested markup that is later used to style and link the text inside of it.
 # Please do not modify or remove "<a>", "</a>", "<span>" and "</span>".
-facebook-breach-note = <span>Vaš e-poštni naslov ni prikazan v tem razkritju, vendar je vaša telefonska številka morda še vedno ranljiva.</span> Nekateri računi, ki so bili ogroženi v razkritju podatkov na Facebooku, so vključevali telefonske številke in druge osebne podatke, ne pa tudi e-poštnih naslovov. Če ste se kdaj prijavili za Facebook račun – tudi če ga še ne uporabljate – vam priporočamo, da se zaščitite s temi koraki
+facebook-breach-note = <span>Vaš e-poštni naslov ni prikazan v tem razkritju, vendar je vaša telefonska številka morda še vedno ranljiva.</span> Nekateri računi, ki so bili ogroženi v razkritju podatkov na Facebooku, so vključevali telefonske številke in druge osebne podatke, ne pa tudi e-poštnih naslovov. Če ste kdaj ustvarili račun za Facebook – tudi če ga trenutno ne uporabljate – vam priporočamo, da se zaščitite z naslednjimi koraki
 # This string contains nested markup that is later used to style and link the text inside of it.
 # Please do not modify or remove "<a>", "</a>", "<span>" and "</span>".
 facebook-breach-what-to-do-1-headline = <span>V <a>svojem profilu na Facebooku</a> nastavite svoje podatke na "Samo jaz" ali drugo nejavno nastavitev.</span>
