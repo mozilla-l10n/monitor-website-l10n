@@ -713,7 +713,7 @@ ad-unit-3-access-more = Več dostopa
 # ad 4 heading
 ad-unit-4-shopping-with = Nakupovanje z e-poštnimi maskami
 ad-unit-4-want-to-buy = Želite nekaj kupiti na spletu, vendar ne poznate ali popolnoma zaupate trgovini?
-ad-unit-4-shop-online = Pri spletnem nakupovanju uporabite masko za e-pošto. Prejmite potrditveno sporočilo na pravi e-poštni naslov in masko izklopite kadarkoli pozneje.
+ad-unit-4-shop-online = Pri spletnem nakupovanju uporabite masko za e-pošto. Prejmite potrditveno sporočilo na pravi e-poštni naslov in izključite masko kadarkoli pozneje.
 # ad 5 heading
 ad-unit-5-on-the-go = Na poti s { -brand-relay }
 ad-unit-5-instantly-make = V trenutku si ustvarite e-poštno masko po meri, kjerkoli ste in kamorkoli greste!
