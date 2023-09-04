@@ -166,7 +166,7 @@ sensitive-sites-copy =
     dostop do vašega e-poštnega računa).
 delayed-reporting-headline = Zakaj je trajalo toliko časa, da je bila kraja podatkov prijavljena?
 delayed-reporting-copy =
-    Včasih traja mesece ali leta, da pride do izpostavitve poverilnic 
+    Včasih traja mesece ali leta, da pride do izpostavitve prijavnih podatkov 
     v primeru kraje podatkov. Kraje podatkov se dodajo v našo bazo 
     takoj ko so odkrite in preverjene.
 about-fxm-headline = O { -product-name }ju
@@ -347,7 +347,7 @@ facebook-breach-what-to-do-1-headline = <span>V <a>svojem profilu na Facebooku</
 facebook-breach-what-to-do-1-copy = Med tem razkritjem so se hekerji dokopali do podatkov profila, ki je bil nastavljen kot "odprt za javnost" ali "deljen s prijatelji". Te podatke je mogoče združiti z drugimi podatki za dostop do še več vaših osebnih podatkov in računov.
 # This string contains nested markup that is later used to style and link the text inside of it.
 # Please do not modify or remove "<a>", "</a>", "<span>" and "</span>".
-facebook-breach-what-to-do-2-headline = <span>Spremenite geslo, PIN ali druge varnostne podatke za svoje <a>račune pri operaterju</a>, da preprečite zamenjavo SIM</span>.
+facebook-breach-what-to-do-2-headline = <span>Spremenite geslo, PIN ali druge prijavne podatke za svoje <a>račune pri mobilnem operaterju</a>, da preprečite zamenjavo SIM</span>.
 facebook-breach-what-to-do-2-copy = Pri zamenjavi SIM, imenovani tudi SIM-jacking, heker s telefonskimi številkami, datumom rojstva in drugimi podatki prevzame mobilno številko osebe in nato vdre v njeno e-pošto, družbena omrežja in celo finančne račune.
 facebook-breach-what-to-do-3 = Oglejte si vsa priporočila na naši Facebook strani
 # "Appears in-page as: Showing: All Breaches"
