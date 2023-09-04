@@ -728,8 +728,8 @@ ad-unit-5-use-on-phone = Uporabite v telefonu
 ad-unit-5-no-matter-where = Ne glede na to, kje ste, si v nekaj sekundah ustvarite e-poštno masko po meri za kar koli želite
 # ad 6 heading
 ad-unit-6-worry-free = Brezskrbna registracija
-ad-unit-6-want-to-start = Želite skleniti novo naročnino, se odzvati na povabilo ali prejeti ugodno promocijsko kodo, ne da bi vaš e-poštni predal preplavili vsiljeno pošto?
-ad-unit-6-before-you-complete = Preden dokončate naslednjo prijavo, uporabite e-poštno masko namesto prave, da zaščitite svoje podatke in obdržite nadzor nad mapo »Prejeto«
+ad-unit-6-want-to-start = Želite skleniti novo naročnino, se odzvati na povabilo ali prejeti ugodno promocijsko kodo, ne da bi vaš e-poštni predal preplavila vsiljena pošta?
+ad-unit-6-before-you-complete = Preden dokončate naslednjo prijavo, uporabite e-poštno masko namesto pravega e-poštnega naslova, da zaščitite svoje podatke in obdržite nadzor nad mapo Prejeto
 
 # Monitor V2
 
@@ -838,7 +838,7 @@ exposed-data = Izpostavljeni podatki:
 ## Public breach detail page
 
 find-out-if-2 = Ugotovite, ali ste bili vpleteni v to krajo
-find-out-if-description = Pomagali vam bomo hitro ugotoviti, ali je bil vaš e-poštni naslov izpostavljen v tej kraji, in razumeli, kaj morate storiti naprej.
+find-out-if-description = Pomagali vam bomo hitro ugotoviti, ali je bil vaš e-poštni naslov izpostavljen v tej kraji, in razumeti, kaj morate storiti.
 breach-detail-cta-signup = Preverite kraje podatkov
 
 ## Floating banner
