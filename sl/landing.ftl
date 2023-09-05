@@ -8,11 +8,11 @@ get-started = Začnite
 ## Why use Firefox Monitor?
 
 why-use-monitor = Zakaj uporabljati { -brand-fx-monitor }?
-identifying-breaches = Prepoznavanje in reševanje kraj podatkov je pomemben korak pri zagotavljanju vaše spletne zasebnosti.
+identifying-breaches = Prepoznavanje in razreševanje kraj podatkov je pomemben korak pri zagotavljanju vaše spletne zasebnosti.
 protect-account = Zaščitite svoje račune
 protect-account-prevent-hackers = Preprečite hekerjem, da bi uporabili razkrita gesla in vdrli v vaše račune.
 prevent-fraud = Preprečite goljufije in kibernetski kriminal
-prevent-fraud-keep-info = Hranite svoje podatke stran od hekerjev, ki se želijo lažno predstavljati in zagrešiti kazniva dejanja.
+prevent-fraud-keep-info = Skrijte svoje podatke pred hekerji, ki se želijo lažno predstavljati in zagrešiti kazniva dejanja.
 get-alerts = Prejemajte opozorila za nove kraje podatkov
 get-alerts-find-out = Izvedite, kdaj bodo vaši osebni podatki ogroženi v novi znani kraji.
 
