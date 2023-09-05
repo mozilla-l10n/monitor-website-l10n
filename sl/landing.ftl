@@ -13,8 +13,8 @@ protect-account = Zaščitite svoje račune
 protect-account-prevent-hackers = Preprečite hekerjem, da bi uporabili razkrita gesla in vdrli v vaše račune.
 prevent-fraud = Preprečite goljufije in kibernetski kriminal
 prevent-fraud-keep-info = Skrijte svoje podatke pred hekerji, ki se želijo lažno predstavljati in zagrešiti kazniva dejanja.
-get-alerts = Prejemajte opozorila za nove kraje podatkov
-get-alerts-find-out = Izvedite, kdaj bodo vaši osebni podatki ogroženi v novi znani kraji.
+get-alerts = Bodite obveščeni o novih krajah
+get-alerts-find-out = Izvedite, kdaj so vaši osebni podatki udeleženi v novi znani kraji.
 
 ## Here’s how it works
 
@@ -22,8 +22,8 @@ how-it-works = Takole deluje
 check-for-breaches = Preverite kraje podatkov
 check-for-breaches-we-search = Preiskali bomo vse znane kraje podatkov od leta 2007, da ugotovimo, ali so bili vaši podatki ogroženi.
 protect-accounts = Zaščitite svoje račune
-protect-accounts-clear-steps = Dali vam bomo jasne korake za nadaljnje ukrepanje v primeru kraje podatkov, v katero ste bili vpleteni.
-alerts-for-breaches = Prejemajte opozorila za nove kraje podatkov
+protect-accounts-clear-steps = Dali vam bomo jasne napotke za nadaljnje ukrepanje v primeru kraje podatkov, v kateri ste bili udeleženi.
+alerts-for-breaches = Bodite obveščeni o novih krajah
 alerts-for-breaches-monitor-new = Nenehno bomo spremljali morebitne nove kraje podatkov in vas obvestili, če so bile prizadete.
 
 ## Your privacy is safe with us
@@ -38,16 +38,16 @@ learn-more-mission = Spoznajte naše poslanstvo
 top-questions-about-monitor = Pogosta vprašanja o { -brand-fx-monitor }ju
 see-all-faq = Oglejte si vsa pogosta vprašanja
 # question and answer
-what-is-breach = Kaj pravzaprav je varnost podatkov?
+what-is-breach = Kaj pravzaprav je kraja podatkov?
 when-info-exposed = Do kraje podatkov pride, ko so osebni ali zasebni podatki izpostavljeni, ukradeni ali nedovoljeno kopirani. Ti varnostni incidenti so lahko posledica kibernetskih napadov na spletna mesta, aplikacije ali katero koli zbirko podatkov, v kateri so shranjeni osebni podatki ljudi. Do kraje podatkov lahko pride tudi po naključju, na primer, če so poverilnice za prijavo pomotoma javno objavljene.
 # question and answer
-what-do-i-do = Pravkar sem izvedel, da sem v kraji podatkov. Kaj naj naredim?
+what-do-i-do = Pravkar sem izvedel, da sem udeležen v kraji podatkov. Kaj naj naredim?
 visit-monitor-to-learn = Obiščite { -brand-fx-monitor } in preberite, kaj storiti po kraji podatkov. Hekerji se zanašajo na ponovno uporabo gesel, zato je pomembno, da ustvarite močna in edinstvena gesla za vse svoje račune. Gesla hranite na varnem mestu, do katerega imate dostop samo vi; to je lahko isto mesto, kjer shranjujete pomembne dokumente ali upravitelja gesel.
 # question and answer
-what-gets-exposed = Kateri podatki so izpostavljeni pri krajah podatkov?
+what-gets-exposed = Kateri podatki so izpostavljeni v krajah podatkov?
 depends-on-hackers = Vse kršitve ne razkrijejo istih podatkov. Odvisno od tega, do česa lahko hekerji dostopajo. Številne kraje podatkov razkrijejo e-poštne naslove in gesla. Drugi razkrijejo občutljivejše podatke, kot so številke kreditnih kartic, številke potnih listov in številke socialnega zavarovanja.
 
 ## See if you’ve been in a data breach
 
-see-if-data-breach = Preverite, ali ste bili deležni kraje podatkov
-hibp-footer-attribution = Podatke o varnostnih zlorabah posredoval <b>{ -brand-HIBP }</b>
+see-if-data-breach = Preverite, ali ste bili vpleteni v krajo podatkov
+hibp-footer-attribution = Podatke o krajah podatkov zagotavlja <b>{ -brand-HIBP }</b>
