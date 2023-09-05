@@ -22,9 +22,9 @@ how-it-works = Así es como funciona
 check-for-breaches = Verificá si hay filtraciones
 check-for-breaches-we-search = Buscaremos todas las filtraciones de datos conocidas desde 2007 para ver si tu información se vio comprometida.
 protect-accounts = Protegé tus cuentas
-protect-accounts-clear-steps = Te daremos pasos claros sobre qué hacer a continuación para cualquier violación de datos en la que te veas involucrado.
+protect-accounts-clear-steps = Te daremos pasos claros sobre qué hacer a continuación para cualquier filtración de datos en la que te veas involucrado.
 alerts-for-breaches = Recibir alertas de nuevas filtraciones
-alerts-for-breaches-monitor-new = Controlaremos continuamente nuevas violaciones de datos y te informaremos si te afectaron.
+alerts-for-breaches-monitor-new = Controlaremos continuamente nuevas filtraciones de datos y te informaremos si te afectaron.
 
 ## Your privacy is safe with us
 
