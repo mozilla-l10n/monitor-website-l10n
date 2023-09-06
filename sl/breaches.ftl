@@ -79,7 +79,7 @@ breach-checklist-pw-header-text = Posodobite gesla in omogočite dvofaktorsko ov
 # The `breached-company-link` tags will be replaced with link tags or stripped if no link is available.
 # Variables:
 #   $passwordManagerLink (string) - a link to the password manager documentation, with { -breach-checklist-link-password-manager } as the label
-breach-checklist-pw-body-text = V večini primerov vam priporočamo, da spremenite geslo na spletni strani podjetja. Toda <b>njihova spletna stran morda ne deluje ali pa vsebuje zlonamerno vsebino</b>, zato bodite previdni, če <breached-company-link>jo obiščete</breached-company-link>. Za še večjo zaščito poskrbite, da za vsak račun uporabljate edinstveno geslo, da razkritih gesel ne bo mogoče uporabiti za dostop do drugih računov. { $passwordManagerLink } vam lahko pomaga pri varnem spremljanju vseh vaših gesel.
+breach-checklist-pw-body-text = V večini primerov vam priporočamo, da spremenite geslo na spletni strani podjetja. Toda <b>njihova spletna stran morda ne deluje ali pa vsebuje zlonamerno vsebino</b>, zato bodite previdni, če <breached-company-link>jo obiščete</breached-company-link>. Za dodatno zaščito poskrbite, da za vsak račun uporabljate edinstveno geslo, da razkritih gesel ne bo mogoče uporabiti za dostop do drugih računov. { $passwordManagerLink } vam lahko pomaga pri varnem spremljanju vseh vaših gesel.
 
 ## Prompts the user for changes when there is a breach detected of email
 
@@ -145,14 +145,14 @@ breach-checklist-phone-header-2 = Zaščitite svojo telefonsko številko s stori
 
 breach-checklist-sq-header-text = Posodobite varnostna vprašanja.
 # The `breached-company-link` tags will be replaced with link tags or stripped if no link is available.
-breach-checklist-sq-body-text = V večini primerov vam priporočamo, da posodobite varnostna vprašanja na spletni strani podjetja. Toda <b>njihova spletna stran morda ne deluje ali pa vsebuje zlonamerno vsebino</b>, zato bodite previdni, če <breached-company-link>jo obiščete</breached-company-link>. Za dodatno zaščito posodobite ta varnostna vprašanja za vse pomembne račune, kjer ste jih uporabljali, in ustvarite edinstvena gesla za vse račune.
+breach-checklist-sq-body-text = V večini primerov vam priporočamo, da posodobite varnostna vprašanja na spletni strani podjetja. Toda <b>njihova spletna stran morda ne deluje ali pa vsebuje zlonamerno vsebino</b>, zato bodite previdni, če <breached-company-link>jo obiščete</breached-company-link>. Za dodatno zaščito posodobite naslednja varnostna vprašanja na vseh pomembnih računih, kjer ste jih uporabljali, in ustvarite edinstvena gesla za vse račune.
 
 ## Prompts the user for changes when there is a breach detected of historical password
 
-breach-checklist-hp-header = Ustvarite edinstvena, močna gesla za vse račune, v katerih ste gesla uporabili večkrat.
+breach-checklist-hp-header = Ustvarite edinstveno, močno geslo za vsak račun. v katerem ste uporabljali enako geslo.
 # Variables:
 #   $passwordManagerLink (string) - a link to the password manager documentation, with { -breach-checklist-link-password-manager } as the label
-breach-checklist-hp-body-2 = Upravitelj gesel, kot je { $passwordManagerLink } (ki je brezplačen in vgrajen v brskalnik { -brand-firefox }), vam lahko pomaga slediti vsem svojim geslom in do njih varno dostopati iz vseh vaših naprav.
+breach-checklist-hp-body-2 = Upravitelj gesel, kot je { $passwordManagerLink } (ki je brezplačen in vgrajen v brskalnik { -brand-firefox }), vam lahko pomaga slediti vsem vašim geslom in do njih varno dostopati iz vseh vaših naprav.
 
 ## Prompts the user for changes when there is a breach detected of other types
 
