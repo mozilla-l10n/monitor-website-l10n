@@ -106,7 +106,7 @@ breach-checklist-ssn-body-2 = Razmislite lahko tudi o zamrznitvi svojega dobroim
 ## Prompts the user for changes when there is a breach detected of credit card
 
 breach-checklist-cc-header = Prijavite to kršitev izdajatelju svoje kreditne kartice in zahtevajte novo kartico z novo številko.
-breach-checklist-cc-body = Preverite tudi izpiske svoje kreditne kartice za morebitne neprepoznane bremenitve.
+breach-checklist-cc-body = Preverite tudi, ali so na izpiskih vaših kreditnih kartic morebitne neprepoznane bremenitve.
 
 ## Prompts the user for changes when there is a breach detected of bank account
 
