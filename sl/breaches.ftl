@@ -79,7 +79,7 @@ breach-checklist-pw-header-text = Posodobite gesla in omogočite dvofaktorsko ov
 # The `breached-company-link` tags will be replaced with link tags or stripped if no link is available.
 # Variables:
 #   $passwordManagerLink (string) - a link to the password manager documentation, with { -breach-checklist-link-password-manager } as the label
-breach-checklist-pw-body-text = V večini primerov vam priporočamo, da spremenite geslo na spletni strani podjetja. Toda <b>njihova spletna stran morda ne deluje ali pa vsebuje zlonamerno vsebino</b>, zato bodite previdni, če <breached-company-link>jo obiščete</breached-company-link>. Za dodatno zaščito poskrbite, da za vse račune uporabljate edinstvena gesla, da razkritih gesel ne bo mogoče uporabiti za dostop do drugih računov. { $passwordManagerLink } vam lahko pomaga pri varnem spremljanju vseh vaših gesel.
+breach-checklist-pw-body-text = V večini primerov vam priporočamo, da spremenite geslo na spletni strani podjetja. Toda <b>njihova spletna stran morda ne deluje ali pa vsebuje zlonamerno vsebino</b>, zato bodite previdni, če <breached-company-link>jo obiščete</breached-company-link>. Za še večjo zaščito poskrbite, da za vsak račun uporabljate edinstveno geslo, da razkritih gesel ne bo mogoče uporabiti za dostop do drugih računov. { $passwordManagerLink } vam lahko pomaga pri varnem spremljanju vseh vaših gesel.
 
 ## Prompts the user for changes when there is a breach detected of email
 
