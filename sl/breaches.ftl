@@ -53,13 +53,13 @@ breaches-none-headline = Ni najdenih kraj
 # Variables:
 #   $email (String) - An email address that we did not find breaches for, e.g. `someone@example.com`
 breaches-none-copy = Dobra novica! Za { $email } niso bile prijavljene znane kraje. Ta e-poštni naslov bomo še naprej spremljali in vas obvestili, če bo prišlo do novih kraj.
-breaches-none-cta-blurb = Ali želite spremljati drugo pošto?
+breaches-none-cta-blurb = Ali želite spremljati drug e-poštni naslov?
 breaches-none-cta-button = Dodaj e-poštni naslov
 breaches-all-resolved-headline = Vse kraje razrešene
 # Variables:
 #   $email (String) - An email address for which all breaches have been resolved, e.g. `someone@example.com`
-breaches-all-resolved-copy = Bravo! Razrešili ste vse kraje podatkov za { $email }. To e-pošto bomo še naprej spremljali in vas obvestili, če bo prišlo do novih kraj.
-breaches-all-resolved-cta-blurb = Ali želite spremljati drugo pošto?
+breaches-all-resolved-copy = Bravo! Razrešili ste vse kraje podatkov za { $email }. Še naprej bomo spremljali ta e-poštni naslov in vas obvestili, če bo prišlo do novih kraj.
+breaches-all-resolved-cta-blurb = Ali želite spremljati drug e-poštni naslov?
 breaches-all-resolved-cta-button = Dodaj e-poštni naslov
 # $breachDate and $addedDate are dates that should be localized via JS DateTimeFormat(). $dataClasses is a list of strings from data-classes.ftl that should be localized via JS ListFormat()
 # Variables:
