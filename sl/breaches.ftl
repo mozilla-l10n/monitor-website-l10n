@@ -65,7 +65,7 @@ breaches-all-resolved-cta-button = Dodaj e-poštni naslov
 # Variables:
 #   $breachDate (String) - Date of the breach
 #   $companyName (String) - Name of the company where the breach occurred
-breach-description = Dne { $breachDate } je prišlo do kršitve podjetja { $companyName }. Ko je bila kraja odkrita in potrjena, je bila { $addedDate } dodana v našo zbirko podatkov. Ta kraja je vključevala: { $dataClasses }
+breach-description = Dne { $breachDate } je prišlo do kraje podatkov podjetja { $companyName }. Potem ko je bila kraja odkrita in potrjena, je bila dne { $addedDate } dodana v našo zbirko podatkov. Kraja je obsegala naslednje vrste podatkov: { $dataClasses }
 
 ## Links that we might refer to when prompting the user to make changes after a breach
 
