@@ -26,13 +26,13 @@ breach-heading-email = Kraje podatkov za { $email-select }
 # $count is the number of emails a user has added out of $total allowed
 emails-monitored =
     { $total ->
-        [one] { $count } od { $total } nadzorovane e-pošte
-        [two] { $count } od { $total } nadzorovanih e-poštnih sporočil
-        [few] { $count } od { $total } nadzorovanih e-poštnih sporočil
-       *[other] { $count } od { $total } nadzorovanih e-poštnih sporočil
+        [one] { $count } od { $total } nadzorovanih e-poštnih naslovov
+        [two] { $count } od { $total } nadzorovanih e-poštnih naslovov
+        [few] { $count } od { $total } nadzorovanih e-poštnih naslovov
+       *[other] { $count } od { $total } nadzorovanih e-poštnih naslovov
     }
 # link to Settings page where user can add/remove emails and set message preferences
-manage-emails-link = Urejanje e-poštnih sporočil
+manage-emails-link = Urejanje e-poštnih naslovov
 
 ## Breaches resolved filter
 
@@ -42,17 +42,17 @@ filter-label-resolved = Razrešene kraje
 ## Breaches table
 
 column-company = PODJETJE
-column-breached-data = KRŠITEV PODATKOV
+column-breached-data = UKRADENI PODATKI
 column-detected = ZAZNANO
 # “Resolved” is shown next to a breach if all recommended actions in response to the breach have been taken.
 column-status-badge-resolved = Razrešeno
 # “Active” is shown next to a breach if the user still has at least one recommended action to perform in response to the breach.
 column-status-badge-active = Aktivno
 breaches-resolve-heading = Razrešite to krajo:
-breaches-none-headline = Ni najdenih kršitev
+breaches-none-headline = Ni najdenih kraj
 # Variables:
 #   $email (String) - An email address that we did not find breaches for, e.g. `someone@example.com`
-breaches-none-copy = Dobra novica! Za { $email } niso bile prijavljene znane kraje. To e-pošto bomo še naprej spremljali in vas obvestili, če bo prišlo do novih kraj.
+breaches-none-copy = Dobra novica! Za { $email } niso bile prijavljene znane kraje. Ta e-poštni naslov bomo še naprej spremljali in vas obvestili, če bo prišlo do novih kraj.
 breaches-none-cta-blurb = Ali želite spremljati drugo pošto?
 breaches-none-cta-button = Dodaj e-poštni naslov
 breaches-all-resolved-headline = Vse kraje razrešene
