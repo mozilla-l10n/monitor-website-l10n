@@ -24,7 +24,7 @@ rec-pw-3-non-fx =
     Uporabite { -brand-lockwise } za spremljanje vseh različnih 
     gesel in jih varno uporabljajte na telefonu ali tablici.
 # Recommendation subhead
-rec-pw-4-subhead = Nastavite dvofaktorsko overjanje (2FA)
+rec-pw-4-subhead = Nastavite dvostopenjsko overjanje (2FA)
 # Link title
 rec-pw-4-cta = Oglejte si strani, ki ponujajo 2FA
 rec-pw-4 =
