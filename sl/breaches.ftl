@@ -11,7 +11,7 @@ breach-all-meta-social-description = Prebrskajte po celotnem seznamu znanih kraj
 breach-detail-meta-title = { -brand-fx-monitor } – Kraja podatkov { $company }
 # Variables:
 #   $company (String) - Name of the company that was breached, e.g. "PHP Freaks"
-breach-detail-meta-social-title = Ste bili zaradi kraje podatkov podjetja { $company } prizadeti?
+breach-detail-meta-social-title = So bili vaši podatki udeleženi v kraji podatkov podjetja { $company }?
 breach-detail-meta-social-description = Z uporabo { -brand-fx-monitor(sklon: "rodilnik") } ugotovite, ali so bili vaši osebni podatki v tej kraji izpostavljeni, in ugotovite, kaj lahko storite naprej.
 breach-scan-meta-title = { -brand-fx-monitor } – Rezultati kršitev
 breach-scan-meta-social-title = { -brand-fx-monitor } Rezultati kršitev
