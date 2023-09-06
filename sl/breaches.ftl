@@ -85,14 +85,14 @@ breach-checklist-pw-body-text = V večini primerov vam priporočamo, da spremeni
 
 # Variables:
 #   $firefoxRelayLink (string) - a link to Firefox Relay, with { -breach-checklist-link-firefox-relay } as the label
-breach-checklist-email-header-2 = Zaščitite svojo e-pošto s storitvijo za prikrivanje e-pošte, kot je { $firefoxRelayLink }.
+breach-checklist-email-header-2 = Zaščitite svoj e-poštni naslov s storitvijo za prikrivanje e-poštnih naslovov { $firefoxRelayLink }.
 breach-checklist-email-body = To lahko skrije vaš pravi e-poštni naslov in posreduje e-pošto v pravi nabiralnik.
 
 ## Prompts the user for changes when there is a breach detected of social security number
 
 # Credit reports list your bill payment history, loans, current debt, and other financial information.
 # They show where you work and live and whether you've been sued, arrested, or filed for bankruptcy.
-breach-checklist-ssn-header = Poiščite svoje kreditno poročilo za račune, posojila ali kreditne kartice, ki jih ne prepoznate.
+breach-checklist-ssn-header = Poiščite svoje poročilo o dobroimetju za račune, posojila ali kreditne kartice, ki jih ne prepoznate.
 # A security freeze prevents prospective creditors from accessing your credit file.
 # Creditors typically won't offer you credit if they can't access your credit reporting file,
 # so a security freeze, also called a credit freeze, prevents you or others from opening accounts in your name.
@@ -101,7 +101,7 @@ breach-checklist-ssn-header = Poiščite svoje kreditno poročilo za račune, po
 #   $equifaxLink (string) - a link to the Equifax website
 #   $experianLink (string) - a link to the Experian website
 #   $transUnionLink (string) - a link to the TransUnion website
-breach-checklist-ssn-body-2 = Razmislite lahko tudi o zamrznitvi svojega dobroimetja na { $equifaxLink }, { $experianLink } in { $transUnionLink } ter preprečite, da bi prevaranti odpirali nove račune v vašem imenu. Je brezplačen in ne bo vplival na vašo bonitetno oceno.
+breach-checklist-ssn-body-2 = Razmislite lahko tudi o zamrznitvi svojega dobroimetja na { $equifaxLink }, { $experianLink } in { $transUnionLink } ter preprečite, da bi prevaranti odpirali nove račune v vašem imenu. Je brezplačno in ne bo vplivalo na vaše dobroimetje.
 
 ## Prompts the user for changes when there is a breach detected of credit card
 

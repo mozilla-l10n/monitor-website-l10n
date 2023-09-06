@@ -1,7 +1,7 @@
 # Recommendation subhead
-rec-ssn-subhead = Preglejte svoja kreditna poročila
+rec-ssn-subhead = Preglejte svoja poročila o dobroimetju
 # Link title
-rec-ssn-cta = Zahtevajte kreditna poročila
+rec-ssn-cta = Zahtevajte poročila o dobroimetju
 rec-ssn = Po zakonu letno prejmete tri brezplačna poročila o dobroimetju. Zahteve in pregledi poročil ne vplivajo na vaše dobroimetje. Poiščite račune, posojila ali kreditne kartice, ki jih ne prepoznate.
 # Recommendation subhead
 rec-pw-1-subhead = Spremenite svoje geslo
