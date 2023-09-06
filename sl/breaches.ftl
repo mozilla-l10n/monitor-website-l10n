@@ -152,11 +152,11 @@ breach-checklist-sq-body-text = V večini primerov vam priporočamo, da posodobi
 breach-checklist-hp-header = Ustvarite edinstveno, močno geslo za vsak račun. v katerem ste uporabljali enako geslo.
 # Variables:
 #   $passwordManagerLink (string) - a link to the password manager documentation, with { -breach-checklist-link-password-manager } as the label
-breach-checklist-hp-body-2 = Upravitelj gesel, kot je { $passwordManagerLink } (ki je brezplačen in vgrajen v brskalnik { -brand-firefox }), vam lahko pomaga slediti vsem vašim geslom in do njih varno dostopati iz vseh vaših naprav.
+breach-checklist-hp-body-2 = Upravitelj gesel, kot je { $passwordManagerLink } (ki je brezplačen in vgrajen v brskalnik { -brand-firefox }), vam lahko pomaga spremljati vsa vaša gesla in jih varno uporabljati na vseh vaših napravah.
 
 ## Prompts the user for changes when there is a breach detected of other types
 
 # Variables:
 #   $breachDate (String) - Date of the breach
 #   $companyName (String) - Name of the company where the breach occurred
-breach-checklist-general-header = Obrnite se na podjetje { $companyName }, ga obvestite o tej kraji in prosite za konkretne korake, ki jih lahko ukrepate.
+breach-checklist-general-header = Obrnite se na podjetje { $companyName }, ga obvestite o tej kraji in ga prosite za navodila, kako ukrepati.

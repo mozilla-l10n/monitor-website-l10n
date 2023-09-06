@@ -21,8 +21,8 @@ rec-pw-3-subhead = Uporabite upravitelja gesel in vzemite gesla s seboj
 rec-pw-3-cta = Prenesite { -brand-lockwise }
 rec-pw-3-fx = Uporabite { -brand-lockwise } za varen dostop do gesel, ki ste jih shranili v { -brand-name } od koder koli – tudi izven brskalnika.
 rec-pw-3-non-fx =
-    Uporabite { -brand-lockwise } za sledenje vseh različnih 
-    gesel in varno dostopajte do njih na telefonu ali tablici.
+    Uporabite { -brand-lockwise } za spremljanje vseh različnih 
+    gesel in jih varno uporabljajte na telefonu ali tablici.
 # Recommendation subhead
 rec-pw-4-subhead = Nastavite dvofaktorsko overjanje (2FA)
 # Link title
@@ -102,7 +102,7 @@ rec-gen-2-subhead = Gesla shranjujte na varno mesto
 rec-gen-2-cta = Zmote o upraviteljih gesel
 rec-gen-2 =
     Podatke za prijavo shranite na varno mesto, do katerega lahko dostopate le vi, npr. v
-    upravitelja gesel. Tako boste lahko tudi hitreje sledili vsem različnim geslom.
+    upravitelja gesel. Tako boste lahko tudi hitreje spremljati vsa svoja gesla.
 # Recommendation subhead
 rec-gen-3-subhead = Bodite previdni pri posredovanju osebnih podatkov
 # Link title
