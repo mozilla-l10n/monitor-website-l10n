@@ -12,9 +12,9 @@ breach-detail-meta-title = { -brand-fx-monitor } – Kraja podatkov { $company }
 # Variables:
 #   $company (String) - Name of the company that was breached, e.g. "PHP Freaks"
 breach-detail-meta-social-title = So bili vaši podatki udeleženi v kraji podatkov podjetja { $company }?
-breach-detail-meta-social-description = Z uporabo { -brand-fx-monitor(sklon: "rodilnik") } ugotovite, ali so bili vaši osebni podatki v tej kraji izpostavljeni, in ugotovite, kaj lahko storite naprej.
+breach-detail-meta-social-description = Z uporabo { -brand-fx-monitor(sklon: "rodilnik") } ugotovite, ali so bili vaši osebni podatki izpostavljeni v tej kraji, in se poučite o nadaljnjih korakih.
 breach-scan-meta-title = { -brand-fx-monitor } – Rezultati kršitev
-breach-scan-meta-social-title = { -brand-fx-monitor } Rezultati kršitev
+breach-scan-meta-social-title = { -brand-fx-monitor } – Rezultati kršitev
 breach-scan-meta-social-description = Prijavite se v { -brand-fx-monitor }, odpravljajte kraje podatkov in si zagotovite stalno spremljanje morebitnih novih znanih kraj.
 
 ## Breaches header
@@ -22,7 +22,7 @@ breach-scan-meta-social-description = Prijavite se v { -brand-fx-monitor }, odpr
 # Data classes pie chart title
 breach-chart-title = Kršitev podatkov
 # $email-select is an interactive <select> element displaying the current email address
-breach-heading-email = Kraji podatkov za { $email-select }
+breach-heading-email = Kraje podatkov za { $email-select }
 # $count is the number of emails a user has added out of $total allowed
 emails-monitored =
     { $total ->
