@@ -23,5 +23,6 @@ exposure-landing-result-overflow-footer-cta-label = Emoñepyrũjey tembiapo ehec
 exposure-landing-result-some-hero-lead = Emoñepyrũ tembiapo ereko hag̃ua jeku’erã mba’éichapa emyatyrõta ko’ã ñembyai, ehechapáta ñembyai ha erekóta ñema’ẽmeme oimeraẽ ñembyai pyahu rovake.
 exposure-landing-result-some-hero-cta-label = Emoñepyrũjey tembiapo oĩporãjey hag̃ua
 exposure-landing-result-some-footer-cta-label = Emoñepyrũjey tembiapo oĩporãjey hag̃ua
+exposure-landing-result-none-hero-lead = ¡Marandu porã! Ndojejuhúi ñembogua pyahu. Eñemohekorosã ñemboheraguapy rupi og̃uahẽ hag̃ua marandu ñembogua pyahúre. Roma’ẽta ko ñanduti vevére ha ro’éta oĩrõ ñembogua pyahu.
 exposure-landing-result-none-hero-cta-label = Emog̃uahẽuka mba’evai pyahu rehegua
 exposure-landing-result-none-footer-cta-label = Eñemboheraguapy og̃uahẽ hag̃ua ndéve kehyjerã
