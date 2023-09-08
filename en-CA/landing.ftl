@@ -3,12 +3,12 @@
 
 ## Hero
 
-find-out-if-breached = Find out if you’ve been in a data breach
 get-started = Get started
 
 ## Why use Firefox Monitor?
 
 why-use-monitor = Why use { -brand-fx-monitor }?
+identifying-breaches = Identifying and resolving data breaches is an important step in ensuring your online privacy.
 protect-account = Protect your accounts
 protect-account-prevent-hackers = Prevent hackers from getting into your accounts with breached passwords.
 prevent-fraud = Prevent fraud and cybercrimes
@@ -18,13 +18,18 @@ get-alerts-find-out = Find out whenever your personal information is compromised
 
 ## Here’s how it works
 
+how-it-works = Here’s how it works
 check-for-breaches = Check for breaches
+check-for-breaches-we-search = We’ll search all known data breaches since 2007 to see if your info was compromised.
 protect-accounts = Protect your accounts
+protect-accounts-clear-steps = We’ll give you clear steps on what to do next for any data breach you’ve been involved in.
 alerts-for-breaches = Get alerts for new breaches
+alerts-for-breaches-monitor-new = We’ll continually monitor for new data breaches and let you know if you’ve been affected.
 
 ## Your privacy is safe with us
 
 safe-with-us = Your privacy is safe with us
+parent-company = At { -brand-Mozilla }, the parent company of { -brand-firefox } and { -brand-fx-monitor }, we believe individuals’ security and privacy on the internet is fundamental and must not be treated as optional.
 learn-more-mission = Learn more about our mission
 
 ## Top questions about Firefox Monitor
