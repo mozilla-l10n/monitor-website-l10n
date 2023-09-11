@@ -123,7 +123,7 @@ breach-checklist-ip-body = Nde IP kundaharape (Ñanduti rapereko kundaharape) oh
 ## Prompts the user for changes when there is a breach detected of physical address
 
 breach-checklist-address-header = Emoambue oimeraẽva ñe’ẽñemi térã PIN orekóva nde kundaharape vore.
-breach-checklist-address-body = Kundaharape ndahasýi ijuhu teraguapy opavaveguápe ha ikatu ajapo ko’ã ñe’ẽñemi ha PINS hasy’ỹ hag̃ua ijepuru.
+breach-checklist-address-body = Kundaharape ndahasýi ijuhu teraguapy opavaveguápe ha ikatu ajapo ko’ã ñe’ẽñemi ha PINS hasy’ỹ hag̃ua ijeporu.
 
 ## Prompts the user for changes when there is a breach detected of date of birth
 
