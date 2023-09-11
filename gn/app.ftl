@@ -721,7 +721,7 @@ site-nav-breaches-link = Emoĩporã mba’ekuaarã ñembogua
 site-nav-settings-link = Ñemboheko
 site-nav-help-link = Ñepytvõ ha Pytyvõha
 # This call-out is above 2 image links for Firefox Relay and Mozilla VPN 
-site-nav-ad-callout = Eipuru ore ambue rembipuru tekorosãrã:
+site-nav-ad-callout = Eipuru ore ambue rembiporu tekorosãrã:
 brand-relay = { -brand-relay }
 brand-mozilla-vpn = { -brand-mozilla-vpn }
 
