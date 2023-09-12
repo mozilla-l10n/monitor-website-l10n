@@ -22,14 +22,14 @@ rec-pw-2 =
     Eiporujeývo ñe’ẽñemi ombohetakuaa mba’ekuaarã ñembyai. Kóva oikóvo 
     ñe’ẽñemi eiporukuaa, umi mba’evai apoha ikatu oiporu oike hag̃ua ambue mba’etépe.
 # Recommendation subhead
-rec-pw-3-subhead = Eipuru ñe’ẽñemi ñangarekoha eraha hag̃ua ne ñe’ẽñemi opa hendápe
+rec-pw-3-subhead = Eiporu ñe’ẽñemi ñangarekoha eraha hag̃ua ne ñe’ẽñemi opa hendápe
 # Link title
 rec-pw-3-cta = Ereko { -brand-lockwise }
 rec-pw-3-fx =
-    Eipuru { -brand-lockwise } eike hag̃ua tekorosãme ñe’ẽñemi eñongatuva’ekue
+    Eiporu { -brand-lockwise } eike hag̃ua tekorosãme ñe’ẽñemi eñongatuva’ekue
     { -brand-name }-pe oimeraẽva tenda guive, ikatu avei kundaháragui okápe.
 rec-pw-3-non-fx =
-    Eipuru { -brand-lockwise } ehapykueho hag̃ua opaite ne 
+    Eiporu { -brand-lockwise } ehapykueho hag̃ua opaite ne 
     ñe’ẽñemi ha eike tekorosãme ne pumbyry térã tableta rupive.
 # Recommendation subhead
 rec-pw-4-subhead = Emboheko pe ñemoneĩ mokõi factor rehegua (2FA)
@@ -50,14 +50,14 @@ rec-cc =
     Ema’ẽ tapiáke nde kuatia’atã ñemurã. Ikatu hína 
     ejerure kuatia’atã ñemurã pyahu ipapapy pyahúva me’ẽhárape.
 # Recommendation subhead
-rec-email-mask-subhead = Eipuru peteĩ ñanduti veve rovara’ãnga
-rec-email-cta = Eipuru { -brand-relay }
+rec-email-mask-subhead = Eiporu peteĩ ñanduti veve rovara’ãnga
+rec-email-cta = Eiporu { -brand-relay }
 rec-email =
     Eme’ẽvo ne ñanduti veve ha’etéva remoĩma umi mba’evaiapoha ha tapykuehoha
     ojuhúvo ne ñe’ẽñemi térã ndejuhúvo ñandutípe. Ko { -brand-relay } rembiapo
     ha’e omokañývo ne ñanduti veve emondojey aja ñandutiveve ne g̃uahẽhame.
 # Recommendation subhead
-rec-ip-subhead-2 = Eipuru VPN emoñemi hag̃ua nde IP kundaharape
+rec-ip-subhead-2 = Eiporu VPN emoñemi hag̃ua nde IP kundaharape
 # Recommendation subhead
 rec-moz-vpn-cta = Eñe’ẽ { -brand-mozilla-vpn }
 rec-moz-vpn-update-2 =
