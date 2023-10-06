@@ -122,10 +122,19 @@ breach-checklist-phone-header-2 = 실제 전화번호를 숨기는 { $firefoxRel
 ## Prompts the user for changes when there is a breach detected of security questions
 
 breach-checklist-sq-header-text = 보안 질문을 업데이트 하세요.
+# The `breached-company-link` tags will be replaced with link tags or stripped if no link is available.
+breach-checklist-sq-body-text = 대부분의 경우, 회사 웹사이트의 보안 질문을 업데이트하는 것을 추천 합니다. 하지만 <b>웹사이트가 다운되거나 악성 콘텐츠를 포함하고 있을 수 있으므로</b> <breached-company-link>사이트를 방문 를 방문</breached-company-link>할 경우 주의하시기 바랍니다. 추가 보호를 위해 보안 질문을 사용한 중요한 계정에서 이러한 보안 질문을 업데이트하고 모든 계정에 대해 고유한 비밀번호를 만드세요.
 
 ## Prompts the user for changes when there is a breach detected of historical password
 
 breach-checklist-hp-header = 비밀번호를 재사용한 적이 있는 모든 계정에 대해 고유하고 강력한 비밀번호를 만드세요.
+# Variables:
+#   $passwordManagerLink (string) - a link to the password manager documentation, with { -breach-checklist-link-password-manager } as the label
+breach-checklist-hp-body-2 = { $passwordManagerLink }(무료이며 { -brand-firefox } 브라우저에 내장되어 있음)와 같은 비밀번호 관리자를 사용하면 모든 비밀번호를 추적하고 모든 기기에서 안전하게 접근할 수 있습니다.
 
 ## Prompts the user for changes when there is a breach detected of other types
 
+# Variables:
+#   $breachDate (String) - Date of the breach
+#   $companyName (String) - Name of the company where the breach occurred
+breach-checklist-general-header = { $companyName }에 연락하여 이번 위반에 대해 알리고 취할 수 있는 구체적인 조치를 요청하세요.
