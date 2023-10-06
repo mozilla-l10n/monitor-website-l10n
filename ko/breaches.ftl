@@ -89,6 +89,7 @@ breach-checklist-cc-body = 또한 신용카드 명세서에서 인식되지 않�
 ## Prompts the user for changes when there is a breach detected of bank account
 
 breach-checklist-bank-header = 계좌 번호가 유출되었음을 즉시 은행에 알리세요.
+breach-checklist-bank-body = 그렇게 하면 손실을 복구하는데 더 많은 법적 보호를 받을 수 있습니다. 또한 알 수 없는 결제가 있는지 확인 하는 것이 좋습니다.
 
 ## Prompts the user for changes when there is a breach detected of pin
 
@@ -105,6 +106,7 @@ breach-checklist-ip-body = IP 주소(인터넷 프로토콜 주소)는 사용자
 ## Prompts the user for changes when there is a breach detected of physical address
 
 breach-checklist-address-header = 주소의 일부가 포함된 비밀번호나 PIN을 변경하세요.
+breach-checklist-address-body = 주소는 공공기록에서 쉽게 찾을 수 있으며 비밀번호와 PIN을 쉽게 추측할수 있습니다.
 
 ## Prompts the user for changes when there is a breach detected of date of birth
 
@@ -119,6 +121,7 @@ breach-checklist-phone-header-2 = 실제 전화번호를 숨기는 { $firefoxRel
 
 ## Prompts the user for changes when there is a breach detected of security questions
 
+breach-checklist-sq-header-text = 보안 질문을 업데이트 하세요.
 
 ## Prompts the user for changes when there is a breach detected of historical password
 
