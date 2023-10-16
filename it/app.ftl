@@ -653,7 +653,11 @@ ad-unit-6-before-you-complete = La prossima volta che devi registrarti, utilizza
     }
 # “account” can be localized, “Mozilla” must be treated as a brand,
 # and kept in English.
--brand-mozilla-account = account Mozilla
+-brand-mozilla-account =
+    { $capitalization ->
+        [uppercase] Account Firefox
+       *[lowercase] account Firefox
+    }
 
 ## Search Engine Optimization
 
@@ -684,7 +688,7 @@ menu-item-fxa = Gestisci il tuo { -brand-fx-account }
 menu-item-fxa-2 = Gestisci il tuo { -brand-mozilla-account }
 # Deprecated
 menu-item-fxa-alt = Apri la pagina dell’{ -brand-fx-account }
-menu-item-fxa-alt-2 = Apri la pagina { -brand-mozilla-account }
+menu-item-fxa-alt-2 = Apri la pagina dell’{ -brand-mozilla-account }
 menu-item-settings = Impostazioni
 menu-item-settings-alt = Apri la pagina delle impostazioni
 menu-item-help = Guida e supporto
