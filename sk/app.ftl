@@ -788,6 +788,7 @@ ad-unit-6-before-you-complete = Pred dokončením vašej ďalšej registrácie p
 
 # “account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
+# Deprecated - to be replaced by -brand-mozilla-account
 -brand-fx-account =
     { $case ->
         [gen]
@@ -821,6 +822,41 @@ ad-unit-6-before-you-complete = Pred dokončením vašej ďalšej registrácie p
                *[upper] Účet Firefox
             }
     }
+# “account” can be localized, “Mozilla” must be treated as a brand,
+# and kept in English.
+-brand-mozilla-account =
+    { $case ->
+        [gen]
+            { $capitalization ->
+                [lower] účtu Mozilla
+               *[upper] Účtu Mozilla
+            }
+        [dat]
+            { $capitalization ->
+                [lower] účtu Mozilla
+               *[upper] Účtu Mozilla
+            }
+        [acc]
+            { $capitalization ->
+                [lower] účet Mozilla
+               *[upper] Účet Mozilla
+            }
+        [loc]
+            { $capitalization ->
+                [lower] účte Mozilla
+               *[upper] Účte Mozilla
+            }
+        [ins]
+            { $capitalization ->
+                [lower] účtom Mozilla
+               *[upper] Účtom Mozilla
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] účet Mozilla
+               *[upper] Účet Mozilla
+            }
+    }
 
 ## Search Engine Optimization
 
@@ -836,7 +872,7 @@ sign-in = Prihlásiť sa
 site-nav-breaches-link = Vyriešiť úniky údajov
 site-nav-settings-link = Nastavenia
 site-nav-help-link = Pomoc a podpora
-# This call-out is above 2 image links for Firefox Relay and Mozilla VPN 
+# This call-out is above 2 image links for Firefox Relay and Mozilla VPN
 site-nav-ad-callout = Vyskúšajte naše ďalšie bezpečnostné nástroje:
 brand-relay = { -brand-relay }
 brand-mozilla-vpn = { -brand-mozilla-vpn }
@@ -846,8 +882,12 @@ brand-mozilla-vpn = { -brand-mozilla-vpn }
 menu-button-title = Ponuka používateľa
 menu-button-alt = Otvoriť používateľskú ponuku
 menu-list-accessible-label = Ponuka účtu
+# Deprecated
 menu-item-fxa = Spravovať { -brand-fx-account(case: "acc", capitalization: "lower") }
+menu-item-fxa-2 = Spravovať { -brand-mozilla-account(case: "acc", capitalization: "lower") }
+# Deprecated
 menu-item-fxa-alt = Otvoriť stránku { -brand-fx-account }
+menu-item-fxa-alt-2 = Otvoriť stránku pre { -brand-mozilla-account(case: "acc") }
 menu-item-settings = Nastavenia
 menu-item-settings-alt = Otvoriť nastavenia
 menu-item-help = Pomoc a podpora

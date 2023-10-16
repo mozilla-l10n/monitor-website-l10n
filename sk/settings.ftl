@@ -54,8 +54,12 @@ settings-cancel-premium-subscription-link-label = Zrušiť z vášho { -brand-fx
 ## Deactivate account
 
 settings-deactivate-account-title = Deaktivovať účet
+# Deprecated
 settings-deactivate-account-info = Službu { -product-short-name } môžete deaktivovať odstránením svojho { -brand-fx-account(case: "gen", capitalization: "lower") }.
+settings-deactivate-account-info-2 = { -product-short-name } môžete deaktivovať odstránením svojho { -brand-mozilla-account(case: "gen", capitalization: "lower") }.
+# Deprecated
 settings-fxa-link-label = Prejsť do Nastavení { -brand-firefox(case: "gen") }
+settings-fxa-link-label-2 = Prejsť do Nastavení { -brand-mozilla(case: "gen") }
 
 ## Add email dialog
 
