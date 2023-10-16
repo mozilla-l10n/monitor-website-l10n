@@ -652,7 +652,7 @@ menu-item-fxa = 管理您的 { -brand-fx-account }
 menu-item-fxa-2 = 管理您的 { -brand-mozilla-account }
 # Deprecated
 menu-item-fxa-alt = 開啟 { -brand-fx-account } 頁面
-menu-item-fxa-alt-2 = 開啟 { -brand-mozilla-account } 頁面
+menu-item-fxa-alt-2 = 開啟 { -brand-mozilla-account }頁面
 menu-item-settings = 設定
 menu-item-settings-alt = 開啟設定頁面
 menu-item-help = 說明與技術支援
