@@ -64,3 +64,4 @@ settings-send-email-verification-button = Dërgo lidhje verifikimi
 
 settings-unsubscribe-dialog-message-placeholder = Ç’mund të kishte ecur më mirë?
 settings-unsubscribe-dialog-continue = Vazhdo me anulimin
+settings-unsubscribe-dialog-cancel = S’prish punë, kthemëni
