@@ -56,7 +56,7 @@ settings-deactivate-account-info = Eipe’aitekuaa { -product-short-name } embog
 settings-deactivate-account-info-2 = Eipe’aitekuaa { -product-short-name } emboguévo nde { -brand-mozilla-account }.
 # Deprecated
 settings-fxa-link-label = Eho { -brand-firefox } poravorãme
-settings-fxa-link-label-2 = Eho { -brand-mozilla } ñembohekópe
+settings-fxa-link-label-3 = Eho { -brand-mozilla-account } ñembohekópe
 
 ## Add email dialog
 
