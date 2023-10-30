@@ -46,6 +46,7 @@ settings-email-number-of-breaches-info =
 ## Cancel Premium subscription
 
 settings-cancel-premium-subscription-title = Eipe’a { -brand-premium } ñemboheraguapy
+settings-cancel-premium-subscription-info = Ne ñemboheraguapýgui oikojeýta mba’ete reiguáva opa rire ehepyme’ẽva reikóvo. Umi ñemo’ã resa’ỹijokuégui osẽva oñemboguetéta ha ehechameméta mba’ekuaarã ñembogua añoite 1 ñanduti veve kundaharapépe g̃uarã.
 settings-cancel-premium-subscription-link-label = Eipe’a ne { -brand-fx-account } guive
 
 ## Deactivate account
