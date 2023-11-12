@@ -143,6 +143,8 @@ breach-checklist-phone-header-2 = Emo’ã ne pumbyry papapy mba’eporu rovamo�
 ## Prompts the user for changes when there is a breach detected of security questions
 
 breach-checklist-sq-header-text = Embopyahu porandu tekorosãgua.
+# The `breached-company-link` tags will be replaced with link tags or stripped if no link is available.
+breach-checklist-sq-body-text = Hetavejey, ro’e ndéve embohekopyahu hag̃ua porandu tekorosãgua mba’apohaguasu ñanduti rendápe. Hákatu <b>iñanduti renda hekopytakuaa térã oreko tetepy ivaikuaáva</b>, upévare ema’ẽke <breached-company-link>rendápe jeike</breached-company-link>. Eñemo’ãve hag̃ua, embohekopyahu ko’ã porandu tekorosãgua oimeraẽva mba’ete eiporuvéva peteĩva hendápe, ha emoheñói ñe’ẽñemi oiko ha iñambuéva peteĩteĩva ñe’ẽñemíme.
 
 ## Prompts the user for changes when there is a breach detected of historical password
 
