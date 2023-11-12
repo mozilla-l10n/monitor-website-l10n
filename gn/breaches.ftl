@@ -75,6 +75,10 @@ breach-checklist-link-mozilla-vpn = { -brand-mozilla-vpn }
 ## Prompts the user for changes when there is a breach detected of password
 
 breach-checklist-pw-header-text = Embohekopyahu ñe’ẽñemi ha embojuruja mokõi papapyñemi (2FA).
+# The `breached-company-link` tags will be replaced with link tags or stripped if no link is available.
+# Variables:
+#   $passwordManagerLink (string) - a link to the password manager documentation, with { -breach-checklist-link-password-manager } as the label
+breach-checklist-pw-body-text = Hetavejey, ro’e ndéve emoambue hag̃ua ne ñe’ẽñemi mba’apohaguasu ñanduti rendápe. Hákatu <b>ne ñanduti renda hekopytakuaa térã oreko tetepy ivaikuaáva</b>, upévare ema’ẽke <breached-company-link>rendápe jeike</breached-company-link>. Eñemo’ãve hag̃ua, eiporúke ñe’ẽñemi ha’etéva iñambue peteĩteĩva mba’etévape, upévare umi ñe’ẽñemi mboguapyre ndojeporukuaái ojeike hag̃ua ambue mba’etépe. { $passwordManagerLink } nepytyvõkuaa ehapykueho hag̃ua tekorosãme opaite ne ñe’ẽñemíme.
 
 ## Prompts the user for changes when there is a breach detected of email
 
