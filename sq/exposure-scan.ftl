@@ -1,4 +1,5 @@
 exposure-landing-hero-heading = Shihni nëse janë komprometuar hollësitë tuaja personale
+exposure-landing-hero-lead = Qëndroni i parrezik, me mjete sigurie nga krijuesit e { -brand-firefox }-it, që ju mbron nga hacker-a dhe shoqëri që botojnë dhe shesin informacion tuajin personal. Do tWe’ll alert you of any known data breaches, find and remove your exposed info and continually watch for new exposures.
 exposure-landing-hero-email-label = Adresë email
 exposure-landing-hero-email-placeholder = Jepni adresë email
 exposure-landing-hero-cta-label = Kontrolloni për cenime
