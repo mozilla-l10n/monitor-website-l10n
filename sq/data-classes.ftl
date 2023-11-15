@@ -12,7 +12,6 @@ audio-recordings = Incizime audio
 auth-tokens = Token-ë mirëfilltësimi
 avatars = Avatarë
 bank-account-numbers = Numra llogarish bankare
-beauty-ratings = { "" }
 biometric-data = Të dhëna biometrike
 # This string is the shortened version of "Biographies", and 
 # refers to biographical data about a user.
