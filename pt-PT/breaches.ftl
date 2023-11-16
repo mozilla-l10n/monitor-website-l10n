@@ -108,29 +108,29 @@ breach-checklist-cc-body = Deve também rever os extratos do seu cartão de cré
 
 ## Prompts the user for changes when there is a breach detected of bank account
 
-breach-checklist-bank-header = Notifique o seu banco imediatamente que o número da sua conta foi comprometido.
-breach-checklist-bank-body = Fazer isso mais rapidamente pode fornecer mais proteções legais para ajudar a recuperar quaisquer perda. Também desejará verificar as suas contas por quaisquer cobranças não reconhecidas.
+breach-checklist-bank-header = Notifique imediatamente o seu banco que o número da sua conta foi comprometido.
+breach-checklist-bank-body = Fazer isto mais rapidamente pode fornecer mais proteções legais para ajudar a recuperar quaisquer perdas. Também poderá querer verificar as suas contas para identificar quaisquer cobranças não reconhecidas.
 
 ## Prompts the user for changes when there is a breach detected of pin
 
 breach-checklist-pin-header = Notifique o emissor do seu cartão e altere o seu PIN imediatamente.
-breach-checklist-pin-body = Certifique-se que o seu novo PIN, ou qualquer outro PIN, não inclui números facilmente adivinhados, como a sua data de nascimento ou endereço.
+breach-checklist-pin-body = Certifique-se que o seu novo PIN, ou qualquer outro PIN, não inclui números que possam ser deduzidos com facilidade, tais como a sua data de nascimento ou morada.
 
 ## Prompts the user for changes when there is a breach detected of IP address
 
 # Variables:
 #   $mozillaVpnLink (string) - a link to the Mozilla VPN website, with { -breach-checklist-link-mozilla-vpn } as the label
-breach-checklist-ip-header-2 = Use a Internet privadamente com uma VPN, como a { $mozillaVpnLink }.
-breach-checklist-ip-body = O seu endereço IP (endereço do protocolo da Internet) indica a sua localização e fornecedor de serviço de Internet. Uma VPN pode ocultar o seu endereço IP real para que possa usar a Internet com privacidade.
+breach-checklist-ip-header-2 = Utilize a Internet de forma privada com uma VPN, como a { $mozillaVpnLink }.
+breach-checklist-ip-body = O seu endereço IP (endereço do protocolo da Internet) indica a sua localização e fornecedor de serviço de Internet. Uma VPN pode ocultar o seu endereço IP real para que possa utilizar a Internet com privacidade.
 
 ## Prompts the user for changes when there is a breach detected of physical address
 
-breach-checklist-address-header = Altere quaisquer palavras-passe ou PINs que incluam qualquer parte do seu endereço.
-breach-checklist-address-body = Os endereços são fáceis de encontrar em registos públicos e podem fazer com que essas palavras-passe e PINs sejam fáceis de adivinhar.
+breach-checklist-address-header = Altere quaisquer palavras-passe ou PIN que incluam qualquer parte do seu endereço.
+breach-checklist-address-body = Os endereços são fáceis de encontrar em registos públicos e podem fazer com que estas palavras-passe e PIN sejam fáceis de adivinhar.
 
 ## Prompts the user for changes when there is a breach detected of date of birth
 
-breach-checklist-dob-header = Altere quaisquer palavras-passe ou PINs que incluam a sua data de nascimento.
+breach-checklist-dob-header = Altere quaisquer palavras-passe ou PIN que incluam a sua data de nascimento.
 breach-checklist-dob-body = As datas de nascimento são fáceis de encontrar em registos públicos e as pessoas que as encontrarem poderão adivinhar facilmente o seu PIN.
 
 ## Prompts the user for changes when there is a breach detected of phone number
