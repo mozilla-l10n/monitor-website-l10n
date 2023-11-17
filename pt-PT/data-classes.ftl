@@ -91,10 +91,10 @@ nationalities = Nacionalidades
 net-worths = Património líquido
 nicknames = Alcunhas
 # no data classes found
-none-data-class = Nenhuma
+none-data-class = Nenhum
 occupations = Ocupações
 # various data classes grouped together
-other-data-class = Outra
+other-data-class = Outro
 parenting-plans = Planos de parentalidade
 partial-credit-card-data = Dados parciais de cartões de crédito
 partial-dates-of-birth = Datas parciais de nascimento
