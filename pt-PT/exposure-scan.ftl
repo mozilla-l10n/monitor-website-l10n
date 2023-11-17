@@ -1,9 +1,9 @@
 exposure-landing-hero-heading = Descubra se a sua informação pessoal foi comprometida
-exposure-landing-hero-lead = Mantenha-se seguro com as ferramentas de privacidade dos criadores do { -brand-firefox } que o protegem de hackers e empresas que publicam e vendem a sua informação pessoal. Iremos alertá-lo sobre quaisquer violações de dados conhecidas, encontrar e remover as suas informações expostas e monitorizar continuamente por novas exposição.
-exposure-landing-hero-email-label = Endereço de email
+exposure-landing-hero-lead = Mantenha-se em segurança com as ferramentas de privacidade dos criadores do { -brand-firefox } que o protegem de hackers e de empresas que publicam e vendem a sua informação pessoal. Iremos alertar sobre quaisquer violações de dados conhecidas, encontrar e remover as suas informações expostas e a procurar, de forma contínua, por novas exposições.
+exposure-landing-hero-email-label = Endereço de e-mail
 exposure-landing-hero-email-placeholder = Inserir endereço de e-mail
 exposure-landing-hero-cta-label = Pesquisar por falhas de segurança
-exposure-landing-result-loading = A carregar. Por favor aguarde…
+exposure-landing-result-loading = A carregar. Aguarde…
 exposure-landing-result-error = Algo correu mal durante a verificação das violações de dados. Por favor atualize a página e tente novamente.
 # Variables:
 #   $email (string) - The user's email address, used to identify their data in breaches
