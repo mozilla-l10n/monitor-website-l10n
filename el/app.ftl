@@ -298,7 +298,7 @@ ba-next-step-blurb-3 =
     Δημιουργήστε ισχυρούς κωδικούς πρόσβασης με ένα εργαλείο διαχείρισης κωδικών. Αυτά τα πρόσθετα αποθηκεύουν με ασφάλεια όλες τις 
     συνδέσεις σας για πρόσβαση από όλες τις συσκευές σας.
 faq1 = Δεν αναγνωρίζω αυτήν την εταιρεία ή τον ιστότοπο. Γιατί είμαι σε αυτήν την παραβίαση;
-faq2 = Γιατί πέρασε τόσος καιρός μέχρι να ενημερωθώ για αυτή την παραβίαση;
+faq2 = Γιατί πέρασε τόσος καιρός μέχρι να ενημερωθώ για αυτήν την παραβίαση;
 faq3 = Πώς ξέρω αν αυτό είναι ένα γνήσιο email από το { -product-name };
 # Variables:
 #   $breachCount (Integer) - Number of breaches
@@ -517,11 +517,11 @@ take-further-steps-desc = Μάθετε πώς μπορείτε να μετριά
 # This message appears after a user has successfully updated their communication settings.
 changes-saved = Οι αλλαγές αποθηκεύτηκαν!
 # Section headline
-rec-section-headline = Τι να κάνετε για αυτή την παραβίαση
+rec-section-headline = Τι να κάνετε για αυτήν την παραβίαση
 rec-section-subhead = Σας συνιστούμε να ακολουθήσετε τα παρακάτω βήματα για την προστασία των προσωπικών στοιχείων και της ψηφιακής σας ταυτότητας.
 # Section headline
 rec-section-headline-no-pw = Τι πρέπει να κάνετε για να προστατέψετε τα προσωπικά σας δεδομένα
-rec-section-subhead-no-pw = Αν και δεν εκτέθηκαν κωδικοί πρόσβασης σε αυτή την παραβίαση, υπάρχουν επιπλέον μέτρα για την προστασία των προσωπικών σας πληροφοριών.
+rec-section-subhead-no-pw = Αν και δεν εκτέθηκαν κωδικοί πρόσβασης σε αυτήν την παραβίαση, υπάρχουν επιπλέον μέτρα για την προστασία των προσωπικών σας πληροφοριών.
 # Button
 see-additional-recs = Προβολή επιπρόσθετων προτάσεων
 
@@ -530,12 +530,12 @@ see-additional-recs = Προβολή επιπρόσθετων προτάσεων
 
 # Variables:
 #   $affectedEmail (String) - User email address
-resolve-top-notification = Το { $affectedEmail } εμφανίστηκε σε αυτή την παραβίαση. <a>Τι να κάνετε στη συνέχεια</a>
+resolve-top-notification = Το { $affectedEmail } εμφανίστηκε σε αυτήν την παραβίαση. <a>Τι να κάνετε στη συνέχεια</a>
 # Variables:
 #   $numAffectedEmails (Integer) - Number of affected email address
 resolve-top-notification-plural =
     { $numAffectedEmails ->
-       *[other] { $numAffectedEmails } από τις διευθύνσεις email σας εμφανίστηκαν σε αυτή την παραβίαση. <a>Τι να κάνετε στη συνέχεια</a>
+       *[other] { $numAffectedEmails } από τις διευθύνσεις email σας εμφανίστηκαν σε αυτήν την παραβίαση. <a>Τι να κάνετε στη συνέχεια</a>
     }
 
 ##
