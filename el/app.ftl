@@ -376,9 +376,9 @@ error-csrf-headline = Ο χρόνος συνεδρίας έληξε
 error-csrf-blurb = Πατήστε το κουμπί "Πίσω" του προγράμματος περιήγησής σας, κάντε ανανέωση της σελίδας και δοκιμάστε ξανά.
 error-invalid-unsub = Κατάργηση εγγραφής από τις ειδοποιήσεις του { -product-name }
 error-invalid-unsub-blurb =
-    Θα πρέπει να καταργήσετε τη συνδρομή σας σε κάποιο από τα 
-    email του { -product-name }. Ελέγξτε τα εισερχόμενά σας για μηνύματα από το 
-    { -brand-team-email }. Επιλέξτε το σύνδεσμο κατάργησης εγγραφής στο κάτω μέρος.
+    Θα πρέπει να καταργήσετε τη συνδρομή σας σε κάποιο από τα email του
+    { -product-name }. Ελέγξτε τα εισερχόμενά σας για μηνύματα από το 
+    { -brand-team-email }. Επιλέξτε τον σύνδεσμο κατάργησης εγγραφής στο κάτω μέρος.
 # This string is displayed under a large numeral that indicates the total number
 # of email address a user has signed up for monitoring. Don’t add $emails to
 # your localization, because it would result in the number showing twice.
@@ -475,7 +475,7 @@ want-to-add = Θέλετε να προσθέσετε ένα άλλο email;
 # the form to add an additional email to Firefox Monitor.
 # Variables:
 #   $userEmail (String) - User email address
-verify-the-link = Επαληθεύστε το σύνδεσμο που απεστάλη στο { $userEmail } για να το προσθέσετε στο { -product-name }.
+verify-the-link = Επαληθεύστε τον σύνδεσμο που απεστάλη στο { $userEmail } για να το προσθέσετε στο { -product-name }.
 
 ## These are part of a confirmation page that appears after a user has verified
 ## an additional email to Firefox Monitor.
