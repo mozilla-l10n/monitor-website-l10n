@@ -39,6 +39,7 @@ top-questions-about-monitor = Porandu { -brand-fx-monitor } rehegua
 see-all-faq = Ehechapa FAQs
 # question and answer
 what-is-breach = ¿Mba’épa pe mba’ekuaarã ñembyai?
+when-info-exposed = Mba’ekuaarã ñembogua oikórõ maranduete térã ñemiguáva oñeguenohẽrõ, oñemonda térã oñembokuatia moneĩ’ỹre. Ko’ã mba’e tekorosãgua oikokuaa mba’evaiapoha ñanditi rendagua rupive, tembiporu’i térã oimeraẽva mba’ekuaarã renda oĩhápe tapichakuéra maranduete. Umi mba’ekuaarã ñembogua oikokuaa ijehegui, techapyrãrõ peteĩ jeikerã ñemiguáva osẽrõ peichahágui jepota’ỹre.
 # question and answer
 what-do-i-do = Ajuhu ramoite mba’ekuaarã ñembyai. ¿Mba’e ajapokuaa?
 # question and answer
