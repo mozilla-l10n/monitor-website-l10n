@@ -30,6 +30,7 @@ alerts-for-breaches-monitor-new = Rohechamemetéta mba’ekuaarã ñembyai ipyah
 
 safe-with-us = Ne rekoñemi hekorosãta ore ndive
 parent-company = { -brand-Mozilla }-pe, { -brand-firefox } tendaguasu ha { -brand-fx-monitor }, roguerovia avakuéra rekorosã ha rekoñemi ñandutípe tuichamba’eha ha upéva ndaikatúi eheja emomba’eguasu’ỹre.
+our-mission = Ore rembipota ha’e ñanduti oikoporãvéva ko’ẽreíre, opavavete tapicha ikatuhápe omopyenda hapykuere, oñemomba’e hese ha toĩ tekorosãme. Roikove { -brand-mozilla-foundation } poguýpe, atyguasu viru’ỹgua, romotenondéva yvypórape viru rendaguépe.
 learn-more-mission = Eñemomaranduve ore rembipotáre
 
 ## Top questions about Firefox Monitor
