@@ -37,8 +37,8 @@ settings-delete-email-button = Eliminar endereço de e-mail
 #   $breachCount (numer) - Number of breaches
 settings-email-number-of-breaches-info =
     { $breachCount ->
-        [one] Aparece em { $breachCount } violações de dados conhecidas.
-       *[other] Aparece em { $breachCount } falhas de segurança conhecidas.
+        [one] Aparece em { $breachCount } falha de segurança de dados conhecida.
+       *[other] Aparece em { $breachCount } falhas de segurança de dados conhecidas.
     }
 
 ## Cancel Premium subscription
@@ -55,13 +55,13 @@ settings-fxa-link-label-3 = Ir para as definições da { -brand-mozilla-account 
 ## Add email dialog
 
 settings-email-dialog-title = Adicionar outro endereço de e-mail
-settings-add-email-text = Adicione um novo endereço de e-mail para ver se ele está envolvido numa violação.
-settings-email-input-label = Endereço de email
+settings-add-email-text = Adicione um novo endereço de e-mail para ver se o mesmo está envolvido numa violação.
+settings-email-input-label = Endereço de e-mail
 settings-send-email-verification-button = Enviar ligação de verificação
 
 ## Unsubscribe Dialog Survey
 
-settings-unsubscribe-dialog-title = Pedimos desculpa por vê-lo partir. <br /> Irá dizer-nos porque está a sair?
+settings-unsubscribe-dialog-title = Lamentamos a sua partida. <br />Poderia indicar-nos o motivo?
 settings-unsubscribe-dialog-info = A sua experiência é importante para nós. Nós lemos todas as respostas e as tomamos em consideração.
 settings-unsubscribe-dialog-message-placeholder = O que poderia ter sido melhor?
 # $faq_href is the URL for the faq page. HTML tags should not be translated, e.g. `<a>`
