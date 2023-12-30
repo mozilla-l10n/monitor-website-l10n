@@ -22,15 +22,15 @@ how-it-works = Eis como funciona
 check-for-breaches = Pesquisar por intrusões
 check-for-breaches-we-search = Iremos pesquisar todas as violações de dados conhecidas desde 2007 para ver se a sua informação foi comprometida.
 protect-accounts = Proteja as suas contas
-protect-accounts-clear-steps = Iremos dar-lhe passos claros sobre o que fazer a seguir para qualquer violação de dados em que tenha estado envolvido.
+protect-accounts-clear-steps = Iremos fornecer-lhe procedimentos claros sobre o que fazer a seguir para qualquer violação de dados em que tenha estado envolvido.
 alerts-for-breaches = Obter alertas para novas violações de dados
-alerts-for-breaches-monitor-new = Iremos monitorizar continuamente a procura de novas violações de dados e informá-lo se foi afetado.
+alerts-for-breaches-monitor-new = Iremos monitorizar de forma continua em busca de novas violações de dados e será informado na eventualidade de ter sido afetado.
 
 ## Your privacy is safe with us
 
 safe-with-us = A sua privacidade está segura connosco
-parent-company = Na { -brand-Mozilla }, empresa-mãe do { -brand-firefox } e do { -brand-fx-monitor }, acreditamos que a segurança e a privacidade individual na Internet são fundamentais e não podem ser tratadas como opcionais.
-our-mission = A nossa missão é construir uma Internet melhor — onde as pessoas podem moldar as suas próprias experiências, sentir-se capacitados e seguros. Somos propriedade absoluta da { -brand-mozilla-foundation }, uma organização sem fins lucrativos, que nos permite colocar benefícios individuais e públicos acima dos lucros.
+parent-company = Na { -brand-Mozilla }, empresa-mãe do { -brand-firefox } e do { -brand-fx-monitor }, acreditamos que a segurança e a privacidade individual na Internet são fundamentais e não podem ser tratadas como algo opcional.
+our-mission = A nossa missão é construir uma Internet melhor — onde as pessoas podem moldar as suas próprias experiências, sentir-se capacitados e seguros. Somos propriedade absoluta da { -brand-mozilla-foundation }, uma organização sem fins lucrativos, que nos permite colocar os benefícios individuais e públicos acima dos lucros.
 learn-more-mission = Saber mais sobre a nossa missão
 
 ## Top questions about Firefox Monitor
