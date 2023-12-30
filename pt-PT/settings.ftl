@@ -62,9 +62,9 @@ settings-send-email-verification-button = Enviar ligação de verificação
 ## Unsubscribe Dialog Survey
 
 settings-unsubscribe-dialog-title = Lamentamos a sua partida. <br />Poderia indicar-nos o motivo?
-settings-unsubscribe-dialog-info = A sua experiência é importante para nós. Nós lemos todas as respostas e as tomamos em consideração.
+settings-unsubscribe-dialog-info = A sua experiência é importante para nós. Nós lemos todas as respostas e temos as mesmas em consideração.
 settings-unsubscribe-dialog-message-placeholder = O que poderia ter sido melhor?
 # $faq_href is the URL for the faq page. HTML tags should not be translated, e.g. `<a>`
-settings-unsubscribe-dialog-confirmation = Por favor, note que todos os seus serviços { -brand-monitor-premium } serão <a { $faq_href }>permanentemente eliminados</a> após o fim do seu ciclo de faturação atual.
+settings-unsubscribe-dialog-confirmation = Por favor, note que todos os seus serviços { -brand-monitor-premium } serão <a { $faq_href }>permanentemente eliminados</a> após o final do seu ciclo de faturação atual.
 settings-unsubscribe-dialog-continue = Continuar para o cancelamento
-settings-unsubscribe-dialog-cancel = Esquecer, receber-me de volta
+settings-unsubscribe-dialog-cancel = Não importa, quero voltar
