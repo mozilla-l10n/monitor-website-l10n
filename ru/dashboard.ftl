@@ -27,7 +27,7 @@ exposure-chart-caption = Эта диаграмма показывает, ско�
 # Variables:
 #   $total_fixed_exposures_num (number) - Number of fixed exposures
 #   $total_exposures_num (number) - Number of total exposures
-exposure-chart-caption-fixed = Эта диаграмма показывает общее число устранённых утечек ({ $total_fixed_expoures_num } из { $total_exposures_num })
+exposure-chart-caption-fixed = Эта диаграмма показывает общее число устранённых утечек ({ $total_fixed_exposures_num } из { $total_exposures_num })
 exposure-chart-returning-user-upgrade-prompt = Домашний адрес, члены семьи и многое другое пока не включены.
 exposure-chart-returning-user-upgrade-prompt-cta = Начать бесплатное сканирование
 exposure-chart-scan-in-progress-prompt = <b>Идёт сканирование:</b> адрес, члены семьи и многое другое пока не включены.
@@ -48,17 +48,17 @@ modal-close-alt = Закрыть
 progress-card-heres-what-we-fixed-headline-all = Вот что вы исправили
 progress-card-manually-fixed-headline = Исправлено вручную
 dashboard-tab-label-action-needed = Требуется действие
-dashboard-tab-label-fixed = Фиксированная
+dashboard-tab-label-fixed = Исправлено
 dashboard-exposures-all-fixed-label = Здесь всё исправлено!
-dashboard-exposures-area-headline = Посмотреть все сайты, на которых видна ваша информация
+dashboard-exposures-area-headline = Посмотреть все сайты, с которых утекла ваша информация
 # Note: this line precedes dashboard-exposures-area-description-all-line2.
 # Variables:
 #   $exposures_unresolved_num (number) - the unresolved number of exposures the user has.
 dashboard-exposures-area-description-all-line1 =
     { $exposures_unresolved_num ->
-        [one] Мы обнаружили раскрытие { $expoures_unresolved_num } ваших данных.
-        [few] Мы обнаружили { $expoures_unresolved_num } раскрытий ваших данных.
-       *[many] Мы обнаружили { $expoures_unresolved_num } раскрытий ваших данных.
+        [one] Мы обнаружили { $exposures_unresolved_num } утечку ваших данных.
+        [few] Мы обнаружили { $exposures_unresolved_num } утечки ваших данных.
+       *[many] Мы обнаружили { $exposures_unresolved_num } утечек ваших данных.
     }
 # Note: this line follows dashboard-exposures-area-description-all-line1.
 # Variables:
@@ -69,15 +69,15 @@ dashboard-exposures-area-description-all-line2 =
         [few] Он был обнаружен в { $data_breach_unresolved_num } утечках данных.
        *[many] Он был обнаружен в { $data_breach_unresolved_num } утечках данных.
     }
-dashboard-fixed-area-headline-all = Просмотреть все исправленные снимки
+dashboard-fixed-area-headline-all = Просмотреть все исправленные утечки
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Фильтр
 dashboard-exposures-filter-company = Компания
-dashboard-exposures-filter-date-found = Дата нахождения
+dashboard-exposures-filter-date-found = Дата обнаружения
 dashboard-exposures-filter-date-found-last-seven-days = Последние 7 дней
 dashboard-exposures-filter-date-found-last-thirty-days = Последние 30 дней
 dashboard-exposures-filter-date-found-last-year = Прошлый год
-dashboard-exposures-filter-status = Состояние
+dashboard-exposures-filter-status = Статус
 dashboard-exposures-filter-status-action-needed = Требуется действие
 dashboard-exposures-filter-status-in-progress = Выполняется
 dashboard-exposures-filter-status-fixed = Фиксированная
@@ -93,24 +93,7 @@ dashboard-top-banner-scan-in-progress-title = Ваше сканирование 
 dashboard-top-banner-your-data-is-protected-title = Ваши данные защищены
 dashboard-top-banner-your-data-is-protected-cta = Посмотрите, что исправлено
 dashboard-top-banner-lets-keep-protecting-title = Давайте продолжим защищать ваши данные
-# Variables:
-# $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
-dashboard-top-banner-lets-keep-protecting-description =
-    { $exposures_unresolved_num ->
-        [one] Вам осталось исправить { $expositions_unresolved_num } воздействия. Продолжайте и защитите себя. Мы поможем вам шаг за шагом.
-        [few] Вам осталось исправить { $exposures_unresolved_num } контактов. Продолжайте и защитите себя. Мы поможем вам шаг за шагом.
-       *[many] Вам осталось исправить { $exposures_unresolved_num } контактов. Продолжайте и защитите себя. Мы поможем вам шаг за шагом.
-    }
 dashboard-top-banner-lets-keep-protecting-cta = Давайте продолжим
-# Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
-# Variables:
-#   $exposures_unresolved_num (number) - the total number of exposures the user has.
-dashboard-top-banner-non-us-protect-your-data-description-line1 =
-    { $exposures_unresolved_num ->
-        [one] Мы обнаружили раскрытие { $expoures_unresolved_num } ваших данных.
-        [few] Мы обнаружили { $expoures_unresolved_num } раскрытий ваших данных.
-       *[many] Мы обнаружили { $expoures_unresolved_num } раскрытий ваших данных.
-    }
 # Note: this line is preceded by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
 # Variables:
 #   $data_breach_unresolved_num (number) - the total number of data breaches the user has.
@@ -123,14 +106,6 @@ dashboard-top-banner-non-us-protect-your-data-description-line2 =
 dashboard-top-banner-no-exposures-found-title = Заявителей не найдено
 dashboard-top-banner-non-us-no-exposures-found-description = Отличные новости! Мы проверили все известные утечки данных и не обнаружили ни одной утечки. Мы продолжим отслеживать вашу электронную почту и сообщим вам, если возникнет новая утечка.
 dashboard-no-exposures-label = Заявителей не найдено
-# Variables:
-# $exposures_resolved_num is the number of exposures the user has resolved.
-dashboard-top-banner-non-us-your-data-is-protected-description =
-    { $exposures_resolved_num ->
-        [one] Отличная работа, раскрытие ваших данных исправлено! Мы продолжим отслеживать и предупредим вас о любых новых угрозах.
-        [few] Отличная работа, все { $expositions_resolved_num } ваших данных устранены! Мы продолжим отслеживать и предупредим вас о любых новых угрозах.
-       *[many] Отличная работа, все { $expositions_resolved_num } ваших данных устранены! Мы продолжим отслеживать и предупредим вас о любых новых угрозах.
-    }
 dashboard-top-banner-monitor-more-cta = Отслеживайте больше писем
 
 # About Exposure Statuses Modal
