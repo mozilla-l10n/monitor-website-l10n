@@ -4,8 +4,8 @@
 
 chevron-down-alt = Развернуть
 chevron-up-alt = Свернуть
-exposure-card-exposure-type = Тип воздействия
-exposure-card-date-found = Дата раскрытия
+exposure-card-exposure-type = Тип утечки
+exposure-card-date-found = Дата утечки
 
 # Status Pill
 
