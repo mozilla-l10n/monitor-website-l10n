@@ -80,7 +80,7 @@ high-risk-breach-credit-card-step-three = Überprüfen Sie Ihre Konten auf nicht
 # Bank Account Breaches
 
 high-risk-breach-bank-account-title = Ihr Bankkonto wurde offengelegt
-high-risk-breach-bank-account-description = Wenn Sie so schnell wie möglich Maßnahmen ergreifen, erhalten Sie möglicherweise mehr rechtlichen Schutz und helfen Ihnen, Verluste auszugleichen.
+high-risk-breach-bank-account-description = Wenn Sie so schnell wie möglich Maßnahmen ergreifen, erhalten Sie möglicherweise mehr rechtlichen Schutz, um Ihnen zu helfen, Verluste auszugleichen.
 high-risk-breach-bank-account-step-one = Benachrichtigen Sie sofort Ihre Bank, dass Ihre Kontonummer kompromittiert wurde.
 high-risk-breach-bank-account-step-two = Ändern Sie Ihre Kontonummer.
 high-risk-breach-bank-account-step-three = Überprüfen Sie Ihre Konten auf nicht autorisierte Belastungen.
@@ -88,24 +88,24 @@ high-risk-breach-bank-account-step-three = Überprüfen Sie Ihre Konten auf nich
 # Social Security Number Breaches
 
 high-risk-breach-social-security-title = Ihre Sozialversicherungsnummer wurde offengelegt
-high-risk-breach-social-security-description = Betrüger können mit Ihrer Sozialversicherungsnummer neue Kredite oder Kreditkarten öffnen. Handeln Sie schnell, um finanziellen Schaden abzuwenden.
+high-risk-breach-social-security-description = Betrüger können mit Ihrer Sozialversicherungsnummer neue Kredite oder Kreditkarten eröffnen. Handeln Sie schnell, um finanziellen Schaden abzuwenden.
 high-risk-breach-social-security-step-one = Schützen Sie sich, indem Sie <link_to_info>einen Betrugsalarm einrichten oder Ihr Guthaben einfrieren</link_to_info>
 high-risk-breach-social-security-step-two = <link_to_info>Überprüfen Sie Ihre Kreditkartenabrechnung</link_to_info> auf unbekannte Konten.
 
 # Social Security Number Modal
 
-ssn-modal-title = Von Betrugswarnungen und Guthabeneinfrieren
-ssn-modal-description-fraud-part-one = <b>Einen Betrugsalarm</b> erfordert, dass Unternehmen Ihre Identität überprüfen, bevor er ein neues Guthaben in Ihrem Namen ausstellt. Es ist kostenlos, dauert ein Jahr und wird sich nicht negativ auf Ihre Kreditwürdigkeit auswirken.
-ssn-modal-description-fraud-part-two = Wenden Sie sich an eine der drei Kreditauskunfteien, um eine solche einzurichten. Sie müssen nicht alle drei kontaktieren.
-ssn-modal-description-freeze-credit-part-one = <b>Wenn Sie Ihr Guthaben einfrieren</b>, kann niemand ein neues Konto in Ihrem Namen öffnen. Er ist kostenlos und wird sich nicht negativ auf Ihre Kreditwürdigkeit auswirken, aber Sie müssen ihn entsperren, bevor Sie neue Konten öffnen.
-ssn-modal-description-freeze-credit-part-two = Um Ihr Guthaben einzufrieren, wenden Sie sich an jede der drei Auskunftsanbieter – <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> und <transunion_link>TransUnion</transunion_link>.
-ssn-modal-learn-more = Erfahren Sie mehr über Betrugswarnungen und das Einfrieren von Guthaben
+ssn-modal-title = Über Betrugsalarme und das Einfrieren des Guthabens
+ssn-modal-description-fraud-part-one = <b>Ein Betrugsalarm</b> erfordert, dass Unternehmen Ihre Identität überprüfen, bevor Ihnen ein neuer Kredit bewilligt wird. Es ist kostenlos, dauert ein Jahr und wird sich nicht negativ auf Ihre Kreditwürdigkeit auswirken.
+ssn-modal-description-fraud-part-two = Wenden Sie sich an eine der drei Kreditauskunfteien, um einen solchen einzurichten. Sie müssen nicht alle drei kontaktieren.
+ssn-modal-description-freeze-credit-part-one = <b>Wenn Sie Ihr Guthaben einfrieren</b>, kann niemand ein neues Konto in Ihrem Namen eröffnen. Es ist kostenlos und wird sich nicht negativ auf Ihre Kreditwürdigkeit auswirken, aber Sie müssen es entsperren, bevor Sie neue Konten öffnen.
+ssn-modal-description-freeze-credit-part-two = Um Ihr Guthaben einzufrieren, wenden Sie sich an jede der drei Kreditauskunfteien – <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> und <transunion_link>TransUnion</transunion_link>.
+ssn-modal-learn-more = Erfahren Sie mehr über Betrugsalarme und das Einfrieren von Guthaben
 ssn-modal-ok = OK
 
 # PIN Breaches
 
 high-risk-breach-pin-title = Ihre PIN wurde offengelegt
-high-risk-breach-pin-description = Wenn Sie so schnell wie möglich Maßnahmen ergreifen, erhalten Sie möglicherweise mehr rechtlichen Schutz und helfen Ihnen, Verluste auszugleichen.
+high-risk-breach-pin-description = Wenn Sie so schnell wie möglich Maßnahmen ergreifen, erhalten Sie möglicherweise mehr rechtlichen Schutz, um Ihnen zu helfen, Verluste auszugleichen.
 high-risk-breach-pin-step-one = Benachrichtigen Sie sofort Ihre Bank, dass Ihre PIN kompromittiert wurde.
 high-risk-breach-pin-step-two = Ändern Sie Ihre PIN überall dort, wo Sie die gleiche PIN verwendet haben.
 high-risk-breach-pin-step-three = Überprüfen Sie Ihre Konten auf nicht autorisierte Belastungen.
@@ -135,11 +135,11 @@ security-recommendation-phone-title = Schützen Sie Ihre Telefonnummer
 # $num_breaches is the number of breaches where the phone number was found.
 security-recommendation-phone-summary =
     { $num_breaches ->
-        [one] Deine Telefonnummer wurde durch { $num_breaches } Datenlecks offengelegt:
-       *[other] Deine Telefonnummer war von { $num_breaches } Datenlecks betroffen:
+        [one] Ihre Telefonnummer wurde durch { $num_breaches } Datenleck offengelegt:
+       *[other] Ihre Telefonnummer war von { $num_breaches } Datenlecks betroffen:
     }
-security-recommendation-phone-description = Leider können Sie es nicht zurücknehmen. Aber es gibt Schritte, die Sie unternehmen können, um sich zu schützen.
-security-recommendation-phone-step-one = Blockieren Sie Spam-Nummern, um mehr Junk-Anrufe zu verhindern
+security-recommendation-phone-description = Leider können Sie dies nicht rückgängig machen. Aber es gibt Schritte, die Sie unternehmen können, um sich zu schützen.
+security-recommendation-phone-step-one = Blockieren Sie Spam-Nummern, um mehr Werbeanrufe zu verhindern
 security-recommendation-phone-step-two = Klicken Sie keine Links in Texten von unbekannten Absendern an; wenn sie von einer vertrauenswürdigen Quelle zu stammen scheint, rufen Sie zur Bestätigung direkt an
 
 # Email security recommendation
@@ -148,13 +148,13 @@ security-recommendation-email-title = Schützen Sie Ihre E-Mail-Adresse
 # $num_breaches is the number of breaches where the email address was found.
 security-recommendation-email-summary =
     { $num_breaches ->
-        [one] Deine E-Mail-Adresse wurde in { $num_breaches } Datenlecks geknackt:
-       *[other] Deine E-Mail-Adresse wurde in { $num_breaches } Datenlecks offengelegt:
+        [one] Ihre E-Mail-Adresse wurde in { $num_breaches } Datenleck offengelegt:
+       *[other] Ihre E-Mail-Adresse wurde in { $num_breaches } Datenlecks offengelegt:
     }
-security-recommendation-email-description = Leider können Sie dieses Problem nicht beheben. Aber es gibt Schritte, die Sie unternehmen können, um sich zu schützen.
+security-recommendation-email-description = Leider können Sie dies nicht beheben. Aber es gibt Schritte, die Sie unternehmen können, um sich zu schützen.
 security-recommendation-email-step-one = Klicken Sie keine Links in E-Mails von unbekannten Absendern an. wenn sie von vertrauenswürdiger Quelle zu sein scheint, rufen Sie zur Bestätigung direkt an
 security-recommendation-email-step-two = Vorsicht vor <link_to_info>Phishing-Versuchen</link_to_info>
-security-recommendation-email-step-three = Verdächtige E-Mails als Spam markieren und Absender blockieren
+security-recommendation-email-step-three = Markieren Sie verdächtige E-Mails als Spam markieren und blockieren Sie den Absender
 security-recommendation-email-step-four = Verwenden Sie <link_to_info>{ -brand-relay } E-Mail-Masken</link_to_info>, um Ihre E-Mail-Adressen in Zukunft zu schützen
 
 # IP security recommendation
@@ -163,8 +163,8 @@ security-recommendation-ip-title = Verwenden Sie ein VPN für mehr Privatsphäre
 # $num_breaches is the number of breaches where the IP address was found.
 security-recommendation-ip-summary =
     { $num_breaches ->
-        [one] Deine IP-Adresse wurde in { $num_breaches } Datenlecks offengelegt:
-       *[other] Deine IP-Adresse wurde in { $num_breaches } Datenlecks offengelegt:
+        [one] Ihre IP-Adresse wurde in { $num_breaches } Datenleck offengelegt:
+       *[other] Ihre IP-Adresse wurde in { $num_breaches } Datenlecks offengelegt:
     }
 security-recommendation-ip-description = Ihre IP-Adresse identifiziert Ihren Standort und Ihren Internetdienstanbieter. Hacker könnten diese Informationen verwenden, um Ihren Standort zu finden oder zu versuchen, eine Verbindung mit Ihren Geräten herzustellen.
 security-recommendation-ip-step-one = Verwenden Sie ein VPN (wie <link_to_info>{ -brand-mozilla-vpn }</link_to_info>), um Ihre echte IP-Adresse zu verbergen und das Internet privat zu nutzen.
@@ -173,18 +173,18 @@ security-recommendation-ip-step-one = Verwenden Sie ein VPN (wie <link_to_info>{
 
 # Variables
 # $breach_name is the name of the breach where the leaked password was found.
-leaked-passwords-title = Dein Passwort für { $breach_name } wurde offengelegt
+leaked-passwords-title = Ihr Passwort für { $breach_name } wurde offengelegt
 # Variables
 # $breach_date is the date when the breach occurred.
 leaked-passwords-summary = Sie ist am { $breach_date } von einem Datenleck betroffen.
 leaked-passwords-description = Betrüger können auf Ihr Konto zugreifen und werden wahrscheinlich versuchen, es in anderen Konten zu verwenden, um zu sehen, ob Sie das gleiche Passwort verwendet haben. Ändern Sie sie überall dort, wo Sie sie zu Ihrem Schutz verwendet haben.
-leaked-passwords-steps-title = Hier ist, was zu tun ist
+leaked-passwords-steps-title = Folgendes ist zu tun
 leaked-passwords-steps-subtitle = Dies erfordert Zugriff auf Ihr Konto, daher müssen Sie das Problem manuell beheben.
 # Variables
 # $breach_name is the name of the breach where the leaked password was found.
 # $emails_affected are the emails associated with the breach.
-leaked-passwords-step-one = Ändere dein Passwort für <b>{ $emails_affected }</b> auf <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
-leaked-passwords-step-two = Ändern Sie sie überall dort, wo Sie sie verwendet haben.
+leaked-passwords-step-one = Ändern Sie Ihr Passwort für <b>{ $emails_affected }</b> auf <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-passwords-step-two = Ändern Sie es überall dort, wo Sie es verwendet haben.
 leaked-passwords-mark-as-fixed = Als behoben markieren
 leaked-passwords-skip = Vorerst überspringen
 # Variables
