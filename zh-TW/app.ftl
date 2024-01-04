@@ -613,6 +613,8 @@ ad-unit-6-before-you-complete = 您下次註冊帳號時，可使用轉寄信箱
 -brand-github = GitHub
 -brand-mozilla-vpn = Mozilla VPN
 -brand-relay = Firefox Relay
+-brand-mozilla-monitor = Mozilla Monitor
+-brand-monitor-plus = Monitor Plus
 
 ##
 
@@ -626,8 +628,10 @@ meta-desc-2 = 使用 { -brand-fx-monitor } 看看您是否也處於資料外洩�
 
 ## Header
 
+# Deprecated
 brand-fx-monitor = { -brand-fx-monitor }
 sign-in = 登入
+brand-mozilla-monitor = { -brand-fx-monitor }
 
 ## Site navigation
 
