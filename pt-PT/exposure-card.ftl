@@ -23,7 +23,6 @@ exposure-card-credit-card = Cartão de Crédito
 exposure-card-password = Palavra-passe
 exposure-card-ip-address = Endereço IP
 exposure-card-other = Outro
-exposure-card-description-info-for-sale-part-one = Este site está a vender e a publicar <data_braker_link>detalhes sobre si.</data_brouker_link>
 exposure-card-description-info-for-sale-part-two = Remova este perfil para proteger a sua privacidade.
 # Variables:
 # $data_breach_company is the company associated with the data breach.
