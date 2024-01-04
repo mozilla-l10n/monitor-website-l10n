@@ -102,6 +102,15 @@ dashboard-top-banner-lets-keep-protecting-description =
        *[many] Вам осталось исправить { $exposures_unresolved_num } утечек. Продолжайте и защитите себя. Мы поможем вам шаг за шагом.
     }
 dashboard-top-banner-lets-keep-protecting-cta = Давайте продолжим
+# Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
+# Variables:
+#   $exposures_unresolved_num (number) - the total number of exposures the user has.
+dashboard-top-banner-non-us-protect-your-data-description-line1 =
+    { $exposures_unresolved_num ->
+        [one] Мы обнаружили { $expoures_unresolved_num } утечку ваших данных.
+        [few] Мы обнаружили { $expoures_unresolved_num } утечки ваших данных.
+       *[many] Мы обнаружили { $expoures_unresolved_num } утечек ваших данных.
+    }
 # Note: this line is preceded by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
 # Variables:
 #   $data_breach_unresolved_num (number) - the total number of data breaches the user has.
