@@ -29,17 +29,17 @@ exposure-card-description-info-for-sale-part-two = Удалите этот пр�
 # $data_breach_company is the company associated with the data breach.
 # $data_breach_date is the date of the data breach.
 exposure-card-description-data-breach-part-one = Ваша информация была затронута <data_breach_link>утечкой данных { $data_breach_company } от { $data_breach_date }.</data_breach_link>
-exposure-card-description-data-breach-part-two = Мы проведем вас через шаги, чтобы исправить эту проблему.
-exposure-card-your-exposed-info = Ваша видимая информация:
+exposure-card-description-data-breach-part-two = Мы проведем вас через шаги, которые исправят эту проблему.
+exposure-card-your-exposed-info = Ваша раскрытая информация:
 exposure-card-exposure-type-data-broker = Информация для продажи
 exposure-card-exposure-type-data-breach = Утечка данных
-exposure-card-cta = Закрепить все риски
+exposure-card-cta = Исправить все утечки
 exposure-card-label-company-logo = Логотип компании
 exposure-card-label-company = Компания
-exposure-card-label-exposure-type = Тип воздействия
-exposure-card-label-date-found = Дата нахождения
+exposure-card-label-exposure-type = Тип утечки
+exposure-card-label-date-found = Дата обнаружения
 # Status of the exposure card, could be In Progress, Fixed or Action Needed
-exposure-card-label-status = Состояние
+exposure-card-label-status = Статус
 # Variables:
 # $category_label is the data breach exposure type that was leaked. Eg. Email, IP Address.
 # $count is the number of times that the data type was leaked.
