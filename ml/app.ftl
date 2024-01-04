@@ -3,7 +3,7 @@
 # - Declined to adapt to grammatical case.
 # - Transliterated.
 # - Translated.
--product-name = ഫയർഫോക്സ് മോണിറ്റർ
+-product-name = Mozilla Monitor
 -product-name-nowrap = <span class="nowrap">{ -product-name }</span>
 -product-short-name = മോണിറ്റർ
 -brand-name = ഫയർഫോക്സ്
