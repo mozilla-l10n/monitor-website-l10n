@@ -1,7 +1,7 @@
 ## The following messages are brand and should be kept entirely in English
 ## unless otherwise indicated.
 
--product-name = កម្មវិធី​ត្រួតពិនិត្យ Firefox
+-product-name = Mozilla Monitor
 -product-name-nowrap = <span class="nowrap">{ -product-name }</span>
 -product-short-name = Monitor
 -brand-name = Firefox

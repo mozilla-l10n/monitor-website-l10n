@@ -1,5 +1,5 @@
 # Firefox Monitor is a product name and should not be translated.
--product-name = កម្មវិធី​ត្រួតពិនិត្យ Firefox
+-product-name = Mozilla Monitor
 verify-my-email = ផ្ទៀងផ្ទាត់​អ៊ីមែល
 report-scan-another-email = ស្កេន​អ៊ីមែល​មួយ​ផ្សេង​ទៀត​នៅ​ក្នុង { -product-name }
 automated-message = នេះ​គឺ​ជា​អ៊ីម៉ែល​ស្វ័យ​ប្រវត្តិ។ បើ​អ្នកទទួល​បាន​អ៊ីម៉ែល​នេះ​ដោយ​កំហុស សូម​ទុក​វា​ចោល​ចុះ។

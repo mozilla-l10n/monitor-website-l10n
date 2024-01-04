@@ -1,7 +1,7 @@
 ## The following messages are brand and should be kept entirely in English
 ## unless otherwise indicated.
 
--product-name = Firefox Monitor
+-product-name = Mozilla Monitor
 -product-short-name = монитор
 -brand-name = Firefox
 -brand-Mozilla = Mozilla

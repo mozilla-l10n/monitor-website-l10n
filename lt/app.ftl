@@ -3,7 +3,7 @@
 # - Declined to adapt to grammatical case.
 # - Transliterated.
 # - Translated.
--product-name = Firefox Monitor
+-product-name = Mozilla Monitor
 -product-name-nowrap = <span class="nowrap">{ -product-name }</span>
 -brand-name = Firefox
 -brand-Quantum = Firefox Quantum

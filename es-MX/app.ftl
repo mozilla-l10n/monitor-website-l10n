@@ -4,7 +4,7 @@
 ## The following messages are brand and should be kept entirely in English
 ## unless otherwise indicated.
 
--product-name = Firefox Monitor
+-product-name = Mozilla Monitor
 -product-name-nowrap = <span class="nowrap">{ -product-name }</span>
 -product-short-name = Monitor
 -brand-name = Firefox
@@ -668,7 +668,7 @@ ad-unit-6-before-you-complete = Antes de completar el próximo registro, usa una
 ## The following messages are brands and should be kept entirely in English
 
 -brand-firefox = Firefox
--brand-fx-monitor = Firefox Monitor
+-brand-fx-monitor = Mozilla Monitor
 -brand-mozilla = Mozilla
 -brand-mozilla-foundation = Fundación Mozilla
 -brand-github = GitHub
