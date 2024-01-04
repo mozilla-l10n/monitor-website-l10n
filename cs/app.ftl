@@ -6,13 +6,13 @@
 
 -product-name =
     { $case ->
-       *[nom] Firefox Monitor
-        [gen] Firefox Monitoru
-        [dat] Firefox Monitoru
-        [acc] Firefox Monitor
-        [voc] Firefox Monitore
-        [loc] Firefox Monitoru
-        [ins] Firefox Monitorem
+        [gen] Mozilla Monitoru
+        [dat] Mozilla Monitoru
+        [acc] Mozilla Monitor
+        [voc] Mozilla Monitore
+        [loc] Mozilla Monitoru
+        [ins] Mozilla Monitorem
+       *[nom] Mozilla Monitor
     }
 -product-name-nowrap =
     { $case ->
@@ -783,13 +783,13 @@ ad-unit-6-before-you-complete = Během své další registrace použijte místo 
 -brand-monitor = Monitor
 -brand-fx-monitor =
     { $case ->
-        [gen] Firefox Monitoru
-        [dat] Firefox Monitoru
-        [acc] Firefox Monitor
-        [voc] Firefox Monitore
-        [loc] Firefox Monitoru
-        [ins] Firefox Monitorem
-       *[nom] Firefox Monitor
+        [gen] Mozilla Monitoru
+        [dat] Mozilla Monitoru
+        [acc] Mozilla Monitor
+        [voc] Mozilla Monitore
+        [loc] Mozilla Monitoru
+        [ins] Mozilla Monitorem
+       *[nom] Mozilla Monitor
     }
     .gender = masculine
 -brand-mozilla =
