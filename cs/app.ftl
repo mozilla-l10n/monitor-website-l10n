@@ -829,6 +829,8 @@ ad-unit-6-before-you-complete = Během své další registrace použijte místo 
     .gender = masculine
 -brand-mozilla-vpn = Mozilla VPN
 -brand-relay = Firefox Relay
+-brand-mozilla-monitor = Mozilla Monitor
+-brand-monitor-plus = Monitor Plus
 
 ##
 
@@ -874,8 +876,10 @@ meta-desc-2 = Zjistěte pomocí { -brand-fx-monitor }, zda jste nebyli součást
 
 ## Header
 
+# Deprecated
 brand-fx-monitor = { -brand-fx-monitor }
 sign-in = Přihlásit se
+brand-mozilla-monitor = { -brand-fx-monitor }
 
 ## Site navigation
 
