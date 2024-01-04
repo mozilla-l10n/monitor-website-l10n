@@ -98,7 +98,6 @@ ssn-modal-title = A csalási riasztásokról és a hitelkeret befagyasztásáró
 ssn-modal-description-fraud-part-one = <b>Csalási riasztás</b> megköveteli, hogy a vállalkozások igazolják a személyazonosságát, mielőtt új jóváírást adnak ki az Ön nevében. Ingyenes, egy évig használható, és nem befolyásolja negatívan a hitelképességét.
 ssn-modal-description-fraud-part-two = Hogy állítson be egyet, lépjen kapcsolatba a három hiteliroda bármelyikével. Nem kell kapcsolatba lépnie mindhárommal.
 ssn-modal-description-freeze-credit-part-one = <b>A keretének befagyasztása</b> megakadályozza, hogy bárki is új számlát nyisson az Ön nevében. Ingyenes és nem befolyásolja negatívan a hitelképességi mutatóját, de fel kell oldania, mielőtt új fiókot nyit.
-ssn-modal-description-freeze-credit-part-two = A hitelkeretének befagyasztásához vegye fel a kapcsolatot a három hitelképességi hivatal – az <quifax_link>Equifax</quifax_link>, az <experian_link>Experian</experian_link> és az <transunion_link>TransUnion</transunion_link>.
 ssn-modal-learn-more = Tudjon meg többet a csalási figyelmeztetésekről és a hitelkeretek befagyasztásáról
 ssn-modal-ok = OK
 
