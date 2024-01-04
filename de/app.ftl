@@ -1,3 +1,8 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
 # Strings for the main app
 
 
@@ -39,6 +44,8 @@ user-add-duplicate-email = Diese E-Mail-Adresse wurde schon zu { -product-name }
 #   $preferencesLink (String) - Link to preferences
 #   $userEmail (String) - User email address
 user-add-duplicate-email-part-2 = Öffne deine { $preferencesLink }, um den Status der { $userEmail } zu überprüfen.
+user-add-verification-email-just-sent = Eine weitere Verifizierungs-E-Mail kann nicht so schnell gesendet werden. Bitte versuchen Sie es später erneut.
+user-add-unknown-error = Beim Hinzufügen einer weiteren E-Mail-Adresse ist etwas schiefgegangen. Bitte versuchen Sie es später erneut.
 error-headline = Fehler
 user-verify-token-error = Verifikations-Token wird benötigt.
 user-verify-email-report-subject = Dein Bericht für { -product-name }
@@ -674,6 +681,7 @@ ad-unit-6-before-you-complete = Bevor Sie die nächste Registrierung abschließe
 # “account” can be localized, “Mozilla” must be treated as a brand,
 # and kept in English.
 -brand-mozilla-account = Mozilla-Konto
+open-in-new-tab-alt = Link in einem neuem Tab öffnen
 
 ## Search Engine Optimization
 
@@ -695,19 +703,43 @@ site-nav-help-link = Hilfe und Unterstützung
 site-nav-ad-callout = Probieren Sie unsere anderen Sicherheitswerkzeuge aus:
 brand-relay = { -brand-relay }
 brand-mozilla-vpn = { -brand-mozilla-vpn }
+mobile-menu-label = Hauptmenü
+main-nav-button-collapse-label = Menü einklappen
+main-nav-button-collapse-tooltip = Menü einklappen
+main-nav-button-expand-label = Menü ausklappen
+main-nav-button-expand-tooltip = Menü ausklappen
+main-nav-label = Navigation
+main-nav-link-home-label = Startseite
+main-nav-link-dashboard-label = Übersicht
+main-nav-link-settings-label = Einstellungen
+main-nav-link-faq-label = Häufig gestellte Fragen
+main-nav-link-faq-tooltip = Häufig gestellte Fragen
 
 ## User menu
 
+# Obsolete
 menu-button-title = Benutzermenü
+# Obsolete
 menu-button-alt = Benutzermenü öffnen
+# Obsolete
 menu-list-accessible-label = Kontomenü
+# Obsolete
 menu-item-fxa-2 = Verwalten Sie Ihr { -brand-mozilla-account }
-menu-item-fxa-alt-2 = { -brand-mozilla-account }-Seite öffnen
+# Obsolete
 menu-item-settings = Einstellungen
-menu-item-settings-alt = Einstellungsseite öffnen
+# Obsolete
 menu-item-help = Hilfe und Unterstützung
-menu-item-help-alt = Hilfe- und Unterstützungsseite öffnen
+# Obsolete
 menu-item-logout = Abmelden
+user-menu-trigger-label = Benutzermenü öffnen
+user-menu-trigger-tooltip = Profil
+user-menu-manage-fxa-label = Verwalten Sie Ihr { -brand-mozilla-account }
+user-menu-settings-label = Einstellungen
+user-menu-settings-tooltip = { -brand-mozilla-monitor } einstellen
+user-menu-help-label = Hilfe und Unterstützung
+user-menu-help-tooltip = Hilfe bei der Verwendung von { -brand-mozilla-monitor }
+user-menu-signout-label = Abmelden
+user-menu-signout-tooltip = Von { -brand-mozilla-monitor } abmelden
 
 ## Footer
 
@@ -716,6 +748,8 @@ terms-of-service = Nutzungsbedingungen
 privacy-notice = Datenschutzhinweis
 github = { -brand-github }
 footer-nav-all-breaches = Alle Datenlecks
+footer-external-link-faq-label = Häufig gestellte Fragen
+footer-external-link-faq-tooltip = Häufig gestellte Fragen
 
 ## Error page
 
