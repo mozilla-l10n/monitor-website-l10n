@@ -653,6 +653,8 @@ ad-unit-6-before-you-complete = Pour finir cette inscription, utilisez un alias 
 -brand-github = GitHub
 -brand-mozilla-vpn = Mozilla VPN
 -brand-relay = Firefox Relay
+-brand-mozilla-monitor = Mozilla Monitor
+-brand-monitor-plus = Monitor Plus
 
 ##
 
@@ -666,8 +668,10 @@ meta-desc-2 = Vérifiez avec { -brand-fx-monitor } si vous avez été victime d�
 
 ## Header
 
+# Deprecated
 brand-fx-monitor = { -brand-fx-monitor }
 sign-in = Se connecter
+brand-mozilla-monitor = { -brand-fx-monitor }
 
 ## Site navigation
 
