@@ -706,6 +706,8 @@ ad-unit-6-before-you-complete = Trước khi bạn hoàn tất lần đăng ký 
 -brand-github = GitHub
 -brand-mozilla-vpn = Mozilla VPN
 -brand-relay = Firefox Relay
+-brand-mozilla-monitor = Mozilla Monitor
+-brand-monitor-plus = Monitor Plus
 
 ##
 
@@ -719,8 +721,10 @@ meta-desc-2 = Tìm hiểu xem bạn có phải là một phần của rò rỉ d
 
 ## Header
 
+# Deprecated
 brand-fx-monitor = { -brand-fx-monitor }
 sign-in = Đăng nhập
+brand-mozilla-monitor = { -brand-fx-monitor }
 
 ## Site navigation
 
