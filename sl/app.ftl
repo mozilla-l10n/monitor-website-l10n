@@ -770,6 +770,8 @@ ad-unit-6-before-you-complete = Preden dokončate naslednjo prijavo, uporabite e
     }
 -brand-mozilla-vpn = Mozilla VPN
 -brand-relay = Firefox Relay
+-brand-mozilla-monitor = Mozilla Monitor
+-brand-monitor-plus = Monitor Plus
 
 ##
 
@@ -791,8 +793,10 @@ meta-desc-2 = Ugotovite, ali ste bili vpleteni v krajo podatkov s { -brand-fx-mo
 
 ## Header
 
+# Deprecated
 brand-fx-monitor = { -brand-fx-monitor }
 sign-in = Prijavite se
+brand-mozilla-monitor = { -brand-fx-monitor }
 
 ## Site navigation
 
