@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fix-flow-nav-high-risk-data-breaches = Violazioni di dati ad alto rischio
-fix-flow-nav-leaked-passwords = Password trapelate
+fix-flow-nav-leaked-passwords = Password esposte
 fix-flow-nav-security-recommendations = Consigli di sicurezza
 guided-resolution-flow-exit = Ritorna alla dashboard
 guided-resolution-flow-back-arrow = Vai al passaggio precedente
@@ -22,7 +22,7 @@ fix-flow-celebration-next-dashboard-label = Vai alla dashboard
 ## High-risk flow
 
 fix-flow-celebration-high-risk-title = Hai risolto le tue esposizioni ad alto rischio!
-fix-flow-celebration-high-risk-description-in-progress = Fare questo lavoro può sembrare impegnativo, ma è importante farlo per mantenerti al sicuro. Continua così.
+fix-flow-celebration-high-risk-description-in-progress = Questo lavoro può sembrare impegnativo, ma è importante per mantenerti al sicuro. Continua così!
 fix-flow-celebration-high-risk-description-done = Questo lavoro può sembrare impegnativo, ma è importante per mantenerti al sicuro.
 fix-flow-celebration-high-risk-description-next-passwords = Ora correggiamo le password esposte.
 fix-flow-celebration-high-risk-description-next-security-questions = Ora risolviamo le tue domande di sicurezza esposte.
@@ -65,13 +65,13 @@ high-risk-breach-skip = Ignora per il momento
 # An example of this string is Your estimated time: 15+ minutes.
 high-risk-breach-estimated-time =
     { $estimated_time ->
-        [one] Tempo stimato: { $estimated_time }+ minuti
+        [one] Tempo stimato: { $estimated_time }+ minuto
        *[other] Tempo stimato: { $estimated_time }+ minuti
     }
 
 # Credit Card Breaches
 
-high-risk-breach-credit-card-title = Il numero della tua carta di credito è stato scoperto
+high-risk-breach-credit-card-title = Il numero della tua carta di credito è stato esposto
 high-risk-breach-credit-card-description = Chiunque lo ottenga può effettuare acquisti non autorizzati di cui potresti essere responsabile. Agisci ora per prevenire danni finanziari.
 high-risk-breach-credit-card-step-one = Se hai ancora questa carta, contatta l’autorità emittente per segnalarne il furto.
 high-risk-breach-credit-card-step-two = Richiedi una nuova carta con un nuovo numero.
@@ -87,7 +87,7 @@ high-risk-breach-bank-account-step-three = Controlla i tuoi account per rilevare
 
 # Social Security Number Breaches
 
-high-risk-breach-social-security-title = Il tuo numero di previdenza sociale è stato scoperto
+high-risk-breach-social-security-title = Il tuo numero di previdenza sociale è stato esposto
 high-risk-breach-social-security-description = I truffatori possono aprire nuovi prestiti o carte di credito con il tuo numero di previdenza sociale. Agisci in fretta per prevenire danni finanziari.
 high-risk-breach-social-security-step-one = Proteggiti <link_to_info>impostando un avviso di frode o bloccando il tuo credito.</link_to_info>
 high-risk-breach-social-security-step-two = <link_to_info>Controlla il tuo rapporto di credito</link_to_info> per account non riconosciuti.
