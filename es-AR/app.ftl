@@ -683,6 +683,8 @@ ad-unit-6-before-you-complete = Antes de completar el próximo registro, usá un
 -brand-github = GitHub
 -brand-mozilla-vpn = VPN de Mozilla
 -brand-relay = Firefox Relay
+-brand-mozilla-monitor = Mozilla Monitor
+-brand-monitor-plus = Monitor Plus
 
 ##
 
@@ -696,8 +698,10 @@ meta-desc-2 = Averiguá si fuiste parte de una filtración de datos con { -brand
 
 ## Header
 
+# Deprecated
 brand-fx-monitor = { -brand-fx-monitor }
 sign-in = Iniciar la sesión
+brand-mozilla-monitor = { -brand-fx-monitor }
 
 ## Site navigation
 
