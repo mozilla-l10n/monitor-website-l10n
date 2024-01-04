@@ -11,14 +11,14 @@
 #   $nr (number) - Number of unresolved exposures for the user
 exposure-chart-heading =
     { $nr ->
-        [one] <nr>{ $nr }</nr> <label>offengelegtes Datum</label>
-       *[other] <nr>{ $nr }</nr> <label>offengelegte Daten</label>
+        [one] <nr>{ $nr }</nr> <label>Datenleck</label>
+       *[other] <nr>{ $nr }</nr> <label>Datenlecks</label>
     }
 # Variables:
 #   $nr (number) - Number of fixed exposures found for the user
 exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>Behoben</label>
-exposure-chart-legend-heading-type = Offengelegte Daten
-exposure-chart-legend-heading-nr = Zahlen
+exposure-chart-legend-heading-type = Datenleck
+exposure-chart-legend-heading-nr = Anzahl
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
@@ -26,11 +26,11 @@ exposure-chart-caption = Dieses Diagramm zeigt, wie oft Ihre Daten aktiv offenge
 # Variables:
 #   $total_fixed_exposures_num (number) - Number of fixed exposures
 #   $total_exposures_num (number) - Number of total exposures
-exposure-chart-caption-fixed = Dieses Diagramm zeigt die insgesamt behobenen Belichtungen ({ $total_fixed_exposures_num } von { $total_exposures_num })
+exposure-chart-caption-fixed = Dieses Diagramm zeigt die insgesamt behobenen Datenlecks ({ $total_fixed_exposures_num } von { $total_exposures_num })
 exposure-chart-returning-user-upgrade-prompt = Privat: Adresse, Familienmitglieder und mehr sind noch nicht enthalten.
 exposure-chart-returning-user-upgrade-prompt-cta = Kostenlose Überprüfung starten
 exposure-chart-scan-in-progress-prompt = <b>Scan wird durchgeführt</b>: Adresse, Familienmitglieder und mehr wurden noch nicht erfasst.
-modal-active-number-of-exposures-title = Über die Anzahl aktiver Aufnahmen
+modal-active-number-of-exposures-title = Über die Anzahl aktiver Datenlecks
 # Variables:
 #   $limit (number) - Number of email addresses included in the plan
 modal-active-number-of-exposures-part-one-all =
@@ -39,23 +39,23 @@ modal-active-number-of-exposures-part-one-all =
        *[other] Diese Tabelle zeigt, wie oft wir jeden Datentyp offengelegt haben, über alle Datenlecks für bis zu { $limit } E-Mail-Adressen, die Sie derzeit beobachten.
     }
 modal-active-number-of-exposures-part-two = Wenn Sie beispielsweise 10 Offenlegungen Ihrer Telefonnummer haben, kann dies bedeuten, dass eine Telefonnummer auf 10 verschiedenen Websites offengelegt wurde, oder es könnte bedeuten, dass 2 verschiedene Telefonnummern auf 5 verschiedenen Websites offengelegt wurden.
-modal-active-number-of-exposures-part-three-all = Sobald sie behoben wurden, werden sie zur Gesamtzahl der behobenen Probleme auf der Seite „Behoben“ hinzugefügt.
+modal-active-number-of-exposures-part-three-all = Sobald sie behoben wurden, werden sie zur Gesamtzahl der behobenen Offenlegungen auf der Seite „Behoben“ hinzugefügt.
 modal-cta-ok = OK
 modal-open-alt = Öffnen
 modal-close-alt = Schließen
-progress-card-heres-what-we-fixed-headline-all = Folgendes haben Sie behoben
-progress-card-manually-fixed-headline = Manuell korrigiert
+progress-card-heres-what-we-fixed-headline-all = Sie haben Folgendes behoben
+progress-card-manually-fixed-headline = Manuell behoben
 dashboard-tab-label-action-needed = Handlungsbedarf
 dashboard-tab-label-fixed = Behoben
-dashboard-exposures-all-fixed-label = Hier alle behobenen Probleme!
-dashboard-exposures-area-headline = Alle Websites anzeigen, auf denen Ihre Daten offengelegt sind
+dashboard-exposures-all-fixed-label = Hier ist alles behoben!
+dashboard-exposures-area-headline = Alle Websites anzeigen, auf denen Ihre Daten offengelegt wurden
 # Note: this line precedes dashboard-exposures-area-description-all-line2.
 # Variables:
 #   $exposures_unresolved_num (number) - the unresolved number of exposures the user has.
 dashboard-exposures-area-description-all-line1 =
     { $exposures_unresolved_num ->
-        [one] Wir haben festgestellt, dass Ihre Daten { $exposures_unresolved_num } offengelegt wurden.
-       *[other] Wir haben { $exposures_unresolved_num } Offenlegung Ihrer Daten gefunden.
+        [one] Wir haben { $exposures_unresolved_num } Offenlegung Ihrer Daten gefunden.
+       *[other] Wir haben { $exposures_unresolved_num } Offenlegungen Ihrer Daten gefunden.
     }
 # Note: this line follows dashboard-exposures-area-description-all-line1.
 # Variables:
@@ -65,7 +65,7 @@ dashboard-exposures-area-description-all-line2 =
         [one] Sie ist von { $data_breach_unresolved_num } Datenlecks betroffen.
        *[other] Sie ist bei { $data_breach_unresolved_num } Datenlecks aufgetreten.
     }
-dashboard-fixed-area-headline-all = Alle korrigierten Belastungen anzeigen
+dashboard-fixed-area-headline-all = Alle behobenen Offenlegungen anzeigen
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Filter
 dashboard-exposures-filter-company = Firma
@@ -74,8 +74,8 @@ dashboard-exposures-filter-date-found-last-seven-days = Letzte 7 Tage
 dashboard-exposures-filter-date-found-last-thirty-days = Letzte 30 Tage
 dashboard-exposures-filter-date-found-last-year = Letztes Jahr
 dashboard-exposures-filter-status = Status
-dashboard-exposures-filter-status-action-needed = Handeln erforderlich
-dashboard-exposures-filter-status-in-progress = Vorbereitungsphase
+dashboard-exposures-filter-status-action-needed = Handlungsbedarf
+dashboard-exposures-filter-status-in-progress = In Bearbeitung
 dashboard-exposures-filter-status-fixed = Behoben
 popover-open-filter-settings-alt = Filter auswählen
 dashboard-exposures-filter-show-all = Alle anzeigen
