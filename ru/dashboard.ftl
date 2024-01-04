@@ -80,7 +80,7 @@ dashboard-exposures-filter-date-found-last-year = Прошлый год
 dashboard-exposures-filter-status = Статус
 dashboard-exposures-filter-status-action-needed = Требуется действие
 dashboard-exposures-filter-status-in-progress = Выполняется
-dashboard-exposures-filter-status-fixed = Фиксированная
+dashboard-exposures-filter-status-fixed = Исправлено
 popover-open-filter-settings-alt = Выбрать фильтры
 dashboard-exposures-filter-show-all = Показать все
 dashboard-exposures-filter-show-results = Показать результаты
@@ -88,11 +88,19 @@ dashboard-exposures-filter-reset = Сбросить
 
 ## Top banner on the dashboard
 
-dashboard-top-banner-section-label = Сводка панели
+dashboard-top-banner-section-label = Сводка панели управления
 dashboard-top-banner-scan-in-progress-title = Ваше сканирование ещё не завершено
 dashboard-top-banner-your-data-is-protected-title = Ваши данные защищены
 dashboard-top-banner-your-data-is-protected-cta = Посмотрите, что исправлено
 dashboard-top-banner-lets-keep-protecting-title = Давайте продолжим защищать ваши данные
+# Variables:
+# $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
+dashboard-top-banner-lets-keep-protecting-description =
+    { $exposures_unresolved_num ->
+        [one] Вам осталось исправить { $expositions_unresolved_num } утечку. Продолжайте и защитите себя. Мы поможем вам шаг за шагом.
+        [few] Вам осталось исправить { $exposures_unresolved_num } утечки. Продолжайте и защитите себя. Мы поможем вам шаг за шагом.
+       *[many] Вам осталось исправить { $exposures_unresolved_num } утечек. Продолжайте и защитите себя. Мы поможем вам шаг за шагом.
+    }
 dashboard-top-banner-lets-keep-protecting-cta = Давайте продолжим
 # Note: this line is preceded by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
 # Variables:
