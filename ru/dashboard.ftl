@@ -11,37 +11,37 @@
 #   $nr (number) - Number of unresolved exposures for the user
 exposure-chart-heading =
     { $nr ->
-        [one] <nr>{ $nr }</nr> <label>воздействие</label>
-        [few] <nr>{ $nr }</nr> <label>вызовов</label>
-       *[many] <nr>{ $nr }</nr> <label>вызовов</label>
+        [one] <nr>{ $nr }</nr> <label>утечка</label>
+        [few] <nr>{ $nr }</nr> <label>утечки</label>
+       *[many] <nr>{ $nr }</nr> <label>утечек</label>
     }
 # Variables:
 #   $nr (number) - Number of fixed exposures found for the user
 exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>Исправлено</label>
-exposure-chart-legend-heading-type = Экспозиция
-exposure-chart-legend-heading-nr = Число
+exposure-chart-legend-heading-type = Утечка
+exposure-chart-legend-heading-nr = Количество
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
-exposure-chart-caption = Эта диаграмма показывает, сколько раз активно раскрывается ваша информация.
+exposure-chart-caption = Эта диаграмма показывает, сколько раз активно раскрыта ваша информация.
 # Variables:
 #   $total_fixed_exposures_num (number) - Number of fixed exposures
 #   $total_exposures_num (number) - Number of total exposures
-exposure-chart-caption-fixed = Эта диаграмма показывает общее число устранённых задержек ({ $total_fixed_expoures_num } из { $total_exposures_num })
+exposure-chart-caption-fixed = Эта диаграмма показывает общее число устранённых утечек ({ $total_fixed_expoures_num } из { $total_exposures_num })
 exposure-chart-returning-user-upgrade-prompt = Домашний адрес, члены семьи и многое другое пока не включены.
 exposure-chart-returning-user-upgrade-prompt-cta = Начать бесплатное сканирование
 exposure-chart-scan-in-progress-prompt = <b>Идёт сканирование:</b> адрес, члены семьи и многое другое пока не включены.
-modal-active-number-of-exposures-title = О вашем количестве активных сеансов
+modal-active-number-of-exposures-title = О вашем количестве активных утечек
 # Variables:
 #   $limit (number) - Number of email addresses included in the plan
 modal-active-number-of-exposures-part-one-all =
     { $limit ->
-        [one] Эта диаграмма включает в себя общее число раз, когда мы нашли каждый тип данных, раскрытых во всех утечках данных, для { $limit } адресов электронной почты, которые вы сейчас отслеживаете.
+        [one] Эта диаграмма включает в себя общее число раз, когда мы нашли каждый тип данных, раскрытых во всех утечках данных, для { $limit } адреса электронной почты, который вы сейчас отслеживаете.
         [few] Эта диаграмма показывает общее число раз, когда мы нашли каждый тип раскрытых данных во всех утечках данных до { $limit } адресов электронной почты, которые вы сейчас отслеживаете.
        *[many] Эта диаграмма показывает общее число раз, когда мы нашли каждый тип раскрытых данных во всех утечках данных до { $limit } адресов электронной почты, которые вы сейчас отслеживаете.
     }
-modal-active-number-of-exposures-part-two = Например, если у вас есть 10 показов вашего номера телефона, это может значить, что один номер телефона был виден на 10 различных сайтах, или это может значить, что 2 разных номера телефона были показаны на 5 разных сайтах.
-modal-active-number-of-exposures-part-three-all = Как только они будут решены, они будут добавлены к вашему общему числу зафиксированных контактов на странице Фиксированные.
+modal-active-number-of-exposures-part-two = Например, если у вас есть 10 утечек вашего номера телефона, это может значить, что один номер телефона утёк на 10 различных сайтах, или это может значить, что 2 разных номера телефона утекли на 5 разных сайтах.
+modal-active-number-of-exposures-part-three-all = Как только они будут решены, они будут добавлены к вашему общему числу зафиксированных утечек на странице Исправленные.
 modal-cta-ok = OK
 modal-open-alt = Открыть
 modal-close-alt = Закрыть
