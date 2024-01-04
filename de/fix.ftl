@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fix-flow-nav-high-risk-data-breaches = Datenlecks mit hohem Risiko
-fix-flow-nav-leaked-passwords = Durchgesickerte Passwörter
+fix-flow-nav-leaked-passwords = Offengelegte Passwörter
 fix-flow-nav-security-recommendations = Sicherheitsempfehlungen
 guided-resolution-flow-exit = Zurück zur Übersicht
 guided-resolution-flow-back-arrow = Zum vorherigen Schritt gehen
 guided-resolution-flow-next-arrow = Zum nächsten Schritt gehen
-guided-resolution-flow-step-navigation-label = Schritte mit Anleitung
+guided-resolution-flow-step-navigation-label = Schritt-für-Schritt-Anleitung
 
 # Celebration screens
 
@@ -21,11 +21,11 @@ fix-flow-celebration-next-dashboard-label = Besuchen Sie Ihre Übersicht
 
 ## High-risk flow
 
-fix-flow-celebration-high-risk-title = Sie haben Ihre Hochrisiko-Exposures behoben!
-fix-flow-celebration-high-risk-description-in-progress = Diese Arbeit kann sich wie viel anfühlen, aber es ist wichtig, sie zu tun, um sich selbst zu schützen. Weiter so.
-fix-flow-celebration-high-risk-description-done = Diese Arbeit kann sich wie viel anfühlen, aber es ist wichtig, sie zu tun, um sich selbst zu schützen.
-fix-flow-celebration-high-risk-description-next-passwords = Reparieren wir jetzt Ihre offengelegten Passwörter.
-fix-flow-celebration-high-risk-description-next-security-questions = Reparieren wir jetzt Ihre offengelegten Sicherheitsfragen.
+fix-flow-celebration-high-risk-title = Sie haben Ihre Hochrisiko-Offenlegungen behoben!
+fix-flow-celebration-high-risk-description-in-progress = Das hier fühlt sich vielleicht nach viel Arbeit an, aber es ist wichtig, um Sie selbst zu schützen. Weiter so.
+fix-flow-celebration-high-risk-description-done = Das hier fühlt sich vielleicht nach viel Arbeit an, aber es ist wichtig, um Sie selbst zu schützen.
+fix-flow-celebration-high-risk-description-next-passwords = Beheben wir jetzt Ihre offengelegten Passwörter.
+fix-flow-celebration-high-risk-description-next-security-questions = Beheben wir jetzt Ihre offengelegten Sicherheitsfragen.
 fix-flow-celebration-high-risk-description-next-security-recommendations = Als Nächstes geben wir Ihnen personalisierte Sicherheitsempfehlungen, basierend darauf, welche Daten von Ihnen offengelegt wurden.
 fix-flow-celebration-high-risk-description-next-dashboard = Sie sind am Ende Ihrer Schritte angelangt. Sie können alle Aktionspunkte anzeigen und Ihren Fortschritt in Ihrer Übersicht verfolgen.
 
@@ -44,13 +44,13 @@ fix-flow-celebration-security-recommendations-description-next-dashboard = Gut g
 
 # High Risk Data Breaches
 
-high-risk-breach-heading = Hier ist, was zu tun ist
+high-risk-breach-heading = Folgendes ist zu tun
 high-risk-breach-subheading = Dies erfordert Zugriff auf Ihre sensiblen Daten, daher müssen Sie dies manuell korrigieren.
 # Variables
 # $num_breaches is the number of breaches where the high risk data was found.
 high-risk-breach-summary =
     { $num_breaches ->
-        [one] Sie ist von { $num_breaches } Datenlecks betroffen:
+        [one] Es ist von { $num_breaches } Datenleck betroffen:
        *[other] Es ist von { $num_breaches } Datenlecks betroffen:
     }
 # Variables

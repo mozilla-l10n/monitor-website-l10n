@@ -4,13 +4,13 @@
 
 chevron-down-alt = Ausklappen
 chevron-up-alt = Einklappen
-exposure-card-exposure-type = Aufnahmetyp
-exposure-card-date-found = Datum der Aufnahme
+exposure-card-exposure-type = Offenlegungstyp
+exposure-card-date-found = Datum der Offenlegung
 
 # Status Pill
 
 status-pill-action-needed = Handlungsbedarf
-status-pill-progress = In Arbeit
+status-pill-progress = In Bearbeitung
 status-pill-fixed = Behoben
 
 # Exposure Card
@@ -30,13 +30,13 @@ exposure-card-description-info-for-sale-part-two = Entfernen Sie dieses Profil, 
 # $data_breach_date is the date of the data breach.
 exposure-card-description-data-breach-part-one = Deine Daten wurden am { $data_breach_date } im Rahmen des <data_breach_link>Datenlecks von { $data_breach_company } offengelegt.</data_breach_link>
 exposure-card-description-data-breach-part-two = Wir führen Sie durch die Schritte, um das Problem zu beheben.
-exposure-card-your-exposed-info = Deine offengelegten Informationen:
-exposure-card-exposure-type-data-broker = Zu verkaufende Informationen
+exposure-card-your-exposed-info = Ihre offengelegten Daten:
+exposure-card-exposure-type-data-broker = Daten werden verkauft
 exposure-card-exposure-type-data-breach = Datenleck
-exposure-card-cta = Alle Belastungen korrigieren
+exposure-card-cta = Alle Offenlegungen beheben
 exposure-card-label-company-logo = Firmenlogo
 exposure-card-label-company = Firma
-exposure-card-label-exposure-type = Aufnahmetyp
+exposure-card-label-exposure-type = Offenlegungstyp
 exposure-card-label-date-found = gefunden am
 # Status of the exposure card, could be In Progress, Fixed or Action Needed
 exposure-card-label-status = Status

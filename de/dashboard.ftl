@@ -84,7 +84,7 @@ dashboard-exposures-filter-reset = Zurücksetzen
 
 ## Top banner on the dashboard
 
-dashboard-top-banner-section-label = Übersicht über die Übersicht
+dashboard-top-banner-section-label = Zusammenfassung der Übersicht
 dashboard-top-banner-scan-in-progress-title = Ihre Überprüfung wird noch durchgeführt
 dashboard-top-banner-your-data-is-protected-title = Ihre Daten sind geschützt
 dashboard-top-banner-your-data-is-protected-cta = Sehen Sie, was behoben wurde
@@ -93,8 +93,8 @@ dashboard-top-banner-lets-keep-protecting-title = Schützen wir Ihre Daten weite
 # $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
 dashboard-top-banner-lets-keep-protecting-description =
     { $exposures_unresolved_num ->
-        [one] Sie haben noch { $exposures_unresolved_num } ein Problem, das Sie beheben müssen. Machen Sie weiter und schützen Sie sich. Wir führen Sie Schritt für Schritt.
-       *[other] Sie haben noch { $exposures_unresolved_num } Belichtungen, die es zu beheben gilt. Machen Sie weiter und schützen Sie sich. Wir führen Sie Schritt für Schritt.
+        [one] Sie haben noch { $exposures_unresolved_num } eine Offenlegung, das Sie beheben müssen. Machen Sie weiter und schützen Sie sich. Wir führen Sie Schritt für Schritt.
+       *[other] Sie haben noch { $exposures_unresolved_num } Offenlegungen, die Sie beheben müssen. Machen Sie weiter und schützen Sie sich. Wir führen Sie Schritt für Schritt.
     }
 dashboard-top-banner-lets-keep-protecting-cta = Machen wir weiter
 # Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
@@ -102,32 +102,32 @@ dashboard-top-banner-lets-keep-protecting-cta = Machen wir weiter
 #   $exposures_unresolved_num (number) - the total number of exposures the user has.
 dashboard-top-banner-non-us-protect-your-data-description-line1 =
     { $exposures_unresolved_num ->
-        [one] Wir haben festgestellt, dass Ihre Daten { $exposures_unresolved_num } offengelegt wurden.
-       *[other] Wir haben { $exposures_unresolved_num } Offenlegung Ihrer Daten gefunden.
+        [one] Wir haben { $exposures_unresolved_num } Offenlegung Ihrer Daten gefunden.
+       *[other] Wir haben { $exposures_unresolved_num } Offenlegungen Ihrer Daten gefunden.
     }
 # Note: this line is preceded by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
 # Variables:
 #   $data_breach_unresolved_num (number) - the total number of data breaches the user has.
 dashboard-top-banner-non-us-protect-your-data-description-line2 =
     { $data_breach_unresolved_num ->
-        [one] Sie ist von { $data_breach_unresolved_num } Datenlecks betroffen. Wir zeigen Ihnen Schritt für Schritt, wie Sie das Problem beheben können.
-       *[other] Sie ist bei { $data_breach_unresolved_num } Datenlecks aufgetreten. Wir zeigen Ihnen Schritt für Schritt, wie Sie das Problem beheben können.
+        [one] Sie ist von { $data_breach_unresolved_num } Datenleck betroffen. Wir zeigen Ihnen Schritt für Schritt, wie Sie das Problem beheben können.
+       *[other] Sie ist von { $data_breach_unresolved_num } Datenlecks betroffen. Wir zeigen Ihnen Schritt für Schritt, wie Sie das Problem beheben können.
     }
-dashboard-top-banner-no-exposures-found-title = Keine Aufnahmen gefunden
+dashboard-top-banner-no-exposures-found-title = Keine Offenlegungen gefunden
 dashboard-top-banner-non-us-no-exposures-found-description = Tolle Nachrichten! Wir haben alle bekannten Datenlecks durchsucht, aber keine Offenlegungen gefunden. Wir überwachen Ihre E-Mail-Adresse weiter und benachrichtigen Sie, wenn ein neues Datenleck auftritt.
-dashboard-no-exposures-label = Keine Aufnahmen gefunden
+dashboard-no-exposures-label = Keine Offenlegungen gefunden
 # Variables:
 # $exposures_resolved_num is the number of exposures the user has resolved.
 dashboard-top-banner-non-us-your-data-is-protected-description =
     { $exposures_resolved_num ->
-        [one] Guten Tag, die Offenlegung Ihrer Daten ist behoben! Wir überwachen dies weiter und warnen Sie bei jedem neuen Kontakt.
-       *[other] Gut so, alle { $exposures_resolved_num } Belichtungen Ihrer Daten wurden behoben! Wir überwachen dies weiter und warnen Sie bei jedem neuen Kontakt.
+        [one] Guten Tag, die Offenlegung Ihrer Daten wurde behoben! Wir überwachen dies weiter und warnen Sie bei jeder neuen Offenlegung.
+       *[other] Gut so, alle { $exposures_resolved_num } Offenlegungen Ihrer Daten wurden behoben! Wir überwachen dies weiter und warnen Sie bei jeder neuen Offenlegung.
     }
-dashboard-top-banner-monitor-more-cta = Mehr E-Mail-Adressen überwachen
+dashboard-top-banner-monitor-more-cta = Weitere E-Mail-Adressen überwachen
 
 # About Exposure Statuses Modal
 
-modal-exposure-status-title = Über den Aufnahmestatus
-modal-exposure-status-description-all = Wir suchen in allen bekannten Datenlecks nach Offenlegungen. Ihre Aufnahmen haben einen der folgenden Status:
-modal-exposure-status-action-needed = <b>Maßnahmen erforderlich</b> bedeutet, dass das Problem derzeit aktiv ist und Sie Maßnahmen ergreifen müssen, um das Problem zu beheben.
-modal-exposure-status-fixed = <b>Behoben</b> bedeutet, dass das Problem behoben wurde und Sie nichts tun können.
+modal-exposure-status-title = Über den Offenlegungsstatus
+modal-exposure-status-description-all = Wir suchen in allen bekannten Datenlecks nach Offenlegungen. Ihre Offenlegungen haben einen der folgenden Status:
+modal-exposure-status-action-needed = <b>Handlungsbedarf</b> bedeutet, dass die Offenlegung derzeit aktiv ist und Sie Maßnahmen ergreifen müssen, um diese zu beheben.
+modal-exposure-status-fixed = <b>Behoben</b> bedeutet, dass die Offenlegung behoben wurde und Sie nichts tun müssen.
