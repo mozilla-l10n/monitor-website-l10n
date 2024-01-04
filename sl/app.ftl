@@ -4,7 +4,7 @@
 ## The following messages are brand and should be kept entirely in English
 ## unless otherwise indicated.
 
--product-name = Firefox Monitor
+-product-name = Mozilla Monitor
 -product-name-nowrap = <span class="nowrap">{ -product-name }</span>
 -product-short-name = Monitor
 -brand-name =
@@ -746,7 +746,7 @@ ad-unit-6-before-you-complete = Preden dokončate naslednjo prijavo, uporabite e
         [orodnik] Firefoxom
     }
 -brand-monitor = Monitor
--brand-fx-monitor = Firefox Monitor
+-brand-fx-monitor = Mozilla Monitor
 -brand-mozilla =
     { $sklon ->
        *[imenovalnik] Mozilla
