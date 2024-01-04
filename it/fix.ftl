@@ -138,9 +138,9 @@ security-recommendation-phone-summary =
         [one] Il tuo numero di telefono è stato coinvolto in { $num_breaches } violazione di dati:
        *[other] Il tuo numero di telefono è stato coinvolto in { $num_breaches } violazioni di dati:
     }
-security-recommendation-phone-description = Purtroppo non è possibile ritirarlo. Ma ci sono dei passaggi che puoi adottare per assicurarti di rimanere al sicuro.
-security-recommendation-phone-step-one = Blocca i numeri di spam per evitare più chiamate indesiderate
-security-recommendation-phone-step-two = Non fare clic su link in SMS provenienti da mittenti sconosciuti; se sembra che provenga da una fonte attendibile, chiamare direttamente per confermare
+security-recommendation-phone-description = Purtroppo non è possibile tornare indietro. Ma ci sono dei passaggi che puoi adottare per assicurarti di rimanere al sicuro.
+security-recommendation-phone-step-one = Blocca i numeri che generano spam per evitare chiamate indesiderate
+security-recommendation-phone-step-two = Non fare clic su link in SMS provenienti da mittenti sconosciuti; se sembra che provenga da una fonte attendibile, chiamali direttamente per confermare
 
 # Email security recommendation
 
@@ -148,11 +148,11 @@ security-recommendation-email-title = Proteggi il tuo indirizzo email
 # $num_breaches is the number of breaches where the email address was found.
 security-recommendation-email-summary =
     { $num_breaches ->
-        [one] Il tuo indirizzo email è stato coinvolto in { $num_breaches } violazioni di dati:
-       *[other] Il tuo indirizzo email è stato esposto a { $num_breaches } violazioni di dati:
+        [one] Il tuo indirizzo email è stato coinvolto in { $num_breaches } violazione di dati:
+       *[other] Il tuo indirizzo email è stato esposto in { $num_breaches } violazioni di dati:
     }
 security-recommendation-email-description = Purtroppo non è possibile risolvere il problema. Ma ci sono dei passaggi che puoi adottare per proteggerti.
-security-recommendation-email-step-one = Non fare clic sui link nelle email provenienti da mittenti sconosciuti; se sembra provenire da una fonte attendibile, chiamare direttamente per confermare
+security-recommendation-email-step-one = Non fare clic sui link nelle email provenienti da mittenti sconosciuti; se sembra provenire da una fonte attendibile, chiamali direttamente per confermare
 security-recommendation-email-step-two = Fai attenzione alle <link_to_info>truffe di phishing</link_to_info>
 security-recommendation-email-step-three = Contrassegna le email sospette come spam e blocca il mittente
 security-recommendation-email-step-four = Utilizza gli <link_to_info>alias di posta elettronica { -brand-relay }</link_to_info> per proteggere la tua email in futuro
@@ -163,28 +163,28 @@ security-recommendation-ip-title = Utilizza una VPN per una maggiore privacy
 # $num_breaches is the number of breaches where the IP address was found.
 security-recommendation-ip-summary =
     { $num_breaches ->
-        [one] Il tuo indirizzo IP è stato coinvolto in { $num_breaches } violazioni di dati:
-       *[other] Il tuo indirizzo IP è stato esposto in { $num_breaches } violazioni di dati:
+        [one] Il tuo indirizzo IP è stato coinvolto in { $num_breaches } violazione di dati:
+       *[other] Il tuo indirizzo IP è stato coinvolto in { $num_breaches } violazioni di dati:
     }
-security-recommendation-ip-description = Il tuo indirizzo IP identifica la tua posizione e il tuo fornitore di servizi Internet. Gli hacker potrebbero utilizzare queste informazioni per trovare la tua posizione o tentare di connettersi ai tuoi dispositivi.
-security-recommendation-ip-step-one = Utilizza una VPN (come <link_to_info>{ -brand-mozilla-vpn }</link_to_info>) per nascondere il tuo indirizzo IP reale e utilizzare Internet in modo privato.
+security-recommendation-ip-description = Il tuo indirizzo IP identifica la tua posizione e il tuo fornitore di servizi internet. Gli hacker potrebbero utilizzare queste informazioni per trovare la tua posizione o tentare di connettersi ai tuoi dispositivi.
+security-recommendation-ip-step-one = Utilizza una VPN (come <link_to_info>{ -brand-mozilla-vpn }</link_to_info>) per nascondere il tuo indirizzo IP reale e utilizzare Internet in modo riservato.
 
 # Leaked Passwords
 
 # Variables
 # $breach_name is the name of the breach where the leaked password was found.
-leaked-passwords-title = La password di { $breach_name } è stata compromessa
+leaked-passwords-title = La password di { $breach_name } è stata esposta
 # Variables
 # $breach_date is the date when the breach occurred.
-leaked-passwords-summary = È stato coinvolto in una violazione di dati il { $breach_date }.
-leaked-passwords-description = I truffatori possono accedere al tuo account e probabilmente cercheranno di utilizzarlo su altri account per vedere se hai utilizzato la stessa password. Cambialo ovunque tu lo abbia utilizzato per proteggerti.
+leaked-passwords-summary = È stata esposta in una violazione di dati il { $breach_date }.
+leaked-passwords-description = I truffatori possono accedere al tuo account e probabilmente cercheranno di accedere ad altri account per vedere se hai utilizzato la stessa password. Cambiala ovunque hai utilizzato questa password per proteggerti.
 leaked-passwords-steps-title = Ecco cosa fare
 leaked-passwords-steps-subtitle = Questo richiede accesso alle tue informazioni sensibili, quindi dovrai risolverlo manualmente.
 # Variables
 # $breach_name is the name of the breach where the leaked password was found.
 # $emails_affected are the emails associated with the breach.
 leaked-passwords-step-one = Modifica la password per <b>{ $emails_affected }</b> su <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
-leaked-passwords-step-two = Cambialo in qualsiasi altro punto in cui lo hai utilizzato.
+leaked-passwords-step-two = Cambiala in qualsiasi altro servizio in cui l’hai utilizzata.
 leaked-passwords-mark-as-fixed = Segna come risolta
 leaked-passwords-skip = Ignora per il momento
 # Variables
@@ -193,8 +193,8 @@ leaked-passwords-skip = Ignora per il momento
 # "mins" is shortform for "minutes".
 leaked-passwords-estimated-time =
     { $estimated_time ->
-        [one] Stim. tempo di completamento: { $estimated_time } minuti per sito
-       *[other] Stim. tempo di completamento: { $estimated_time } minuti per sito
+        [one] Tempo stimato per completare: { $estimated_time } minuto per sito
+       *[other] Tempo stimato per completare: { $estimated_time } minuti per sito
     }
 
 # Leaked Security Questions
@@ -204,12 +204,12 @@ leaked-security-questions-title = Le tue domande di sicurezza sono state esposte
 # $breach_name is the name of the breach where the leaked security questions were found.
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
-leaked-security-questions-summary = Sono stati coinvolti in una violazione di dati il { $breach_name } il { $breach_date }.
-leaked-security-questions-description = I truffatori possono utilizzarli per accedere ai tuoi account e a qualsiasi altro sito in cui hai utilizzato le stesse domande di sicurezza. Aggiornali ora per proteggere i tuoi account.
+leaked-security-questions-summary = Sono state esposte in una violazione di dati il { $breach_name } il { $breach_date }.
+leaked-security-questions-description = I truffatori possono utilizzarle per accedere ai tuoi account e a qualsiasi altro sito in cui hai utilizzato le stesse domande di sicurezza. Aggiornale ora per proteggere i tuoi account.
 leaked-security-questions-steps-title = Ecco cosa fare
 leaked-security-questions-steps-subtitle = Questo richiede accesso alle tue informazioni sensibili, quindi dovrai risolverlo manualmente.
 # Variables
 # $breach_name is the name of the breach where the security questions were found.
 # $email_affected is the email associated with the breach.
 leaked-security-questions-step-one = Aggiorna le domande di sicurezza per <b>{ $email_affected }</b> su <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
-leaked-security-questions-step-two = Aggiornali in qualsiasi altro sito in cui hai utilizzato le stesse domande di sicurezza. Assicurati di utilizzare domande di sicurezza diverse per ogni account.
+leaked-security-questions-step-two = Aggiornale in qualsiasi altro sito in cui hai utilizzato le stesse domande di sicurezza. Assicurati di utilizzare domande di sicurezza diverse per ogni account.
