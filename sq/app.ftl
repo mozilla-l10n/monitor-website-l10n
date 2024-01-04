@@ -662,6 +662,8 @@ ad-unit-6-before-you-complete = Para se të plotësoni regjistrimin tuaj të rad
 -brand-github = GitHub
 -brand-mozilla-vpn = Mozilla VPN
 -brand-relay = Firefox Relay
+-brand-mozilla-monitor = Mozilla Monitor
+-brand-monitor-plus = Monitor Plus
 
 ##
 
@@ -675,8 +677,10 @@ meta-desc-2 = Shihni nëse keni qenë pjesë e një cenimi të dhënash, me { -b
 
 ## Header
 
+# Deprecated
 brand-fx-monitor = { -brand-fx-monitor }
 sign-in = Hyni
+brand-mozilla-monitor = { -brand-fx-monitor }
 
 ## Site navigation
 
