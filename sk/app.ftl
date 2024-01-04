@@ -6,12 +6,12 @@
 
 -product-name =
     { $case ->
-       *[nom] Firefox Monitor
-        [gen] Firefox Monitora
-        [dat] Firefox Monitoru
-        [acc] Firefox Monitor
-        [loc] Firefox Monitore
-        [ins] Firefox Monitorom
+        [gen] Mozilla Monitora
+        [dat] Mozilla Monitoru
+        [acc] Mozilla Monitor
+        [loc] Mozilla Monitore
+        [ins] Mozilla Monitorom
+       *[nom] Mozilla Monitor
     }
 -product-name-nowrap = <span class="nowrap">{ -product-name }</span>
 -product-short-name =
@@ -770,12 +770,12 @@ ad-unit-6-before-you-complete = Pred dokončením vašej ďalšej registrácie p
     }
 -brand-fx-monitor =
     { $case ->
-        [gen] Firefox Monitora
-        [dat] Firefox Monitoru
-        [acc] Firefox Monitor
-        [loc] Firefox Monitore
-        [ins] Firefox Monitorom
-       *[nom] Firefox Monitor
+        [gen] Mozilla Monitora
+        [dat] Mozilla Monitoru
+        [acc] Mozilla Monitor
+        [loc] Mozilla Monitore
+        [ins] Mozilla Monitorom
+       *[nom] Mozilla Monitor
     }
 -brand-mozilla =
     { $case ->
@@ -837,6 +837,7 @@ meta-desc-2 = Zistite, či ste boli súčasťou úniku údajov pomocou služby {
 
 ## Header
 
+# Deprecated
 brand-fx-monitor = { -brand-fx-monitor }
 sign-in = Prihlásiť sa
 
