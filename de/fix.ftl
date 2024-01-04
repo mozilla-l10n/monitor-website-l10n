@@ -193,7 +193,7 @@ leaked-passwords-skip = Vorerst überspringen
 # "mins" is shortform for "minutes".
 leaked-passwords-estimated-time =
     { $estimated_time ->
-        [one] Geschätzt Zeit bis zum Ausfüllen: { $estimated_time } Minuten pro Website
+        [one] Geschätzt Zeit bis zum Ausfüllen: { $estimated_time } Minute pro Website
        *[other] Geschätzt Zeit bis zum Ausfüllen: { $estimated_time } Minuten pro Website
     }
 
@@ -204,9 +204,9 @@ leaked-security-questions-title = Ihre Sicherheitsfragen wurden offengelegt
 # $breach_name is the name of the breach where the leaked security questions were found.
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
-leaked-security-questions-summary = Sie ist am { $breach_date } am { $breach_name } von einem Datenleck betroffen.
+leaked-security-questions-summary = Sie ist am { $breach_date } auf { $breach_name } von einem Datenleck betroffen.
 leaked-security-questions-description = Betrüger können diese verwenden, um auf Ihre Konten und auf jede andere Website zuzugreifen, auf der Sie die gleichen Sicherheitsfragen verwendet haben. Aktualisieren Sie sie jetzt, um Ihre Konten zu schützen.
-leaked-security-questions-steps-title = Hier ist, was zu tun ist
+leaked-security-questions-steps-title = Folgendes ist zu tun
 leaked-security-questions-steps-subtitle = Dies erfordert Zugriff auf Ihr Konto, daher müssen Sie das Problem manuell beheben.
 # Variables
 # $breach_name is the name of the breach where the security questions were found.
