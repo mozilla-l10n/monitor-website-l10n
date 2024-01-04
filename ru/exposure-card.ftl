@@ -11,7 +11,7 @@ exposure-card-date-found = Дата утечки
 
 status-pill-action-needed = Требуется действие
 status-pill-progress = В процессе
-status-pill-fixed = Фиксированная
+status-pill-fixed = Решена
 
 # Exposure Card
 
@@ -28,7 +28,7 @@ exposure-card-description-info-for-sale-part-two = Удалите этот пр�
 # Variables:
 # $data_breach_company is the company associated with the data breach.
 # $data_breach_date is the date of the data breach.
-exposure-card-description-data-breach-part-one = Ваша информация была затронута утечкой данных <data_breach_link>{ $data_breach_company } { $data_breach_date }.</data_breach_link>
+exposure-card-description-data-breach-part-one = Ваша информация была затронута <data_breach_link>утечкой данных { $data_breach_company } от { $data_breach_date }.</data_breach_link>
 exposure-card-description-data-breach-part-two = Мы проведем вас через шаги, чтобы исправить эту проблему.
 exposure-card-your-exposed-info = Ваша видимая информация:
 exposure-card-exposure-type-data-broker = Информация для продажи
