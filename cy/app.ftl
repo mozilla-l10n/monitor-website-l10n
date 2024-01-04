@@ -745,6 +745,8 @@ ad-unit-6-before-you-complete = Cyn i chi gwblhau'r cofrestriad nesaf hwnnw, def
 -brand-github = GitHub
 -brand-mozilla-vpn = Mozilla VPN
 -brand-relay = Firefox Relay
+-brand-mozilla-monitor = Mozilla Monitor
+-brand-monitor-plus = Monitor Plus
 
 ##
 
@@ -758,8 +760,10 @@ meta-desc-2 = Darganfyddwch od ydych chi wedi bod yn rhan o dor-data gyda { -bra
 
 ## Header
 
+# Deprecated
 brand-fx-monitor = { -brand-fx-monitor }
 sign-in = Mewngofnodi
+brand-mozilla-monitor = { -brand-fx-monitor }
 
 ## Site navigation
 
