@@ -27,7 +27,7 @@ fix-flow-celebration-high-risk-description-done = Questo lavoro può sembrare im
 fix-flow-celebration-high-risk-description-next-passwords = Ora correggiamo le password esposte.
 fix-flow-celebration-high-risk-description-next-security-questions = Ora risolviamo le tue domande di sicurezza esposte.
 fix-flow-celebration-high-risk-description-next-security-recommendations = Successivamente, ti forniremo consigli di sicurezza personalizzati in base ai tuoi dati che sono stati esposti.
-fix-flow-celebration-high-risk-description-next-dashboard = Hai raggiunto la fine dei tuoi passaggi. Puoi visualizzare qualsiasi azione e tenere traccia dei tuoi progressi sulla dashboard.
+fix-flow-celebration-high-risk-description-next-dashboard = Hai raggiunto la fine della procedura guidata. Puoi visualizzare qualsiasi azione in sospeso e tenere traccia dei tuoi progressi nella dashboard.
 
 ## Leaked passwords and security questions flow
 
@@ -35,17 +35,17 @@ fix-flow-celebration-leaked-passwords-title = Le tue password sono ora protette.
 fix-flow-celebration-security-questions-title = Le tue domande di sicurezza sono protette.
 fix-flow-celebration-leaked-passwords-description-next-security-questions = Ora esaminiamo e aggiorniamo le domande di sicurezza esposte.
 fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Successivamente, ti forniremo consigli di sicurezza personalizzati in base ai tuoi dati che sono stati esposti.
-fix-flow-celebration-leaked-passwords-description-next-dashboard = Ben fatto! Hai raggiunto la fine dei tuoi passaggi. Puoi visualizzare qualsiasi azione e tenere traccia dei tuoi progressi sulla dashboard.
+fix-flow-celebration-leaked-passwords-description-next-dashboard = Complimenti! Hai raggiunto la fine della procedura guidata. Puoi visualizzare qualsiasi azione in sospeso e tenere traccia dei tuoi progressi nella dashboard.
 
 ## Security recommendations flow
 
-fix-flow-celebration-security-recommendations-title = Hai completato tutti i tuoi consigli.
-fix-flow-celebration-security-recommendations-description-next-dashboard = Ben fatto! Hai raggiunto la fine dei tuoi passaggi. Puoi visualizzare qualsiasi azione e tenere traccia dei tuoi progressi sulla dashboard.
+fix-flow-celebration-security-recommendations-title = Hai completato tutti i consigli a te dedicati.
+fix-flow-celebration-security-recommendations-description-next-dashboard = Complimenti! Hai raggiunto la fine della procedura guidata. Puoi visualizzare qualsiasi azione in sospeso e tenere traccia dei tuoi progressi nella dashboard.
 
 # High Risk Data Breaches
 
 high-risk-breach-heading = Ecco cosa fare
-high-risk-breach-subheading = Questo richiede l’accesso alle tue informazioni sensibili, quindi dovrai correggerlo manualmente.
+high-risk-breach-subheading = Questo richiede accesso alle tue informazioni sensibili, quindi dovrai risolverlo manualmente.
 # Variables
 # $num_breaches is the number of breaches where the high risk data was found.
 high-risk-breach-summary =
@@ -72,47 +72,47 @@ high-risk-breach-estimated-time =
 # Credit Card Breaches
 
 high-risk-breach-credit-card-title = Il numero della tua carta di credito è stato esposto
-high-risk-breach-credit-card-description = Chiunque lo ottenga può effettuare acquisti non autorizzati di cui potresti essere responsabile. Agisci ora per prevenire danni finanziari.
+high-risk-breach-credit-card-description = Chiunque lo ottenga può effettuare acquisti non autorizzati di cui potresti essere ritenuto responsabile. Agisci ora per prevenire danni finanziari.
 high-risk-breach-credit-card-step-one = Se hai ancora questa carta, contatta l’autorità emittente per segnalarne il furto.
 high-risk-breach-credit-card-step-two = Richiedi una nuova carta con un nuovo numero.
-high-risk-breach-credit-card-step-three = Controlla i tuoi account per rilevare addebiti non autorizzati.
+high-risk-breach-credit-card-step-three = Controlla i tuoi conti per rilevare addebiti non autorizzati.
 
 # Bank Account Breaches
 
 high-risk-breach-bank-account-title = Il tuo conto bancario è stato esposto
 high-risk-breach-bank-account-description = Intervenire il prima possibile potrebbe offrirti maggiori protezioni legali per aiutarti a recuperare eventuali perdite.
 high-risk-breach-bank-account-step-one = Avvisa immediatamente la tua banca se ti accorgi che il tuo conto corrente è stato violato.
-high-risk-breach-bank-account-step-two = Cambia il tuo numero di account.
-high-risk-breach-bank-account-step-three = Controlla i tuoi account per rilevare addebiti non autorizzati.
+high-risk-breach-bank-account-step-two = Cambia il tuo numero di conto.
+high-risk-breach-bank-account-step-three = Controlla i tuoi conti per rilevare addebiti non autorizzati.
 
 # Social Security Number Breaches
 
 high-risk-breach-social-security-title = Il tuo numero di previdenza sociale è stato esposto
 high-risk-breach-social-security-description = I truffatori possono aprire nuovi prestiti o carte di credito con il tuo numero di previdenza sociale. Agisci in fretta per prevenire danni finanziari.
-high-risk-breach-social-security-step-one = Proteggiti <link_to_info>impostando un avviso di frode o bloccando il tuo credito.</link_to_info>
-high-risk-breach-social-security-step-two = <link_to_info>Controlla il tuo rapporto di credito</link_to_info> per account non riconosciuti.
+high-risk-breach-social-security-step-one = Proteggiti <link_to_info>impostando un avviso contro le frodi o bloccando il tuo credito.</link_to_info>
+high-risk-breach-social-security-step-two = <link_to_info>Controlla il tuo rapporto di credito</link_to_info> per verificare la presenza di conti che non riconosci.
 
 # Social Security Number Modal
 
-ssn-modal-title = Informazioni sugli avvisi di frode e sul blocco del credito
-ssn-modal-description-fraud-part-one = <b>Un avviso di frode</b> richiede alle aziende di verificare la tua identità prima di emettere nuovo credito a tuo nome. È gratuito, dura un anno e non influirà negativamente sul tuo punteggio di credito.
-ssn-modal-description-fraud-part-two = Per configurarne uno, contatta una delle tre agenzie di credito. Non è necessario contattare tutti e tre.
-ssn-modal-description-freeze-credit-part-one = <b>Il blocco del credito</b> impedisce a chiunque di aprire un nuovo account a tuo nome. È gratuito e non influirà negativamente sul tuo punteggio di credito, ma dovrai sbloccarlo prima di aprire nuovi account.
+ssn-modal-title = Informazioni sugli avvisi contro le frodi e sul blocco del credito
+ssn-modal-description-fraud-part-one = <b>Un avviso contro le frodi</b> richiede alle aziende di verificare la tua identità prima di emettere nuovo credito a tuo nome. È gratuito, dura un anno e non influirà negativamente sul tuo punteggio di credito.
+ssn-modal-description-fraud-part-two = Per configurarne uno, contatta una delle tre agenzie di credito. Non è necessario contattare tutte e tre.
+ssn-modal-description-freeze-credit-part-one = <b>Il blocco del credito</b> impedisce a chiunque di aprire un nuovo conto a tuo nome. È gratuito e non influirà negativamente sul tuo punteggio di credito, ma dovrai sbloccarlo prima di aprire nuovi conti.
 ssn-modal-description-freeze-credit-part-two = Per bloccare il credito, contatta le tre agenzie di credito: <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> e <transunion_link>TransUnion</transunion_link>.
-ssn-modal-learn-more = Ulteriori informazioni sugli avvisi di frode e sul blocco del credito
+ssn-modal-learn-more = Ulteriori informazioni sugli avvisi contro le frodi e sul blocco del credito
 ssn-modal-ok = OK
 
 # PIN Breaches
 
-high-risk-breach-pin-title = Il PIN è stato scoperto
+high-risk-breach-pin-title = Il PIN è stato esposto
 high-risk-breach-pin-description = Intervenire il prima possibile potrebbe offrirti maggiori protezioni legali per aiutarti a recuperare eventuali perdite.
-high-risk-breach-pin-step-one = Avvisa immediatamente la tua banca che il tuo PIN è stato violato.
+high-risk-breach-pin-step-one = Avvisa immediatamente la tua banca che il tuo PIN è stato esposto.
 high-risk-breach-pin-step-two = Cambia il tuo PIN ovunque tu abbia utilizzato lo stesso PIN.
-high-risk-breach-pin-step-three = Controlla i tuoi account per rilevare addebiti non autorizzati.
+high-risk-breach-pin-step-three = Controlla i tuoi conti per rilevare addebiti non autorizzati.
 
 # No high risk breaches found
 
-high-risk-breach-none-title = Ottima notizia, non abbiamo rilevato alcuna violazione di dati ad alto rischio
+high-risk-breach-none-title = Ottime notizie, non abbiamo rilevato alcuna violazione di dati ad alto rischio
 # Variables
 # $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
 high-risk-breach-none-description = Rileviamo violazioni di dati in base al tuo indirizzo email e non abbiamo rilevato violazioni di dati ad alto rischio per { $email_list }.
@@ -135,7 +135,7 @@ security-recommendation-phone-title = Proteggi il tuo numero di telefono
 # $num_breaches is the number of breaches where the phone number was found.
 security-recommendation-phone-summary =
     { $num_breaches ->
-        [one] Il tuo numero di telefono è stato coinvolto in { $num_breaches } violazioni di dati:
+        [one] Il tuo numero di telefono è stato coinvolto in { $num_breaches } violazione di dati:
        *[other] Il tuo numero di telefono è stato coinvolto in { $num_breaches } violazioni di dati:
     }
 security-recommendation-phone-description = Purtroppo non è possibile ritirarlo. Ma ci sono dei passaggi che puoi adottare per assicurarti di rimanere al sicuro.
@@ -179,7 +179,7 @@ leaked-passwords-title = La password di { $breach_name } è stata compromessa
 leaked-passwords-summary = È stato coinvolto in una violazione di dati il { $breach_date }.
 leaked-passwords-description = I truffatori possono accedere al tuo account e probabilmente cercheranno di utilizzarlo su altri account per vedere se hai utilizzato la stessa password. Cambialo ovunque tu lo abbia utilizzato per proteggerti.
 leaked-passwords-steps-title = Ecco cosa fare
-leaked-passwords-steps-subtitle = Questo richiede l’accesso al tuo account, quindi dovrai risolverlo manualmente.
+leaked-passwords-steps-subtitle = Questo richiede accesso alle tue informazioni sensibili, quindi dovrai risolverlo manualmente.
 # Variables
 # $breach_name is the name of the breach where the leaked password was found.
 # $emails_affected are the emails associated with the breach.
@@ -207,7 +207,7 @@ leaked-security-questions-title = Le tue domande di sicurezza sono state esposte
 leaked-security-questions-summary = Sono stati coinvolti in una violazione di dati il { $breach_name } il { $breach_date }.
 leaked-security-questions-description = I truffatori possono utilizzarli per accedere ai tuoi account e a qualsiasi altro sito in cui hai utilizzato le stesse domande di sicurezza. Aggiornali ora per proteggere i tuoi account.
 leaked-security-questions-steps-title = Ecco cosa fare
-leaked-security-questions-steps-subtitle = Questo richiede l’accesso al tuo account, quindi dovrai risolverlo manualmente.
+leaked-security-questions-steps-subtitle = Questo richiede accesso alle tue informazioni sensibili, quindi dovrai risolverlo manualmente.
 # Variables
 # $breach_name is the name of the breach where the security questions were found.
 # $email_affected is the email associated with the breach.
