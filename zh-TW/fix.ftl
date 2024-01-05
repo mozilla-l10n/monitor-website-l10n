@@ -193,7 +193,7 @@ leaked-passwords-estimated-time =
 
 # Leaked Security Questions
 
-leaked-security-questions-title = 已洩漏您的安全性問題
+leaked-security-questions-title = 您的安全性問題已遭曝光
 # Variables
 # $breach_name is the name of the breach where the leaked security questions were found.
 # $breach_date is the date when the breach occurred.
@@ -206,4 +206,4 @@ leaked-security-questions-steps-subtitle = 這需要您存取帳號的權限才�
 # $breach_name is the name of the breach where the security questions were found.
 # $email_affected is the email associated with the breach.
 leaked-security-questions-step-one = 更新 <b>{ $email_affected }</b> 在 <link_to_breach_site>{ $breach_name }</link_to_breach_site> 上的安全性問題。
-leaked-security-questions-step-two = 到其他使用了相同安全性問題的網站更新。請務必針對每個帳號使用不同的安全性問題。
+leaked-security-questions-step-two = 更新所有其他使用相同安全性問題的網站上的問題。請務必不要重複使用相同的安全性問題。
