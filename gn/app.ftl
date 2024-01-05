@@ -713,6 +713,7 @@ ad-unit-6-before-you-complete = Emoĩmba mboyve pe jehaipy oĩtava, eiporu ñand
 # “account” can be localized, “Mozilla” must be treated as a brand,
 # and kept in English.
 -brand-mozilla-account = Mozilla mba’ete
+open-in-new-tab-alt = Embojuruja juajuha tendayke pyahúpe
 
 ## Search Engine Optimization
 
@@ -734,6 +735,13 @@ site-nav-help-link = Ñepytvõ ha Pytyvõha
 site-nav-ad-callout = Eiporu ore ambue rembiporu tekorosãrã:
 brand-relay = { -brand-relay }
 brand-mozilla-vpn = { -brand-mozilla-vpn }
+mobile-menu-label = Poravorã tuichavéva
+main-nav-button-collapse-label = Poravorã pa’ãmbyre
+main-nav-button-collapse-tooltip = Poravorã pa’ãmbyre
+main-nav-button-expand-label = Emyasãi poravorã
+main-nav-button-expand-tooltip = Emyasãi poravorã
+main-nav-label = Ñeikundaha
+main-nav-link-home-label = Óga
 main-nav-link-dashboard-label = Mba’erupa
 main-nav-link-settings-label = Ñemboheko
 main-nav-link-faq-label = FAQs
@@ -761,7 +769,9 @@ user-menu-manage-fxa-label = Eñangareko { -brand-mozilla-account } rehe
 user-menu-settings-label = Ñemboheko
 user-menu-settings-tooltip = Emboheko { -brand-mozilla-monitor }
 user-menu-help-label = Ñepytvõ ha jeykeko
+user-menu-help-tooltip = Eñepytyvõuka eiporu hag̃ua { -brand-mozilla-monitor }
 user-menu-signout-label = Emboty tembiapo
+user-menu-signout-tooltip = Emboty tembiapo { -brand-mozilla-monitor }-pe
 
 ## Footer
 

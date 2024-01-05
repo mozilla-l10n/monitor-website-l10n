@@ -10,9 +10,18 @@ exposure-chart-legend-heading-nr = Papapy
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
+exposure-chart-returning-user-upgrade-prompt-cta = Emoha’ãnga reiete
 modal-cta-ok = MONEĨ
 modal-open-alt = Ijurujáva
 modal-close-alt = Mboty
+dashboard-exposures-all-fixed-label = ¡Oĩporãma ko’ápe!
+# This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
+dashboard-exposures-filter = Mbogua
+dashboard-exposures-filter-company = Atyguasu
+dashboard-exposures-filter-status = Tekotee
+dashboard-exposures-filter-status-fixed = Opytáva
+popover-open-filter-settings-alt = Eiporavo mboguaha
+dashboard-exposures-filter-show-all = Techaukapaite
 
 ## Top banner on the dashboard
 
