@@ -712,6 +712,7 @@ privacy-notice = Aviso de confidentialitate
 github = { -brand-github }
 footer-nav-all-breaches = Tote le violationes
 footer-external-link-faq-label = Folios a questiones
+footer-external-link-faq-tooltip = Folio a questiones
 
 ## Error page
 
