@@ -95,3 +95,8 @@ dashboard-top-banner-monitor-more-cta = Monitorar mais emails
 # About Exposure Statuses Modal
 
 modal-exposure-status-title = Informações sobre estado de exposições
+modal-exposure-status-description-all =
+    Procuramos exposições em todos os vazamentos conhecidos de dados.
+    Suas exposições têm um dos seguintes estados:
+modal-exposure-status-action-needed = <b>Ação necessária</b> significa que está ativo no momento e você precisa tomar medidas para resolver.
+modal-exposure-status-fixed = <b>Resolvido</b> significa que a exposição foi resolvida e não há nenhuma ação a ser tomada.

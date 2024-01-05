@@ -53,7 +53,7 @@ high-risk-breach-bank-account-step-three = Verifique se há cobranças não auto
 
 # Social Security Number Breaches
 
-high-risk-breach-social-security-title = Seu número de segurança social foi exposto
+high-risk-breach-social-security-title = Seu número de previdência social foi exposto
 
 # Social Security Number Modal
 
@@ -69,7 +69,7 @@ high-risk-breach-pin-step-three = Verifique se há cobranças não autorizadas e
 
 # No high risk breaches found
 
-high-risk-breach-none-sub-description-ssn = Número de segurança social
+high-risk-breach-none-sub-description-ssn = Número de previdência social
 high-risk-breach-none-sub-description-bank-account = Informações de conta bancária
 high-risk-breach-none-sub-description-cc-number = Números de cartão de crédito
 high-risk-breach-none-sub-description-pin = PINs
