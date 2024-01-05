@@ -123,7 +123,7 @@ dashboard-top-banner-non-us-your-data-is-protected-description =
         [one] Nagyszerű munka, az adatainak kitettsége javítva! Folyamatosan figyeljük, és értesíteni fogjuk az új kitettségekről.
        *[other] Szép munka, mind { $exposures_resolved_num } adatmegjelenítés javítva lett! Folyamatosan figyeljük, és értesíteni fogjuk az új kitettségekről.
     }
-dashboard-top-banner-monitor-more-cta = További e-mailek figyelése
+dashboard-top-banner-monitor-more-cta = További e-mail-címek figyelése
 
 # About Exposure Statuses Modal
 
