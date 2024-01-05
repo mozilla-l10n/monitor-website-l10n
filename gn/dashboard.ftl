@@ -51,6 +51,8 @@ dashboard-exposures-filter-reset = Mbojevyjey
 
 dashboard-top-banner-section-label = Mba’erupa momichĩ
 dashboard-top-banner-scan-in-progress-title = Ne ñemoha’ãnga oiko gueteri
+dashboard-top-banner-your-data-is-protected-title = Ne mba’ekuaarã oñemo’ã
+dashboard-top-banner-your-data-is-protected-cta = Ehecha oĩporãmava
 dashboard-top-banner-lets-keep-protecting-cta = Jaku’ejeýke
 dashboard-top-banner-no-exposures-found-title = Ndojejuhúi máva jehechauka
 dashboard-no-exposures-label = Ndojejuhúi máva jehechauka
