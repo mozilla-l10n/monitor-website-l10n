@@ -172,7 +172,7 @@ leaked-passwords-title = 您的 { $breach_name } 密碼遭到外洩
 # Variables
 # $breach_date is the date when the breach occurred.
 leaked-passwords-summary = 出現在 { $breach_date } 發生的資料外洩事件中。
-leaked-passwords-description = 詐騙者可能會盜用您的帳號並且很可能會在其他帳號上使用您的密碼看看您用了沒有相同的密碼。在任何用過的地方立刻更改密碼以保護自己。
+leaked-passwords-description = 詐騙者可以據此盜用您的帳號，並且很可能會嘗試使用相同的帳號密碼登入您在其他地方的帳號。請將任何使用過相同密碼的帳號也一併更換，以保護自己。
 leaked-passwords-steps-title = 接下來要做什麼
 leaked-passwords-steps-subtitle = 需要存取您的帳號的權限才能處理，所以需要請您手動處理。
 # Variables
