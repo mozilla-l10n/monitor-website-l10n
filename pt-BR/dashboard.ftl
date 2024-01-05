@@ -88,6 +88,10 @@ dashboard-top-banner-non-us-protect-your-data-description-line1 =
         [one] Encontramos { $exposures_unresolved_num } exposição de seus dados.
        *[other] Encontramos { $exposures_unresolved_num } exposições de seus dados.
     }
+dashboard-top-banner-no-exposures-found-title = Nenhuma exposição encontrada
+dashboard-no-exposures-label = Nenhuma exposição encontrada
+dashboard-top-banner-monitor-more-cta = Monitorar mais emails
 
 # About Exposure Statuses Modal
 
+modal-exposure-status-title = Informações sobre estado de exposições
