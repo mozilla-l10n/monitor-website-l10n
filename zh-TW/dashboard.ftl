@@ -44,8 +44,8 @@ modal-close-alt = 關閉
 progress-card-heres-what-we-fixed-headline-all = 以下是您修正過的問題
 progress-card-manually-fixed-headline = 手動修正
 dashboard-tab-label-action-needed = 需要採取行動
-dashboard-tab-label-fixed = 固定
-dashboard-exposures-all-fixed-label = 已修正
+dashboard-tab-label-fixed = 已處理
+dashboard-exposures-all-fixed-label = 都處理完了！
 dashboard-exposures-area-headline = 檢視所有會洩漏您的資訊的網站
 # Note: this line precedes dashboard-exposures-area-description-all-line2.
 # Variables:
@@ -63,7 +63,7 @@ dashboard-exposures-area-description-all-line2 =
     }
 dashboard-fixed-area-headline-all = 檢視所有修正過的暴露程度
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
-dashboard-exposures-filter = 篩選條件
+dashboard-exposures-filter = 篩選
 dashboard-exposures-filter-company = 公司
 dashboard-exposures-filter-date-found = 建立日期
 dashboard-exposures-filter-date-found-last-seven-days = 最近 7 天
@@ -72,7 +72,7 @@ dashboard-exposures-filter-date-found-last-year = 去年
 dashboard-exposures-filter-status = 狀態
 dashboard-exposures-filter-status-action-needed = 需要採取行動
 dashboard-exposures-filter-status-in-progress = 進行中
-dashboard-exposures-filter-status-fixed = 固定
+dashboard-exposures-filter-status-fixed = 已處理
 popover-open-filter-settings-alt = 選擇篩選條件
 dashboard-exposures-filter-show-all = 顯示全部
 dashboard-exposures-filter-show-results = 顯示結果
@@ -83,7 +83,7 @@ dashboard-exposures-filter-reset = 重設
 dashboard-top-banner-section-label = 儀表板摘要
 dashboard-top-banner-scan-in-progress-title = 您的掃描仍在進行中
 dashboard-top-banner-your-data-is-protected-title = 您的資料受保護
-dashboard-top-banner-your-data-is-protected-cta = 看看修正了什麼
+dashboard-top-banner-your-data-is-protected-cta = 看看處理了哪些事件
 dashboard-top-banner-lets-keep-protecting-title = 讓我們持續保護您的資料
 # Variables:
 # $exposures_unresolved_num is the remaining number of exposures the user has to resolve.

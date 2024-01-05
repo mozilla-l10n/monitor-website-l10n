@@ -5,9 +5,9 @@
 fix-flow-nav-high-risk-data-breaches = 高風險資料外洩事件
 fix-flow-nav-leaked-passwords = 洩漏的密碼
 fix-flow-nav-security-recommendations = 安全性建議
-guided-resolution-flow-exit = 回到儀表板
-guided-resolution-flow-back-arrow = 前往上一步
-guided-resolution-flow-next-arrow = 跳到下一步
+guided-resolution-flow-exit = 回到儀錶板
+guided-resolution-flow-back-arrow = 回到上一步
+guided-resolution-flow-next-arrow = 前往下一步
 guided-resolution-flow-step-navigation-label = 步驟指南
 
 # Celebration screens
@@ -17,7 +17,7 @@ guided-resolution-flow-step-navigation-label = 步驟指南
 
 fix-flow-celebration-next-label = 讓我們繼續前進
 fix-flow-celebration-next-recommendations-label = 檢視建議
-fix-flow-celebration-next-dashboard-label = 前往儀表板
+fix-flow-celebration-next-dashboard-label = 前往您的儀錶板
 
 ## High-risk flow
 
@@ -31,8 +31,8 @@ fix-flow-celebration-high-risk-description-next-dashboard = 您已完成步驟�
 
 ## Leaked passwords and security questions flow
 
-fix-flow-celebration-leaked-passwords-title = 您的密碼已受保護
-fix-flow-celebration-security-questions-title = 您的安全問題受保護
+fix-flow-celebration-leaked-passwords-title = 您的密碼已受保護！
+fix-flow-celebration-security-questions-title = 您的安全問題已受保護！
 fix-flow-celebration-leaked-passwords-description-next-security-questions = 現在讓我們來檢查並更新您洩漏的安全性問題。
 fix-flow-celebration-leaked-passwords-description-next-security-recommendations = 接下來我們會依照已洩露的您的資料為您提供個人化的安全性建議。
 fix-flow-celebration-leaked-passwords-description-next-dashboard = 做得好您已完成步驟。您可以在儀表板檢視任何待定的項目並追踪進度。
@@ -58,7 +58,7 @@ high-risk-breach-summary =
 # An example of this string is Twitter on 13/09/18.
 high-risk-breach-name-and-date = { $breach_name } <breach_date>於 { $breach_date }</breach_date>
 high-risk-breach-mark-as-fixed = 標示為已修復
-high-risk-breach-skip = 馬上跳過
+high-risk-breach-skip = 先略過
 # Variables:
 # $estimated_time is the estimated time it would take for a user to complete breach resolution steps. It not be singular, and the + is meant as "or more".
 # An example of this string is Your estimated time: 15+ minutes.
@@ -124,7 +124,7 @@ high-risk-breach-none-continue = 繼續
 # Security recommendations
 
 security-recommendation-steps-label = 安全性建議
-security-recommendation-steps-title = 以下是我們的建議:
+security-recommendation-steps-title = 以下是我們的建議：
 security-recommendation-steps-cta-label = 知道了！
 
 # Phone security recommendation

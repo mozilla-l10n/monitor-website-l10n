@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 chevron-down-alt = 展開
-chevron-up-alt = 收起
+chevron-up-alt = 摺疊
 exposure-card-exposure-type = 曝光類型
 exposure-card-date-found = 暴露日期
 
@@ -11,7 +11,7 @@ exposure-card-date-found = 暴露日期
 
 status-pill-action-needed = 需要採取行動
 status-pill-progress = 進行中
-status-pill-fixed = 固定
+status-pill-fixed = 已處理
 
 # Exposure Card
 
@@ -43,4 +43,4 @@ exposure-card-label-status = 狀態
 # Variables:
 # $category_label is the data breach exposure type that was leaked. Eg. Email, IP Address.
 # $count is the number of times that the data type was leaked.
-exposure-card-label-and-count = { $category_label }: { $count }
+exposure-card-label-and-count = { $category_label }：{ $count } 筆
