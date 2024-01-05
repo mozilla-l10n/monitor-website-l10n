@@ -114,7 +114,7 @@ high-risk-breach-none-title = 好消息我們並未找到任何高風險的資�
 # Variables
 # $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
 high-risk-breach-none-description = 我們會根據您的電子郵件地址偵測資料外洩事件並未發現 { $email_list } 的任何高風險資料外洩事件。
-high-risk-breach-none-sub-description-part-one = 高風險的資料外洩事件包含:
+high-risk-breach-none-sub-description-part-one = 高風險的資料外洩事件包含：
 high-risk-breach-none-sub-description-ssn = 社會安全號碼
 high-risk-breach-none-sub-description-bank-account = 銀行帳號資訊
 high-risk-breach-none-sub-description-cc-number = 信用卡卡號
@@ -179,9 +179,9 @@ leaked-passwords-steps-subtitle = 這需要您存取帳號的權限才能關閉�
 # $breach_name is the name of the breach where the leaked password was found.
 # $emails_affected are the emails associated with the breach.
 leaked-passwords-step-one = 更改 <b>{ $emails_affected }</b> 在 <link_to_breach_site>{ $breach_name }</link_to_breach_site> 的密碼。
-leaked-passwords-step-two = 用過的地方都可以修改。
-leaked-passwords-mark-as-fixed = 標示為已修復
-leaked-passwords-skip = 馬上跳過
+leaked-passwords-step-two = 使用過這組密碼的地方都請修改。
+leaked-passwords-mark-as-fixed = 標示為已處理
+leaked-passwords-skip = 先略過
 # Variables
 # $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
 # "Est." is shortform for "Estimated".
