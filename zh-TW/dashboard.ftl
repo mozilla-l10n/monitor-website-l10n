@@ -27,8 +27,8 @@ exposure-chart-caption = 這張圖顯示您的資訊被主動公開的次數。
 #   $total_exposures_num (number) - Number of total exposures
 exposure-chart-caption-fixed = 此圖表顯示{ $total_fixed_exposures_num } / { $total_exposures_num } 中的固定曝光程度
 exposure-chart-returning-user-upgrade-prompt = 尚未包含家庭住址、家庭成員等資訊。
-exposure-chart-returning-user-upgrade-prompt-cta = 開始免費掃描
-exposure-chart-scan-in-progress-prompt = <b>掃描中</b> 尚未包含地址、家庭成員等資訊。
+exposure-chart-returning-user-upgrade-prompt-cta = 進行免費掃描
+exposure-chart-scan-in-progress-prompt = <b>掃描中：</b>尚未包含地址、家庭成員等資訊。
 modal-active-number-of-exposures-title = 您的有效公開資料數量
 # Variables:
 #   $limit (number) - Number of email addresses included in the plan
