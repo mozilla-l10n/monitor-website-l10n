@@ -105,12 +105,12 @@ ssn-modal-ok = 確定
 high-risk-breach-pin-title = 您的 PIN 碼遭到外洩
 high-risk-breach-pin-description = 及早採取行動可以讓您獲得更多法律保護，也能幫助您追回損失。
 high-risk-breach-pin-step-one = 若您的 PIN 碼已遭外洩，立即通知您的銀行。
-high-risk-breach-pin-step-two = 在任何用過的地方都可以更換 PIN 碼。
+high-risk-breach-pin-step-two = 更換掉所有使用相同 PIN 碼的其他服務的 PIN 碼。
 high-risk-breach-pin-step-three = 檢查您的對帳單中，是否有未經授權的扣款。
 
 # No high risk breaches found
 
-high-risk-breach-none-title = 好消息我們並未找到任何高風險的資料外洩事件
+high-risk-breach-none-title = 好消息！我們並未找到任何高風險資料外洩事件
 # Variables
 # $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
 high-risk-breach-none-description = 我們會使用您的電子郵件地址來偵測資料外洩事件，目前並未發現 { $email_list } 的高風險資料外洩事件。
@@ -135,9 +135,9 @@ security-recommendation-phone-summary =
     { $num_breaches ->
        *[other] 您的電話號碼出現在 { $num_breaches } 場資料外洩事件中：
     }
-security-recommendation-phone-description = 無法退回。但還是可以採取一些步驟來確保安全。
+security-recommendation-phone-description = 很可惜，此問題無法處理。但還是可以採取一些措施來保護自己。
 security-recommendation-phone-step-one = 封鎖垃圾電話號碼，減少接到的垃圾電話
-security-recommendation-phone-step-two = 不要點擊來自未知寄件者的簡訊當中的鏈結若來自可信任的來源請直接來電確認
+security-recommendation-phone-step-two = 請勿點擊來自未知寄件者的簡訊當中的鏈結；若內容看來可靠，請直接致電給對方確認
 
 # Email security recommendation
 
@@ -148,9 +148,9 @@ security-recommendation-email-summary =
        *[other] 您的電子郵件地址出現在 { $num_breaches } 場資料外洩事件中：
     }
 security-recommendation-email-description = 很可惜，此問題無法處理。但還是可以採取一些措施來保護自己。
-security-recommendation-email-step-one = 不要點擊來自未知寄件者的郵件鏈結若資料看起來來自可信任的來源請直接來電確認
+security-recommendation-email-step-one = 請勿點擊來自未知寄件者的郵件當中的鏈結；若內容看來可靠，請直接致電給對方確認
 security-recommendation-email-step-two = 注意<link_to_info>釣魚詐騙</link_to_info>
-security-recommendation-email-step-three = 將可疑郵件標示為垃圾信並封鎖寄件者
+security-recommendation-email-step-three = 將可疑郵件標示為垃圾信，並封鎖寄件者
 security-recommendation-email-step-four = 使用 <link_to_info>{ -brand-relay } 轉寄信箱</link_to_info>來保護您的信箱
 
 # IP security recommendation
@@ -161,8 +161,8 @@ security-recommendation-ip-summary =
     { $num_breaches ->
        *[other] 您的 IP 地址出現在 { $num_breaches } 場資料外洩事件中：
     }
-security-recommendation-ip-description = 您的 IP 地址可以準確地找到您的所在位置與網路業者。駭客可能會使用此資訊來尋找您的所在位置或嘗試連線到您的裝置。
-security-recommendation-ip-step-one = 使用 VPN例如 <link_to_info>{ -brand-mozilla-vpn }</link_to_info> 隱藏您的實際 IP 地址隱私地使用網路。
+security-recommendation-ip-description = 您的 IP 地址可以準確找到您的所在位置與網路業者。駭客可能會使用此資訊，來尋找您的所在位置，或嘗試連線到您的裝置。
+security-recommendation-ip-step-one = 使用諸如 <link_to_info>{ -brand-mozilla-vpn }</link_to_info> 的 VPN，隱藏您的實際 IP 地址，讓您有隱私地上網。
 
 # Leaked Passwords
 
@@ -171,7 +171,7 @@ security-recommendation-ip-step-one = 使用 VPN例如 <link_to_info>{ -brand-mo
 leaked-passwords-title = 您的 { $breach_name } 密碼遭到外洩
 # Variables
 # $breach_date is the date when the breach occurred.
-leaked-passwords-summary = 它出現在 { $breach_date } 的資料外洩事件中。
+leaked-passwords-summary = 出現在 { $breach_date } 發生的資料外洩事件中。
 leaked-passwords-description = 詐騙者可能會盜用您的帳號並且很可能會在其他帳號上使用您的密碼看看您用了沒有相同的密碼。在任何用過的地方立刻更改密碼以保護自己。
 leaked-passwords-steps-title = 接下來要做什麼
 leaked-passwords-steps-subtitle = 需要存取您的帳號的權限才能處理，所以需要請您手動處理。
@@ -198,12 +198,12 @@ leaked-security-questions-title = 已洩漏您的安全性問題
 # $breach_name is the name of the breach where the leaked security questions were found.
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
-leaked-security-questions-summary = 他們出現在 { $breach_date } 的 { $breach_name } 的資料外洩事件中。
+leaked-security-questions-summary = 它們出現在 { $breach_date } 發生的 { $breach_name } 資料外洩事件中。
 leaked-security-questions-description = 詐騙者可以使用它們來存取您的帳號以及您使用過相同安全問題的任何其他網站。立刻更新保護您的帳號。
 leaked-security-questions-steps-title = 接下來要做什麼
 leaked-security-questions-steps-subtitle = 這需要您存取帳號的權限才能關閉所以您需要手動修正。
 # Variables
 # $breach_name is the name of the breach where the security questions were found.
 # $email_affected is the email associated with the breach.
-leaked-security-questions-step-one = 更新 <link_to_breach_site>{ $breach_name }</link_to_breach_site> 上的 <b>{ $email_affected }</b> 的安全問題。
+leaked-security-questions-step-one = 更新 <b>{ $email_affected }</b> 在 <link_to_breach_site>{ $breach_name }</link_to_breach_site> 上的安全性問題。
 leaked-security-questions-step-two = 到其他使用了相同安全性問題的網站更新。請務必針對每個帳號使用不同的安全性問題。
