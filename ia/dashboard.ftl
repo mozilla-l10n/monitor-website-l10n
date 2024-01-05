@@ -23,7 +23,10 @@ exposure-chart-returning-user-upgrade-prompt-cta = Lancea un scansion gratuite
 modal-cta-ok = OK
 modal-open-alt = Aperir
 modal-close-alt = Clauder
+progress-card-manually-fixed-headline = Remediate manualmente
 dashboard-tab-label-action-needed = Action necessari
+dashboard-tab-label-fixed = Remediate
+dashboard-exposures-all-fixed-label = Toto remediate ci!
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Filtro
 dashboard-exposures-filter-company = Interprisa
