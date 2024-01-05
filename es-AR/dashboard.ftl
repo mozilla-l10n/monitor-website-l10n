@@ -19,6 +19,9 @@ exposure-chart-heading =
 exposure-chart-heading-fixed = <nr> { $nr }</nr> <label> Fijo </label>
 exposure-chart-legend-heading-type = Exposición
 exposure-chart-legend-heading-nr = Número
+# Variables:
+#   $nr (number) - Number of a particular type of exposure found for the user
+exposure-chart-legend-value-nr = { $nr }×
 exposure-chart-caption = Este gráfico muestra cuántas veces tu información está activamente expuesta.
 # Variables:
 #   $total_fixed_exposures_num (number) - Number of fixed exposures
