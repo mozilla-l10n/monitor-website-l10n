@@ -22,6 +22,7 @@ dashboard-exposures-filter-status = Tekotee
 dashboard-exposures-filter-status-fixed = Opytáva
 popover-open-filter-settings-alt = Eiporavo mboguaha
 dashboard-exposures-filter-show-all = Techaukapaite
+dashboard-exposures-filter-show-results = Ehechauka tembiapokue
 
 ## Top banner on the dashboard
 
