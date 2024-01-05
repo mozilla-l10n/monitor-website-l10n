@@ -23,9 +23,13 @@ dashboard-exposures-filter-status-fixed = Opytáva
 popover-open-filter-settings-alt = Eiporavo mboguaha
 dashboard-exposures-filter-show-all = Techaukapaite
 dashboard-exposures-filter-show-results = Ehechauka tembiapokue
+dashboard-exposures-filter-reset = Mbojevyjey
 
 ## Top banner on the dashboard
 
+dashboard-top-banner-lets-keep-protecting-cta = Jaku’ejeýke
+dashboard-top-banner-no-exposures-found-title = Ndojejuhúi máva jehechauka
+dashboard-no-exposures-label = Ndojejuhúi máva jehechauka
 
 # About Exposure Statuses Modal
 
