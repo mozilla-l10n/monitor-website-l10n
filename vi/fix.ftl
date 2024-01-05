@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fix-flow-nav-high-risk-data-breaches = Vụ rò rỉ với rủi ro cao
+fix-flow-nav-leaked-passwords = Mật khẩu bị lộ
+fix-flow-nav-security-recommendations = Đề xuất bảo mật
 guided-resolution-flow-exit = Quay lại trang tổng quan
 guided-resolution-flow-back-arrow = Quay lại bước trước
 guided-resolution-flow-next-arrow = Chuyển sang bước tiếp theo
@@ -13,6 +16,7 @@ guided-resolution-flow-step-navigation-label = Các bước hướng dẫn
 ## Shared CTA labels
 
 fix-flow-celebration-next-label = Hãy tiếp tục
+fix-flow-celebration-next-recommendations-label = Xem đề xuất
 fix-flow-celebration-next-dashboard-label = Đi đến trang tổng quan của bạn
 
 ## High-risk flow

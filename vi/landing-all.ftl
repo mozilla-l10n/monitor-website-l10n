@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+public-nav-name = { -brand-mozilla-monitor }
 landing-all-hero-lead = Chúng tôi quét các rò rỉ dữ liệu để xem dữ liệu của bạn có bị rò rỉ hay không và cung cấp cho bạn các bước để giải quyết.
 landing-all-hero-emailform-input-placeholder = yourname@example.com
 landing-all-hero-emailform-input-label = Nhập địa chỉ email của bạn để kiểm tra mức độ rò rỉ dữ liệu.
@@ -38,11 +39,19 @@ landing-all-social-proof-title =
     { $num_users ->
        *[other] Được tin tưởng bởi { $num_users } triệu người trên toàn thế giới
     }
+# Variables
+# $num_countries is the number of countries available.
+landing-all-social-proof-description =
+    { $num_countries ->
+       *[other] Kể từ năm 2018, chúng tôi đã giúp đỡ mọi người trong { $num_countries } các quốc gia bảo vệ dữ liệu của họ khi nó bị lộ.
+    }
+landing-all-social-proof-press = Như đã thấy trong
 
 # Here's How We Help
 
 landing-all-help-protect-you = Đây là cách chúng tôi giúp bảo vệ bạn
 landing-all-help-protect-you-description = Chúng tôi tin vào quyền riêng tư của bạn, vì vậy, việc giám sát để bảo vệ khỏi rò rỉ dữ liệu luôn miễn phí.
+landing-all-help-protect-you-feature-one = Chúng tôi sẽ tìm kiếm bạn trong tất cả các vụ rò rỉ dữ liệu đã biết
 landing-all-help-protect-you-feature-two = Chúng tôi sẽ hướng dẫn bạn các bước để giải quyết từng rò rỉ
 landing-all-help-protect-you-feature-three = Chúng tôi sẽ liên tục theo dõi và gửi cho bạn thông báo về mọi rò rỉ mới
 landing-all-help-protect-you-cta = Đăng ký cảnh báo vụ rò rỉ
