@@ -753,10 +753,10 @@ user-menu-trigger-tooltip = Perfil
 user-menu-manage-fxa-label = Administrar tu { -brand-mozilla-account }
 user-menu-settings-label = Configuración
 user-menu-settings-tooltip = Configurar { -brand-mozilla-monitor }
-user-menu-help-label = Ayuda y soporte
-user-menu-help-tooltip = Obtenga ayuda para usar { -brand-mozilla-monitor }
-user-menu-signout-label = Cerrar sesión
-user-menu-signout-tooltip = Cerrar sesión en { -brand-mozilla-monitor }
+user-menu-help-label = Ayuda
+user-menu-help-tooltip = Obtener ayuda para usar { -brand-mozilla-monitor }
+user-menu-signout-label = Cerrar la sesión
+user-menu-signout-tooltip = Cerrar la sesión en { -brand-mozilla-monitor }
 
 ## Footer
 

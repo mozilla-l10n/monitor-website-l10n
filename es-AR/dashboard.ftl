@@ -27,7 +27,7 @@ exposure-chart-caption = Este gráfico muestra cuántas veces tu información es
 #   $total_fixed_exposures_num (number) - Number of fixed exposures
 #   $total_exposures_num (number) - Number of total exposures
 exposure-chart-caption-fixed = Este gráfico muestra el total de exposiciones fijadas ({ $total_fixed_exposures_num } de { $total_exposures_num })
-exposure-chart-returning-user-upgrade-prompt = La dirección del domicilio, los miembros de la familia y otros datos aún no están incluidos.
+exposure-chart-returning-user-upgrade-prompt = El domicilio, los miembros de la familia y otros datos aún no están incluidos.
 exposure-chart-returning-user-upgrade-prompt-cta = Iniciar un escaneo gratuito
 exposure-chart-scan-in-progress-prompt = <b> Escaneo en progreso: </b> dirección, miembros de la familia y más aún no están incluidos.
 modal-active-number-of-exposures-title = Sobre el número de exposiciones activas
