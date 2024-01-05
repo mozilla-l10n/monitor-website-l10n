@@ -29,6 +29,7 @@ exposure-card-description-info-for-sale-part-two = Remova este perfil para prote
 # $data_breach_company is the company associated with the data breach.
 # $data_breach_date is the date of the data breach.
 exposure-card-description-data-breach-part-one = Suas informações foram expostas no <data_breach_link>vazamento de dados  de { $data_breach_company } em { $data_breach_date }</data_breach_link>.
+exposure-card-description-data-breach-part-two = Orientamos você nas etapas para resolver.
 exposure-card-your-exposed-info = Suas informações expostas:
 exposure-card-exposure-type-data-broker = Informações à venda
 exposure-card-exposure-type-data-breach = Vazamento de dados

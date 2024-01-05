@@ -29,12 +29,27 @@ fix-flow-celebration-high-risk-description-next-security-questions = Agora vamos
 
 fix-flow-celebration-leaked-passwords-title = Suas senhas agora estão protegidas!
 fix-flow-celebration-security-questions-title = Suas perguntas de segurança estão protegidas!
+fix-flow-celebration-leaked-passwords-description-next-security-questions = Agora vamos revisar e alterar suas perguntas de segurança expostas.
 
 ## Security recommendations flow
 
 
 # High Risk Data Breaches
 
+# Variables
+# $num_breaches is the number of breaches where the high risk data was found.
+high-risk-breach-summary =
+    { $num_breaches ->
+        [one] Apareceu em { $num_breaches } vazamento de dados:
+       *[other] Apareceu em { $num_breaches } vazamentos de dados:
+    }
+# Variables
+# $breach_name is the name of the breach where the high risk data was found.
+# $breach_date is the date when the breach occurred.
+# An example of this string is Twitter on 13/09/18.
+high-risk-breach-name-and-date = { $breach_name } <breach_date>em { $breach_date }</breach_date>
+high-risk-breach-mark-as-fixed = Marcar como resolvido
+high-risk-breach-skip = Ignorar por enquanto
 
 # Credit Card Breaches
 

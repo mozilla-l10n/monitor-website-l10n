@@ -32,6 +32,14 @@ landing-all-data-breach-info-ans = Nem todos os vazamentos expõem as mesmas inf
 
 # Social proof
 
+landing-all-social-proof-press = Como visto em
 
 # Here's How We Help
 
+landing-all-help-protect-you = Veja como ajudamos a proteger você
+landing-all-help-protect-you-description = Acreditamos no seu direito à privacidade, por isso a proteção do monitoramento de vazamentos de dados é sempre gratuita.
+landing-all-help-protect-you-feature-one = Procuramos em todos os vazamentos conhecidos de dados
+landing-all-help-protect-you-feature-two = Orientamos nas etapas para resolver cada vazamento
+landing-all-help-protect-you-feature-three = Monitoramos continuamente e enviamos alertas sobre novos vazamentos
+landing-all-help-protect-you-cta = Cadastre-se para receber alertas de vazamentos
+landing-all-take-back-data = Reassuma o controle sobre seus dados
