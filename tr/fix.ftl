@@ -61,6 +61,17 @@ guided-resolution-flow-next-arrow = Sonraki adıma git
 leaked-passwords-steps-title = İşte yapmanız gerekenler
 leaked-passwords-mark-as-fixed = Düzeltildi olarak işaretle
 leaked-passwords-skip = Şimdilik geç
+# Variables
+# $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
+# "Est." is shortform for "Estimated".
+# "mins" is shortform for "minutes".
+leaked-passwords-estimated-time =
+    { $estimated_time ->
+        [one] Tahmini tamamlanma süresi: site başına { $estimated_time } dk.
+       *[other] Tahmini tamamlanma süresi: site başına { $estimated_time } dk.
+    }
 
 # Leaked Security Questions
 
+leaked-security-questions-title = Güvenlik sorularınız ele geçirilmiş
+leaked-security-questions-steps-title = İşte yapmanız gerekenler
