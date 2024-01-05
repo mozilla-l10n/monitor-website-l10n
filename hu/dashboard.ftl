@@ -71,10 +71,10 @@ dashboard-exposures-filter = Szűrő
 dashboard-exposures-filter-company = Cég
 dashboard-exposures-filter-date-found = Találás dátuma
 dashboard-exposures-filter-date-found-last-seven-days = Elmúlt 7 nap
-dashboard-exposures-filter-date-found-last-thirty-days = Utolsó 30 nap
+dashboard-exposures-filter-date-found-last-thirty-days = Elmúlt 30 nap
 dashboard-exposures-filter-date-found-last-year = Tavaly
 dashboard-exposures-filter-status = Állapot
-dashboard-exposures-filter-status-action-needed = Művelet szükséges
+dashboard-exposures-filter-status-action-needed = Intézkedés szükséges
 dashboard-exposures-filter-status-in-progress = Folyamatban
 dashboard-exposures-filter-status-fixed = Javítva
 popover-open-filter-settings-alt = Szűrők kiválasztása
@@ -86,7 +86,7 @@ dashboard-exposures-filter-reset = Visszaállítás
 
 dashboard-top-banner-section-label = A vezérlőpult összefoglalója
 dashboard-top-banner-scan-in-progress-title = A vizsgálat még folyamatban van
-dashboard-top-banner-your-data-is-protected-title = Az adatai védettek
+dashboard-top-banner-your-data-is-protected-title = Az adatai védve vannak
 dashboard-top-banner-your-data-is-protected-cta = Nézze meg, mi lett javítva
 dashboard-top-banner-lets-keep-protecting-title = Védjük továbbra is az adatait
 # Variables:
