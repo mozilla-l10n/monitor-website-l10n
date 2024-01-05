@@ -4,12 +4,15 @@
 
 fix-flow-nav-high-risk-data-breaches = Mba’ekuaarã ñembyai oikokuaáva
 fix-flow-nav-leaked-passwords = Ñe’ẽñemi mboguapyre
+guided-resolution-flow-exit = Eguevijey mba’erupápe
 
 # Celebration screens
 
 
 ## Shared CTA labels
 
+fix-flow-celebration-next-label = Jaku’ejeýke
+fix-flow-celebration-next-recommendations-label = Ehecha ñemoñe’ẽ
 
 ## High-risk flow
 

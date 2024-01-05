@@ -12,12 +12,17 @@ landing-all-hero-image-chart-label = ejehechauka
 # Value Proposition
 
 landing-all-value-prop-fix-exposures = Roipytyvõta ne ñembyaikuaa myatyrõrã
+landing-all-value-prop-info-at-risk = Mba’e marandúpa oñembyaikuaa
 
 # Quote
 
 
 # Non-US FAQ
 
+landing-all-faq-title = Porandu py’ỹiguáva
+# FAQ is an acronym for Frequently Asked Questions
+landing-all-faq-see-all = Ehechapa FAQs
+landing-all-data-breach-definition-qn = Mba’épa pe mba’ekuaarã ñembyai
 
 # Social proof
 
