@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+public-nav-name = { -brand-mozilla-monitor }
 landing-all-hero-emailform-input-placeholder = yourname@example.com
 landing-all-hero-emailform-input-label = Ehai ne ñanduti veve ehechajey hag̃ua eimépa mba’ekuaarã ñemboguápe.
 landing-all-hero-emailform-submit-label = Emoha’ãnga reiete
@@ -10,6 +11,7 @@ landing-all-hero-image-chart-label = ejehechauka
 
 # Value Proposition
 
+landing-all-value-prop-fix-exposures = Roipytyvõta ne ñembyaikuaa myatyrõrã
 
 # Quote
 

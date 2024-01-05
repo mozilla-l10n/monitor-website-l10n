@@ -69,6 +69,9 @@ security-recommendation-phone-title = Emo’ã ne pumbyry papapy
 # Leaked Passwords
 
 leaked-passwords-steps-title = Kóva pe rejapova’erã
+leaked-passwords-mark-as-fixed = Embokurusu oĩporãmaha
+leaked-passwords-skip = Ehasa ko’ág̃a
 
 # Leaked Security Questions
 
+leaked-security-questions-steps-title = Kóva pe rejapova’erã
