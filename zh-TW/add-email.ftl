@@ -16,4 +16,4 @@ add-email-send-verification-button = 寄送驗證鏈結
 add-email-verify-the-link = 請驗證寄送到 { $email } 的鏈結，即可將其新增到 { -brand-fx-monitor }。可到<a { $settings-href }>設定</a>頁面中管理所有要監控的信箱。
 # Variables:
 #   $email (string) - An email address submitted by the user for monitoring, e.g. `example@example.com`
-add-email-verify-the-link-2 = 請到 <b>{ $email }</b> 收信點擊當中的驗證鏈結即可新增 { -brand-mozilla-monitor }。
+add-email-verify-the-link-2 = 請到 <b>{ $email }</b> 收信，點擊當中的驗證鏈結，即可將該信箱加入 { -brand-mozilla-monitor }。
