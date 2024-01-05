@@ -29,15 +29,12 @@ exposure-chart-caption-fixed = 此圖表顯示所有資料曝光事件中，已�
 exposure-chart-returning-user-upgrade-prompt = 尚不包含住家地址、家庭成員與更多資訊。
 exposure-chart-returning-user-upgrade-prompt-cta = 進行免費掃描
 exposure-chart-scan-in-progress-prompt = <b>掃描中：</b>尚未包含地址、家庭成員等資訊。
-modal-active-number-of-exposures-title = 您的有效公開資料數量
+modal-active-number-of-exposures-title = 您被外洩的資料數量
 # Variables:
 #   $limit (number) - Number of email addresses included in the plan
-modal-active-number-of-exposures-part-one-all =
-    { $limit ->
-       *[other] 此圖表顯示了我們發現您目前監控的最多 { $limit } 組電子郵件信箱當中的各資料外洩類型的總次數。
-    }
-modal-active-number-of-exposures-part-two = 舉例來說您有 10 次暴露於您的手機號碼當中的號碼可能代表一個號碼被暴露給 10 個不同的網站或是代表您有 2 個不同的號碼被暴露於 5 個不同的網站。
-modal-active-number-of-exposures-part-three-all = 處理完後它們將會被加入到您的已修正頁面中的已修正事件數量。
+modal-active-number-of-exposures-part-one-all = 此圖表顯示了我們發現到，您目前監控的 { $limit } 組電子郵件地址的各類外洩資料的合計次數。
+modal-active-number-of-exposures-part-two = 舉例來說：假設您的電話號碼外洩 10 次，可能代表的是曾經在 10 個網站被外洩，或是有 2 組不同號碼各自在 5 個網站中被外洩。
+modal-active-number-of-exposures-part-three-all = 事件處理完後，就會加入到「已處理」頁面中的已處理事件總數。
 modal-cta-ok = 確定
 modal-open-alt = 開啟
 modal-close-alt = 關閉
@@ -65,7 +62,7 @@ dashboard-fixed-area-headline-all = 檢視所有修正過的暴露程度
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = 篩選
 dashboard-exposures-filter-company = 公司
-dashboard-exposures-filter-date-found = 建立日期
+dashboard-exposures-filter-date-found = 發現日期
 dashboard-exposures-filter-date-found-last-seven-days = 最近 7 天
 dashboard-exposures-filter-date-found-last-thirty-days = 最近 30 天
 dashboard-exposures-filter-date-found-last-year = 去年
@@ -80,9 +77,9 @@ dashboard-exposures-filter-reset = 重設
 
 ## Top banner on the dashboard
 
-dashboard-top-banner-section-label = 儀表板摘要
+dashboard-top-banner-section-label = 儀錶板摘要
 dashboard-top-banner-scan-in-progress-title = 您的掃描仍在進行中
-dashboard-top-banner-your-data-is-protected-title = 您的資料受保護
+dashboard-top-banner-your-data-is-protected-title = 您的資料受到保護
 dashboard-top-banner-your-data-is-protected-cta = 看看處理了哪些事件
 dashboard-top-banner-lets-keep-protecting-title = 讓我們持續保護您的資料
 # Variables:

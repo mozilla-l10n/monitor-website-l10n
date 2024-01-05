@@ -361,7 +361,7 @@ monitor-preferences = { -product-short-name } 偏好設定
 signed-in-as = 已登入為: { $userEmail }
 # Appears on the All Breaches page and is followed by a list of filter options
 # that a user can filter the visible breaches by.
-filter-by = 依照分類過濾:
+filter-by = 依照分類篩選：
 # Title that appears in the mobile menu bar and opens the mobile menu when clicked.
 menu = 選單
 to-affected-email = 傳送資料外洩警報到受影響的電子郵件信箱
