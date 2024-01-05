@@ -30,8 +30,8 @@ manage-emails-link = 管理信箱
 
 ## Breaches resolved filter
 
-filter-label-unresolved = 未處理的事件
-filter-label-resolved = 處理過的事件
+filter-label-unresolved = 場未處理的事件
+filter-label-resolved = 場處理過的事件
 
 ## Breaches table
 
