@@ -42,7 +42,7 @@ column-detected = 事件偵測日期
 column-status-badge-resolved = 已解決
 # “Active” is shown next to a breach if the user still has at least one recommended action to perform in response to the breach.
 column-status-badge-active = 進行中
-breaches-resolve-heading = 處理此次事件了：
+breaches-resolve-heading = 事件處理方式：
 breaches-none-headline = 找不到資料外洩事件
 # Variables:
 #   $email (String) - An email address that we did not find breaches for, e.g. `someone@example.com`

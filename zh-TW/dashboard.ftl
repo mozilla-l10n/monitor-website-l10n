@@ -11,22 +11,22 @@
 #   $nr (number) - Number of unresolved exposures for the user
 exposure-chart-heading =
     { $nr ->
-       *[other] <nr>{ $nr }</nr> <label>曝光</label>
+       *[other] <nr>{ $nr }</nr> <label>次資料曝光事件</label>
     }
 # Variables:
 #   $nr (number) - Number of fixed exposures found for the user
-exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>已固定</label>
-exposure-chart-legend-heading-type = 曝光
-exposure-chart-legend-heading-nr = 數值
+exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>次已處理事件</label>
+exposure-chart-legend-heading-type = 資料曝光事件
+exposure-chart-legend-heading-nr = 次數
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
-exposure-chart-caption = 這張圖顯示您的資訊被主動公開的次數。
+exposure-chart-caption = 此圖表顯示您的資訊被主動曝光的次數。
 # Variables:
 #   $total_fixed_exposures_num (number) - Number of fixed exposures
 #   $total_exposures_num (number) - Number of total exposures
-exposure-chart-caption-fixed = 此圖表顯示{ $total_fixed_exposures_num } / { $total_exposures_num } 中的固定曝光程度
-exposure-chart-returning-user-upgrade-prompt = 尚未包含家庭住址、家庭成員等資訊。
+exposure-chart-caption-fixed = 此圖表顯示所有資料曝光事件中，已處理事件的數量（{ $total_fixed_exposures_num } / { $total_exposures_num }）
+exposure-chart-returning-user-upgrade-prompt = 尚不包含住家地址、家庭成員與更多資訊。
 exposure-chart-returning-user-upgrade-prompt-cta = 進行免費掃描
 exposure-chart-scan-in-progress-prompt = <b>掃描中：</b>尚未包含地址、家庭成員等資訊。
 modal-active-number-of-exposures-title = 您的有效公開資料數量
