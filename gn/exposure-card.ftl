@@ -4,12 +4,18 @@
 
 chevron-down-alt = Moasãi
 chevron-up-alt = Pa’ãmba
+exposure-card-exposure-type = Mba’eichagua jehechauka
+exposure-card-date-found = Mba’e árapa oiko jehechauka
 
 # Status Pill
 
+status-pill-action-needed = Tekotevẽva ojejapo
+status-pill-progress = Oikovahína
+status-pill-fixed = Opytáva
 
 # Exposure Card
 
+exposure-card-family-members = Pehẽngue rehegua
 exposure-card-email = Ñanduti veve
 exposure-card-address = Kundaharape
 exposure-card-credit-card = Kuatia’atã ñemurã

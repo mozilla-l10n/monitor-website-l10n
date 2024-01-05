@@ -31,6 +31,8 @@ progress-card-manually-fixed-headline = Pópe ñembojáva
 dashboard-tab-label-action-needed = Tekotevẽva ojejapo
 dashboard-tab-label-fixed = Opytáva
 dashboard-exposures-all-fixed-label = ¡Oĩporãma ko’ápe!
+dashboard-exposures-area-headline = Ehecha umi tenda ne marandu oñembyaikuaaha
+dashboard-fixed-area-headline-all = Ehecha umi jehechaukakue oĩporãjeýmava
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Mbogua
 dashboard-exposures-filter-company = Atyguasu
@@ -53,9 +55,12 @@ dashboard-top-banner-section-label = Mba’erupa momichĩ
 dashboard-top-banner-scan-in-progress-title = Ne ñemoha’ãnga oiko gueteri
 dashboard-top-banner-your-data-is-protected-title = Ne mba’ekuaarã oñemo’ã
 dashboard-top-banner-your-data-is-protected-cta = Ehecha oĩporãmava
+dashboard-top-banner-lets-keep-protecting-title = Romo’ãta gueteri ne mba’ekuaarã
 dashboard-top-banner-lets-keep-protecting-cta = Jaku’ejeýke
 dashboard-top-banner-no-exposures-found-title = Ndojejuhúi máva jehechauka
 dashboard-no-exposures-label = Ndojejuhúi máva jehechauka
+dashboard-top-banner-monitor-more-cta = Roma’ẽag̃uíta hetave ñanduti vevére
 
 # About Exposure Statuses Modal
 
+modal-exposure-status-title = Jehechauka rekotee rehegua
