@@ -35,3 +35,4 @@ landing-all-help-protect-you-description = Romomba’e nde derécho tekoñemirã
 landing-all-help-protect-you-feature-one = Rohekáta opaite mba’ekuaarã ñembogua ojekuaáavape
 landing-all-help-protect-you-cta = Eñemboheraguapy og̃uahẽ hag̃ua ñembyai rehegua
 landing-all-get-started = Emoha’ãnga ñanduti veve eñepyrũ hag̃ua
+landing-all-take-back-data = Eguerujey ne mba’ekuaarã rechameme
