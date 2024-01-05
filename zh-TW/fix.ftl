@@ -172,7 +172,7 @@ leaked-passwords-title = 您的 { $breach_name } 密碼遭到外洩
 # Variables
 # $breach_date is the date when the breach occurred.
 leaked-passwords-summary = 出現在 { $breach_date } 發生的資料外洩事件中。
-leaked-passwords-description = 詐騙者可以據此盜用您的帳號，並且很可能會嘗試使用相同的帳號密碼登入您在其他地方的帳號。請將任何使用過相同密碼的帳號也一併更換，以保護自己。
+leaked-passwords-description = 詐騙者可以據此盜用您的帳號，並且很可能會用來嘗試登入您其他網站的帳號。請將任何使用過相同密碼的帳號都一併更換，以保護自己。
 leaked-passwords-steps-title = 接下來要做什麼
 leaked-passwords-steps-subtitle = 需要存取您的帳號的權限才能處理，所以需要請您手動處理。
 # Variables
@@ -199,9 +199,9 @@ leaked-security-questions-title = 您的安全性問題已遭曝光
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
 leaked-security-questions-summary = 它們出現在 { $breach_date } 發生的 { $breach_name } 資料外洩事件中。
-leaked-security-questions-description = 詐騙者可以使用它們來存取您的帳號以及您使用過相同安全問題的任何其他網站。立刻更新保護您的帳號。
+leaked-security-questions-description = 詐騙者可以據此盜用您的帳號，並且很可能會用來嘗試登入您其他使用相同安全性問題的網站帳號。請立即更換安全性問題與答案以保護帳號。
 leaked-security-questions-steps-title = 接下來要做什麼
-leaked-security-questions-steps-subtitle = 這需要您存取帳號的權限才能關閉所以您需要手動修正。
+leaked-security-questions-steps-subtitle = 需要存取您的帳號的權限才能處理，所以需要請您手動處理。
 # Variables
 # $breach_name is the name of the breach where the security questions were found.
 # $email_affected is the email associated with the breach.
