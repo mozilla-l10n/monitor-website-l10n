@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fix-flow-nav-high-risk-data-breaches = Mba’ekuaarã ñembyai oikokuaáva
+fix-flow-nav-leaked-passwords = Ñe’ẽñemi mboguapyre
 
 # Celebration screens
 
@@ -39,6 +41,7 @@ ssn-modal-ok = MONEĨ
 
 # No high risk breaches found
 
+high-risk-breach-none-sub-description-pin = PINs
 high-risk-breach-none-continue = Ku’ejey
 
 # Security recommendations
