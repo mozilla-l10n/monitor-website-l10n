@@ -23,6 +23,7 @@ exposure-card-credit-card = Thẻ tín dụng
 exposure-card-password = Mật khẩu
 exposure-card-ip-address = Địa chỉ IP
 exposure-card-other = Khác
+exposure-card-description-info-for-sale-part-one = Trang web này đang bán và xuất bản <data_broker_link>chi tiết về bạn.</data_broker_link>
 exposure-card-description-info-for-sale-part-two = Xóa hồ sơ này để bảo vệ sự riêng tư của bạn.
 # Variables:
 # $data_breach_company is the company associated with the data breach.

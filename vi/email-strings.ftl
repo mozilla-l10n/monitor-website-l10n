@@ -108,7 +108,7 @@ email-resolve-cta = Giải quyết rò rỉ dữ liệu
 ## Verification email
 
 email-verify-heading = Bảo vệ dữ liệu của bạn, bắt đầu ngay bây giờ
-email-verify-subhead = Xác minh email của bạn để bắt đầu bảo vệ dữ liệu của bạn sau một vụ rò rỉ.
+email-verify-subhead = Xác minh email của bạn để bắt đầu bảo vệ dữ liệu của bạn sau vụ rò rỉ.
 email-verify-simply-click = Chỉ cần nhấp vào liên kết bên dưới để hoàn tất việc xác minh tài khoản của bạn.
 
 ## Breach report

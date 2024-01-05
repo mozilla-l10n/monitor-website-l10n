@@ -44,6 +44,7 @@ user-add-duplicate-email = Email này đã được thêm vào { -product-name }
 #   $preferencesLink (String) - Link to preferences
 #   $userEmail (String) - User email address
 user-add-duplicate-email-part-2 = Truy cập { $preferencesLink } của bạn để kiểm tra trạng thái của { $userEmail }.
+user-add-verification-email-just-sent = Bạn đã yêu cầu email xác minh khác quá nhanh. Vui lòng thử lại sau.
 user-add-unknown-error = Đã xảy ra lỗi khi thêm địa chỉ email khác. Vui lòng thử lại sau.
 error-headline = Lỗi
 user-verify-token-error = Token xác minh được yêu cầu.

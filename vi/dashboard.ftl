@@ -14,6 +14,7 @@ exposure-chart-heading = <nr>{ $nr }</nr> <label>rò rỉ</label>
 #   $nr (number) - Number of fixed exposures found for the user
 exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>đã giải quyết</label>
 exposure-chart-legend-heading-type = Vụ rò rỉ
+exposure-chart-legend-heading-nr = Số
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
@@ -67,6 +68,7 @@ dashboard-exposures-filter-reset = Đặt lại
 
 ## Top banner on the dashboard
 
+dashboard-top-banner-section-label = Trang tổng quan tóm tắt
 dashboard-top-banner-scan-in-progress-title = Quá trình quét của bạn vẫn đang được tiến hành
 dashboard-top-banner-your-data-is-protected-title = Dữ liệu của bạn được bảo vệ
 dashboard-top-banner-your-data-is-protected-cta = Xem những gì đã được giải quyết

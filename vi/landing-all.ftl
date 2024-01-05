@@ -3,10 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 public-nav-name = { -brand-mozilla-monitor }
+landing-all-hero-title = Tìm hiểu xem thông tin cá nhân của bạn bị lộ ở đâu — và lấy lại thông tin đó
 landing-all-hero-lead = Chúng tôi quét các rò rỉ dữ liệu để xem dữ liệu của bạn có bị rò rỉ hay không và cung cấp cho bạn các bước để giải quyết.
 landing-all-hero-emailform-input-placeholder = yourname@example.com
 landing-all-hero-emailform-input-label = Nhập địa chỉ email của bạn để kiểm tra mức độ rò rỉ dữ liệu.
 landing-all-hero-emailform-submit-label = Quét miễn phí
+# This is a label underneath a big number "14" - it's an image that demos Monitor.
+landing-all-hero-image-chart-label = dữ liệu bị lộ
 
 # Value Proposition
 
