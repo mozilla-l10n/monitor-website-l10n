@@ -17,6 +17,7 @@ guided-resolution-flow-step-navigation-label = Jeguata ma’ẽgua
 
 fix-flow-celebration-next-label = Jaku’ejeýke
 fix-flow-celebration-next-recommendations-label = Ehecha ñemoñe’ẽ
+fix-flow-celebration-next-dashboard-label = Eho ne mba’erupa rendápe
 
 ## High-risk flow
 
@@ -29,6 +30,12 @@ fix-flow-celebration-next-recommendations-label = Ehecha ñemoñe’ẽ
 
 # High Risk Data Breaches
 
+high-risk-breach-heading = Kóva pe rejapova’erã
+# Variables
+# $breach_name is the name of the breach where the high risk data was found.
+# $breach_date is the date when the breach occurred.
+# An example of this string is Twitter on 13/09/18.
+high-risk-breach-name-and-date = { $breach_name } <breach_date> { $breach_date }</breach_date>-pe
 high-risk-breach-mark-as-fixed = Embokurusu oĩporãmaha
 high-risk-breach-skip = Ehasa ko’ág̃a
 
