@@ -33,9 +33,11 @@ fix-flow-celebration-leaked-passwords-description-next-security-questions = Agor
 
 ## Security recommendations flow
 
+fix-flow-celebration-security-recommendations-title = Você concluiu todas as recomendações!
 
 # High Risk Data Breaches
 
+high-risk-breach-subheading = Isso requer acesso a suas informações confidenciais, então você precisa resolver manualmente.
 # Variables
 # $num_breaches is the number of breaches where the high risk data was found.
 high-risk-breach-summary =
@@ -50,6 +52,14 @@ high-risk-breach-summary =
 high-risk-breach-name-and-date = { $breach_name } <breach_date>em { $breach_date }</breach_date>
 high-risk-breach-mark-as-fixed = Marcar como resolvido
 high-risk-breach-skip = Ignorar por enquanto
+# Variables:
+# $estimated_time is the estimated time it would take for a user to complete breach resolution steps. It not be singular, and the + is meant as "or more".
+# An example of this string is Your estimated time: 15+ minutes.
+high-risk-breach-estimated-time =
+    { $estimated_time ->
+        [one] Tempo estimado: { $estimated_time } minuto
+       *[other] Tempo estimado: { $estimated_time } minutos ou mais
+    }
 
 # Credit Card Breaches
 
@@ -69,9 +79,13 @@ high-risk-breach-bank-account-step-three = Verifique se há cobranças não auto
 # Social Security Number Breaches
 
 high-risk-breach-social-security-title = Seu número de previdência social foi exposto
+high-risk-breach-social-security-step-one = Proteja-se <link_to_info>criando um alerta de fraude ou congelando seu crédito</link_to_info>.
+high-risk-breach-social-security-step-two = <link_to_info>Verifique seu relatório de crédito</link_to_info> para ver se há contas não reconhecidas.
 
 # Social Security Number Modal
 
+ssn-modal-title = Informações sobre alertas de fraude e congelamento de crédito
+ssn-modal-learn-more = Saiba mais sobre alertas de fraude e congelamento de crédito
 ssn-modal-ok = OK
 
 # PIN Breaches
@@ -84,6 +98,11 @@ high-risk-breach-pin-step-three = Verifique se há cobranças não autorizadas e
 
 # No high risk breaches found
 
+high-risk-breach-none-title = Boas notícias, não encontramos nenhum vazamento de dados de alto risco
+# Variables
+# $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
+high-risk-breach-none-description = Detectamos vazamentos de dados com base em seu endereço de email, não encontramos nenhum vazamento de dados de alto risco de { $email_list }.
+high-risk-breach-none-sub-description-part-one = Vazamentos de dados de alto risco incluem:
 high-risk-breach-none-sub-description-ssn = Número de previdência social
 high-risk-breach-none-sub-description-bank-account = Informações de conta bancária
 high-risk-breach-none-sub-description-cc-number = Números de cartão de crédito
@@ -99,10 +118,27 @@ security-recommendation-steps-cta-label = Entendi
 # Phone security recommendation
 
 security-recommendation-phone-title = Proteja seu número de celular
+# $num_breaches is the number of breaches where the phone number was found.
+security-recommendation-phone-summary =
+    { $num_breaches ->
+        [one] Seu número de celular foi exposto em { $num_breaches } vazamento de dados:
+       *[other] Seu número de celular foi exposto em { $num_breaches } vazamentos de dados:
+    }
+security-recommendation-phone-description = Infelizmente você não pode voltar atrás. Mas há medidas que você pode tomar para garantir sua segurança.
+security-recommendation-phone-step-one = Bloquear números de spam para evitar mais chamadas indesejadas
+security-recommendation-phone-step-two = Não clicar em links de textos de remetentes desconhecidos. Se parecer ser de uma fonte confiável, ligue diretamente para confirmar
 
 # Email security recommendation
 
 security-recommendation-email-title = Proteja seu endereço de email
+# $num_breaches is the number of breaches where the email address was found.
+security-recommendation-email-summary =
+    { $num_breaches ->
+        [one] Seu endereço de email foi exposto em { $num_breaches } vazamento de dados:
+       *[other] Seu endereço de email foi exposto em { $num_breaches } vazamentos de dados:
+    }
+security-recommendation-email-description = Infelizmente você não pode voltar atrás. Mas há medidas que você pode tomar se proteger.
+security-recommendation-email-step-one = Não clicar em links de emails de remetentes desconhecidos. Se parecer ser de uma fonte confiável, ligue diretamente para confirmar
 
 # IP security recommendation
 
