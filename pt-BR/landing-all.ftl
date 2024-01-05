@@ -32,6 +32,20 @@ landing-all-data-breach-info-ans = Nem todos os vazamentos expõem as mesmas inf
 
 # Social proof
 
+# Variables
+# $num_users is the number of users in the millions.
+landing-all-social-proof-title =
+    { $num_users ->
+        [one] Aprovado por { $num_users } milhão de pessoas no mundo todo
+       *[other] Aprovado por { $num_users } milhões de pessoas no mundo todo
+    }
+# Variables
+# $num_countries is the number of countries available.
+landing-all-social-proof-description =
+    { $num_countries ->
+        [one] Desde 2018, ajudamos pessoas em { $num_countries } país a proteger seus dados quando são expostos.
+       *[other] Desde 2018, ajudamos pessoas em { $num_countries } países a proteger seus dados quando são expostos.
+    }
 landing-all-social-proof-press = Como visto em
 
 # Here's How We Help
@@ -42,4 +56,5 @@ landing-all-help-protect-you-feature-one = Procuramos em todos os vazamentos con
 landing-all-help-protect-you-feature-two = Orientamos nas etapas para resolver cada vazamento
 landing-all-help-protect-you-feature-three = Monitoramos continuamente e enviamos alertas sobre novos vazamentos
 landing-all-help-protect-you-cta = Cadastre-se para receber alertas de vazamentos
+landing-all-get-started = Verifique seu email para começar
 landing-all-take-back-data = Reassuma o controle sobre seus dados

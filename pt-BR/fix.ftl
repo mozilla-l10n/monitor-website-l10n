@@ -139,16 +139,43 @@ security-recommendation-email-summary =
     }
 security-recommendation-email-description = Infelizmente você não pode voltar atrás. Mas há medidas que você pode tomar se proteger.
 security-recommendation-email-step-one = Não clicar em links de emails de remetentes desconhecidos. Se parecer ser de uma fonte confiável, ligue diretamente para confirmar
+security-recommendation-email-step-two = Estar atento a <link_to_info>golpes de obtenção de informações</link_to_info>
+security-recommendation-email-step-three = Marcar emails suspeitos como spam e bloquear o remetente
+security-recommendation-email-step-four = Usar <link_to_info>máscaras de email do { -brand-relay }</link_to_info> para proteger seu email no futuro
 
 # IP security recommendation
 
 security-recommendation-ip-title = Use uma VPN para maior privacidade
+# $num_breaches is the number of breaches where the IP address was found.
+security-recommendation-ip-summary =
+    { $num_breaches ->
+        [one] Seu endereço IP foi exposto em { $num_breaches } vazamento de dados:
+       *[other] Seu endereço IP foi exposto em { $num_breaches } vazamentos de dados:
+    }
 
 # Leaked Passwords
 
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+leaked-passwords-title = Sua senha em { $breach_name } foi exposta
+# Variables
+# $breach_date is the date when the breach occurred.
+leaked-passwords-summary = Apareceu em um vazamento de dados em { $breach_date }.
+leaked-passwords-steps-subtitle = Isso requer acesso à sua conta, então você precisa resolver manualmente.
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+# $emails_affected are the emails associated with the breach.
+leaked-passwords-step-one = Mude sua senha de <b>{ $emails_affected }</b> em <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-passwords-step-two = Mude em qualquer outro lugar onde a tenha usado.
 leaked-passwords-mark-as-fixed = Marcar como resolvido
 leaked-passwords-skip = Ignorar por enquanto
 
 # Leaked Security Questions
 
 leaked-security-questions-title = Suas perguntas de segurança foram expostas
+# Variables
+# $breach_name is the name of the breach where the leaked security questions were found.
+# $breach_date is the date when the breach occurred.
+# An example of this string is Twitter on 13/09/18.
+leaked-security-questions-summary = Apareceram em um vazamento de dados de { $breach_name } em { $breach_date }.
+leaked-security-questions-steps-subtitle = Isso requer acesso à sua conta, então você precisa resolver manualmente.
