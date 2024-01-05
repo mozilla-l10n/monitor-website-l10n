@@ -11,13 +11,13 @@
 #   $nr (number) - Number of unresolved exposures for the user
 exposure-chart-heading =
     { $nr ->
-        [one] <nr>{ $nr }</nr> <label>expozíció</label>
-       *[other] <nr>{ $nr }</nr> <label>expozíció</label>
+        [one] <nr>{ $nr }</nr> <label>incidens</label>
+       *[other] <nr>{ $nr }</nr> <label>incidens</label>
     }
 # Variables:
 #   $nr (number) - Number of fixed exposures found for the user
 exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>Kijavítva</label>
-exposure-chart-legend-heading-type = Expozíció
+exposure-chart-legend-heading-type = Incidens
 exposure-chart-legend-heading-nr = Szám
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
