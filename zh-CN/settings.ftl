@@ -32,7 +32,7 @@ settings-delete-email-button = 删除电子邮件地址
 # how many known breaches that email address was found in.
 # Variables:
 #   $breachCount (number) - Number of breaches
-settings-email-number-of-breaches-info = 出现在 { $breachCount } 次已知的数据泄漏事件中。
+settings-email-number-of-breaches-info = 出现在 { $breachCount } 次已知的数据外泄事件中。
 
 ## Cancel Premium subscription
 
