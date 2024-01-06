@@ -15,6 +15,7 @@ guided-resolution-flow-step-navigation-label = 向导步骤
 
 ## Shared CTA labels
 
+fix-flow-celebration-next-label = 继续处理
 fix-flow-celebration-next-recommendations-label = 查看建议
 fix-flow-celebration-next-dashboard-label = 前往面板
 
@@ -55,6 +56,10 @@ high-risk-breach-summary = 在 { $num_breaches } 次数据外泄事件中出现�
 high-risk-breach-name-and-date = { $breach_name } <breach_date>发生于 { $breach_date }</breach_date>
 high-risk-breach-mark-as-fixed = 标记为已处理
 high-risk-breach-skip = 暂时跳过
+# Variables:
+# $estimated_time is the estimated time it would take for a user to complete breach resolution steps. It not be singular, and the + is meant as "or more".
+# An example of this string is Your estimated time: 15+ minutes.
+high-risk-breach-estimated-time = 预计需要时间：{ $estimated_time }+ 分钟
 
 # Credit Card Breaches
 
@@ -82,6 +87,9 @@ high-risk-breach-social-security-step-two = <link_to_info>检查您的信用报�
 # Social Security Number Modal
 
 ssn-modal-title = 关于欺诈警报和信用额度冻结
+ssn-modal-description-fraud-part-two = 若要申请，请联系三大征信机构中的任意一家，无需全部联系。
+ssn-modal-description-freeze-credit-part-one = <b>冻结信用</b>可防止任何人以您的名义开设新账户。此操作无需付费，也不会对您的信用评分产生负面影响，不过在开设新账户前需要先解冻。
+ssn-modal-description-freeze-credit-part-two = 若要冻结信用，请联系 <equifax_link>Equifax</equifax_link>、<experian_link>Experian</experian_link>、<transunion_link>TransUnion</transunion_link> 三家征信机构。
 ssn-modal-learn-more = 详细了解欺诈警报和信用额度冻结
 ssn-modal-ok = 确定
 

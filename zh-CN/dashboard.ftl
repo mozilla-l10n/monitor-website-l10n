@@ -27,6 +27,9 @@ exposure-chart-returning-user-upgrade-prompt = 家庭地址、家庭成员等未
 exposure-chart-returning-user-upgrade-prompt-cta = 免费扫描
 exposure-chart-scan-in-progress-prompt = <b>正在扫描：</b>地址、家庭成员等未包括在内。
 modal-active-number-of-exposures-title = 关于正在暴露的数量
+# Variables:
+#   $limit (number) - Number of email addresses included in the plan
+modal-active-number-of-exposures-part-one-all = 此图标展示了我们在您当前监控的 { $limit } 个邮箱地址的所有数据外泄事件中，发现的每类数据的暴露总次数。
 modal-active-number-of-exposures-part-two = 举例来说，如果您的电话号码暴露了 10 次，则可能代表 1 个电话号码在 10 个不同网站上被暴露，也可能代表 2 个电话号码 5 个不同网站上被暴露。
 modal-active-number-of-exposures-part-three-all = 问题解决后，就会添加到”已处理“页面上已处理的暴露总数中。
 modal-cta-ok = 确定
