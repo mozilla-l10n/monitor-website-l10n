@@ -8,6 +8,7 @@ exposure-card-date-found = 暴露日期
 
 # Status Pill
 
+status-pill-action-needed = 需要处理
 status-pill-progress = 进行中
 status-pill-fixed = 已处理
 
