@@ -9,6 +9,8 @@ guided-resolution-flow-next-arrow = Va al passo successive
 
 ## Shared CTA labels
 
+fix-flow-celebration-next-recommendations-label = Vide le recommendationes
+fix-flow-celebration-next-dashboard-label = Va a tu quadro de controlo
 
 ## High-risk flow
 
