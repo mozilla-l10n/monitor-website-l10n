@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 public-nav-name = { -brand-mozilla-monitor }
-landing-all-hero-title = Encuentre dónde está expuesta su información privada y reconectela
+landing-all-hero-title = Fijate si tu información privada fue expuesta — y recuperala
 landing-all-hero-lead = Analizamos las filtraciones de datos para ver si tus datos se han filtrado y te brindamos pasos para solucionarlo.
 landing-all-hero-emailform-input-placeholder = yourname@example.com
 landing-all-hero-emailform-input-label = Ingresá tu dirección de correo electrónico para verificar si hay exposiciones a filtraciones de datos.
@@ -13,7 +13,7 @@ landing-all-hero-image-chart-label = exposiciones
 
 # Value Proposition
 
-landing-all-value-prop-fix-exposures = Lo ayudaremos a corregir sus exposiciones
+landing-all-value-prop-fix-exposures = Te ayudaremos a corregir tus exposiciones
 landing-all-value-prop-fix-exposures-description = Nuestra misión es devolver el control de sus datos personales. Te ayudaremos a resolver las filtraciones de datos y a mantener tu información privada, y <privacy_link> respetaremos tu privacidad </privacy_link> en el proceso.
 landing-all-value-prop-info-at-risk = ¿Qué información podría estar en riesgo?
 landing-all-value-prop-info-at-risk-description = Lamentablemente, las fugas de datos forman parte de nuestra vida digital. tus contraseñas, datos de contacto, información financiera y otra información personal pueden quedar expuestas, poniéndote en riesgo de robo de identidad.
