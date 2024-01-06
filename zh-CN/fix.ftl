@@ -82,27 +82,101 @@ high-risk-breach-social-security-step-two = <link_to_info>检查您的信用报�
 # Social Security Number Modal
 
 ssn-modal-title = 关于欺诈警报和信用额度冻结
+ssn-modal-learn-more = 详细了解欺诈警报和信用额度冻结
+ssn-modal-ok = 确定
 
 # PIN Breaches
 
+high-risk-breach-pin-title = 您的 PIN 已暴露
+high-risk-breach-pin-description = 尽快采取行动可以为您争取更多法律保护并挽回损失。
+high-risk-breach-pin-step-one = 立即通知银行您的 PIN 已被盗用。
+high-risk-breach-pin-step-two = 如果在其他地方使用了相同的 PIN，请全部更改。
+high-risk-breach-pin-step-three = 检查您的账户是否有未经授权的扣款。
 
 # No high risk breaches found
 
+high-risk-breach-none-title = 好消息，我们未发现任何高风险数据外泄事件
+# Variables
+# $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
+high-risk-breach-none-description = 我们按照您的邮箱地址来检测数据外泄事件，没有发现 { $email_list } 的高风险数据外泄事件。
+high-risk-breach-none-sub-description-part-one = 高风险的数据外泄包括：
+high-risk-breach-none-sub-description-ssn = 美国社会保障号码
+high-risk-breach-none-sub-description-bank-account = 银行账户信息
+high-risk-breach-none-sub-description-cc-number = 信用卡号
+high-risk-breach-none-sub-description-pin = PIN
+high-risk-breach-none-continue = 继续
 
 # Security recommendations
 
+security-recommendation-steps-label = 安全建议
+security-recommendation-steps-title = 以下是我们的建议：
+security-recommendation-steps-cta-label = 明白了！
 
 # Phone security recommendation
 
+security-recommendation-phone-title = 保护您的电话号码
+# $num_breaches is the number of breaches where the phone number was found.
+security-recommendation-phone-summary = 您的电话号码出现在 { $num_breaches } 次数据外泄事件中：
+security-recommendation-phone-description = 虽然您没有办法索回此信息，但可以按照以下步骤来确保自身安全。
+security-recommendation-phone-step-one = 拦截骚扰号码以避免接到骚扰电话
+security-recommendation-phone-step-two = 不要点击未知发件人发来的信息当中的链接。如果认为是来自可信来源，请直接向其致电确认
 
 # Email security recommendation
 
+security-recommendation-email-title = 保护您的邮箱地址
+# $num_breaches is the number of breaches where the email address was found.
+security-recommendation-email-summary = 您的邮箱地址出现在 { $num_breaches } 次数据外泄事件中：
+security-recommendation-email-description = 很可惜，此问题无法处理，但还是可以采取一些措施来保护自己。
+security-recommendation-email-step-one = 不要点击未知发件人发来的邮件当中的链接。如果认为是来自可信来源，请直接向其致电确认。
+security-recommendation-email-step-two = 小心<link_to_info>钓鱼诈骗</link_to_info>
+security-recommendation-email-step-three = 将可疑的邮件标记为垃圾邮件，并拦截发件人
+security-recommendation-email-step-four = 将来使用 <link_to_info>{ -brand-relay } 马甲邮箱</link_to_info>保护您的邮箱
 
 # IP security recommendation
 
+security-recommendation-ip-title = 使用 VPN 加强隐私保护
+# $num_breaches is the number of breaches where the IP address was found.
+security-recommendation-ip-summary = 您的 IP 地址出现在 { $num_breaches } 次数据外泄事件中：
+security-recommendation-ip-description = 您的 IP 地址可用于精准确定您的位置和互联网服务提供商。黑客可通过此信息找到您的位置，或尝试连接您的设备。
+security-recommendation-ip-step-one = 使用 VPN（例如 <link_to_info>{ -brand-mozilla-vpn }</link_to_info>）来隐藏您的真实 IP 地址，私密上网。
 
 # Leaked Passwords
 
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+leaked-passwords-title = 您的 { $breach_name } 密码已暴露
+# Variables
+# $breach_date is the date when the breach occurred.
+leaked-passwords-summary = 出现在 { $breach_date } 发生的数据外泄事件中。
+leaked-passwords-description = 诈骗分子可访问您的账户，并且很可能尝试使用此密码登录其他账户。如果您在其他地方使用了相同的密码，请全部更改以保护自己。
+leaked-passwords-steps-title = 需进行的操作
+leaked-passwords-steps-subtitle = 此操作需要访问您的账户，所以您需要手动处理。
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+# $emails_affected are the emails associated with the breach.
+leaked-passwords-step-one = 在 <link_to_breach_site>{ $breach_name }</link_to_breach_site> 上更改 <b>{ $emails_affected }</b> 账户的密码。
+leaked-passwords-step-two = 如果您在其他地方使用了相同的密码，请全部更改。
+leaked-passwords-mark-as-fixed = 标记为已解决
+leaked-passwords-skip = 暂时跳过
+# Variables
+# $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
+# "Est." is shortform for "Estimated".
+# "mins" is shortform for "minutes".
+leaked-passwords-estimated-time = 预计完成时间：每网站 { $estimated_time } 分钟
 
 # Leaked Security Questions
 
+leaked-security-questions-title = 您的安全问题已暴露
+# Variables
+# $breach_name is the name of the breach where the leaked security questions were found.
+# $breach_date is the date when the breach occurred.
+# An example of this string is Twitter on 13/09/18.
+leaked-security-questions-summary = 出现在 { $breach_date } 发生的 { $breach_name } 数据外泄事件中。
+leaked-security-questions-description = 诈骗分子可通过这些信息访问您的账户，以及其他使用了相同安全问题的网站。立即更新安全问题以保护账户。
+leaked-security-questions-steps-title = 需进行的操作
+leaked-security-questions-steps-subtitle = 此操作需要访问您的账户，所以您需要手动处理。
+# Variables
+# $breach_name is the name of the breach where the security questions were found.
+# $email_affected is the email associated with the breach.
+leaked-security-questions-step-one = 在 <link_to_breach_site>{ $breach_name }</link_to_breach_site> 上更新 <b>{ $email_affected }</b> 账户的安全问题。
+leaked-security-questions-step-two = 如果您在其他网站上使用了相同的安全问题，请全部更新。确保为每个账户使用不同的安全问题。
