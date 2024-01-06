@@ -16,7 +16,7 @@ exposure-chart-heading =
     }
 # Variables:
 #   $nr (number) - Number of fixed exposures found for the user
-exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>Fija</label>
+exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>Corregidas</label>
 exposure-chart-legend-heading-type = Exposición
 exposure-chart-legend-heading-nr = Número
 # Variables:
@@ -26,7 +26,7 @@ exposure-chart-caption = Este gráfico muestra cuántas veces tu información es
 # Variables:
 #   $total_fixed_exposures_num (number) - Number of fixed exposures
 #   $total_exposures_num (number) - Number of total exposures
-exposure-chart-caption-fixed = Este gráfico muestra el total de exposiciones fijadas ({ $total_fixed_exposures_num } de { $total_exposures_num })
+exposure-chart-caption-fixed = Este gráfico muestra el total de exposiciones corregidas ({ $total_fixed_exposures_num } de { $total_exposures_num })
 exposure-chart-returning-user-upgrade-prompt = El domicilio, los miembros de la familia y otros datos aún no están incluidos.
 exposure-chart-returning-user-upgrade-prompt-cta = Iniciar un escaneo gratuito
 exposure-chart-scan-in-progress-prompt = <b> Escaneo en progreso: </b> dirección, miembros de la familia y más aún no están incluidos.
@@ -62,8 +62,8 @@ dashboard-exposures-area-description-all-line1 =
 #   $data_breach_unresolved_num (number) - the unresolved number of data breaches the user has.
 dashboard-exposures-area-description-all-line2 =
     { $data_breach_unresolved_num ->
-        [one] Apareció en { $data_breach_unresolved_num } violación de datos.
-       *[other] Apareció en { $data_breach_unresolved_num } violaciones de datos.
+        [one] Apareció en { $data_breach_unresolved_num } filtración de datos.
+       *[other] Apareció en { $data_breach_unresolved_num } filtraciones de datos.
     }
 dashboard-fixed-area-headline-all = Ver todas las exposiciones que están arregladas
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
@@ -93,8 +93,8 @@ dashboard-top-banner-lets-keep-protecting-title = Sigamos protegiendo tus datos
 # $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
 dashboard-top-banner-lets-keep-protecting-description =
     { $exposures_unresolved_num ->
-        [one] Todavía tiene { $exposures_unresolved_num } exposición por arreglar. Sigue y protégete. Te guiamos paso a paso.
-       *[other] Todavía le quedan { $exposures_unresolved_num } exposiciones por corregir. Sigue y protégete. Te guiamos paso a paso.
+        [one] Todavía tenés { $exposures_unresolved_num } exposición por corregir. Seguí y protegete. Te guiamos paso a paso.
+       *[other] Todavía tenés { $exposures_unresolved_num } exposiciones por corregir. Seguí y protegete. Te guiamos paso a paso.
     }
 dashboard-top-banner-lets-keep-protecting-cta = Sigamos adelante
 # Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
@@ -102,32 +102,32 @@ dashboard-top-banner-lets-keep-protecting-cta = Sigamos adelante
 #   $exposures_unresolved_num (number) - the total number of exposures the user has.
 dashboard-top-banner-non-us-protect-your-data-description-line1 =
     { $exposures_unresolved_num ->
-        [one] Encontramos { $exposures_unresolved_num } exposición de sus datos.
-       *[other] Encontramos { $exposures_unresolved_num } exposiciones de sus datos.
+        [one] Encontramos { $exposures_unresolved_num } exposición de tus datos.
+       *[other] Encontramos { $exposures_unresolved_num } exposiciones de tus datos.
     }
 # Note: this line is preceded by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
 # Variables:
 #   $data_breach_unresolved_num (number) - the total number of data breaches the user has.
 dashboard-top-banner-non-us-protect-your-data-description-line2 =
     { $data_breach_unresolved_num ->
-        [one] Apareció en { $data_breach_unresolved_num } violación de datos. Te guiaremos paso a paso para solucionarlo.
-       *[other] Apareció en { $data_breach_unresolved_num } violaciones de datos. Te guiaremos paso a paso para solucionarlo.
+        [one] Apareció en { $data_breach_unresolved_num } filtración de datos. Te guiaremos paso a paso para solucionarlo.
+       *[other] Apareció en { $data_breach_unresolved_num } filtraciones de datos. Te guiaremos paso a paso para solucionarlo.
     }
 dashboard-top-banner-no-exposures-found-title = No se encontraron exposiciones
-dashboard-top-banner-non-us-no-exposures-found-description = ¡Buenas noticias! Buscamos todas las violaciones de datos conocidas y no encontramos exposiciones. Seguiremos monitoreando tu dirección de correo electrónico y te avisaremos si ocurre una nueva violación.
+dashboard-top-banner-non-us-no-exposures-found-description = ¡Buenas noticias! Buscamos todas las filtraciones de datos conocidas y no encontramos exposiciones. Seguiremos monitoreando tu dirección de correo electrónico y te avisaremos si ocurre una nueva filtración.
 dashboard-no-exposures-label = No se encontraron exposiciones
 # Variables:
 # $exposures_resolved_num is the number of exposures the user has resolved.
 dashboard-top-banner-non-us-your-data-is-protected-description =
     { $exposures_resolved_num ->
-        [one] ¡Buen trabajo, la exposición de sus datos es fija! Seguiremos monitoreando y le avisaremos de cualquier nueva exposición.
-       *[other] Buen trabajo, ¡todas las { $exposures_resolved_num } de sus datos están corregidas! Seguiremos monitoreando y lo alertaremos de cualquier nueva exposición.
+        [one] ¡Buen trabajo, la exposición de sus datos está corregida! Seguiremos monitoreando y te avisaremos de cualquier nueva exposición.
+       *[other] ¡Buen trabajo, todas las { $exposures_resolved_num } exposiciones de tus datos están corregidas! Seguiremos monitoreando y te avisaremos de cualquier nueva exposición.
     }
 dashboard-top-banner-monitor-more-cta = Monitorear más correos electrónicos
 
 # About Exposure Statuses Modal
 
 modal-exposure-status-title = Acerca de los estados de exposición
-modal-exposure-status-description-all = Buscamos exposiciones en todas las violaciones de datos conocidas. Sus exposiciones tendrán uno de los siguientes estados:
-modal-exposure-status-action-needed = <b> Acción necesaria </b> significa que está activo en este momento y necesitas tomar medidas para solucionarlo.
-modal-exposure-status-fixed = <b> Solucionado </b> significa que la exposición se ha resuelto y no hay que hacer nada.
+modal-exposure-status-description-all = Buscamos exposiciones en todas las filtraciones de datos conocidas. Tus exposiciones tendrán uno de los siguientes estados:
+modal-exposure-status-action-needed = <b>Acción necesaria</b> significa que está activa en este momento y necesitás tomar medidas para solucionarlo.
+modal-exposure-status-fixed = <b>Corregida</b> significa que la exposición se ha resuelto y no hay que hacer nada.
