@@ -808,6 +808,7 @@ ad-unit-6-before-you-complete = Pred dokončením vašej ďalšej registrácie p
         [ins] Mozilla Monitorom
        *[nom] Mozilla Monitor
     }
+-brand-monitor-plus = Monitor Plus
 
 ##
 
@@ -896,11 +897,15 @@ menu-item-settings = Nastavenia
 menu-item-help = Pomoc a podpora
 # Obsolete
 menu-item-logout = Odhlásiť sa
+user-menu-trigger-label = Otvoriť ponuku používateľa
 user-menu-trigger-tooltip = Profil
 user-menu-manage-fxa-label = Spravovať { -brand-mozilla-account(case: "acc", capitalization: "lower") }
 user-menu-settings-label = Nastavenia
+user-menu-settings-tooltip = Upraviť { -brand-mozilla-monitor(case: "acc", capitalization: "lower") }
 user-menu-help-label = Pomoc a podpora
+user-menu-help-tooltip = Získať pomoc pri používaní { -brand-mozilla-monitor(case: "gen") }
 user-menu-signout-label = Odhlásiť sa
+user-menu-signout-tooltip = Odhlásiť sa z { -brand-mozilla-monitor(case: "gen") }
 
 ## Footer
 
@@ -909,6 +914,8 @@ terms-of-service = Podmienky používania služby
 privacy-notice = Vyhlásenie o ochrane osobných údajov
 github = { -brand-github }
 footer-nav-all-breaches = Všetky úniky údajov
+footer-external-link-faq-label = Často kladené otázky
+footer-external-link-faq-tooltip = Často kladené otázky
 
 ## Error page
 
