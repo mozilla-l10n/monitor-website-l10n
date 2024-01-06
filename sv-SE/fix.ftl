@@ -58,20 +58,20 @@ high-risk-breach-summary =
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
 high-risk-breach-name-and-date = { $breach_name } <breach_date>den { $breach_date }</breach_date>
-high-risk-breach-mark-as-fixed = Markera som fixad
+high-risk-breach-mark-as-fixed = Markera som löst
 high-risk-breach-skip = Hoppa över nu
 # Variables:
 # $estimated_time is the estimated time it would take for a user to complete breach resolution steps. It not be singular, and the + is meant as "or more".
 # An example of this string is Your estimated time: 15+ minutes.
 high-risk-breach-estimated-time =
     { $estimated_time ->
-        [one] Din beräknade tid: { $estimated_time }+ minuter
+        [one] Din beräknade tid: { $estimated_time }+ minut
        *[other] Din beräknade tid: { $estimated_time }+ minuter
     }
 
 # Credit Card Breaches
 
-high-risk-breach-credit-card-title = Ditt kreditkortsnummer var exponerat
+high-risk-breach-credit-card-title = Ditt kreditkortsnummer har exponerats
 high-risk-breach-credit-card-description = Alla som får det kan göra obehöriga köp som du kan bli ansvarig för. Agera nu för att förhindra ekonomisk skada.
 high-risk-breach-credit-card-step-one = Om du fortfarande har det här kortet, kontakta utfärdaren för att rapportera det stulet.
 high-risk-breach-credit-card-step-two = Begär ett nytt kort med ett nytt nummer.
@@ -79,7 +79,7 @@ high-risk-breach-credit-card-step-three = Kontrollera dina konton för obehörig
 
 # Bank Account Breaches
 
-high-risk-breach-bank-account-title = Ditt bankkonto var exponerat
+high-risk-breach-bank-account-title = Ditt bankkonto har exponerats
 high-risk-breach-bank-account-description = Att vidta åtgärder så snart som möjligt kan ge dig fler juridiskt skydd som hjälper dig att återställa eventuella förluster.
 high-risk-breach-bank-account-step-one = Meddela omedelbart din bank att ditt kontonummer har blivit utsatt för intrång.
 high-risk-breach-bank-account-step-two = Ändra ditt kontonummer.
