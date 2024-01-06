@@ -26,7 +26,7 @@ breach-heading-email = { $email-select } 的数据外泄
 # $count is the number of emails a user has added out of $total allowed
 emails-monitored = 已监控 { $count } 个邮箱，共 { $total } 个邮箱
 # link to Settings page where user can add/remove emails and set message preferences
-manage-emails-link = 管理电子邮件
+manage-emails-link = 管理邮箱
 
 ## Breaches resolved filter
 
