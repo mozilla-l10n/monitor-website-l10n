@@ -39,14 +39,14 @@ modal-active-number-of-exposures-part-one-all =
        *[other] Este gráfico incluye el número total de veces que encontramos cada tipo de datos expuestos en todas las filtraciones de datos para hasta { $limit } direcciones de correo electrónico que estás monitoreando actualmente.
     }
 modal-active-number-of-exposures-part-two = Por ejemplo, si tenés 10 exposiciones de tu número de teléfono, eso podría significar que un número de teléfono está expuesto en 10 sitios diferentes o podría significar que 2 números de teléfono diferentes se expusieron en 5 sitios diferentes.
-modal-active-number-of-exposures-part-three-all = Una vez que se resuelvan, se agregarán a tu número total de exposiciones fijas en la página Fijas.
+modal-active-number-of-exposures-part-three-all = Una vez que se resuelvan, se agregarán a tu número total de exposiciones corregidas en la página Corregidas.
 modal-cta-ok = Aceptar
 modal-open-alt = Abrir
 modal-close-alt = Cerrar
 progress-card-heres-what-we-fixed-headline-all = Esto es lo que solucionaste
 progress-card-manually-fixed-headline = Arreglado en forma manual
 dashboard-tab-label-action-needed = Acción necesaria
-dashboard-tab-label-fixed = Fijado
+dashboard-tab-label-fixed = Corregidas
 dashboard-exposures-all-fixed-label = ¡Todo arreglado aquí!
 dashboard-exposures-area-headline = Ver todos los sitios donde se expone tu información
 # Note: this line precedes dashboard-exposures-area-description-all-line2.
@@ -76,7 +76,7 @@ dashboard-exposures-filter-date-found-last-year = El año pasado
 dashboard-exposures-filter-status = Estado
 dashboard-exposures-filter-status-action-needed = Acción necesaria
 dashboard-exposures-filter-status-in-progress = En progreso
-dashboard-exposures-filter-status-fixed = Fijado
+dashboard-exposures-filter-status-fixed = Corregidas
 popover-open-filter-settings-alt = Seleccionar filtros
 dashboard-exposures-filter-show-all = Mostrar todo
 dashboard-exposures-filter-show-results = Mostrar resultados

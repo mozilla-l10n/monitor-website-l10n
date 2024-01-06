@@ -7,7 +7,7 @@ fix-flow-nav-leaked-passwords = Contraseñas filtradas
 fix-flow-nav-security-recommendations = Recomendaciones de seguridad
 guided-resolution-flow-exit = Volver al tablero
 guided-resolution-flow-back-arrow = Ir al paso anterior
-guided-resolution-flow-next-arrow = Ir al siguiente paso
+guided-resolution-flow-next-arrow = Ir al paso siguiente
 guided-resolution-flow-step-navigation-label = Pasos guiados
 
 # Celebration screens
