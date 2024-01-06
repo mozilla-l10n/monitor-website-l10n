@@ -887,6 +887,11 @@ menu-item-settings = Nastavenia
 menu-item-help = Pomoc a podpora
 # Obsolete
 menu-item-logout = Odhlásiť sa
+user-menu-trigger-tooltip = Profil
+user-menu-manage-fxa-label = Spravovať { -brand-mozilla-account(case: "acc", capitalization: "lower") }
+user-menu-settings-label = Nastavenia
+user-menu-help-label = Pomoc a podpora
+user-menu-signout-label = Odhlásiť sa
 
 ## Footer
 
