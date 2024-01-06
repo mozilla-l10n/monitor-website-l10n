@@ -48,10 +48,10 @@ dashboard-exposures-area-description-all-line1 = 我们发现您的数据有 { $
 # Note: this line follows dashboard-exposures-area-description-all-line1.
 # Variables:
 #   $data_breach_unresolved_num (number) - the unresolved number of data breaches the user has.
-dashboard-exposures-area-description-all-line2 = 它在 { $data_breach_unresolved_num } 次数据外泄事件中出现过。
+dashboard-exposures-area-description-all-line2 = 在 { $data_breach_unresolved_num } 次数据外泄事件中出现过。
 dashboard-fixed-area-headline-all = 查看所有已处理的暴露
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
-dashboard-exposures-filter = 筛选器
+dashboard-exposures-filter = 筛选
 dashboard-exposures-filter-company = 公司
 dashboard-exposures-filter-date-found = 发现日期
 dashboard-exposures-filter-date-found-last-seven-days = 过去 7 天
@@ -84,7 +84,7 @@ dashboard-top-banner-non-us-protect-your-data-description-line1 = 我们发现�
 # Note: this line is preceded by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
 # Variables:
 #   $data_breach_unresolved_num (number) - the total number of data breaches the user has.
-dashboard-top-banner-non-us-protect-your-data-description-line2 = 它在 { $data_breach_unresolved_num } 次数据外泄事件中出现过。我们会一步步指导您处理。
+dashboard-top-banner-non-us-protect-your-data-description-line2 = 在 { $data_breach_unresolved_num } 次数据外泄事件中出现过。我们会一步步指导您处理。
 dashboard-top-banner-no-exposures-found-title = 没有发现暴露
 dashboard-top-banner-non-us-no-exposures-found-description = 好消息！我们搜索了所有已知的数据外泄事件，没有发现存在暴露。我们将继续监控此邮箱地址，并在发生新的外泄事件时向您发出警报。
 dashboard-no-exposures-label = 没有发现暴露
@@ -99,5 +99,5 @@ modal-exposure-status-title = 关于暴露状态
 modal-exposure-status-description-all =
     我们会搜索所有已知的数据外泄事件。
     您的暴露状态将是以下状态中的一种。
-modal-exposure-status-action-needed = <b>需要行动</b>代表您的数据当前正在暴露，需要采取措施将其处理。
+modal-exposure-status-action-needed = <b>需要处理</b>代表您的数据当前正在暴露，需要采取措施将其处理。
 modal-exposure-status-fixed = <b>已解决</b>代表暴露问题已解决，无需再采取行动。
