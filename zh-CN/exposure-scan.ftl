@@ -12,7 +12,7 @@ exposure-landing-result-error = 检查数据泄漏情况时出了点问题。请
 # Variables:
 #   $email (string) - The user's email address, used to identify their data in breaches
 #   $count (number) - Number of data breaches in which the user's data was found
-exposure-landing-result-hero-heading = 我们发现 <email>{ $email }</email> 出现在 <count>{ $count }</count> 次数据外泄事件中。
+exposure-landing-result-hero-heading = 我们检测到 <email>{ $email }</email> 出现在 <count>{ $count }</count> 次数据外泄事件中。
 exposure-landing-result-card-added = 事件记录时间：
 exposure-landing-result-card-data = 泄漏的数据：
 exposure-landing-result-card-nothing = 未发现外泄
