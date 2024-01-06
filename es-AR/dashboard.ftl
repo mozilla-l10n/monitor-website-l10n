@@ -11,12 +11,12 @@
 #   $nr (number) - Number of unresolved exposures for the user
 exposure-chart-heading =
     { $nr ->
-        [one] <nr> { $nr }</nr> <label> exposición </label>
-       *[other] <nr> { $nr }</nr> <label> exposiciones </label>
+        [one] <nr>{ $nr }</nr> <label>exposición</label>
+       *[other] <nr>{ $nr }</nr> <label>exposiciones</label>
     }
 # Variables:
 #   $nr (number) - Number of fixed exposures found for the user
-exposure-chart-heading-fixed = <nr> { $nr }</nr> <label> Fijo </label>
+exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>Fija</label>
 exposure-chart-legend-heading-type = Exposición
 exposure-chart-legend-heading-nr = Número
 # Variables:
@@ -35,11 +35,11 @@ modal-active-number-of-exposures-title = Sobre el número de exposiciones activa
 #   $limit (number) - Number of email addresses included in the plan
 modal-active-number-of-exposures-part-one-all =
     { $limit ->
-        [one] Este gráfico incluye el número total de veces que encontramos cada tipo de datos expuestos en todas las violaciones de datos para la dirección de correo electrónico { $limit } que estás monitoreando actualmente.
-       *[other] Este gráfico incluye el número total de veces que encontramos cada tipo de datos expuestos en todas las violaciones de datos para hasta { $limit } direcciones de correo electrónico que estás monitoreando actualmente.
+        [one] Este gráfico incluye el número total de veces que encontramos cada tipo de datos expuestos en todas las filtraciones de datos para { $limit } dirección de correo electrónico que estás monitoreando actualmente.
+       *[other] Este gráfico incluye el número total de veces que encontramos cada tipo de datos expuestos en todas las filtraciones de datos para hasta { $limit } direcciones de correo electrónico que estás monitoreando actualmente.
     }
-modal-active-number-of-exposures-part-two = Por ejemplo, si tienes 10 exposiciones de tu número de teléfono, eso podría significar que un número de teléfono está expuesto en 10 sitios diferentes o podría significar que 2 números de teléfono diferentes se expusieron en 5 sitios diferentes.
-modal-active-number-of-exposures-part-three-all = Una vez que se resuelvan, se agregarán a su número total de exposiciones fijas en la página Fijas.
+modal-active-number-of-exposures-part-two = Por ejemplo, si tenés 10 exposiciones de tu número de teléfono, eso podría significar que un número de teléfono está expuesto en 10 sitios diferentes o podría significar que 2 números de teléfono diferentes se expusieron en 5 sitios diferentes.
+modal-active-number-of-exposures-part-three-all = Una vez que se resuelvan, se agregarán a tu número total de exposiciones fijas en la página Fijas.
 modal-cta-ok = Aceptar
 modal-open-alt = Abrir
 modal-close-alt = Cerrar
@@ -54,8 +54,8 @@ dashboard-exposures-area-headline = Ver todos los sitios donde se expone tu info
 #   $exposures_unresolved_num (number) - the unresolved number of exposures the user has.
 dashboard-exposures-area-description-all-line1 =
     { $exposures_unresolved_num ->
-        [one] Encontramos { $exposures_unresolved_num } exposición de sus datos.
-       *[other] Encontramos { $exposures_unresolved_num } exposiciones de sus datos.
+        [one] Encontramos { $exposures_unresolved_num } exposición de tus datos.
+       *[other] Encontramos { $exposures_unresolved_num } exposiciones de tus datos.
     }
 # Note: this line follows dashboard-exposures-area-description-all-line1.
 # Variables:
