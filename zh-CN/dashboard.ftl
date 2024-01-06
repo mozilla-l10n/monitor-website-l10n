@@ -22,7 +22,7 @@ exposure-chart-caption = 此图表展示了您信息正在暴露的次数。
 # Variables:
 #   $total_fixed_exposures_num (number) - Number of fixed exposures
 #   $total_exposures_num (number) - Number of total exposures
-exposure-chart-caption-fixed = 此图标展示了已处理的暴露总数（{ $total_fixed_exposures_num }/{ $total_exposures_num }）
+exposure-chart-caption-fixed = 此图标展示了已处理的暴露总数（共 { $total_exposures_num } 起，已处理 { $total_fixed_exposures_num } 起）
 exposure-chart-returning-user-upgrade-prompt = 家庭地址、家庭成员等未包括在内。
 exposure-chart-returning-user-upgrade-prompt-cta = 免费扫描
 exposure-chart-scan-in-progress-prompt = <b>正在扫描：</b>地址、家庭成员等未包括在内。
