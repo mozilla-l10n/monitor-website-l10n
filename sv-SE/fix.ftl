@@ -87,7 +87,7 @@ high-risk-breach-bank-account-step-three = Kontrollera dina konton för obehöri
 
 # Social Security Number Breaches
 
-high-risk-breach-social-security-title = Ditt personnummer var utsatt
+high-risk-breach-social-security-title = Ditt personnummer har exponerats
 high-risk-breach-social-security-description = Bedragare kan öppna upp nya lån eller kreditkort med ditt personnummer. Agera snabbt för att förhindra ekonomisk skada.
 high-risk-breach-social-security-step-one = Skydda dig själv genom att <link_to_info>konfigurera en bedrägerivarning eller frysa din kredit.</link_to_info>
 high-risk-breach-social-security-step-two = <link_to_info>Kontrollera din kreditupplysning</link_to_info> efter okända konton.
@@ -96,15 +96,15 @@ high-risk-breach-social-security-step-two = <link_to_info>Kontrollera din kredit
 
 ssn-modal-title = Om bedrägerivarningar och spärrade krediter
 ssn-modal-description-fraud-part-one = <b>En bedrägerivarning</b> kräver att företag verifierar din identitet innan de utfärdar en ny kredit i ditt namn. Det är gratis, varar i ett år och kommer inte att negativt påverka din kreditvärdering.
-ssn-modal-description-fraud-part-two = För att skapa en, kontakta någon av de tre kreditupplysningarna. Du behöver inte kontakta alla tre.
+ssn-modal-description-fraud-part-two = För att skapa en, kontakta någon av de tre kreditinstituten. Du behöver inte kontakta alla tre.
 ssn-modal-description-freeze-credit-part-one = <b>Att frysa din kredit</b> hindrar någon från att öppna ett nytt konto i ditt namn. Det är gratis och påverkar inte din kreditvärdighet negativt, men du måste låsa upp det innan du öppnar några nya konton.
-ssn-modal-description-freeze-credit-part-two = För att frysa din kredit, kontakta var och en av de tre kreditupplysningarna — <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> och <transunion_link>TransUnion</transunion_link>.
+ssn-modal-description-freeze-credit-part-two = För att frysa din kredit, kontakta var och en av de tre kreditinstituten — <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> och <transunion_link>TransUnion</transunion_link>.
 ssn-modal-learn-more = Läs mer om bedrägerivarningar och frysta krediter
 ssn-modal-ok = OK
 
 # PIN Breaches
 
-high-risk-breach-pin-title = Din PIN-kod exponerades
+high-risk-breach-pin-title = Din PIN-kod har exponerats
 high-risk-breach-pin-description = Att vidta åtgärder så snart som möjligt kan ge dig fler juridiskt skydd som hjälper dig att återställa eventuella förluster.
 high-risk-breach-pin-step-one = Meddela omedelbart din bank att din PIN-kod har äventyrats.
 high-risk-breach-pin-step-two = Ändra din PIN-kod där du har använt samma PIN-kod.
