@@ -177,9 +177,9 @@ leaked-passwords-title = Tu contraseña de { $breach_name } fue expuesta
 # Variables
 # $breach_date is the date when the breach occurred.
 leaked-passwords-summary = Apareció en una filtración de datos el { $breach_date }.
-leaked-passwords-description = Los estafadores pueden acceder a tu cuenta y es probable que intenten usarla en otras cuentas para ver si usaste la misma contraseña. Cámbialo en cualquier lugar donde lo hayas usado para protegerte.
-leaked-passwords-steps-title = Esto es lo que tienes que hacer
-leaked-passwords-steps-subtitle = Esto requiere acceso a tu cuenta, por lo que tendrás que solucionarlo manualmente.
+leaked-passwords-description = Los estafadores pueden acceder a tu cuenta y es probable que intenten usarla en otras cuentas para ver si usaste la misma contraseña. Cambiala en cualquier lugar donde la hayas usado para protegerte.
+leaked-passwords-steps-title = Esto es lo que tenés que hacer
+leaked-passwords-steps-subtitle = Esto requiere acceso a tu cuenta, por lo que tendrás que corregirlo manualmente.
 # Variables
 # $breach_name is the name of the breach where the leaked password was found.
 # $emails_affected are the emails associated with the breach.
