@@ -799,6 +799,15 @@ ad-unit-6-before-you-complete = Pred dokončením vašej ďalšej registrácie p
 -brand-github = GitHub
 -brand-mozilla-vpn = Mozilla VPN
 -brand-relay = Firefox Relay
+-brand-mozilla-monitor =
+    { $case ->
+        [gen] Mozilla Monitora
+        [dat] Mozilla Monitoru
+        [acc] Mozilla Monitor
+        [loc] Mozilla Monitore
+        [ins] Mozilla Monitorom
+       *[nom] Mozilla Monitor
+    }
 
 ##
 
