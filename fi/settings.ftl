@@ -30,12 +30,13 @@ settings-email-limit-info =
 settings-email-verification-callout = Sähköpostiosoitteen vahvistus vaaditaan
 settings-resend-email-verification-link = Lähetä uudelleen vahvistussähköposti
 settings-add-email-button = Lisää sähköpostiosoite
+# Deprecated
 settings-delete-email-button = Poista sähköpostiosoite
-
+settings-remove-email-button-label = Poista
 # This string is shown beneath each of the user’s email addresses to indicate
 # how many known breaches that email address was found in.
 # Variables:
-#   $breachCount (numer) - Number of breaches
+#   $breachCount (number) - Number of breaches
 settings-email-number-of-breaches-info =
     { $breachCount ->
         [one] Esiintyy { $breachCount } tunnetussa tietovuodossa.
