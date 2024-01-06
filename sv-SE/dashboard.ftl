@@ -22,14 +22,14 @@ exposure-chart-legend-heading-nr = Nummer
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
-exposure-chart-caption = Det här diagrammet visar hur många gånger din information är aktivt exponerad.
+exposure-chart-caption = Det här diagrammet visar hur många gånger din information har aktivt exponerats.
 # Variables:
 #   $total_fixed_exposures_num (number) - Number of fixed exposures
 #   $total_exposures_num (number) - Number of total exposures
-exposure-chart-caption-fixed = Det här diagrammet visar de totala exponeringarna som är fixa ({ $total_fixed_exposures_num } av { $total_exposures_num })
+exposure-chart-caption-fixed = Det här diagrammet visar antalet exponeringar som är lösta ({ $total_fixed_exposures_num } av { $total_exposures_num })
 exposure-chart-returning-user-upgrade-prompt = Hemadress, familjemedlemmar med mera är inte inkluderade ännu.
 exposure-chart-returning-user-upgrade-prompt-cta = Starta en gratis skanning
-exposure-chart-scan-in-progress-prompt = <b>Skanning pågår:</b> adress, familjemedlemmar och fler är inte inkluderade ännu.
+exposure-chart-scan-in-progress-prompt = <b>Skanning pågår:</b> adress, familjemedlemmar och mer är inte inkluderade ännu.
 modal-active-number-of-exposures-title = Om ditt antal aktiva exponeringar
 # Variables:
 #   $limit (number) - Number of email addresses included in the plan
