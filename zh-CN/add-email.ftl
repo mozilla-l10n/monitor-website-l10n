@@ -9,7 +9,7 @@ add-email-add-another-heading = 添加邮箱地址
 close-dialog-alt = 关闭对话框
 # $total is the number of emails a user is allowed to add
 add-email-your-account-includes = 您的账户最多可监控 { $total } 个邮箱地址。添加新的邮箱地址以查看其是否受数据外泄事件影响。
-add-email-address-input-label = 电子邮件地址
+add-email-address-input-label = 邮箱地址
 add-email-send-verification-button = 发送验证链接
 # $email is the newly added email address. $settings-href is the URL for the Settings page. HTML tags should not be translated, e.g. `<a>`
 # This string will be deprecated when the new Plus plan is live.

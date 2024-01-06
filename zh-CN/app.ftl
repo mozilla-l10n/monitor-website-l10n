@@ -644,7 +644,7 @@ brand-mozilla-monitor = { -brand-fx-monitor }
 
 ## Site navigation
 
-site-nav-breaches-link = 解决数据泄露
+site-nav-breaches-link = 解决数据外泄事件
 site-nav-settings-link = 设置
 site-nav-help-link = 帮助和支持
 # This call-out is above 2 image links for Firefox Relay and Mozilla VPN
