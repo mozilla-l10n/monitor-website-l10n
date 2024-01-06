@@ -27,7 +27,7 @@ fix-flow-celebration-high-risk-description-done = 这些问题处理起来可能
 fix-flow-celebration-high-risk-description-next-passwords = 现在来处理暴露的密码。
 fix-flow-celebration-high-risk-description-next-security-questions = 现在来处理暴露的安全问题。
 fix-flow-celebration-high-risk-description-next-security-recommendations = 接下来，我们会根据您数据的暴露日期，提供个性化的安全建议。
-fix-flow-celebration-high-risk-description-next-dashboard = 已完成全部步骤。您可以在面板上查看所有操作项目并跟踪进度。
+fix-flow-celebration-high-risk-description-next-dashboard = 您已完成全部步骤，现在可在面板上查看所有操作项目并跟踪进度。
 
 ## Leaked passwords and security questions flow
 
@@ -63,7 +63,7 @@ high-risk-breach-estimated-time = 预计需要时间：{ $estimated_time }+ 分�
 
 # Credit Card Breaches
 
-high-risk-breach-credit-card-title = 您的信用卡号码已暴露
+high-risk-breach-credit-card-title = 您的信用卡卡号已暴露
 high-risk-breach-credit-card-description = 任何获得了此信息的人都可以用其进行未经授权的交易，而您可能要为此负责。立即处理以免造成财产损失。
 high-risk-breach-credit-card-step-one = 如果您仍持有此卡，请联系发卡行挂失。
 high-risk-breach-credit-card-step-two = 申领使用新卡号的新卡。
