@@ -864,7 +864,7 @@ user-menu-settings-label = Налаштування
 ## Footer
 
 mozilla = { -brand-Mozilla }
-terms-of-service = Умови використання
+terms-of-service = Умови надання послуг
 privacy-notice = Положення про приватність
 github = { -brand-github }
 footer-nav-all-breaches = Усі витоки
