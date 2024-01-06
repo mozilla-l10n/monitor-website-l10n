@@ -87,6 +87,7 @@ high-risk-breach-social-security-step-two = <link_to_info>检查您的信用报�
 # Social Security Number Modal
 
 ssn-modal-title = 关于欺诈警报和信用额度冻结
+ssn-modal-description-fraud-part-one = <b>欺诈警报</b>会要求商业机构先验证您的身份，然后才将新的信贷签发到您的名下。此服务免费提供，有效期为一年，且不会对您的信用评分产生负面影响。
 ssn-modal-description-fraud-part-two = 若要申请，请联系三大征信机构中的任意一家，无需全部联系。
 ssn-modal-description-freeze-credit-part-one = <b>冻结信用</b>可防止任何人以您的名义开设新账户。此操作无需付费，也不会对您的信用评分产生负面影响，不过在开设新账户前需要先解冻。
 ssn-modal-description-freeze-credit-part-two = 若要冻结信用，请联系 <equifax_link>Equifax</equifax_link>、<experian_link>Experian</experian_link>、<transunion_link>TransUnion</transunion_link> 三家征信机构。
