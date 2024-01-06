@@ -12,7 +12,7 @@
 exposure-chart-heading = <nr>{ $nr }</nr><label>次暴露</label>
 # Variables:
 #   $nr (number) - Number of fixed exposures found for the user
-exposure-chart-heading-fixed = <nr>{ $nr }</nr><label>个已处理</label>
+exposure-chart-heading-fixed = <nr>{ $nr }</nr><label>次已处理</label>
 exposure-chart-legend-heading-type = 暴露
 exposure-chart-legend-heading-nr = 数字
 # Variables:
