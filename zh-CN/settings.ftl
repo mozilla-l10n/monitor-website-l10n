@@ -19,7 +19,7 @@ settings-alert-preferences-option-two = 向所有受影响的电子邮件地址�
 # Variables:
 #   $email (string) - Email address
 settings-email-label-primary = { $email } （主邮箱）
-settings-email-list-title = 受监控的电子邮件地址
+settings-email-list-title = 受监控的邮箱地址
 # Variables:
 #   $limit (number) - Number of email addresses included in the plan
 settings-email-limit-info = 您的账户最多可对 { $limit } 个邮箱进行监控。
