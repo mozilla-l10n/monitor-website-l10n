@@ -14,6 +14,9 @@ exposure-chart-heading =
         [one] <nr>{ $nr }</nr> <label>exponering</label>
        *[other] <nr>{ $nr }</nr> <label>exponeringar</label>
     }
+# Variables:
+#   $nr (number) - Number of fixed exposures found for the user
+exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>löst</label>
 exposure-chart-legend-heading-type = Exponering
 exposure-chart-legend-heading-nr = Antal
 # Variables:

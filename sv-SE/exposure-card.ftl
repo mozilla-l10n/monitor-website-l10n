@@ -28,7 +28,7 @@ exposure-card-description-info-for-sale-part-two = Ta bort den här profilen fö
 # Variables:
 # $data_breach_company is the company associated with the data breach.
 # $data_breach_date is the date of the data breach.
-exposure-card-description-data-breach-part-one = Din information avslöjades i ett dataintrång <data_breach_link>{ $data_breach_company } den { $data_breach_date }.</data_breach_link>
+exposure-card-description-data-breach-part-one = Din information avslöjades i ett dataintrång på <data_breach_link>{ $data_breach_company } den { $data_breach_date }.</data_breach_link>
 exposure-card-description-data-breach-part-two = Vi går igenom stegen för att åtgärda det.
 exposure-card-your-exposed-info = Din exponerade information:
 exposure-card-exposure-type-data-broker = Info till salu
