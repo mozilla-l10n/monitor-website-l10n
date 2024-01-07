@@ -43,11 +43,11 @@ modal-active-number-of-exposures-part-three-all = När de är lösta läggs de t
 modal-cta-ok = OK
 modal-open-alt = Öppna
 modal-close-alt = Stäng
-progress-card-heres-what-we-fixed-headline-all = Det här fixade du
-progress-card-manually-fixed-headline = Manuellt fixad
+progress-card-heres-what-we-fixed-headline-all = Det här löste du
+progress-card-manually-fixed-headline = Manuellt löst
 dashboard-tab-label-action-needed = Åtgärd behövs
-dashboard-tab-label-fixed = Fixad
-dashboard-exposures-all-fixed-label = Allt fixat här!
+dashboard-tab-label-fixed = Löst
+dashboard-exposures-all-fixed-label = Allt löst här!
 dashboard-exposures-area-headline = Se alla webbplatser där din information är exponerad
 # Note: this line precedes dashboard-exposures-area-description-all-line2.
 # Variables:
@@ -62,10 +62,10 @@ dashboard-exposures-area-description-all-line1 =
 #   $data_breach_unresolved_num (number) - the unresolved number of data breaches the user has.
 dashboard-exposures-area-description-all-line2 =
     { $data_breach_unresolved_num ->
-        [one] Det förekom i { $data_breach_unresolved_num } dataintrång.
+        [one] Den förekom i { $data_breach_unresolved_num } dataintrång.
        *[other] Den förekom i { $data_breach_unresolved_num } dataintrång.
     }
-dashboard-fixed-area-headline-all = Visa alla exponeringar som är fasta
+dashboard-fixed-area-headline-all = Visa alla exponeringar som är lösta
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Filter
 dashboard-exposures-filter-company = Företag
