@@ -80,14 +80,14 @@ dashboard-exposures-filter-status-fixed = Opgelost
 popover-open-filter-settings-alt = Filters selecteren
 dashboard-exposures-filter-show-all = Alles tonen
 dashboard-exposures-filter-show-results = Resultaten tonen
-dashboard-exposures-filter-reset = Herinitialiseren
+dashboard-exposures-filter-reset = Opnieuw instellen
 
 ## Top banner on the dashboard
 
 dashboard-top-banner-section-label = Dashboardsamenvatting
 dashboard-top-banner-scan-in-progress-title = Uw scan is nog bezig
 dashboard-top-banner-your-data-is-protected-title = Uw gegevens zijn beschermd
-dashboard-top-banner-your-data-is-protected-cta = Kijken wat er is opgelost
+dashboard-top-banner-your-data-is-protected-cta = Kijk wat er is opgelost
 dashboard-top-banner-lets-keep-protecting-title = Laten we uw gegevens blijven beschermen
 # Variables:
 # $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
