@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fix-flow-nav-high-risk-data-breaches = Högrisk dataintrång
+fix-flow-nav-high-risk-data-breaches = Dataintrång med hög risk
 fix-flow-nav-leaked-passwords = Läckta lösenord
 fix-flow-nav-security-recommendations = Säkerhetsrekommendationer
 guided-resolution-flow-exit = Tillbaka till översikten
