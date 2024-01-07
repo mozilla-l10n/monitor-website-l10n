@@ -199,12 +199,12 @@ leaked-passwords-estimated-time =
 
 # Leaked Security Questions
 
-leaked-security-questions-title = Dina säkerhetsfrågor avslöjades
+leaked-security-questions-title = Dina säkerhetsfrågor har avslöjats
 # Variables
 # $breach_name is the name of the breach where the leaked security questions were found.
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
-leaked-security-questions-summary = De förekom i ett dataintrång den { $breach_name } den { $breach_date }.
+leaked-security-questions-summary = De förekom i ett dataintrång på { $breach_name } den { $breach_date }.
 leaked-security-questions-description = Bedragare kan använda dessa för att komma åt dina konton och alla andra webbplatser där du har använt samma säkerhetsfrågor. Uppdatera dem nu för att skydda dina konton.
 leaked-security-questions-steps-title = Så här gör du
 leaked-security-questions-steps-subtitle = Detta kräver åtkomst till ditt konto, så du måste åtgärda det manuellt.

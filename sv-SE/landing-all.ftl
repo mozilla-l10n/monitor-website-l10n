@@ -6,15 +6,15 @@ public-nav-name = { -brand-mozilla-monitor }
 landing-all-hero-title = Hitta var din privata information är exponerad — och ta tillbaka den
 landing-all-hero-lead = Vi skannar dataintrång för att se om din data har läckt och ger dig tips för att åtgärda det.
 landing-all-hero-emailform-input-placeholder = dittnamn@exempel.se
-landing-all-hero-emailform-input-label = Ange din e-postadress för att se efter exponeringar för dataintrång.
-landing-all-hero-emailform-submit-label = Skaffa gratis skanning
+landing-all-hero-emailform-input-label = Ange din e-postadress för att söka efter exponeringar för dataintrång.
+landing-all-hero-emailform-submit-label = Få gratis skanning
 # This is a label underneath a big number "14" - it's an image that demos Monitor.
 landing-all-hero-image-chart-label = exponeringar
 
 # Value Proposition
 
-landing-all-value-prop-fix-exposures = Vi hjälper dig att fixa dina exponeringar
-landing-all-value-prop-fix-exposures-description = Vårt uppdrag är att ge dig kontrollen över dina personuppgifter tillbaka i dina händer. Vi hjälper dig att lösa dataintrång och hålla din information privat — och vi kommer att <privacy_link>respektera din integritet</privacy_link> i processen.
+landing-all-value-prop-fix-exposures = Vi hjälper dig att lösa dina exponeringar
+landing-all-value-prop-fix-exposures-description = Vårt uppdrag är att ge dig tillbaka kontrollen över dina personuppgifter. Vi hjälper dig att lösa dataintrång och hålla din information privat — och vi kommer att <privacy_link>respektera din integritet</privacy_link> i processen.
 landing-all-value-prop-info-at-risk = Vilken information kan vara i fara?
 landing-all-value-prop-info-at-risk-description = Dataläckor är tyvärr en del av våra digitala liv. Dina lösenord, kontaktuppgifter, ekonomisk information och annan personlig information kan avslöjas, vilket utsätter dig för identitetsstöld.
 
