@@ -22,7 +22,7 @@ fix-flow-celebration-next-dashboard-label = Gå till din översikt
 ## High-risk flow
 
 fix-flow-celebration-high-risk-title = Du har löst dina högriskexponeringar!
-fix-flow-celebration-high-risk-description-in-progress = Att göra det här arbetet kan kännas mycket, men det är viktigt att göra det för att skydda dig själv. Fortsätt med det goda arbetet.
+fix-flow-celebration-high-risk-description-in-progress = Att göra det här arbetet kan kännas som mycket, men det är viktigt att göra det för att hålla dig själv säker. Fortsätt så.
 fix-flow-celebration-high-risk-description-done = Att göra det här arbetet kan kännas mycket, men det är viktigt att göra det för att skydda dig själv.
 fix-flow-celebration-high-risk-description-next-passwords = Låt oss nu fixa dina exponerade lösenord.
 fix-flow-celebration-high-risk-description-next-security-questions = Låt oss nu fixa dina utsatta säkerhetsfrågor.
