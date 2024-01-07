@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+landing-all-hero-emailform-input-placeholder = yourname@example.com
+landing-all-hero-emailform-input-label = Insere tu adresse email pro controlar pro exposition a violation de datos.
 landing-all-hero-emailform-submit-label = Recipe scansion gratuite
 # This is a label underneath a big number "14" - it's an image that demos Monitor.
 landing-all-hero-image-chart-label = expositiones

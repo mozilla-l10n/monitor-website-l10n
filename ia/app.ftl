@@ -44,6 +44,7 @@ user-add-duplicate-email = Iste email ha jam essite addite a { -product-name }.
 #   $preferencesLink (String) - Link to preferences
 #   $userEmail (String) - User email address
 user-add-duplicate-email-part-2 = Vade sur { $preferencesLink } pro controlar le stato de { $userEmail }.
+user-add-unknown-error = Alco errate eveniva addente le adresse email. Reproba.
 error-headline = Error
 user-verify-token-error = Un token de verification es necessari.
 user-verify-email-report-subject = Tu reporto de { -product-name }
