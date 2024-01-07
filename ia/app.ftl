@@ -476,7 +476,7 @@ generic-confirmation-message =
        *[other] Pro vider le violationes restante, va a tu pannello de controlo.
     }
 return-to-breach-details-link = Retornar al detalios del violation
-go-to-dashboard-link = Ir al pannello de controlo
+go-to-dashboard-link = Va al pannello de controlo
 # This string appears above a breach resolution progress bar and indicates
 # the percentage of breaches a user has resolved. For instance, "27% complete".
 # Variables:
@@ -673,7 +673,7 @@ main-nav-button-expand-label = Expander menu
 main-nav-button-expand-tooltip = Expander menu
 main-nav-label = Navigation
 main-nav-link-home-label = Initio
-main-nav-link-dashboard-label = Tabuliero
+main-nav-link-dashboard-label = Pannello de controlo
 main-nav-link-settings-label = Parametros
 main-nav-link-faq-label = Folios a questiones
 main-nav-link-faq-tooltip = Folio a questiones
