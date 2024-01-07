@@ -11,7 +11,7 @@ exposure-card-date-found = Dátum odhalenia
 
 status-pill-action-needed = Vyžaduje sa akcia
 status-pill-progress = Prebieha
-status-pill-fixed = Opravené
+status-pill-fixed = Vyriešené
 
 # Exposure Card
 
@@ -32,6 +32,7 @@ exposure-card-description-data-breach-part-one = Vaše informácie boli odhalen�
 exposure-card-description-data-breach-part-two = Prevedieme vás krokmi, pomocou ktorých vykonáte nápravu.
 exposure-card-your-exposed-info = Vaše odhalené informácie:
 exposure-card-exposure-type-data-breach = Únik údajov
+exposure-card-cta = Vyriešiť všetky odhalenia
 exposure-card-label-company-logo = Logo spoločnosti
 exposure-card-label-company = Spoločnosť
 exposure-card-label-exposure-type = Typ odhalenia

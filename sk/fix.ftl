@@ -15,11 +15,14 @@ guided-resolution-flow-step-navigation-label = Kroky sprievodcu
 
 ## Shared CTA labels
 
+fix-flow-celebration-next-recommendations-label = Pozrite si odporúčania
 fix-flow-celebration-next-dashboard-label = Prejsť na moju Nástenku
 
 ## High-risk flow
 
-fix-flow-celebration-high-risk-title = Opravili ste svoje vysoko rizikové úniky!
+fix-flow-celebration-high-risk-title = Vyriešili ste svoje vysoko rizikové úniky!
+fix-flow-celebration-high-risk-description-next-passwords = Teraz poďme vyriešiť vaše odhalené heslá.
+fix-flow-celebration-high-risk-description-next-security-questions = Teraz poďme vyriešiť vaše odhalené bezpečnostné otázky.
 
 ## Leaked passwords and security questions flow
 
@@ -36,7 +39,7 @@ fix-flow-celebration-security-questions-title = Vaše bezpečnostné otázky sú
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
 high-risk-breach-name-and-date = { $breach_name } <breach_date>dňa { $breach_date }</breach_date>
-high-risk-breach-mark-as-fixed = Označiť ako opravené
+high-risk-breach-mark-as-fixed = Označiť ako vyriešené
 high-risk-breach-skip = Teraz preskočiť
 
 # Credit Card Breaches
@@ -82,6 +85,7 @@ security-recommendation-phone-title = Chráňte svoje telefónne číslo
 
 # Leaked Passwords
 
+leaked-passwords-mark-as-fixed = Označiť ako vyriešené
 leaked-passwords-skip = Teraz preskočiť
 
 # Leaked Security Questions

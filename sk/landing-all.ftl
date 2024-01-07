@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+landing-all-hero-lead = Skenujeme úniky údajov, aby sme zistili, či vaše údaje unikli, a poskytneme vám kroky na nápravu.
 landing-all-hero-emailform-input-label = Zadajte svoju e‑mailovú adresu a skontrolujte, či nedošlo k úniku údajov.
 # This is a label underneath a big number "14" - it's an image that demos Monitor.
 landing-all-hero-image-chart-label = odhalení
