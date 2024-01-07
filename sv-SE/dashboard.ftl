@@ -35,8 +35,8 @@ modal-active-number-of-exposures-title = Om ditt antal aktiva exponeringar
 #   $limit (number) - Number of email addresses included in the plan
 modal-active-number-of-exposures-part-one-all =
     { $limit ->
-        [one] Det här diagrammet visar det totala antalet gånger vi hittade varje typ av data exponerad för alla dataintrång för den e-postadress { $limit } som du för närvarande övervakar.
-       *[other] Det här diagrammet visar det totala antalet gånger vi hittade varje typ av data exponerad för alla dataintrång för upp till { $limit } e-postadresser som du för närvarande övervakar.
+        [one] Det här diagrammet visar det totala antalet gånger vi hittade varje typ av data exponerad i dataintrång för { $limit } e-postadress som du för närvarande övervakar.
+       *[other] Det här diagrammet visar det totala antalet gånger vi hittade varje typ av data exponerad i dataintrång för upp till { $limit } e-postadresser som du för närvarande övervakar.
     }
 modal-active-number-of-exposures-part-two = Till exempel, om du har 10 exponeringar av ditt telefonnummer, kan det betyda att ett telefonnummer exponeras på 10 olika webbplatser eller så kan det betyda att 2 olika telefonnummer exponerades på 5 olika webbplatser.
 modal-active-number-of-exposures-part-three-all = När de är lösta läggs de till ditt totala antal fasta exponeringar på sidan Fasta.
