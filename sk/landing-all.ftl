@@ -4,7 +4,7 @@
 
 landing-all-hero-emailform-input-label = Zadajte svoju e‑mailovú adresu a skontrolujte, či nedošlo k úniku údajov.
 # This is a label underneath a big number "14" - it's an image that demos Monitor.
-landing-all-hero-image-chart-label = zverejnení
+landing-all-hero-image-chart-label = odhalení
 
 # Value Proposition
 
