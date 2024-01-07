@@ -33,13 +33,26 @@ fix-flow-celebration-high-risk-description-next-dashboard = Tu ha attingite le f
 
 fix-flow-celebration-leaked-passwords-title = Tu contrasignos es ora protegite!
 fix-flow-celebration-security-questions-title = Tu demandas de securitate es protegite!
+fix-flow-celebration-leaked-passwords-description-next-security-questions = Ora que nos revide e actualisa tu demandas de securitate revelate.
+fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Successivemente nos te dara recommendationes de securitate personalisate in base a que tu datos ha essite exponite.
+fix-flow-celebration-leaked-passwords-description-next-dashboard = Ben facite! Tu ha attingite le fin de tu passos. Tu pote vider qualcunque elementos del action e traciar tu progresso sur tu pannello de controlo.
 
 ## Security recommendations flow
 
+fix-flow-celebration-security-recommendations-title = Tu ha completate tote tu recommendationes!
+fix-flow-celebration-security-recommendations-description-next-dashboard = Ben facite! Tu ha attingite le fin de tu passos. Tu pote vider qualcunque elementos del action e traciar tu progresso sur tu pannello de controlo.
 
 # High Risk Data Breaches
 
 high-risk-breach-heading = Ecce que facer
+high-risk-breach-subheading = Isto require accesso a tu info sensibile, assi tu debera manualmente corriger lo.
+# Variables
+# $num_breaches is the number of breaches where the high risk data was found.
+high-risk-breach-summary =
+    { $num_breaches ->
+        [one] Illo appareva in { $num_breaches } violation de datos:
+       *[other] Illo appareva in { $num_breaches } violationes de datos:
+    }
 # Variables
 # $breach_name is the name of the breach where the high risk data was found.
 # $breach_date is the date when the breach occurred.
@@ -47,9 +60,19 @@ high-risk-breach-heading = Ecce que facer
 high-risk-breach-name-and-date = { $breach_name } <breach_date>le { $breach_date }</breach_date>
 high-risk-breach-mark-as-fixed = Marcar como remediate
 high-risk-breach-skip = Saltar pro iste momento
+# Variables:
+# $estimated_time is the estimated time it would take for a user to complete breach resolution steps. It not be singular, and the + is meant as "or more".
+# An example of this string is Your estimated time: 15+ minutes.
+high-risk-breach-estimated-time =
+    { $estimated_time ->
+        [one] Tempore estimate: plus que { $estimated_time } minuta
+       *[other] Tempore estimate: plus que { $estimated_time } minutas
+    }
 
 # Credit Card Breaches
 
+high-risk-breach-credit-card-title = Tu numero de carta de credito era exponite
+high-risk-breach-credit-card-description = Quicunque lo recipe pote facer compras non autorisate pro que tu pote esser responsabile. Ora age pro impedir damno financiari.
 
 # Bank Account Breaches
 
