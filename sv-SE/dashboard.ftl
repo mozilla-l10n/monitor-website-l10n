@@ -18,7 +18,7 @@ exposure-chart-heading =
 #   $nr (number) - Number of fixed exposures found for the user
 exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>Fixat</label>
 exposure-chart-legend-heading-type = Exponering
-exposure-chart-legend-heading-nr = Nummer
+exposure-chart-legend-heading-nr = Antal
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
@@ -76,7 +76,7 @@ dashboard-exposures-filter-date-found-last-year = Förra året
 dashboard-exposures-filter-status = Status
 dashboard-exposures-filter-status-action-needed = Åtgärd behövs
 dashboard-exposures-filter-status-in-progress = Pågående
-dashboard-exposures-filter-status-fixed = Fixad
+dashboard-exposures-filter-status-fixed = Löst
 popover-open-filter-settings-alt = Välj filter
 dashboard-exposures-filter-show-all = Visa alla
 dashboard-exposures-filter-show-results = Visa resultat
