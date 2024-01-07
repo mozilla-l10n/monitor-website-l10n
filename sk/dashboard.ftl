@@ -5,10 +5,32 @@
 
 # Chart summarizing total exposures
 
+# The number inside <nr> will be displayed in a large font,
+# the label inside <label> will be shown underneath, in a smaller font.
+# Variables:
+#   $nr (number) - Number of unresolved exposures for the user
+exposure-chart-heading =
+    { $nr ->
+        [one] <nr>{ $nr }</nr><label>odhalenie</label>
+        [few] <nr>{ $nr }</nr><label>odhalenia</label>
+        [many] <nr>{ $nr }</nr><label>odhalení</label>
+       *[other] <nr>{ $nr }</nr><label>odhalení</label>
+    }
+# Variables:
+#   $nr (number) - Number of fixed exposures found for the user
+exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>opravených</label>
+exposure-chart-legend-heading-type = Odhalenie
 exposure-chart-legend-heading-nr = Počet
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
+exposure-chart-caption = Tento graf ukazuje, koľkokrát sú vaše informácie aktívne odhalené.
+# Variables:
+#   $total_fixed_exposures_num (number) - Number of fixed exposures
+#   $total_exposures_num (number) - Number of total exposures
+exposure-chart-caption-fixed = Tento graf zobrazuje celkový odhalení, ktoré sú opravené ({ $total_fixed_exposures_num } z { $total_exposures_num })
+exposure-chart-returning-user-upgrade-prompt = Adresa bydliska, rodinní príslušníci a ďalšie položky zatiaľ nie sú zahrnuté.
+exposure-chart-scan-in-progress-prompt = <b>Prebieha skenovanie:</b> adresa bydliska, rodinní príslušníci a ďalšie položky zatiaľ nie sú zahrnuté.
 modal-cta-ok = OK
 modal-open-alt = Otvoriť
 modal-close-alt = Zavrieť
