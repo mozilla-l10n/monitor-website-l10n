@@ -18,7 +18,7 @@ exposure-chart-heading =
 #   $nr (number) - Number of fixed exposures found for the user
 exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>Opgelost</label>
 exposure-chart-legend-heading-type = Belichting
-exposure-chart-legend-heading-nr = Getal
+exposure-chart-legend-heading-nr = Aantal
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
