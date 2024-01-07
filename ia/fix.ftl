@@ -19,6 +19,8 @@ fix-flow-celebration-next-dashboard-label = Va a tu pannello de controlo
 
 ## High-risk flow
 
+fix-flow-celebration-high-risk-description-in-progress = Facer iste labor pote parer multo, ma il es importante facer lo pro mantener te secur. Continua le bon labor.
+fix-flow-celebration-high-risk-description-done = Facer iste labor pote parer multo, ma il es importante facer lo pro mantener te secur.
 
 ## Leaked passwords and security questions flow
 
