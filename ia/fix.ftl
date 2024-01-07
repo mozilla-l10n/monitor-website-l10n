@@ -87,13 +87,25 @@ high-risk-breach-bank-account-step-three = Verifica tu contos pro debitos non au
 
 # Social Security Number Breaches
 
+high-risk-breach-social-security-title = Tu numero de securitate social era exponite
+high-risk-breach-social-security-description = Fraudatores pote aperir nove prestos o cartas de credito con tu numero de securitate social. Rapidemente age pro prevenir damno financiari.
+high-risk-breach-social-security-step-one = Protege te per <link_to_info>le predefinition de un aviso fraude o blocante tu credito.</link_to_info>
+high-risk-breach-social-security-step-two = <link_to_info>Verifica tu reporto de credito</link_to_info> pro contos incognite.
 
 # Social Security Number Modal
 
+ssn-modal-title = Re avisos de fraude e blocadas de credito
+ssn-modal-description-fraud-part-one = <b>Un aviso de fraude</b> require al negotios de verificar tu identitate ante que illo attribue nove credito in tu nomine. Illo es gratuite, dura un anno, e non afficera negativemente afficer tu punctuation de credito.
+ssn-modal-learn-more = Saper plus circa avisos de fraude e blocadas de credito
 ssn-modal-ok = OK
 
 # PIN Breaches
 
+high-risk-breach-pin-title = Tu PIN era exponite
+high-risk-breach-pin-description = Interprender action al plus tosto possibile poterea dar te plus protectiones legal pro adjutar te a recuperar alcun perditas.
+high-risk-breach-pin-step-one = Notifica tu banca immediatemente que tu PIN ha essite compromittite.
+high-risk-breach-pin-step-two = Cambia tu PIN ubique tu ha usate illo mesme.
+high-risk-breach-pin-step-three = Verifica tu contos pro debitos non autorisate.
 
 # No high risk breaches found
 
