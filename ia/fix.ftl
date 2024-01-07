@@ -73,10 +73,17 @@ high-risk-breach-estimated-time =
 
 high-risk-breach-credit-card-title = Tu numero de carta de credito era exponite
 high-risk-breach-credit-card-description = Quicunque lo recipe pote facer compras non autorisate pro que tu pote esser responsabile. Ora age pro impedir damno financiari.
+high-risk-breach-credit-card-step-one = Si tu ancora ha iste carta, continge le emissor pro reportar lo robate.
+high-risk-breach-credit-card-step-two = Requesta un nove carta con un nove numero.
+high-risk-breach-credit-card-step-three = Verifica tu contos pro debitos non autorisate.
 
 # Bank Account Breaches
 
+high-risk-breach-bank-account-title = Tu conto bancari era exponite
+high-risk-breach-bank-account-description = Interprender action al plus tosto possibile poterea dar te plus protectiones legal pro adjutar te a recuperar alcun perditas.
 high-risk-breach-bank-account-step-one = Notifica tu banca immediatemente que tu numero de conto ha essite compromittite.
+high-risk-breach-bank-account-step-two = Cambia tu numero de conto.
+high-risk-breach-bank-account-step-three = Verifica tu contos pro debitos non autorisate.
 
 # Social Security Number Breaches
 
