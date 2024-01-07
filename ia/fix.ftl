@@ -8,19 +8,25 @@ fix-flow-nav-security-recommendations = Recommendationes de securitate
 guided-resolution-flow-exit = Retornar a pannello de controlo
 guided-resolution-flow-back-arrow = Va al previe passo
 guided-resolution-flow-next-arrow = Va al passo successive
+guided-resolution-flow-step-navigation-label = Passos guidate
 
 # Celebration screens
 
 
 ## Shared CTA labels
 
+fix-flow-celebration-next-label = Que nos persevera
 fix-flow-celebration-next-recommendations-label = Vide le recommendationes
 fix-flow-celebration-next-dashboard-label = Va a tu pannello de controlo
 
 ## High-risk flow
 
+fix-flow-celebration-high-risk-title = Tu ha remediate a tu expositiones a alte risco!
 fix-flow-celebration-high-risk-description-in-progress = Facer iste labor pote parer multo, ma il es importante facer lo pro mantener te secur. Continua le bon labor.
 fix-flow-celebration-high-risk-description-done = Facer iste labor pote parer multo, ma il es importante facer lo pro mantener te secur.
+fix-flow-celebration-high-risk-description-next-passwords = Ora que nos remedia a tu contrasignos revelate.
+fix-flow-celebration-high-risk-description-next-security-questions = Ora que nos remedia a tu demandas de securitate revelate.
+fix-flow-celebration-high-risk-description-next-security-recommendations = Successivemente nos te dara recommendationes de securitate personalisate in base a que tu datos ha essite exponite.
 
 ## Leaked passwords and security questions flow
 
