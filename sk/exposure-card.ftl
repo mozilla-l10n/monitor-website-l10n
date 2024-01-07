@@ -4,8 +4,8 @@
 
 chevron-down-alt = Rozbaliť
 chevron-up-alt = Zbaliť
-exposure-card-exposure-type = Typ odhalenia
-exposure-card-date-found = Dátum odhalenia
+exposure-card-exposure-type = Typ zverejnenia
+exposure-card-date-found = Dátum zverejnenia
 
 # Status Pill
 
@@ -29,6 +29,12 @@ exposure-card-description-info-for-sale-part-two = Odstráňte tento profil, aby
 # $data_breach_company is the company associated with the data breach.
 # $data_breach_date is the date of the data breach.
 exposure-card-description-data-breach-part-one = Vaše informácie boli odhalené pri <data_breach_link>úniku údajov spoločnosti { $data_breach_company } dňa { $data_breach_date }</data_breach_link>.
+exposure-card-description-data-breach-part-two = Prevedieme vás krokmi, pomocou ktorých vykonáte nápravu.
+exposure-card-your-exposed-info = Vaše zverejnené informácie:
+exposure-card-exposure-type-data-breach = Únik údajov
+exposure-card-label-company-logo = Logo spoločnosti
+exposure-card-label-company = Spoločnosť
+exposure-card-label-exposure-type = Typ zverejnenia
 exposure-card-label-date-found = Dátum nájdenia
 # Status of the exposure card, could be In Progress, Fixed or Action Needed
 exposure-card-label-status = Stav
