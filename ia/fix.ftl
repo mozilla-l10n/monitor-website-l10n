@@ -27,15 +27,19 @@ fix-flow-celebration-high-risk-description-done = Facer iste labor pote parer mu
 fix-flow-celebration-high-risk-description-next-passwords = Ora que nos remedia a tu contrasignos revelate.
 fix-flow-celebration-high-risk-description-next-security-questions = Ora que nos remedia a tu demandas de securitate revelate.
 fix-flow-celebration-high-risk-description-next-security-recommendations = Successivemente nos te dara recommendationes de securitate personalisate in base a que tu datos ha essite exponite.
+fix-flow-celebration-high-risk-description-next-dashboard = Tu ha attingite le fin de tu passos. Tu pote vider qualcunque elementos del action e traciar tu progresso sur tu pannello de controlo.
 
 ## Leaked passwords and security questions flow
 
+fix-flow-celebration-leaked-passwords-title = Tu contrasignos es ora protegite!
+fix-flow-celebration-security-questions-title = Tu demandas de securitate es protegite!
 
 ## Security recommendations flow
 
 
 # High Risk Data Breaches
 
+high-risk-breach-heading = Ecce que facer
 # Variables
 # $breach_name is the name of the breach where the high risk data was found.
 # $breach_date is the date when the breach occurred.
