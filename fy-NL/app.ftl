@@ -45,6 +45,7 @@ user-add-duplicate-email = Dit e-mailadres is al oan { -product-name } tafoege.
 #   $userEmail (String) - User email address
 user-add-duplicate-email-part-2 = Besykje jo { $preferencesLink } om de steat fan { $userEmail } te kontrolearjen.
 user-add-verification-email-just-sent = Sa gau kin in oar ferifikaasje-e-mailberjocht net ferstjoerd wurde. Probearje it letter opnij.
+user-add-unknown-error = Der is wat misgien by it tafoegjen fan in oar e-mailadres. Probearje it letter opnij.
 error-headline = Flater
 user-verify-token-error = Ferifikaasjetoken is fereaske.
 user-verify-email-report-subject = Jo { -product-name }-rapport
@@ -728,6 +729,7 @@ ad-unit-6-before-you-complete = Brûk, eardat jo jo folgjende registraasje folt�
 # “account” can be localized, “Mozilla” must be treated as a brand,
 # and kept in English.
 -brand-mozilla-account = Mozilla-account
+open-in-new-tab-alt = Keppeling iepenje yn in nij ljepblêd
 
 ## Search Engine Optimization
 
