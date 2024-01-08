@@ -97,21 +97,63 @@ high-risk-breach-social-security-step-two = <link_to_info>Kontrolearje jo kredyt
 ssn-modal-title = Oer fraudewarskôgingen en kredytbefriezingen
 ssn-modal-description-fraud-part-one = <b>In fraudewarskôging</b> fereasket dat bedriuwen jo identiteit ferifiearje eardat nij tegoed op jo namme útjaan wurdt. It is fergees, duorret ien jier en hat gjin negatyf ynfloed op jo kredytskoare.
 ssn-modal-description-fraud-part-two = Nim hjirfoar kontakt op mei ien fan de trije kredytburo’s. Jo hoege net mei alle trije kontakt op te nimmen.
+ssn-modal-description-freeze-credit-part-one = <b>Befriezing fan jo tegoed</b> foarkomt dat ien in nije rekkening op jo naam iepenet. It is fergees en hat gjin negative ynfloed op jo kredytskoare, mar jo moatte de befriezing opheffe eardat jo nije rekkeningen iepenje.
+ssn-modal-description-freeze-credit-part-two = Nim kontakt op mei elk fan de trije kredytburo’s om jo tegoed te befriezen – <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> en <transunion_link>TransUnion</transunion_link>.
+ssn-modal-learn-more = Mear ynfo oer fraudewarskôgingen en tegoedbefriezingen
+ssn-modal-ok = OK
 
 # PIN Breaches
 
+high-risk-breach-pin-title = Jo pinkoade is lekt
+high-risk-breach-pin-description = Sa gau mooglik aksje ûndernimme kin jo mear juridyske beskermingen jaan om jo te helpen eventuele ferliezen werom te heljen.
+high-risk-breach-pin-step-one = Bring jo bank daliks op de hichte dat jo pinkoade lekt is.
+high-risk-breach-pin-step-two = Wizigje jo pinkoade oeral wêr’t jo deselde brûkt hawwe.
+high-risk-breach-pin-step-three = Kontrolearje jo rekkeningen op net-autorisearre ôfskriuwingen.
 
 # No high risk breaches found
 
+high-risk-breach-none-title = Geweldich nijs, wy gjin datalekken mei hege risiko fûn
+# Variables
+# $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
+high-risk-breach-none-description = Wy detektearje datalekken op basis fan jo e-mailadres, en wy hawwe gjin datalekken mei heech risiko fûn foar { $email_list }.
+high-risk-breach-none-sub-description-part-one = Datalekken mei in heech risiko binne ûnder oare:
+high-risk-breach-none-sub-description-ssn = Boargerservicenûmer
+high-risk-breach-none-sub-description-bank-account = Bankrekkeningsgegevens
+high-risk-breach-none-sub-description-cc-number = Creditcardnûmers
+high-risk-breach-none-sub-description-pin = Pinkoaden
+high-risk-breach-none-continue = Trochgean
 
 # Security recommendations
 
+security-recommendation-steps-label = Befeiligingsoanrekommandaasjes
+security-recommendation-steps-title = Dit is ús advys:
+security-recommendation-steps-cta-label = Begrepen!
 
 # Phone security recommendation
 
+security-recommendation-phone-title = Beskermje jo telefoannûmer
+# $num_breaches is the number of breaches where the phone number was found.
+security-recommendation-phone-summary =
+    { $num_breaches ->
+        [one] Jo telefoannûmer is lekt by { $num_breaches } datalek:
+       *[other] Jo telefoannûmer is lekt by { $num_breaches } datalekken:
+    }
+security-recommendation-phone-description = Spitigernôch kinne jo it net weromnimme. Mar der binne stappen dy’t jo nimme kinne om te soargjen dat jo feilich bliuwe.
+security-recommendation-phone-step-one = Blokkearje spamnûmers om mear net winske oproppen foar te kommen
+security-recommendation-phone-step-two = Klik net op keppelingen yn sms’kes fan ûnbekende ôfstjoerders; as it fan in fertroude boarne liket, belje dan streekrjocht foar befêstiging
 
 # Email security recommendation
 
+security-recommendation-email-title = Beskermje jo e-mailadres
+# $num_breaches is the number of breaches where the email address was found.
+security-recommendation-email-summary =
+    { $num_breaches ->
+        [one] Jo e-mailadres is lekt by { $num_breaches } datalek:
+       *[other] Jo e-mailadres is lekt by { $num_breaches } datalekken:
+    }
+security-recommendation-email-description = Spitigernôch kinne jo dit net oplosse. Mar der binne stappen dy’t jo nimme kinne om te soargjen dat jo feilich bliuwe.
+security-recommendation-email-step-one = Klik net op keppelingen yn e-mailberjochten fan ûnbekende ôfstjoerders; as it fan in fertroude boarne liket, belje dan streekrjocht foar befêstiging
+security-recommendation-email-step-two = Pas op foar <link_to_info>phishingscams</link_to_info>
 
 # IP security recommendation
 
