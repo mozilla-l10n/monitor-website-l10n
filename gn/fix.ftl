@@ -46,6 +46,9 @@ high-risk-breach-skip = Ehasa ko’ág̃a
 
 # Credit Card Breaches
 
+high-risk-breach-credit-card-title = Nde kuatia’atã papapy ojehechakuaa
+high-risk-breach-credit-card-step-one = Erekóramo gueteri ko kuatia’atã, emombe’u ime’ẽhárape oñemondaha.
+high-risk-breach-credit-card-step-two = Ejerure kuatia’atã papapy pyahu reheve.
 
 # Bank Account Breaches
 
