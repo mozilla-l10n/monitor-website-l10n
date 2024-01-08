@@ -54,7 +54,7 @@ high-risk-breach-skip = Voorlopig overslaan
 # An example of this string is Your estimated time: 15+ minutes.
 high-risk-breach-estimated-time =
     { $estimated_time ->
-        [one] Uw geschatte tijd: meer dan { $estimated_time } minuten
+        [one] Uw geschatte tijd: meer dan { $estimated_time } minuut
        *[other] Uw geschatte tijd: meer dan { $estimated_time } minuten
     }
 
@@ -62,31 +62,21 @@ high-risk-breach-estimated-time =
 
 high-risk-breach-credit-card-title = Uw creditcardnummer is gelekt
 high-risk-breach-credit-card-description = Iedereen die het ontvangt, kan ongeautoriseerde aankopen doen waarvoor u mogelijk aansprakelijk bent. Kom nu in actie om financiële schade te voorkomen.
-high-risk-breach-credit-card-step-one = Als u deze kaart nog steeds hebt, neem dan contact op met de uitgever om deze als gestolen aan te geven.
-high-risk-breach-credit-card-step-two = Een nieuwe kaart met een nieuw nummer aanvragen.
-high-risk-breach-credit-card-step-three = Controleer uw accounts op ongeautoriseerde afschrijvingen.
 
 # Bank Account Breaches
 
 high-risk-breach-bank-account-title = Uw bankrekening is gelekt
 high-risk-breach-bank-account-description = Zo snel mogelijk actie ondernemen kan u meer wettelijke bescherming geven om eventuele verliezen te verhalen.
 high-risk-breach-bank-account-step-one = Breng uw bank onmiddellijk op de hoogte dat uw rekeningnummer is gehackt.
-high-risk-breach-bank-account-step-two = Wijzig uw accountnummer.
-high-risk-breach-bank-account-step-three = Controleer uw accounts op ongeautoriseerde afschrijvingen.
 
 # Social Security Number Breaches
 
 high-risk-breach-social-security-title = Uw burgerservicenummer is gelekt
-high-risk-breach-social-security-description = Oplichters kunnen nieuwe leningen of creditcards openen met uw burgerservicenummer. Reageer snel om financiële schade te voorkomen.
 high-risk-breach-social-security-step-one = Bescherm uzelf door <link_to_info>een fraudewaarschuwing in te stellen of uw tegoed te bevriezen.</link_to_info>
-high-risk-breach-social-security-step-two = <link_to_info>Controleer uw kredietrapport</link_to_info> op niet-herkende accounts.
 
 # Social Security Number Modal
 
 ssn-modal-title = Over fraudewaarschuwingen en tegoedbevriezingen
-ssn-modal-description-fraud-part-one = <b>Een fraudewaarschuwing</b> vereist dat bedrijven uw identiteit verifiëren voordat nieuw tegoed op uw naam wordt uitgegeven. Het is gratis, duurt een jaar en heeft geen negatieve invloed op uw credit score.
-ssn-modal-description-fraud-part-two = Neem hiervoor contact op met een van de drie kredietbureaus. U hoeft niet alle drie contact op te nemen.
-ssn-modal-description-freeze-credit-part-one = <b>Bevriezing van uw tegoed</b> voorkomt dat iemand een nieuwe account op uw naam opent. Het is gratis en heeft geen negatieve invloed op uw credit score, maar u moet de blokkering van de blokkering opheffen voordat u nieuwe accounts opent.
 ssn-modal-description-freeze-credit-part-two = Neem contact op met elk van de drie kredietbureaus om uw tegoed te bevriezen – <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> en <transunion_link>TransUnion</transunion_link>.
 ssn-modal-learn-more = Meer info over fraudewaarschuwingen en tegoedbevriezingen
 ssn-modal-ok = OK
@@ -95,9 +85,7 @@ ssn-modal-ok = OK
 
 high-risk-breach-pin-title = Uw pincode is gelekt
 high-risk-breach-pin-description = Zo snel mogelijk actie ondernemen kan u meer wettelijke bescherming geven om eventuele verliezen te verhalen.
-high-risk-breach-pin-step-one = Breng uw bank onmiddellijk op de hoogte dat uw pincode is gehackt.
 high-risk-breach-pin-step-two = Wijzig uw pincode overal waar u dezelfde hebt gebruikt.
-high-risk-breach-pin-step-three = Controleer uw accounts op ongeautoriseerde afschrijvingen.
 
 # No high risk breaches found
 
