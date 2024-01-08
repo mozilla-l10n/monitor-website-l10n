@@ -34,7 +34,7 @@ fix-flow-celebration-high-risk-description-next-dashboard = U hebt het einde van
 fix-flow-celebration-leaked-passwords-title = Uw wachtwoorden zijn nu beschermd!
 fix-flow-celebration-security-questions-title = Uw beveiligingsvragen zijn beschermd!
 fix-flow-celebration-leaked-passwords-description-next-security-questions = Laten we nu uw gelekte beveiligingsvragen bekijken en bijwerken.
-fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Hierna geven we u gepersonaliseerde beveiligingsaanbevelingen op basis van welke van uw gegevens van u zijn gelekt.
+fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Hierna geven we u gepersonaliseerde beveiligingsaanbevelingen op basis van welke van uw gegevens zijn gelekt.
 fix-flow-celebration-leaked-passwords-description-next-dashboard = Goed gedaan! U hebt het einde van uw stappen bereikt. U kunt op uw dashboard eventuele actie-items bekijken en uw voortgang volgen.
 
 ## Security recommendations flow
