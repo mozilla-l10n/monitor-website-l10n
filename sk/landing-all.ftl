@@ -45,6 +45,15 @@ landing-all-social-proof-title =
         [many] Verí nám { $num_users } miliónov ľudí na celom svete
        *[other] Verí nám { $num_users } miliónov ľudí na celom svete
     }
+# Variables
+# $num_countries is the number of countries available.
+landing-all-social-proof-description =
+    { $num_countries ->
+        [one] Od roku 2018 pomáhame ľuďom v { $num_countries } krajine chrániť ich súkromie po úniku údajov.
+        [few] Od roku 2018 pomáhame ľuďom v { $num_countries } krajinách chrániť ich súkromie po úniku údajov.
+        [many] Od roku 2018 pomáhame ľuďom v { $num_countries } krajinách chrániť ich súkromie po úniku údajov.
+       *[other] Od roku 2018 pomáhame ľuďom v { $num_countries } krajinách chrániť ich súkromie po úniku údajov.
+    }
 landing-all-social-proof-press = Ako sa objavilo v
 
 # Here's How We Help
@@ -55,3 +64,5 @@ landing-all-help-protect-you-feature-one = Vyhľadáme vás pri všetkých znám
 landing-all-help-protect-you-feature-two = Prevedieme vás krokmi na vyriešenie každého úniku
 landing-all-help-protect-you-feature-three = Budeme vás neustále monitorovať a posielať vám upozornenia na akékoľvek nové úniky
 landing-all-help-protect-you-cta = Prihlásiť sa na odber upozornení na úniky
+landing-all-get-started = Zadajte svoju e‑mailovú adresu a začnite
+landing-all-take-back-data = Získajte späť kontrolu nad svojimi údajmi
