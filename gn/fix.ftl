@@ -67,6 +67,8 @@ ssn-modal-ok = MONEĨ
 # PIN Breaches
 
 high-risk-breach-pin-title = Nde PIN ojehechakuaákuri
+high-risk-breach-pin-step-two = Emoambue ne PIN oimeraẽva tenda eiporuhaguépe.
+high-risk-breach-pin-step-three = Ehechajey ne mba’ete oĩre tepyme’ẽrã nemba’e’ỹva.
 
 # No high risk breaches found
 
