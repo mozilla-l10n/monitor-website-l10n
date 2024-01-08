@@ -26,6 +26,16 @@ exposure-chart-caption = Deze grafiek laat zien hoe vaak uw gegevens actief zijn
 exposure-chart-returning-user-upgrade-prompt = Woonadres, familieleden en meer zijn nog niet inbegrepen.
 exposure-chart-returning-user-upgrade-prompt-cta = Een gratis scan starten
 exposure-chart-scan-in-progress-prompt = <b>Bezig met scannen:</b> adres, gezinsleden en meer zijn nog niet opgenomen.
+modal-active-number-of-exposures-title = Over uw aantal actieve lekken
+# Variables:
+#   $limit (number) - Number of email addresses included in the plan
+modal-active-number-of-exposures-part-one-all =
+    { $limit ->
+        [one] Deze grafiek toont het totale aantal keren dat we elk type van gelekte gegevens hebben gevonden in alle datalekken voor het ene e-mailadres dat u momenteel monitort.
+       *[other] Deze grafiek toont het totale aantal keren dat we elk type van gelekte gegevens in alle datalekken hebben gevonden, tot { $limit } e-mailadressen die u momenteel monitort.
+    }
+modal-active-number-of-exposures-part-two = Als u bijvoorbeeld 10 lekken van uw telefoonnummer hebt, kan dat betekenen dat één telefoonnummer op 10 verschillende websites wordt gelekt, of het kan betekenen dat 2 verschillende telefoonnummers op 5 verschillende websites zijn gelekt.
+modal-active-number-of-exposures-part-three-all = Zodra ze zijn opgelost, worden ze toegevoegd aan uw totale aantal opgeloste lekken op de pagina Opgelost.
 modal-cta-ok = OK
 modal-open-alt = Openen
 modal-close-alt = Sluiten
@@ -33,6 +43,8 @@ progress-card-heres-what-we-fixed-headline-all = Dit hebt u gerepareerd
 progress-card-manually-fixed-headline = Handmatig gerepareerd
 dashboard-tab-label-action-needed = Actie nodig
 dashboard-tab-label-fixed = Opgelost
+dashboard-exposures-all-fixed-label = Alles opgelost!
+dashboard-exposures-area-headline = Alle websites waarop uw gegevens zijn gelekt bekijken
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Filteren
 dashboard-exposures-filter-company = Bedrijf
