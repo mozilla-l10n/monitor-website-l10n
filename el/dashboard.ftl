@@ -40,7 +40,7 @@ modal-active-number-of-exposures-part-one-all =
     }
 modal-active-number-of-exposures-part-two = Για παράδειγμα, αν έχετε 10 προβολές του αριθμού τηλεφώνου σας, αυτό μπορεί να σημαίνει ότι ένας αριθμός τηλεφώνου εκτίθεται σε 10 διαφορετικούς ιστοτόπους, ή μπορεί να σημαίνει ότι 2 διαφορετικοί αριθμοί τηλεφώνου έχουν εκτεθεί σε 5 διαφορετικές ιστοσελίδες.
 modal-active-number-of-exposures-part-three-all = Μόλις επιλυθούν, θα προστεθούν στον συνολικό αριθμό σταθερών προβολών στη σελίδα Διόρθωση.
-modal-cta-ok = ΟΚ
+modal-cta-ok = OK
 modal-open-alt = Άνοιγμα
 modal-close-alt = Κλείσιμο
 progress-card-heres-what-we-fixed-headline-all = Ορίστε τι διορθώσατε
