@@ -105,6 +105,31 @@ dashboard-top-banner-non-us-protect-your-data-description-line1 =
         [one] Wy hawwe { $exposures_unresolved_num } lek fan jo gegevens fûn.
        *[other] Wy hawwe { $exposures_unresolved_num } lekken fan jo gegevens fûn.
     }
+# Note: this line is preceded by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
+# Variables:
+#   $data_breach_unresolved_num (number) - the total number of data breaches the user has.
+dashboard-top-banner-non-us-protect-your-data-description-line2 =
+    { $data_breach_unresolved_num ->
+        [one] Dizze binne ferskynd yn { $data_breach_unresolved_num } datalek. Wy helpe jo stap foar stap om dit te ferhelpen.
+       *[other] Dizze binne ferskynd yn { $data_breach_unresolved_num } datalekken. Wy helpe jo stap foar stap om dit te ferhelpen.
+    }
+dashboard-top-banner-no-exposures-found-title = Gjin lekken fûn
+dashboard-top-banner-non-us-no-exposures-found-description = Geweldich nijs! Wy hawwe alle bekende datalekken trochsocht en gjin lekken fûn. Wy bliuwe jo e-mailadres kontrolearje en sille jo warskôgje as in nij datalek bart.
+dashboard-no-exposures-label = Gjin lekken fûn
+# Variables:
+# $exposures_resolved_num is the number of exposures the user has resolved.
+dashboard-top-banner-non-us-your-data-is-protected-description =
+    { $exposures_resolved_num ->
+        [one] Goed wurk, it lek fan jo gegevens is oplost! Wy bliuwe kontrolearje en sille jo op de hichte hâlde fan nije lekken.
+       *[other] Goed wurk, alle { $exposures_resolved_num } lekken fan jo gegevens is oplost! Wy bliuwe kontrolearje en sille jo op de hichte hâlde fan nije lekken.
+    }
+dashboard-top-banner-monitor-more-cta = Mear e-mailadressen kontrolearje
 
 # About Exposure Statuses Modal
 
+modal-exposure-status-title = Oer lekstatussen
+modal-exposure-status-description-all =
+    Wy sykje nei lekken yn alle bekende gegevens datalekken.
+    Jo lekken sille ien fan de folgjende statussen hawwe:
+modal-exposure-status-action-needed = <b>Aksje nedich</b> betsjut dat it lek op dit stuit aktyf is en dat jo stappen ûndernimme moatte om it te reparearjen.
+modal-exposure-status-fixed = <b>Oplost</b> betsjut dat it lek ferholpen is en dat jo gjin aksje hoege te ûndernimmen.
