@@ -783,6 +783,11 @@ user-menu-trigger-label = Brûkersmenu iepenje
 user-menu-trigger-tooltip = Profyl
 user-menu-manage-fxa-label = Jo { -brand-mozilla-account } beheare
 user-menu-settings-label = Ynstellingen
+user-menu-settings-tooltip = { -brand-mozilla-monitor } konfigurearje
+user-menu-help-label = Help en stipe
+user-menu-help-tooltip = Krij help mei it brûken fan { -brand-mozilla-monitor }
+user-menu-signout-label = Ofmelde
+user-menu-signout-tooltip = Ofmelde by { -brand-mozilla-monitor }
 
 ## Footer
 
@@ -791,6 +796,8 @@ terms-of-service = Tsjinstbetingsten
 privacy-notice = Privacyferklearring
 github = { -brand-github }
 footer-nav-all-breaches = Alle datalekken
+footer-external-link-faq-label = FAQ’s
+footer-external-link-faq-tooltip = Faak stelde fragen
 
 ## Error page
 
