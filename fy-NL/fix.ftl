@@ -212,3 +212,4 @@ leaked-security-questions-steps-subtitle = Dit fereasket tagong ta jo account, d
 # $breach_name is the name of the breach where the security questions were found.
 # $email_affected is the email associated with the breach.
 leaked-security-questions-step-one = Wurkje jo befeiligingsfragen foar <b>{ $email_affected }</b> by op <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-security-questions-step-two = Wurkje se by op oare websites wêr’t jo deselde befeiligingsfragen steld hawwe. Soargje derfoar dat jo foar elke account oare befeiligingsfragen brûke.
