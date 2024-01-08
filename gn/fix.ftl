@@ -32,6 +32,7 @@ fix-flow-celebration-security-questions-title = ¡Ne porandu tekorosãrãva oñe
 
 ## Security recommendations flow
 
+fix-flow-celebration-security-recommendations-title = ¡Emyanyhẽmapa opaite ne ñemoñe’ẽporã!
 
 # High Risk Data Breaches
 
@@ -72,6 +73,7 @@ high-risk-breach-pin-step-three = Ehechajey ne mba’ete oĩre tepyme’ẽrã n
 
 # No high risk breaches found
 
+high-risk-breach-none-title = Marandu iporãva, ndorojuhúi mba’ekuaarã ñembogua ivaikuaáva
 high-risk-breach-none-sub-description-part-one = Mba’ekuaarã ñembyai oikokuaávape oĩ:
 high-risk-breach-none-sub-description-ssn = Seguro social papapy
 high-risk-breach-none-sub-description-bank-account = Marandu mba’ete banco pegua
@@ -88,10 +90,13 @@ security-recommendation-steps-cta-label = ¡Aikũmby!
 # Phone security recommendation
 
 security-recommendation-phone-title = Emo’ã ne pumbyry papapy
+security-recommendation-phone-step-one = Ejoko spam papapy emboyke hag̃ua ñehenói oiko’ỹva
 
 # Email security recommendation
 
+security-recommendation-email-title = Emo’ã ñanduti veve kundaharape
 security-recommendation-email-step-two = Ema’ẽke <link_to_info>phishing jehode</link_to_info> rehe
+security-recommendation-email-step-three = Emongurusu ñanduti veve ikatúva spam ha emboyke imbouhára
 
 # IP security recommendation
 
