@@ -22,6 +22,7 @@ exposure-chart-legend-heading-nr = Papapy
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
+exposure-chart-caption = Ko ta’ãnga ohechauka mba’eichaitépa ne marandu oñembyaikuaa.
 exposure-chart-returning-user-upgrade-prompt-cta = Emoha’ãnga reiete
 modal-cta-ok = MONEĨ
 modal-open-alt = Ijurujáva
