@@ -37,3 +37,10 @@ exposure-card-cta = Alle lekken werstelle
 exposure-card-label-company-logo = Bedriuwslogo
 exposure-card-label-company = Bedriuw
 exposure-card-label-exposure-type = Type lek
+exposure-card-label-date-found = Datum ûntdekt
+# Status of the exposure card, could be In Progress, Fixed or Action Needed
+exposure-card-label-status = Status
+# Variables:
+# $category_label is the data breach exposure type that was leaked. Eg. Email, IP Address.
+# $count is the number of times that the data type was leaked.
+exposure-card-label-and-count = { $category_label }: { $count }
