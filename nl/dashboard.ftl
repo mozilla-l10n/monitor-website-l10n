@@ -5,13 +5,24 @@
 
 # Chart summarizing total exposures
 
+# The number inside <nr> will be displayed in a large font,
+# the label inside <label> will be shown underneath, in a smaller font.
+# Variables:
+#   $nr (number) - Number of unresolved exposures for the user
+exposure-chart-heading =
+    { $nr ->
+        [one] <nr>{ $nr }</nr> <label>lek</label>
+       *[other] <nr>{ $nr }</nr> <label>lekken</label>
+    }
 # Variables:
 #   $nr (number) - Number of fixed exposures found for the user
 exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>Opgelost</label>
+exposure-chart-legend-heading-type = Lek
 exposure-chart-legend-heading-nr = Aantal
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
+exposure-chart-caption = Deze grafiek laat zien hoe vaak uw gegevens actief zijn gelekt.
 exposure-chart-returning-user-upgrade-prompt = Woonadres, familieleden en meer zijn nog niet inbegrepen.
 exposure-chart-returning-user-upgrade-prompt-cta = Een gratis scan starten
 exposure-chart-scan-in-progress-prompt = <b>Bezig met scannen:</b> adres, gezinsleden en meer zijn nog niet opgenomen.
