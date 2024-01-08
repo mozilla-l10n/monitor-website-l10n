@@ -35,17 +35,17 @@ fix-flow-celebration-leaked-passwords-title = Οι κωδικοί πρόσβασ
 fix-flow-celebration-security-questions-title = Οι ερωτήσεις ασφαλείας σας προστατεύονται!
 fix-flow-celebration-leaked-passwords-description-next-security-questions = Τώρα, ας ελέγξουμε και ας ενημερώσουμε τις εκτεθειμένες ερωτήσεις ασφαλείας σας.
 fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Στη συνέχεια, θα σας παρέχουμε εξατομικευμένες συστάσεις ασφαλείας, βάσει των δεδομένων σας που έχουν εκτεθεί.
-fix-flow-celebration-leaked-passwords-description-next-dashboard = Ωραία! Έχετε φτάσει στο τέλος των βημάτων σας. Μπορείτε να δείτε τυχόν στοιχεία ενέργειας και να παρακολουθήσετε την πρόοδό σας στον πίνακα ελέγχου σας.
+fix-flow-celebration-leaked-passwords-description-next-dashboard = Ωραία! Έχετε φτάσει στο τέλος των βημάτων σας. Μπορείτε να δείτε τυχόν στοιχεία ενεργειών και να παρακολουθήσετε την πρόοδό σας στον πίνακα ελέγχου σας.
 
 ## Security recommendations flow
 
 fix-flow-celebration-security-recommendations-title = Έχετε ολοκληρώσει όλες τις συστάσεις!
-fix-flow-celebration-security-recommendations-description-next-dashboard = Ωραία! Έχετε φτάσει στο τέλος των βημάτων σας. Μπορείτε να δείτε τυχόν στοιχεία ενέργειας και να παρακολουθήσετε την πρόοδό σας στον πίνακα ελέγχου σας.
+fix-flow-celebration-security-recommendations-description-next-dashboard = Ωραία! Έχετε φτάσει στο τέλος των βημάτων σας. Μπορείτε να δείτε τυχόν στοιχεία ενεργειών και να παρακολουθήσετε την πρόοδό σας στον πίνακα ελέγχου σας.
 
 # High Risk Data Breaches
 
 high-risk-breach-heading = Ορίστε τι πρέπει να κάνετε
-high-risk-breach-subheading = Αυτό απαιτεί πρόσβαση στις ευαίσθητες πληροφορίες σας, επομένως θα πρέπει να διορθώσετε το πρόβλημα χειροκίνητα.
+high-risk-breach-subheading = Αυτό απαιτεί πρόσβαση στις ευαίσθητες πληροφορίες σας, επομένως θα πρέπει να το διορθώσετε χειροκίνητα.
 # Variables
 # $num_breaches is the number of breaches where the high risk data was found.
 high-risk-breach-summary =

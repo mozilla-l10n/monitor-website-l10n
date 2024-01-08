@@ -38,8 +38,8 @@ modal-active-number-of-exposures-part-one-all =
         [one] Αυτό το γράφημα περιλαμβάνει τον συνολικό αριθμό φορών που βρήκαμε κάθε τύπο δεδομένων σε όλες τις παραβιάσεις δεδομένων για τη { $limit } διεύθυνση email που εποπτεύετε αυτήν τη στιγμή.
        *[other] Αυτό το γράφημα περιλαμβάνει τον συνολικό αριθμό φορών που βρήκαμε κάθε τύπο δεδομένων σε όλες τις παραβιάσεις δεδομένων για έως και { $limit } διευθύνσεις email που εποπτεύετε αυτήν τη στιγμή.
     }
-modal-active-number-of-exposures-part-two = Για παράδειγμα, αν έχετε 10 προβολές του αριθμού τηλεφώνου σας, αυτό μπορεί να σημαίνει ότι ένας αριθμός τηλεφώνου εκτίθεται σε 10 διαφορετικούς ιστοτόπους, ή μπορεί να σημαίνει ότι 2 διαφορετικοί αριθμοί τηλεφώνου έχουν εκτεθεί σε 5 διαφορετικές ιστοσελίδες.
-modal-active-number-of-exposures-part-three-all = Μόλις επιλυθούν, θα προστεθούν στον συνολικό αριθμό σταθερών προβολών στη σελίδα Διόρθωση.
+modal-active-number-of-exposures-part-two = Για παράδειγμα, αν έχετε 10 εκθέσεις του αριθμού τηλεφώνου σας, αυτό μπορεί να σημαίνει ότι ένας αριθμός τηλεφώνου εκτίθεται σε 10 διαφορετικούς ιστοτόπους ή ότι 2 διαφορετικοί αριθμοί τηλεφώνου έχουν εκτεθεί σε 5 διαφορετικούς ιστοτόπους.
+modal-active-number-of-exposures-part-three-all = Μόλις επιλυθούν, θα προστεθούν στον συνολικό αριθμό διορθωμένων εκθέσεων στη σελίδα «Διορθώσεις».
 modal-cta-ok = OK
 modal-open-alt = Άνοιγμα
 modal-close-alt = Κλείσιμο
@@ -93,8 +93,8 @@ dashboard-top-banner-lets-keep-protecting-title = Ας συνεχίσουμε ν
 # $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
 dashboard-top-banner-lets-keep-protecting-description =
     { $exposures_unresolved_num ->
-        [one] Σας απομένει ακόμη { $exposures_unresolved_num } έκθεση για διόρθωση. Συνεχίστε και προστατευτείτε. Θα σας καθοδηγήσουμε βήμα προς βήμα.
-       *[other] Απομένουν ακόμη { $exposures_unresolved_num } προθέσεις για διόρθωση. Συνεχίστε και προστατευτείτε. Θα σας καθοδηγήσουμε βήμα προς βήμα.
+        [one] Σας απομένει ακόμα { $exposures_unresolved_num } έκθεση προς διόρθωση. Συνεχίστε και προστατευτείτε. Θα σας καθοδηγήσουμε βήμα προς βήμα.
+       *[other] Σας απομένουν ακόμα { $exposures_unresolved_num } εκθέσεις προς διόρθωση. Συνεχίστε και προστατευτείτε. Θα σας καθοδηγήσουμε βήμα προς βήμα.
     }
 dashboard-top-banner-lets-keep-protecting-cta = Ας συνεχίσουμε
 # Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
