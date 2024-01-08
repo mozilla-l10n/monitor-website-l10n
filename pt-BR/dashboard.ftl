@@ -89,6 +89,13 @@ dashboard-top-banner-scan-in-progress-title = Sua verificação ainda está em a
 dashboard-top-banner-your-data-is-protected-title = Seus dados estão protegidos
 dashboard-top-banner-your-data-is-protected-cta = Ver o que foi resolvido
 dashboard-top-banner-lets-keep-protecting-title = Vamos continuar a proteger seus dados
+# Variables:
+# $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
+dashboard-top-banner-lets-keep-protecting-description =
+    { $exposures_unresolved_num ->
+        [one] Você ainda tem { $exposures_unresolved_num } exposição para resolver. Continue e proteja-se. Orientamos passo a passo.
+       *[other] Você ainda tem { $exposures_unresolved_num } exposições para resolver. Continue e proteja-se. Orientamos passo a passo.
+    }
 dashboard-top-banner-lets-keep-protecting-cta = Vamos continuar
 # Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
 # Variables:
