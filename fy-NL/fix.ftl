@@ -154,12 +154,61 @@ security-recommendation-email-summary =
 security-recommendation-email-description = Spitigernôch kinne jo dit net oplosse. Mar der binne stappen dy’t jo nimme kinne om te soargjen dat jo feilich bliuwe.
 security-recommendation-email-step-one = Klik net op keppelingen yn e-mailberjochten fan ûnbekende ôfstjoerders; as it fan in fertroude boarne liket, belje dan streekrjocht foar befêstiging
 security-recommendation-email-step-two = Pas op foar <link_to_info>phishingscams</link_to_info>
+security-recommendation-email-step-three = Markearje fertochte e-mailberjochten as spam en blokkearje de ôfstjoerder
+security-recommendation-email-step-four = Brûk <link_to_info>{ -brand-relay } e-mailmaskers</link_to_info> om jo e-mailadres yn de takomst te beskermjen
 
 # IP security recommendation
 
+security-recommendation-ip-title = Brûk in VPN foar ekstra privacy
+# $num_breaches is the number of breaches where the IP address was found.
+security-recommendation-ip-summary =
+    { $num_breaches ->
+        [one] Jo IP-adres is lekt by { $num_breaches } datalek:
+       *[other] Jo IP-adres is lekt by { $num_breaches } datalekken:
+    }
+security-recommendation-ip-description = Jo IP-adres bepaalt jo lokaasje en ynternetprovider. Hackers kinne dizze ynformaasje brûke om jo lokaasje te finen of te probearjen te ferbinen mei jo apparaten.
+security-recommendation-ip-step-one = Brûk in VPN (lykas <link_to_info>{ -brand-mozilla-vpn }</link_to_info>) om jo echte IP-adres te ferbergjen en it ynternet privee te brûken.
 
 # Leaked Passwords
 
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+leaked-passwords-title = Jo wachtwurd fan { $breach_name } is lekt
+# Variables
+# $breach_date is the date when the breach occurred.
+leaked-passwords-summary = Dit ferskynde op { $breach_date } yn in datalek.
+leaked-passwords-description = Oplichters kinne tagong krije ta jo account en sille wierskynlik probearje it te brûken op oare accounts om te sjen oft jo itselde wachtwurd brûkt hawwe. Wizigje it oeral wêr't jo it brûkt hawwe om josels te beskermjen.
+leaked-passwords-steps-title = Dit is wat jo dwaan kinne
+leaked-passwords-steps-subtitle = Dit fereasket tagong ta jo account, dus jo moatte dit hânmjittich oplosse.
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+# $emails_affected are the emails associated with the breach.
+leaked-passwords-step-one = Wizigje jo wachtwurd foar <b>{ $emails_affected }</b> op <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-passwords-step-two = Wizigje it oeral oars wêr’t jo it brûkt hawwe.
+leaked-passwords-mark-as-fixed = As oplost markearje
+leaked-passwords-skip = Foarearst oerslaan
+# Variables
+# $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
+# "Est." is shortform for "Estimated".
+# "mins" is shortform for "minutes".
+leaked-passwords-estimated-time =
+    { $estimated_time ->
+        [one] Skatte tiid foar foltôgjen: { $estimated_time } minút per website
+       *[other] Skatte tiid foar foltôgjen: { $estimated_time } minuten per website
+    }
 
 # Leaked Security Questions
 
+leaked-security-questions-title = Jo befeiligensfragen binne lekt
+# Variables
+# $breach_name is the name of the breach where the leaked security questions were found.
+# $breach_date is the date when the breach occurred.
+# An example of this string is Twitter on 13/09/18.
+leaked-security-questions-summary = Se ferskynden yn in datalek op { $breach_name } op { $breach_date }.
+leaked-security-questions-description = Oplichters kinne dizze brûke om tagong te krijen ta jo accounts, en elke oare websites wêr’t jo deselde befeiligingsfragen brûkt hawwe. Wurkje se no by om jo accounts te beskermjen.
+leaked-security-questions-steps-title = Dit is wat jo dwaan kinne
+leaked-security-questions-steps-subtitle = Dit fereasket tagong ta jo account, dus jo moatte dit hânmjittich oplosse.
+# Variables
+# $breach_name is the name of the breach where the security questions were found.
+# $email_affected is the email associated with the breach.
+leaked-security-questions-step-one = Wurkje jo befeiligingsfragen foar <b>{ $email_affected }</b> by op <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
