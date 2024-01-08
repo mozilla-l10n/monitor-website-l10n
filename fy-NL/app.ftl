@@ -1,3 +1,8 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
 # Strings for the main app
 
 
@@ -39,6 +44,7 @@ user-add-duplicate-email = Dit e-mailadres is al oan { -product-name } tafoege.
 #   $preferencesLink (String) - Link to preferences
 #   $userEmail (String) - User email address
 user-add-duplicate-email-part-2 = Besykje jo { $preferencesLink } om de steat fan { $userEmail } te kontrolearjen.
+user-add-verification-email-just-sent = Sa gau kin in oar ferifikaasje-e-mailberjocht net ferstjoerd wurde. Probearje it letter opnij.
 error-headline = Flater
 user-verify-token-error = Ferifikaasjetoken is fereaske.
 user-verify-email-report-subject = Jo { -product-name }-rapport
@@ -746,15 +752,19 @@ brand-mozilla-vpn = { -brand-mozilla-vpn }
 
 ## User menu
 
+# Obsolete
 menu-button-title = Brûkersmenu
+# Obsolete
 menu-button-alt = Brûkersmenu iepenje
+# Obsolete
 menu-list-accessible-label = Accountmenu
+# Obsolete
 menu-item-fxa-2 = Jo { -brand-mozilla-account } beheare
-menu-item-fxa-alt-2 = { -brand-mozilla-account }-side iepenje
+# Obsolete
 menu-item-settings = Ynstellingen
-menu-item-settings-alt = Ynstellingenside iepenje
+# Obsolete
 menu-item-help = Help en stipe
-menu-item-help-alt = Help- en stipeside iepenje
+# Obsolete
 menu-item-logout = Ofmelde
 
 ## Footer
