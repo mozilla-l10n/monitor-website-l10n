@@ -26,18 +26,52 @@ fix-flow-celebration-high-risk-description-in-progress = Dit wurk dwaan kin in p
 fix-flow-celebration-high-risk-description-done = Dit wurk dwaan kin in protte fiele, mar it is wichtich om josels feilich te hâlden.
 fix-flow-celebration-high-risk-description-next-passwords = Litte wy no jo lekte wachtwurden oplosse.
 fix-flow-celebration-high-risk-description-next-security-questions = Litte wy no jo lekte befeiligingsfragen oplosse.
+fix-flow-celebration-high-risk-description-next-security-recommendations = Hjirnei jouwe wy jo personalisearre befeiligingsoanrekommandaasjes op basis fan hokker fan jo gegevens lekt binne.
+fix-flow-celebration-high-risk-description-next-dashboard = Jo hawwe it ein fan jo stappen berikt. Jo kinne op jo dashboard alle aksje-items besjen en jo foarútgong folgje.
 
 ## Leaked passwords and security questions flow
 
+fix-flow-celebration-leaked-passwords-title = Jo wachtwurden binne no beskerme!
+fix-flow-celebration-security-questions-title = Jo befeiligensfragen binne beskerme!
+fix-flow-celebration-leaked-passwords-description-next-security-questions = Litte wy no jo lekte befeiligingsfragen besjen en bywurkje.
+fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Hjirnei jouwe wy jo personalisearre befeiligingsoanrekommandaasjes op basis fan hokker fan jo gegevens lekt binne.
+fix-flow-celebration-leaked-passwords-description-next-dashboard = Goed dien! Jo hawwe it ein fan jo stappen berikt. Jo kinne op jo dashboard alle aksje-items besjen en jo foarútgong folgje.
 
 ## Security recommendations flow
 
+fix-flow-celebration-security-recommendations-title = Jo hawwe al jo oanrekommandaasjes foltôge!
+fix-flow-celebration-security-recommendations-description-next-dashboard = Goed dien! Jo hawwe it ein fan jo stappen berikt. Jo kinne op jo dashboard alle aksje-items besjen en jo foarútgong folgje.
 
 # High Risk Data Breaches
 
+high-risk-breach-heading = Dit is wat jo dwaan kinne
+high-risk-breach-subheading = Dit fereasket tagong ta jo gefoelige ynformaasje, dus jo moatte dit hânmjittich oplosse.
+# Variables
+# $num_breaches is the number of breaches where the high risk data was found.
+high-risk-breach-summary =
+    { $num_breaches ->
+        [one] It komt foar yn { $num_breaches } datalek:
+       *[other] It komt foar yn { $num_breaches } datalekken:
+    }
+# Variables
+# $breach_name is the name of the breach where the high risk data was found.
+# $breach_date is the date when the breach occurred.
+# An example of this string is Twitter on 13/09/18.
+high-risk-breach-name-and-date = { $breach_name } <breach_date>op { $breach_date }</breach_date>
+high-risk-breach-mark-as-fixed = As oplost markearje
+high-risk-breach-skip = Foarearst oerslaan
+# Variables:
+# $estimated_time is the estimated time it would take for a user to complete breach resolution steps. It not be singular, and the + is meant as "or more".
+# An example of this string is Your estimated time: 15+ minutes.
+high-risk-breach-estimated-time =
+    { $estimated_time ->
+        [one] Jo skatte tiid: mear as { $estimated_time } minút
+       *[other] Jo skatte tiid: mear as { $estimated_time } minuten
+    }
 
 # Credit Card Breaches
 
+high-risk-breach-credit-card-title = Jo creditcardnûmer is lekt
 
 # Bank Account Breaches
 
