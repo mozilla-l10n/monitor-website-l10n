@@ -30,6 +30,7 @@ exposure-chart-caption-fixed = Ko ta’ãnga ohechauka mboyjeýpa jehechauka oñ
 exposure-chart-returning-user-upgrade-prompt = Pe óga, pehẽnguekuéra ha ambue mba’ekuaarã ndoikéi gueteri.
 exposure-chart-returning-user-upgrade-prompt-cta = Emoha’ãnga reiete
 exposure-chart-scan-in-progress-prompt = <b>Oñemoha’ãngahína:</b> kundaharenda, pehẽnguekuéra ha hetave ndoikéi gueteri.
+modal-active-number-of-exposures-title = Mboyjeýmapa ipapapy jehechauka hendýva
 modal-cta-ok = MONEĨ
 modal-open-alt = Ijurujáva
 modal-close-alt = Mboty
