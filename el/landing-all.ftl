@@ -40,15 +40,13 @@ landing-all-data-breach-info-ans = Δεν εκθέτουν όλες οι παρ�
 # $num_users is the number of users in the millions.
 landing-all-social-proof-title =
     { $num_users ->
-        [one] Εμπιστεύονται { $num_users } εκατομμύρια άτομα παγκοσμίως
-       *[other] Εμπιστεύονται { $num_users } εκατομμύρια άτομα παγκοσμίως
+       *[other] Το εμπιστεύονται { $num_users } εκατομμύρια άνθρωποι παγκοσμίως
     }
 # Variables
 # $num_countries is the number of countries available.
 landing-all-social-proof-description =
     { $num_countries ->
-        [one] Από το 2018, έχουμε βοηθήσει ανθρώπους σε { $num_countries } χώρες να προστατέψουν τα δεδομένα τους όταν έχουν εκτεθεί.
-       *[other] Από το 2018, έχουμε βοηθήσει ανθρώπους σε { $num_countries } χώρες να προστατέψουν τα δεδομένα τους όταν έχουν εκτεθεί.
+       *[other] Από το 2018, έχουμε βοηθήσει ανθρώπους σε { $num_countries } χώρες να προστατεύσουν τα δεδομένα τους όταν αυτά εκτέθηκαν.
     }
 landing-all-social-proof-press = Έγραψαν για εμάς
 

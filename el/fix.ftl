@@ -192,8 +192,7 @@ leaked-passwords-skip = Παράλειψη προς το παρόν
 # "mins" is shortform for "minutes".
 leaked-passwords-estimated-time =
     { $estimated_time ->
-        [one] Εκτιμώμενη χρόνος ολοκλήρωσης: { $estimated_time } λεπτά ανά ιστότοπο
-       *[other] Εκτιμώμενη χρόνος ολοκλήρωσης: { $estimated_time } λεπτά ανά ιστότοπο
+       *[other] Εκτιμώμενος χρόνος ολοκλήρωσης: { $estimated_time } λεπτά ανά ιστότοπο
     }
 
 # Leaked Security Questions

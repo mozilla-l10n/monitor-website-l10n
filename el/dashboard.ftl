@@ -47,7 +47,7 @@ progress-card-heres-what-we-fixed-headline-all = Ορίστε τι διορθώ�
 progress-card-manually-fixed-headline = Διορθώθηκε χειροκίνητα
 dashboard-tab-label-action-needed = Απαιτείται ενέργεια
 dashboard-tab-label-fixed = Διορθώθηκε
-dashboard-exposures-all-fixed-label = Όλα διορθώθηκαν εδώ!
+dashboard-exposures-all-fixed-label = Όλα έχουν διορθωθεί εδώ!
 dashboard-exposures-area-headline = Προβολή όλων των ιστοτόπων όπου εκτίθενται οι πληροφορίες σας
 # Note: this line precedes dashboard-exposures-area-description-all-line2.
 # Variables:
@@ -84,7 +84,7 @@ dashboard-exposures-filter-reset = Επαναφορά
 
 ## Top banner on the dashboard
 
-dashboard-top-banner-section-label = Περίληψη πίνακα ελέγχου
+dashboard-top-banner-section-label = Σύνοψη πίνακα ελέγχου
 dashboard-top-banner-scan-in-progress-title = Η σάρωση είναι ακόμα σε εξέλιξη
 dashboard-top-banner-your-data-is-protected-title = Τα δεδομένα σας προστατεύονται
 dashboard-top-banner-your-data-is-protected-cta = Δείτε τι διορθώθηκε
@@ -120,14 +120,16 @@ dashboard-no-exposures-label = Δεν βρέθηκαν εκθέσεις
 # $exposures_resolved_num is the number of exposures the user has resolved.
 dashboard-top-banner-non-us-your-data-is-protected-description =
     { $exposures_resolved_num ->
-        [one] Εξαιρετική δουλειά, διορθώθηκε η έκθεση των δεδομένων σας! Θα συνεχίσουμε να παρακολουθούμε και θα σας ειδοποιήσουμε για τυχόν νέα έκθεση.
-       *[other] Εξαιρετική δουλειά, διορθώθηκαν και οι { $exposures_resolved_num } προβολές των δεδομένων σας! Θα συνεχίσουμε να παρακολουθούμε και θα σας ειδοποιήσουμε για τυχόν νέα έκθεση.
+        [one] Εξαιρετική δουλειά, διορθώθηκε η έκθεση των δεδομένων σας! Θα συνεχίσουμε την εποπτεία και θα σας ειδοποιήσουμε για τυχόν νέες εκθέσεις.
+       *[other] Εξαιρετική δουλειά, διορθώθηκαν και οι { $exposures_resolved_num } εκθέσεις των δεδομένων σας! Θα συνεχίσουμε την εποπτεία και θα σας ειδοποιήσουμε για τυχόν νέες εκθέσεις.
     }
 dashboard-top-banner-monitor-more-cta = Εποπτεία περισσότερων email
 
 # About Exposure Statuses Modal
 
 modal-exposure-status-title = Σχετικά με τις καταστάσεις έκθεσης
-modal-exposure-status-description-all = Αναζητούμε προθέσεις σε όλες τις γνωστές παραβιάσεις δεδομένων. Οι προβολές σας θα έχουν μία από τις εξής καταστάσεις:
-modal-exposure-status-action-needed = <b>Απαιτείται ενέργεια</b>. σημαίνει ότι είναι ενεργή αυτήν τη στιγμή και ότι πρέπει να λάβετε μέτρα για να το διορθώσετε.
-modal-exposure-status-fixed = <b>Διορθώθηκε</b> ότι η έκθεση έχει επιλυθεί και δεν χρειάζεται να κάνετε κάποια ενέργεια.
+modal-exposure-status-description-all =
+    Αναζητούμε εκθέσεις σε όλες τις γνωστές παραβιάσεις δεδομένων.
+    Οι εκθέσεις σας θα έχουν μία από τις εξής καταστάσεις:
+modal-exposure-status-action-needed = <b>Απαιτείται ενέργεια</b>: αυτό σημαίνει ότι είναι ενεργή αυτήν τη στιγμή και πρέπει να λάβετε μέτρα για τη διόρθωσή της.
+modal-exposure-status-fixed = <b>Διορθώθηκε</b>: αυτό σημαίνει ότι η έκθεση έχει επιλυθεί και δεν χρειάζεται να προβείτε σε κάποια ενέργεια.
