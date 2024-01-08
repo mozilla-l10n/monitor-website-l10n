@@ -72,15 +72,31 @@ high-risk-breach-estimated-time =
 # Credit Card Breaches
 
 high-risk-breach-credit-card-title = Jo creditcardnûmer is lekt
+high-risk-breach-credit-card-description = Elkenien dy’t it ûntfangt, kin net-autorisearre oankeapen dwaan wêrfoar jo mooglik oanspraaklik binne. Kom no yn aksje om finansjele skea foar te kommen.
+high-risk-breach-credit-card-step-one = As jo dizze kaart noch hieltyd hawwe, nim dan kontakt op mei de útjouwer om dizze as stellen te melden.
+high-risk-breach-credit-card-step-two = Freegje in nije kaart mei in nij nûmer oan.
+high-risk-breach-credit-card-step-three = Kontrolearje jo rekkeningen op net-autorisearre ôfskriuwingen.
 
 # Bank Account Breaches
 
+high-risk-breach-bank-account-title = Jo bankrekken is lekt
+high-risk-breach-bank-account-description = Sa gau mooglik aksje ûndernimme kin jo mear juridyske beskermingen jaan om jo te helpen eventuele ferliezen werom te heljen.
+high-risk-breach-bank-account-step-one = Bring jo bank daliks op de hichte dat jo rekkeningnûmer hackt is.
+high-risk-breach-bank-account-step-two = Wizigje jo rekkeningnûmer.
+high-risk-breach-bank-account-step-three = Kontrolearje jo rekkeningen op net-autorisearre ôfskriuwingen.
 
 # Social Security Number Breaches
 
+high-risk-breach-social-security-title = Jo boargerservicenûmer is lekt
+high-risk-breach-social-security-description = Oplichters kinne nije lieningen of kredytkaarten iepenje mei jo boargerservicenûmer. Reagearje rap om finansjele skea foar te kommen.
+high-risk-breach-social-security-step-one = Beskermje josels troch <link_to_info>in fraudewarskôging yn te stellen of jo kredyt te befriezen.</link_to_info>
+high-risk-breach-social-security-step-two = <link_to_info>Kontrolearje jo kredytrapport</link_to_info> op net-werkende rekkeningen.
 
 # Social Security Number Modal
 
+ssn-modal-title = Oer fraudewarskôgingen en kredytbefriezingen
+ssn-modal-description-fraud-part-one = <b>In fraudewarskôging</b> fereasket dat bedriuwen jo identiteit ferifiearje eardat nij tegoed op jo namme útjaan wurdt. It is fergees, duorret ien jier en hat gjin negatyf ynfloed op jo kredytskoare.
+ssn-modal-description-fraud-part-two = Nim hjirfoar kontakt op mei ien fan de trije kredytburo’s. Jo hoege net mei alle trije kontakt op te nimmen.
 
 # PIN Breaches
 
