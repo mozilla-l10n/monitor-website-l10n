@@ -26,7 +26,7 @@ exposure-chart-caption = Αυτό το γράφημα δείχνει πόσες 
 # Variables:
 #   $total_fixed_exposures_num (number) - Number of fixed exposures
 #   $total_exposures_num (number) - Number of total exposures
-exposure-chart-caption-fixed = Αυτό το γράφημα εμφανίζει τα συνολικά διορθωμένα ανοίγματα ({ $total_fixed_exposures_num } από { $total_exposures_num })
+exposure-chart-caption-fixed = Αυτό το γράφημα εμφανίζει τις συνολικές εκθέσεις που διορθώθηκαν ({ $total_fixed_exposures_num } από { $total_exposures_num })
 exposure-chart-returning-user-upgrade-prompt = Η διεύθυνση οικίας, τα μέλη της οικογένειας και πολλά άλλα δεν έχουν συμπεριληφθεί ακόμα.
 exposure-chart-returning-user-upgrade-prompt-cta = Έναρξη δωρεάν σάρωσης
 exposure-chart-scan-in-progress-prompt = <b>Σάρωση σε εξέλιξη:</b> η διεύθυνση, τα μέλη της οικογένειας και πολλά άλλα δεν έχουν συμπεριληφθεί ακόμα.

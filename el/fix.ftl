@@ -21,7 +21,7 @@ fix-flow-celebration-next-dashboard-label = Μετάβαση στον πίνακ
 
 ## High-risk flow
 
-fix-flow-celebration-high-risk-title = Διορθώσατε τα ανοίγματα υψηλού κινδύνου!
+fix-flow-celebration-high-risk-title = Διορθώσατε τις εκθέσεις υψηλού κινδύνου!
 fix-flow-celebration-high-risk-description-in-progress = Κάνοντας αυτήν τη δουλειά μπορεί να σας φανεί πολύ, αλλά είναι σημαντικό να το κάνετε για να προστατευτείτε. Συνεχίστε την καλή δουλειά.
 fix-flow-celebration-high-risk-description-done = Κάνοντας αυτήν τη δουλειά μπορεί να σας φανεί πολύ, αλλά είναι σημαντικό να το κάνετε για να προστατευτείτε.
 fix-flow-celebration-high-risk-description-next-passwords = Ας διορθώσουμε τώρα τους εκτεθειμένους κωδικούς πρόσβασής σας.
