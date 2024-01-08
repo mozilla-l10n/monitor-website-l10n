@@ -5,41 +5,16 @@
 
 # Chart summarizing total exposures
 
-# The number inside <nr> will be displayed in a large font,
-# the label inside <label> will be shown underneath, in a smaller font.
-# Variables:
-#   $nr (number) - Number of unresolved exposures for the user
-exposure-chart-heading =
-    { $nr ->
-        [one] <nr>{ $nr }</nr> <label>exposure</label>
-       *[other] <nr>{ $nr }</nr> <label>exposities</label>
-    }
 # Variables:
 #   $nr (number) - Number of fixed exposures found for the user
 exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>Opgelost</label>
-exposure-chart-legend-heading-type = Belichting
 exposure-chart-legend-heading-nr = Aantal
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
-exposure-chart-caption = Deze grafiek laat zien hoe vaak uw gegevens actief worden blootgesteld.
-# Variables:
-#   $total_fixed_exposures_num (number) - Number of fixed exposures
-#   $total_exposures_num (number) - Number of total exposures
-exposure-chart-caption-fixed = Deze grafiek toont de totale vaste blootstellingen ({ $total_fixed_exposures_num } van { $total_exposures_num })
 exposure-chart-returning-user-upgrade-prompt = Woonadres, familieleden en meer zijn nog niet inbegrepen.
 exposure-chart-returning-user-upgrade-prompt-cta = Een gratis scan starten
 exposure-chart-scan-in-progress-prompt = <b>Bezig met scannen:</b> adres, gezinsleden en meer zijn nog niet opgenomen.
-modal-active-number-of-exposures-title = Over uw aantal actieve opnamen
-# Variables:
-#   $limit (number) - Number of email addresses included in the plan
-modal-active-number-of-exposures-part-one-all =
-    { $limit ->
-        [one] Deze grafiek toont het totale aantal keren dat we elk type van gelekte gegevens hebben gevonden in alle datalekken voor het { $limit }-e-mailadres dat u momenteel in de gaten houdt.
-       *[other] Deze grafiek toont het totale aantal keren dat we elk type van gelekte gegevens in alle datalekken hebben gevonden, tot { $limit } e-mailadressen die u momenteel in de gaten houdt.
-    }
-modal-active-number-of-exposures-part-two = Als u bijvoorbeeld 10 blootstellingen van uw telefoonnummer hebt, kan dat betekenen dat één telefoonnummer op 10 verschillende websites wordt gelekt, of het kan betekenen dat 2 verschillende telefoonnummers op 5 verschillende websites zijn gelekt.
-modal-active-number-of-exposures-part-three-all = Zodra ze zijn opgelost, worden ze toegevoegd aan uw totale aantal vaste blootstellingen op de pagina Vast.
 modal-cta-ok = OK
 modal-open-alt = Openen
 modal-close-alt = Sluiten
@@ -47,16 +22,6 @@ progress-card-heres-what-we-fixed-headline-all = Dit hebt u gerepareerd
 progress-card-manually-fixed-headline = Handmatig gerepareerd
 dashboard-tab-label-action-needed = Actie nodig
 dashboard-tab-label-fixed = Opgelost
-dashboard-exposures-all-fixed-label = Hier allemaal opgelost!
-dashboard-exposures-area-headline = Alle websites waarop uw gegevens worden gelekt bekijken
-# Note: this line precedes dashboard-exposures-area-description-all-line2.
-# Variables:
-#   $exposures_unresolved_num (number) - the unresolved number of exposures the user has.
-dashboard-exposures-area-description-all-line1 =
-    { $exposures_unresolved_num ->
-        [one] We hebben { $exposures_unresolved_num } blootstellingen van uw gegevens gevonden.
-       *[other] We hebben { $exposures_unresolved_num } blootstellingen van uw gegevens gevonden.
-    }
 # Note: this line follows dashboard-exposures-area-description-all-line1.
 # Variables:
 #   $data_breach_unresolved_num (number) - the unresolved number of data breaches the user has.
