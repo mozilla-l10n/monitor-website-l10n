@@ -68,9 +68,13 @@ high-risk-breach-credit-card-step-three = Skontrolujte svoje účty, či nemáte
 high-risk-breach-bank-account-title = Váš bankový účet bol odhalený
 high-risk-breach-bank-account-description = Ak podniknete kroky čo najskôr, môžete získať viac právnej ochrany, ktorá vám pomôže získať späť akékoľvek straty.
 high-risk-breach-bank-account-step-one = Okamžite informujte svoju banku, že číslo vášho účtu bolo prezradené.
+high-risk-breach-bank-account-step-two = Zmeňte si číslo účtu.
+high-risk-breach-bank-account-step-three = Skontrolujte svoje účty, či nemáte neoprávnené pohyby.
 
 # Social Security Number Breaches
 
+high-risk-breach-social-security-title = Vaše číslo sociálneho zabezpečenia bolo odhalené
+high-risk-breach-social-security-description = Podvodníci si môžu otvoriť nové pôžičky alebo kreditné karty s vaším číslom sociálneho zabezpečenia. Konajte rýchlo, aby ste predišli finančným škodám.
 
 # Social Security Number Modal
 
@@ -106,8 +110,11 @@ security-recommendation-phone-title = Chráňte svoje telefónne číslo
 
 # Leaked Passwords
 
+leaked-passwords-steps-title = Tu je to, čo je potrebné urobiť
 leaked-passwords-mark-as-fixed = Označiť ako vyriešené
 leaked-passwords-skip = Teraz preskočiť
 
 # Leaked Security Questions
 
+leaked-security-questions-steps-title = Tu je to, čo je potrebné urobiť
+leaked-security-questions-steps-subtitle = Vyžaduje si to prístup k vášmu účtu, takže ich budete musieť vyriešiť manuálne.
