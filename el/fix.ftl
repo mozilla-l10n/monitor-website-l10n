@@ -5,7 +5,7 @@
 fix-flow-nav-high-risk-data-breaches = Παραβιάσεις δεδομένων υψηλού κινδύνου
 fix-flow-nav-leaked-passwords = Κωδικοί πρόσβασης που διέρρευσαν
 fix-flow-nav-security-recommendations = Συστάσεις ασφαλείας
-guided-resolution-flow-exit = Επιστροφή στον πίνακα ελέγχου
+guided-resolution-flow-exit = Επιστροφή στον πίνακα
 guided-resolution-flow-back-arrow = Μετάβαση στο προηγούμενο βήμα
 guided-resolution-flow-next-arrow = Μετάβαση στο επόμενο βήμα
 guided-resolution-flow-step-navigation-label = Καθοδηγούμενα βήματα
