@@ -49,9 +49,13 @@ high-risk-breach-skip = Ehasa ko’ág̃a
 high-risk-breach-credit-card-title = Nde kuatia’atã papapy ojehechakuaa
 high-risk-breach-credit-card-step-one = Erekóramo gueteri ko kuatia’atã, emombe’u ime’ẽhárape oñemondaha.
 high-risk-breach-credit-card-step-two = Ejerure kuatia’atã papapy pyahu reheve.
+high-risk-breach-credit-card-step-three = Ehechajey ne mba’ete oĩre tepyme’ẽrã nemba’e’ỹva.
 
 # Bank Account Breaches
 
+high-risk-breach-bank-account-title = Nde mba’ete banco pegua ojehechakuaa
+high-risk-breach-bank-account-step-two = Emoambue ne mba’ete papapy
+high-risk-breach-bank-account-step-three = Ehechajey ne mba’ete oĩre tepyme’ẽrã nemba’e’ỹva.
 
 # Social Security Number Breaches
 
@@ -87,6 +91,7 @@ security-recommendation-phone-title = Emo’ã ne pumbyry papapy
 
 # IP security recommendation
 
+security-recommendation-ip-title = Eiporu VPN nde rekoñemiverã
 
 # Leaked Passwords
 
