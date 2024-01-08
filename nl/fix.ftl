@@ -21,21 +21,31 @@ fix-flow-celebration-next-dashboard-label = Naar uw dashboard
 
 ## High-risk flow
 
+fix-flow-celebration-high-risk-title = U hebt uw lekken met een hoog risico verholpen!
+fix-flow-celebration-high-risk-description-in-progress = Dit werk doen kan als veel voelen, maar het is belangrijk om uzelf veilig te houden. Ga vooral zo door.
 fix-flow-celebration-high-risk-description-done = Dit werk doen kan als veel voelen, maar het is belangrijk om uzelf veilig te houden.
+fix-flow-celebration-high-risk-description-next-passwords = Laten we nu uw gelekte wachtwoorden oplossen.
+fix-flow-celebration-high-risk-description-next-security-questions = Laten we nu uw gelekte beveiligingsvragen oplossen.
+fix-flow-celebration-high-risk-description-next-security-recommendations = Hierna geven we u gepersonaliseerde beveiligingsaanbevelingen op basis van welke van uw gegevens zijn gelekt.
 fix-flow-celebration-high-risk-description-next-dashboard = U hebt het einde van uw stappen bereikt. U kunt op uw dashboard eventuele actie-items bekijken en uw voortgang volgen.
 
 ## Leaked passwords and security questions flow
 
 fix-flow-celebration-leaked-passwords-title = Uw wachtwoorden zijn nu beschermd!
 fix-flow-celebration-security-questions-title = Uw beveiligingsvragen zijn beschermd!
+fix-flow-celebration-leaked-passwords-description-next-security-questions = Laten we nu uw gelekte beveiligingsvragen bekijken en bijwerken.
+fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Hierna geven we u gepersonaliseerde beveiligingsaanbevelingen op basis van welke van uw gegevens van u zijn gelekt.
+fix-flow-celebration-leaked-passwords-description-next-dashboard = Goed gedaan! U hebt het einde van uw stappen bereikt. U kunt op uw dashboard eventuele actie-items bekijken en uw voortgang volgen.
 
 ## Security recommendations flow
 
 fix-flow-celebration-security-recommendations-title = U hebt al uw aanbevelingen voltooid!
+fix-flow-celebration-security-recommendations-description-next-dashboard = Goed gedaan! U hebt het einde van uw stappen bereikt. U kunt op uw dashboard eventuele actie-items bekijken en uw voortgang volgen.
 
 # High Risk Data Breaches
 
 high-risk-breach-heading = Dit is wat u kunt doen
+high-risk-breach-subheading = Dit vereist toegang tot uw gevoelige gegevens, dus u zult dit handmatig op moeten lossen.
 # Variables
 # $num_breaches is the number of breaches where the high risk data was found.
 high-risk-breach-summary =
@@ -48,6 +58,7 @@ high-risk-breach-summary =
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
 high-risk-breach-name-and-date = { $breach_name } <breach_date>op { $breach_date }</breach_date>
+high-risk-breach-mark-as-fixed = Als opgelost markeren
 high-risk-breach-skip = Voorlopig overslaan
 # Variables:
 # $estimated_time is the estimated time it would take for a user to complete breach resolution steps. It not be singular, and the + is meant as "or more".
@@ -62,21 +73,31 @@ high-risk-breach-estimated-time =
 
 high-risk-breach-credit-card-title = Uw creditcardnummer is gelekt
 high-risk-breach-credit-card-description = Iedereen die het ontvangt, kan ongeautoriseerde aankopen doen waarvoor u mogelijk aansprakelijk bent. Kom nu in actie om financiële schade te voorkomen.
+high-risk-breach-credit-card-step-one = Als u deze kaart nog steeds hebt, neem dan contact op met de verstrekker om deze als gestolen op te geven.
+high-risk-breach-credit-card-step-two = Vraag een nieuwe kaart met een nieuw nummer aan.
+high-risk-breach-credit-card-step-three = Controleer uw rekeningen op ongeautoriseerde afschrijvingen.
 
 # Bank Account Breaches
 
 high-risk-breach-bank-account-title = Uw bankrekening is gelekt
 high-risk-breach-bank-account-description = Zo snel mogelijk actie ondernemen kan u meer wettelijke bescherming geven om eventuele verliezen te verhalen.
 high-risk-breach-bank-account-step-one = Breng uw bank onmiddellijk op de hoogte dat uw rekeningnummer is gehackt.
+high-risk-breach-bank-account-step-two = Wijzig uw rekeningnummer.
+high-risk-breach-bank-account-step-three = Controleer uw rekeningen op ongeautoriseerde afschrijvingen.
 
 # Social Security Number Breaches
 
 high-risk-breach-social-security-title = Uw burgerservicenummer is gelekt
+high-risk-breach-social-security-description = Oplichters kunnen nieuwe leningen of creditcards afsluiten met uw burgerservicenummer. Reageer snel om financiële schade te voorkomen.
 high-risk-breach-social-security-step-one = Bescherm uzelf door <link_to_info>een fraudewaarschuwing in te stellen of uw tegoed te bevriezen.</link_to_info>
+high-risk-breach-social-security-step-two = <link_to_info>Controleer uw kredietrapport</link_to_info> op niet-herkende rekeningen.
 
 # Social Security Number Modal
 
 ssn-modal-title = Over fraudewaarschuwingen en tegoedbevriezingen
+ssn-modal-description-fraud-part-one = <b>Een fraudewaarschuwing</b> vereist dat bedrijven uw identiteit verifiëren voordat nieuw tegoed op uw naam wordt uitgegeven. Het is gratis, duurt een jaar en heeft geen negatieve invloed op uw kredietscore.
+ssn-modal-description-fraud-part-two = Neem hiervoor contact op met een van de drie kredietbureaus. U hoeft niet met alle drie contact op te nemen.
+ssn-modal-description-freeze-credit-part-one = <b>Bevriezing van uw tegoed</b> voorkomt dat iemand een nieuwe rekening op uw naam opent. Het is gratis en heeft geen negatieve invloed op uw kredietscore, maar u moet de bevriezing opheffen voordat u nieuwe rekeningen opent.
 ssn-modal-description-freeze-credit-part-two = Neem contact op met elk van de drie kredietbureaus om uw tegoed te bevriezen – <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> en <transunion_link>TransUnion</transunion_link>.
 ssn-modal-learn-more = Meer info over fraudewaarschuwingen en tegoedbevriezingen
 ssn-modal-ok = OK
@@ -85,7 +106,9 @@ ssn-modal-ok = OK
 
 high-risk-breach-pin-title = Uw pincode is gelekt
 high-risk-breach-pin-description = Zo snel mogelijk actie ondernemen kan u meer wettelijke bescherming geven om eventuele verliezen te verhalen.
+high-risk-breach-pin-step-one = Breng uw bank onmiddellijk op de hoogte dat uw pincode is gelekt.
 high-risk-breach-pin-step-two = Wijzig uw pincode overal waar u dezelfde hebt gebruikt.
+high-risk-breach-pin-step-three = Controleer uw rekeningen op ongeautoriseerde afschrijvingen.
 
 # No high risk breaches found
 
