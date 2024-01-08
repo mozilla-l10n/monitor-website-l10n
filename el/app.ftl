@@ -574,7 +574,7 @@ generic-confirmation-message =
        *[other] Για να δείτε τις εναπομείνουσες διαρροές, μεταβείτε στον πίνακα ελέγχου.
     }
 return-to-breach-details-link = Επιστροφή στις λεπτομέρειες παραβίασης
-go-to-dashboard-link = Μετάβαση στον πίνακα
+go-to-dashboard-link = Μετάβαση στον πίνακα ελέγχου
 # This string appears above a breach resolution progress bar and indicates
 # the percentage of breaches a user has resolved. For instance, "27% complete".
 # Variables:
@@ -794,7 +794,7 @@ main-nav-button-expand-label = Ανάπτυξη μενού
 main-nav-button-expand-tooltip = Ανάπτυξη μενού
 main-nav-label = Πλοήγηση
 main-nav-link-home-label = Αρχική
-main-nav-link-dashboard-label = Πίνακας
+main-nav-link-dashboard-label = Πίνακας ελέγχου
 main-nav-link-settings-label = Ρυθμίσεις
 main-nav-link-faq-label = Συχνές ερωτήσεις
 main-nav-link-faq-tooltip = Συχνές ερωτήσεις

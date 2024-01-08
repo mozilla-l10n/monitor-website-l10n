@@ -5,7 +5,7 @@
 fix-flow-nav-high-risk-data-breaches = Παραβιάσεις δεδομένων υψηλού κινδύνου
 fix-flow-nav-leaked-passwords = Κωδικοί πρόσβασης που διέρρευσαν
 fix-flow-nav-security-recommendations = Συστάσεις ασφαλείας
-guided-resolution-flow-exit = Επιστροφή στον πίνακα
+guided-resolution-flow-exit = Επιστροφή στον πίνακα ελέγχου
 guided-resolution-flow-back-arrow = Μετάβαση στο προηγούμενο βήμα
 guided-resolution-flow-next-arrow = Μετάβαση στο επόμενο βήμα
 guided-resolution-flow-step-navigation-label = Καθοδηγούμενα βήματα
@@ -16,15 +16,15 @@ guided-resolution-flow-step-navigation-label = Καθοδηγούμενα βήμ
 ## Shared CTA labels
 
 fix-flow-celebration-next-label = Ας συνεχίσουμε
-fix-flow-celebration-next-recommendations-label = Δείτε συστάσεις
-fix-flow-celebration-next-dashboard-label = Μεταβείτε στον πίνακα ελέγχου σας
+fix-flow-celebration-next-recommendations-label = Προβολή συστάσεων
+fix-flow-celebration-next-dashboard-label = Μετάβαση στον πίνακα ελέγχου
 
 ## High-risk flow
 
 fix-flow-celebration-high-risk-title = Διορθώσατε τα ανοίγματα υψηλού κινδύνου!
 fix-flow-celebration-high-risk-description-in-progress = Κάνοντας αυτήν τη δουλειά μπορεί να σας φανεί πολύ, αλλά είναι σημαντικό να το κάνετε για να προστατευτείτε. Συνεχίστε την καλή δουλειά.
 fix-flow-celebration-high-risk-description-done = Κάνοντας αυτήν τη δουλειά μπορεί να σας φανεί πολύ, αλλά είναι σημαντικό να το κάνετε για να προστατευτείτε.
-fix-flow-celebration-high-risk-description-next-passwords = Ας διορθώσουμε τους εκτεθειμένους κωδικούς πρόσβασής σας.
+fix-flow-celebration-high-risk-description-next-passwords = Ας διορθώσουμε τώρα τους εκτεθειμένους κωδικούς πρόσβασής σας.
 fix-flow-celebration-high-risk-description-next-security-questions = Ας διορθώσουμε τώρα τις εκτεθειμένες ερωτήσεις ασφαλείας σας.
 fix-flow-celebration-high-risk-description-next-security-recommendations = Έπειτα, θα σας παρέχουμε εξατομικευμένες συστάσεις ασφαλείας, βάσει των δεδομένων σας που έχουν εκτεθεί.
 fix-flow-celebration-high-risk-description-next-dashboard = Έχετε φτάσει στο τέλος των βημάτων σας. Μπορείτε να δείτε τυχόν στοιχεία ενέργειας και να παρακολουθήσετε την πρόοδό σας στον πίνακα ελέγχου σας.
@@ -100,7 +100,7 @@ ssn-modal-description-fraud-part-two = Για να ρυθμίσετε ένα, ε
 ssn-modal-description-freeze-credit-part-one = <b>Η δέσμευση της πίστωσής σας</b> εμποδίζει τον οποιονδήποτε από το άνοιγμα ενός νέου λογαριασμού στο όνομά σας. Είναι δωρεάν και δεν θα επηρεάσει αρνητικά την πιστωτική σας ικανότητα, αλλά θα πρέπει να την απενεργοποιήσετε πριν ανοίξετε νέους λογαριασμούς.
 ssn-modal-description-freeze-credit-part-two = Για να δεσμεύσετε την πίστωσή σας, επικοινωνήστε με κάθε ένα από τα τρία πιστωτικά ιδρύματα — <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> και <transunion_link>TransUnion</transunion_link>.
 ssn-modal-learn-more = Μάθετε περισσότερα σχετικά με τις ειδοποιήσεις απάτης και τη δέσμευση πιστώσεων
-ssn-modal-ok = ΟΚ
+ssn-modal-ok = OK
 
 # PIN Breaches
 
