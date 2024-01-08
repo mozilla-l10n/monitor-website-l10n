@@ -66,6 +66,7 @@ ssn-modal-ok = MONEĨ
 
 # PIN Breaches
 
+high-risk-breach-pin-title = Nde PIN ojehechakuaákuri
 
 # No high risk breaches found
 
@@ -88,6 +89,7 @@ security-recommendation-phone-title = Emo’ã ne pumbyry papapy
 
 # Email security recommendation
 
+security-recommendation-email-step-two = Ema’ẽke <link_to_info>phishing jehode</link_to_info> rehe
 
 # IP security recommendation
 
@@ -95,6 +97,12 @@ security-recommendation-ip-title = Eiporu VPN nde rekoñemiverã
 
 # Leaked Passwords
 
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+leaked-passwords-title = Ne ñe’ẽñemi { $breach_name } pegua ojehechakuaa
+# Variables
+# $breach_date is the date when the breach occurred.
+leaked-passwords-summary = Osẽ peteĩ mba’ekuaarã ñembogua { $breach_date }.
 leaked-passwords-steps-title = Kóva pe rejapova’erã
 leaked-passwords-step-two = Emoambue oimeraẽva tenda eiporuhaguépe.
 leaked-passwords-mark-as-fixed = Embokurusu oĩporãmaha
@@ -112,5 +120,10 @@ leaked-passwords-estimated-time =
 # Leaked Security Questions
 
 leaked-security-questions-title = Ne porandu tekorosãrãva ojehechakakuaa
+# Variables
+# $breach_name is the name of the breach where the leaked security questions were found.
+# $breach_date is the date when the breach occurred.
+# An example of this string is Twitter on 13/09/18.
+leaked-security-questions-summary = Osẽ peteĩ mba’ekuaarã ñembogua { $breach_name }-pe { $breach_date }.
 leaked-security-questions-steps-title = Kóva pe rejapova’erã
 leaked-security-questions-steps-subtitle = Kóva oikotevẽ ne mba’etépe jeike, ikatuhápe emoĩporã nde poite rupive.
