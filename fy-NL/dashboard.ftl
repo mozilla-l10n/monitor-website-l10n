@@ -42,9 +42,69 @@ modal-active-number-of-exposures-part-two = As jo bygelyks 10 lekken fan jo tele
 modal-active-number-of-exposures-part-three-all = Sadree’t se oplost binne, wurde se tafoege oan jo totale oantal fêste lekken op de side Oplost.
 modal-cta-ok = OK
 modal-open-alt = Iepenje
+modal-close-alt = Slute
+progress-card-heres-what-we-fixed-headline-all = Dit hawwe jo reparearre
+progress-card-manually-fixed-headline = Hânmjittich reparearre
+dashboard-tab-label-action-needed = Aksje nedich
+dashboard-tab-label-fixed = Oplost
+dashboard-exposures-all-fixed-label = Alles oplost!
+dashboard-exposures-area-headline = Alle websites wêrop jo gegevens lekt binne
+# Note: this line precedes dashboard-exposures-area-description-all-line2.
+# Variables:
+#   $exposures_unresolved_num (number) - the unresolved number of exposures the user has.
+dashboard-exposures-area-description-all-line1 =
+    { $exposures_unresolved_num ->
+        [one] Wy hawwe { $exposures_unresolved_num } lek fan jo gegevens fûn.
+       *[other] Wy hawwe { $exposures_unresolved_num } lekken fan jo gegevens fûn.
+    }
+# Note: this line follows dashboard-exposures-area-description-all-line1.
+# Variables:
+#   $data_breach_unresolved_num (number) - the unresolved number of data breaches the user has.
+dashboard-exposures-area-description-all-line2 =
+    { $data_breach_unresolved_num ->
+        [one] Dizze binne ferskynd yn { $data_breach_unresolved_num } datalek.
+       *[other] Dizze binne ferskynd yn { $data_breach_unresolved_num } datalekken.
+    }
+dashboard-fixed-area-headline-all = Alle oploste lekken toane
+# This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
+dashboard-exposures-filter = Filterje
+dashboard-exposures-filter-company = Bedriuw
+dashboard-exposures-filter-date-found = Datum ûntdekt
+dashboard-exposures-filter-date-found-last-seven-days = Ofrûne 7 dagen
+dashboard-exposures-filter-date-found-last-thirty-days = Ofrûne 30 dagen
+dashboard-exposures-filter-date-found-last-year = Ofrûne jier
+dashboard-exposures-filter-status = Steat
+dashboard-exposures-filter-status-action-needed = Aksje nedich
+dashboard-exposures-filter-status-in-progress = Yn útfiering
+dashboard-exposures-filter-status-fixed = Oplost
+popover-open-filter-settings-alt = Filters selektearje
+dashboard-exposures-filter-show-all = Alles toane
+dashboard-exposures-filter-show-results = Resultaten toane
+dashboard-exposures-filter-reset = Opnij ynstelle
 
 ## Top banner on the dashboard
 
+dashboard-top-banner-section-label = Dashbordgearfetting
+dashboard-top-banner-scan-in-progress-title = Jo scan is noch dwaande
+dashboard-top-banner-your-data-is-protected-title = Jo gegevens binne beskerme
+dashboard-top-banner-your-data-is-protected-cta = Sjoch wat der oplost is
+dashboard-top-banner-lets-keep-protecting-title = Litte wy jo gegevens beskermje bliuwe
+# Variables:
+# $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
+dashboard-top-banner-lets-keep-protecting-description =
+    { $exposures_unresolved_num ->
+        [one] Jo hawwe noch { $exposures_unresolved_num } lek oer om te reparearjen. Gean troch en beskermje josels. Wy liede jo stap foar stap dertrochhinne.
+       *[other] Jo hawwe noch { $exposures_unresolved_num } lekken oer om te reparearjen. Gean troch en beskermje josels. Wy liede jo stap foar stap dertrochhinne.
+    }
+dashboard-top-banner-lets-keep-protecting-cta = Lit ús trochgean
+# Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
+# Variables:
+#   $exposures_unresolved_num (number) - the total number of exposures the user has.
+dashboard-top-banner-non-us-protect-your-data-description-line1 =
+    { $exposures_unresolved_num ->
+        [one] Wy hawwe { $exposures_unresolved_num } lek fan jo gegevens fûn.
+       *[other] Wy hawwe { $exposures_unresolved_num } lekken fan jo gegevens fûn.
+    }
 
 # About Exposure Statuses Modal
 
