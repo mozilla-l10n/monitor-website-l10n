@@ -33,9 +33,6 @@ settings-add-email-button = E-mailadres toevoegen
 # Deprecated
 settings-delete-email-button = E-mailadres verwijderen
 settings-remove-email-button-label = Verwijderen
-# Variables:
-#   $emailAddress (string) - The email address to remove, e.g. `billnye@example.com`
-settings-remove-email-button-tooltip = Bewaken van { $emailAddress } stoppen
 # This string is shown beneath each of the user’s email addresses to indicate
 # how many known breaches that email address was found in.
 # Variables:
