@@ -46,9 +46,9 @@ modal-close-alt = Κλείσιμο
 progress-card-heres-what-we-fixed-headline-all = Ορίστε τι διορθώσατε
 progress-card-manually-fixed-headline = Διορθώθηκε χειροκίνητα
 dashboard-tab-label-action-needed = Απαιτείται ενέργεια
-dashboard-tab-label-fixed = Διορθώθηκε
+dashboard-tab-label-fixed = Διορθώσεις
 dashboard-exposures-all-fixed-label = Όλα έχουν διορθωθεί εδώ!
-dashboard-exposures-area-headline = Προβολή όλων των ιστοτόπων όπου εκτίθενται οι πληροφορίες σας
+dashboard-exposures-area-headline = Δείτε όλους τους ιστοτόπους όπου εκτίθενται οι πληροφορίες σας
 # Note: this line precedes dashboard-exposures-area-description-all-line2.
 # Variables:
 #   $exposures_unresolved_num (number) - the unresolved number of exposures the user has.
@@ -65,7 +65,7 @@ dashboard-exposures-area-description-all-line2 =
         [one] Εμφανίστηκε σε { $data_breach_unresolved_num } παραβίαση δεδομένων.
        *[other] Εμφανίστηκε σε { $data_breach_unresolved_num } παραβιάσεις δεδομένων.
     }
-dashboard-fixed-area-headline-all = Δείτε όλες τις διορθώσεις προθέσεων
+dashboard-fixed-area-headline-all = Δείτε όλες τις διορθώσεις εκθέσεων
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Φίλτρο
 dashboard-exposures-filter-company = Εταιρεία
@@ -114,7 +114,7 @@ dashboard-top-banner-non-us-protect-your-data-description-line2 =
        *[other] Εμφανίστηκε σε { $data_breach_unresolved_num } παραβιάσεις δεδομένων. Θα σας καθοδηγήσουμε βήμα προς βήμα για το πώς να το διορθώσετε.
     }
 dashboard-top-banner-no-exposures-found-title = Δεν βρέθηκαν εκθέσεις
-dashboard-top-banner-non-us-no-exposures-found-description = Εξαιρετικά νέα! Αναζητήσαμε όλες τις γνωστές παραβιάσεις δεδομένων και δεν βρήκαμε έκθεση. Θα συνεχίσουμε να εποπτεύουμε τη διεύθυνση email σας και θα σας ειδοποιήσουμε αν συμβεί νέα παραβίαση.
+dashboard-top-banner-non-us-no-exposures-found-description = Εξαιρετικά νέα! Αναζητήσαμε όλες τις γνωστές παραβιάσεις δεδομένων και δεν βρήκαμε καμία έκθεση. Θα συνεχίσουμε την εποπτεία της διεύθυνσης email σας και θα σας ειδοποιήσουμε εάν συμβεί νέα παραβίαση.
 dashboard-no-exposures-label = Δεν βρέθηκαν εκθέσεις
 # Variables:
 # $exposures_resolved_num is the number of exposures the user has resolved.
