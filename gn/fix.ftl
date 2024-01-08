@@ -96,9 +96,21 @@ security-recommendation-ip-title = Eiporu VPN nde rekoñemiverã
 # Leaked Passwords
 
 leaked-passwords-steps-title = Kóva pe rejapova’erã
+leaked-passwords-step-two = Emoambue oimeraẽva tenda eiporuhaguépe.
 leaked-passwords-mark-as-fixed = Embokurusu oĩporãmaha
 leaked-passwords-skip = Ehasa ko’ág̃a
+# Variables
+# $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
+# "Est." is shortform for "Estimated".
+# "mins" is shortform for "minutes".
+leaked-passwords-estimated-time =
+    { $estimated_time ->
+        [one] Aravo eikotevẽva emoĩmba hag̃ua: { $estimated_time } aravo’i tendápe
+       *[other] Aravo eikotevẽva emoĩmba hag̃ua: { $estimated_time } aravo’i tendápe
+    }
 
 # Leaked Security Questions
 
+leaked-security-questions-title = Ne porandu tekorosãrãva ojehechakakuaa
 leaked-security-questions-steps-title = Kóva pe rejapova’erã
+leaked-security-questions-steps-subtitle = Kóva oikotevẽ ne mba’etépe jeike, ikatuhápe emoĩporã nde poite rupive.
