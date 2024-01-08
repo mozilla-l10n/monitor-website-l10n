@@ -114,6 +114,7 @@ dashboard-top-banner-non-us-protect-your-data-description-line2 =
        *[other] Apareceu em { $data_breach_unresolved_num } vazamentos de dados. Orientamos passo a passo como resolver.
     }
 dashboard-top-banner-no-exposures-found-title = Nenhuma exposição encontrada
+dashboard-top-banner-non-us-no-exposures-found-description = Boa notícia! Pesquisamos em todos os vazamentos conhecidos de dados, não encontramos nenhuma exposição. Continuaremos monitorando seu endereço de email e alertaremos você se ocorrer um novo vazamento.
 dashboard-no-exposures-label = Nenhuma exposição encontrada
 dashboard-top-banner-monitor-more-cta = Monitorar mais emails
 
