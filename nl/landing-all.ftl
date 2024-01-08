@@ -8,9 +8,13 @@ landing-all-hero-lead = We scannen datalekken om te zien of uw gegevens zijn gel
 landing-all-hero-emailform-input-placeholder = uwnaam@voorbeeld.com
 landing-all-hero-emailform-input-label = Voer uw e-mailadres in om te controleren op datalekken.
 landing-all-hero-emailform-submit-label = Ontvang een gratis scan
+# This is a label underneath a big number "14" - it's an image that demos Monitor.
+landing-all-hero-image-chart-label = lekken
 
 # Value Proposition
 
+landing-all-value-prop-fix-exposures = We helpen u uw lekken op te lossen
+landing-all-value-prop-fix-exposures-description = Onze missie is om de controle over uw persoonlijke gegevens weer in uw handen te leggen. We helpen u datalekken op te lossen en uw gegevens privé te houden – en we respecteren daarbij <privacy_link>uw privacy</privacy_link>.
 landing-all-value-prop-info-at-risk = Welke gegevens kunnen gevaar lopen?
 landing-all-value-prop-info-at-risk-description = Datalekken maken helaas deel uit van ons digitale leven. Uw wachtwoorden, contactgegevens, financiële gegevens en andere persoonlijke gegevens kunnen openbaar worden gemaakt, waardoor u het risico loopt op identiteitsdiefstal.
 
@@ -38,6 +42,13 @@ landing-all-social-proof-title =
     { $num_users ->
         [one] Vertrouwd door { $num_users } miljoen mensen wereldwijd
        *[other] Vertrouwd door { $num_users } miljoen mensen wereldwijd
+    }
+# Variables
+# $num_countries is the number of countries available.
+landing-all-social-proof-description =
+    { $num_countries ->
+        [one] Sinds 2018 helpen we mensen in { $num_countries } land hun gegevens te beschermen wanneer deze zijn blootgesteld.
+       *[other] Sinds 2018 helpen we mensen in { $num_countries } landen hun gegevens te beschermen wanneer deze zijn blootgesteld.
     }
 landing-all-social-proof-press = Zoals gezien in
 

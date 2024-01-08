@@ -23,6 +23,10 @@ exposure-chart-legend-heading-nr = Aantal
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
 exposure-chart-caption = Deze grafiek laat zien hoe vaak uw gegevens actief zijn gelekt.
+# Variables:
+#   $total_fixed_exposures_num (number) - Number of fixed exposures
+#   $total_exposures_num (number) - Number of total exposures
+exposure-chart-caption-fixed = Deze grafiek toont het totaal aantal opgeloste lekken ({ $total_fixed_exposures_num } van { $total_exposures_num })
 exposure-chart-returning-user-upgrade-prompt = Woonadres, familieleden en meer zijn nog niet inbegrepen.
 exposure-chart-returning-user-upgrade-prompt-cta = Een gratis scan starten
 exposure-chart-scan-in-progress-prompt = <b>Bezig met scannen:</b> adres, gezinsleden en meer zijn nog niet opgenomen.

@@ -139,6 +139,7 @@ security-recommendation-phone-summary =
        *[other] Uw telefoonnummer is gelekt bij { $num_breaches } datalekken:
     }
 security-recommendation-phone-description = Helaas kunt u het niet terugnemen. Maar er zijn stappen die u kunt nemen om ervoor te zorgen dat u veilig blijft.
+security-recommendation-phone-step-one = Blokkeer spamnummers om meer ongewenste oproepen te voorkomen
 security-recommendation-phone-step-two = Klik niet op koppelingen in sms’jes van onbekende afzenders; als het van een vertrouwde bron lijkt, bel dan rechtstreeks voor bevestiging
 
 # Email security recommendation
@@ -153,6 +154,8 @@ security-recommendation-email-summary =
 security-recommendation-email-description = Helaas kunt u dit niet oplossen. Maar er zijn stappen die u kunt nemen om uzelf te beschermen.
 security-recommendation-email-step-one = Klik niet op koppelingen in e-mailberichten van onbekende afzenders; als dit van een vertrouwde bron lijkt, bel dan rechtstreeks voor bevestiging
 security-recommendation-email-step-two = Pas op voor <link_to_info>phishingscams</link_to_info>
+security-recommendation-email-step-three = Markeer verdachte e-mailberichten als spam en blokkeer de afzender
+security-recommendation-email-step-four = Gebruik <link_to_info>{ -brand-relay }-e-mailmaskers</link_to_info> om uw e-mailadres in de toekomst te beschermen
 
 # IP security recommendation
 
@@ -163,17 +166,36 @@ security-recommendation-ip-summary =
         [one] Uw IP-adres is gelekt bij { $num_breaches } datalek:
        *[other] Uw IP-adres is gelekt bij { $num_breaches } datalekken:
     }
+security-recommendation-ip-description = Uw IP-adres geeft uw locatie en internetprovider aan. Hackers kunnen deze informatie gebruiken om uw locatie te vinden of te proberen verbinding te maken met uw apparaten.
 security-recommendation-ip-step-one = Gebruik een VPN (zoals <link_to_info>{ -brand-mozilla-vpn }</link_to_info>) om uw echte IP-adres te verbergen en internet privé te gebruiken.
 
 # Leaked Passwords
 
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+leaked-passwords-title = Uw wachtwoord van { $breach_name } is gelekt
+# Variables
+# $breach_date is the date when the breach occurred.
+leaked-passwords-summary = Dit is op { $breach_date } verschenen in een datalek.
+leaked-passwords-description = Oplichters kunnen toegang krijgen tot uw account en zullen het waarschijnlijk proberen te gebruiken voor andere accounts om te zien of u hetzelfde wachtwoord hebt gebruikt. Wijzig het overal waar u het hebt gebruikt om uzelf te beschermen.
 leaked-passwords-steps-title = Dit is wat u kunt doen
+leaked-passwords-steps-subtitle = Dit vereist toegang tot uw account, dus u moet dit handmatig oplossen.
 # Variables
 # $breach_name is the name of the breach where the leaked password was found.
 # $emails_affected are the emails associated with the breach.
 leaked-passwords-step-one = Wijzig uw wachtwoord voor <b>{ $emails_affected }</b> op <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
 leaked-passwords-step-two = Wijzig het overal waar u het hebt gebruikt.
+leaked-passwords-mark-as-fixed = Als opgelost markeren
 leaked-passwords-skip = Voorlopig overslaan
+# Variables
+# $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
+# "Est." is shortform for "Estimated".
+# "mins" is shortform for "minutes".
+leaked-passwords-estimated-time =
+    { $estimated_time ->
+        [one] Geschatte tijd voor voltooien: { $estimated_time } minuut per website
+       *[other] Geschatte tijd voor voltooien: { $estimated_time } minuten per website
+    }
 
 # Leaked Security Questions
 
@@ -185,6 +207,7 @@ leaked-security-questions-title = Uw beveiligingsvragen zijn gelekt
 leaked-security-questions-summary = Ze zijn verschenen in een datalek op { $breach_name } op { $breach_date }.
 leaked-security-questions-description = Oplichters kunnen deze gebruiken om toegang te krijgen tot uw accounts en andere websites waar u dezelfde beveiligingsvragen hebt gesteld. Werk ze nu bij om uw accounts te beschermen.
 leaked-security-questions-steps-title = Dit is wat u kunt doen
+leaked-security-questions-steps-subtitle = Dit vereist toegang tot uw account, dus u moet dit handmatig oplossen.
 # Variables
 # $breach_name is the name of the breach where the security questions were found.
 # $email_affected is the email associated with the breach.
