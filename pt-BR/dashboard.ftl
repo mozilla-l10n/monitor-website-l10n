@@ -31,6 +31,15 @@ exposure-chart-returning-user-upgrade-prompt = Endereço residencial, familiares
 exposure-chart-returning-user-upgrade-prompt-cta = Iniciar uma verificação gratuita
 exposure-chart-scan-in-progress-prompt = <b>Verificação em andamento:</b> endereço, familiares e muito mais ainda não foram incluídos.
 modal-active-number-of-exposures-title = Informações sobre o seu número de exposições ativas
+# Variables:
+#   $limit (number) - Number of email addresses included in the plan
+modal-active-number-of-exposures-part-one-all =
+    { $limit ->
+        [one] Este gráfico inclui o número total de vezes que encontramos cada tipo de dado exposto em todos os vazamentos de dados no endereço de email que você tem sendo monitorado.
+       *[other] Este gráfico inclui o número total de vezes que encontramos cada tipo de dado exposto em todos os vazamentos de dados nos { $limit } endereços de email que você tem sendo monitorados.
+    }
+modal-active-number-of-exposures-part-two = Por exemplo, se você tiver 10 exposições do seu número de celular, pode significar que um número de celular foi exposto em 10 sites diferentes ou pode significar que 2 números de celular foram expostos em 5 sites diferentes.
+modal-active-number-of-exposures-part-three-all = Depois de resolvidas, elas são adicionadas ao número total de exposições resolvidas na página 'Resolvido'.
 modal-cta-ok = OK
 modal-open-alt = Abrir
 modal-close-alt = Fechar
@@ -71,6 +80,7 @@ dashboard-exposures-filter-status-fixed = Resolvido
 popover-open-filter-settings-alt = Selecionar filtros
 dashboard-exposures-filter-show-all = Mostrar tudo
 dashboard-exposures-filter-show-results = Mostrar resultados
+dashboard-exposures-filter-reset = Redefinir
 
 ## Top banner on the dashboard
 
