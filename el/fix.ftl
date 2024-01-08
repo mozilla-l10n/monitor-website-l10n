@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fix-flow-nav-high-risk-data-breaches = Παραβιάσεις δεδομένων υψηλού κινδύνου
-fix-flow-nav-leaked-passwords = Κωδικοί πρόσβασης που διέρρευσαν
+fix-flow-nav-leaked-passwords = Εκτεθειμένοι κωδικοί πρόσβασης
 fix-flow-nav-security-recommendations = Συστάσεις ασφαλείας
 guided-resolution-flow-exit = Επιστροφή στον πίνακα ελέγχου
 guided-resolution-flow-back-arrow = Μετάβαση στο προηγούμενο βήμα
@@ -137,7 +137,7 @@ security-recommendation-phone-summary =
         [one] Ο αριθμός τηλεφώνου σας εκτέθηκε σε { $num_breaches } παραβίαση δεδομένων:
        *[other] Ο αριθμός τηλεφώνου σας εκτέθηκε σε { $num_breaches } παραβιάσεις δεδομένων:
     }
-security-recommendation-phone-description = Δυστυχώς, δεν μπορείτε να την ανακτήσετε. Υπάρχουν όμως μέτρα που μπορείτε να ακολουθήσετε για να παραμείνετε ασφαλείς.
+security-recommendation-phone-description = Δυστυχώς, δεν μπορείτε να τον ανακτήσετε. Υπάρχουν όμως μέτρα που μπορείτε να ακολουθήσετε για να παραμείνετε ασφαλείς.
 security-recommendation-phone-step-one = Φραγή ανεπιθύμητων αριθμών για περισσότερες ανεπιθύμητες κλήσεις
 security-recommendation-phone-step-two = Μην κάνετε κλικ σε συνδέσμους σε μηνύματα από άγνωστους αποστολείς. αν φαίνεται ότι προέρχεται από μια αξιόπιστη πηγή, καλέστε απευθείας για επιβεβαίωση
 
@@ -172,7 +172,7 @@ security-recommendation-ip-step-one = Χρησιμοποιήστε ένα VPN (�
 
 # Variables
 # $breach_name is the name of the breach where the leaked password was found.
-leaked-passwords-title = Εκτέθηκε ο κωδικός πρόσβασής σας από το { $breach_name }
+leaked-passwords-title = Ο κωδικός πρόσβασής σας εκτέθηκε από το { $breach_name }
 # Variables
 # $breach_date is the date when the breach occurred.
 leaked-passwords-summary = Εμφανίστηκε σε μια παραβίαση δεδομένων στις { $breach_date }.
@@ -183,7 +183,7 @@ leaked-passwords-steps-subtitle = Αυτό απαιτεί πρόσβαση στ�
 # $breach_name is the name of the breach where the leaked password was found.
 # $emails_affected are the emails associated with the breach.
 leaked-passwords-step-one = Αλλάξτε τον κωδικό πρόσβασής σας για το <b>{ $emails_affected }</b> στο <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
-leaked-passwords-step-two = Αλλάξτε το όπου αλλού έχετε χρησιμοποιήσει.
+leaked-passwords-step-two = Αλλάξτε τον όπου αλλού τον έχετε χρησιμοποιήσει.
 leaked-passwords-mark-as-fixed = Επισήμανση ως διορθωμένο
 leaked-passwords-skip = Παράλειψη προς το παρόν
 # Variables

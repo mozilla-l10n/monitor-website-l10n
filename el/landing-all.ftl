@@ -53,8 +53,8 @@ landing-all-social-proof-press = Έγραψαν για εμάς
 # Here's How We Help
 
 landing-all-help-protect-you = Δείτε πώς συμβάλλουμε στην προστασία σας
-landing-all-help-protect-you-description = Πιστεύουμε στο δικαίωμά σας στο απόρρητο, επομένως η προστασία από την εποπτεία παραβίασης δεδομένων είναι πάντα δωρεάν.
-landing-all-help-protect-you-feature-one = Θα σας αναζητήσουμε σε όλες τις γνωστές παραβιάσεις δεδομένων
+landing-all-help-protect-you-description = Πιστεύουμε στο δικαίωμά σας στο απόρρητο, επομένως η προστασία μέσω της εποπτείας παραβιάσεων δεδομένων είναι πάντα δωρεάν.
+landing-all-help-protect-you-feature-one = Θα κάνουμε αναζήτηση για εσάς σε όλες τις γνωστές παραβιάσεις δεδομένων
 landing-all-help-protect-you-feature-two = Θα σας καθοδηγήσουμε στα βήματα για την επίλυση κάθε παραβίασης
 landing-all-help-protect-you-feature-three = Θα παρακολουθούμε συνεχώς και θα σας ειδοποιούμε για τυχόν νέες παραβιάσεις
 landing-all-help-protect-you-cta = Εγγραφή για ειδοποιήσεις παραβιάσεων
