@@ -33,13 +33,13 @@ fix-flow-celebration-high-risk-description-next-dashboard = Έχετε φτάσ�
 
 fix-flow-celebration-leaked-passwords-title = Οι κωδικοί πρόσβασής σας προστατεύονται!
 fix-flow-celebration-security-questions-title = Οι ερωτήσεις ασφαλείας σας προστατεύονται!
-fix-flow-celebration-leaked-passwords-description-next-security-questions = Τώρα, ας ελέγξουμε και θα ενημερώσουμε τις εκτεθειμένες ερωτήσεις ασφαλείας σας.
+fix-flow-celebration-leaked-passwords-description-next-security-questions = Τώρα, ας ελέγξουμε και ας ενημερώσουμε τις εκτεθειμένες ερωτήσεις ασφαλείας σας.
 fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Έπειτα, θα σας παρέχουμε εξατομικευμένες συστάσεις ασφαλείας, βάσει των δεδομένων σας που έχουν εκτεθεί.
 fix-flow-celebration-leaked-passwords-description-next-dashboard = Ωραία! Έχετε φτάσει στο τέλος των βημάτων σας. Μπορείτε να δείτε τυχόν στοιχεία ενέργειας και να παρακολουθήσετε την πρόοδό σας στον πίνακα ελέγχου σας.
 
 ## Security recommendations flow
 
-fix-flow-celebration-security-recommendations-title = Έχετε ολοκληρώσει όλες τις προτάσεις σας!
+fix-flow-celebration-security-recommendations-title = Έχετε ολοκληρώσει όλες τις συστάσεις!
 fix-flow-celebration-security-recommendations-description-next-dashboard = Ωραία! Έχετε φτάσει στο τέλος των βημάτων σας. Μπορείτε να δείτε τυχόν στοιχεία ενέργειας και να παρακολουθήσετε την πρόοδό σας στον πίνακα ελέγχου σας.
 
 # High Risk Data Breaches
@@ -59,13 +59,12 @@ high-risk-breach-summary =
 # An example of this string is Twitter on 13/09/18.
 high-risk-breach-name-and-date = { $breach_name } <breach_date>στις { $breach_date }</breach_date>
 high-risk-breach-mark-as-fixed = Επισήμανση ως διορθωμένο
-high-risk-breach-skip = Παράκαμψη για την ώρα
+high-risk-breach-skip = Παράλειψη προς το παρόν
 # Variables:
 # $estimated_time is the estimated time it would take for a user to complete breach resolution steps. It not be singular, and the + is meant as "or more".
 # An example of this string is Your estimated time: 15+ minutes.
 high-risk-breach-estimated-time =
     { $estimated_time ->
-        [one] Εκτιμώμενος χρόνος: { $estimated_time }+ λεπτά
        *[other] Εκτιμώμενος χρόνος: { $estimated_time }+ λεπτά
     }
 
@@ -73,7 +72,7 @@ high-risk-breach-estimated-time =
 
 high-risk-breach-credit-card-title = Ο αριθμός της πιστωτικής σας κάρτας εκτέθηκε
 high-risk-breach-credit-card-description = Οποιοσδήποτε το αποκτήσει μπορεί να κάνει μη εξουσιοδοτημένες αγορές για τις οποίες ενδέχεται να ευθύνεστε εσείς. Δράστε τώρα για να αποτρέψετε την οικονομική ζημιά.
-high-risk-breach-credit-card-step-one = Αν έχετε ακόμα αυτήν την κάρτα, επικοινωνήστε με τον εκδότη για να αναφέρετε την κλοπή της.
+high-risk-breach-credit-card-step-one = Αν έχετε ακόμα αυτήν την κάρτα, επικοινωνήστε με τον εκδότη της για να αναφέρετε την υποκλοπή της.
 high-risk-breach-credit-card-step-two = Ζητήστε μια νέα κάρτα με νέο αριθμό.
 high-risk-breach-credit-card-step-three = Ελέγξτε τους λογαριασμούς σας για μη εξουσιοδοτημένες χρεώσεις.
 
@@ -81,13 +80,13 @@ high-risk-breach-credit-card-step-three = Ελέγξτε τους λογαρια
 
 high-risk-breach-bank-account-title = Ο τραπεζικός σας λογαριασμός εκτέθηκε
 high-risk-breach-bank-account-description = Αν λάβετε δράση το συντομότερο δυνατό, θα έχετε περισσότερη νομική προστασία που θα σας βοηθήσει να ανακτήσετε τυχόν απώλειες.
-high-risk-breach-bank-account-step-one = Ειδοποιήστε αμέσως την τράπεζά σας ότι ο αριθμός λογαριασμού σας έχει παραβιαστεί.
-high-risk-breach-bank-account-step-two = Αλλάξτε τον αριθμό λογαριασμού σας.
+high-risk-breach-bank-account-step-one = Ενημερώστε αμέσως την τράπεζά σας σχετικά με την παραβίαση του αριθμού του λογαριασμού σας.
+high-risk-breach-bank-account-step-two = Αλλάξτε τον αριθμό του λογαριασμού σας.
 high-risk-breach-bank-account-step-three = Ελέγξτε τους λογαριασμούς σας για μη εξουσιοδοτημένες χρεώσεις.
 
 # Social Security Number Breaches
 
-high-risk-breach-social-security-title = Ο αριθμός κοινωνικής σας ασφάλισης εκτέθηκε
+high-risk-breach-social-security-title = Ο αριθμός κοινωνικής ασφάλισής σας εκτέθηκε
 high-risk-breach-social-security-description = Οι απατεώνες μπορούν να συνάψουν νέα δάνεια ή πιστωτικές κάρτες με τον αριθμό κοινωνικής ασφάλισής σας. Δράστε γρήγορα για να αποτρέψετε την οικονομική ζημιά.
 high-risk-breach-social-security-step-one = Προστατευτείτε <link_to_info>ρυθμίζοντας μια ειδοποίηση απάτης ή "παγώνοντας" την πίστωσή σας.</link_to_info>
 high-risk-breach-social-security-step-two = <link_to_info>Ελέγξτε την αναφορά πίστωσής σας</link_to_info> για μη αναγνωρισμένους λογαριασμούς.
@@ -112,7 +111,7 @@ high-risk-breach-pin-step-three = Ελέγξτε τους λογαριασμού
 
 # No high risk breaches found
 
-high-risk-breach-none-title = Εξαιρετικά νέα, δεν εντοπίσαμε παραβιάσεις δεδομένων υψηλού κινδύνου
+high-risk-breach-none-title = Εξαιρετικά νέα! Δεν εντοπίσαμε παραβιάσεις δεδομένων υψηλού κινδύνου
 # Variables
 # $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
 high-risk-breach-none-description = Εντοπίζουμε παραβιάσεις δεδομένων με βάση τη διεύθυνση email σας και δεν βρήκαμε υψηλού κινδύνου παραβιάσεις για το { $email_list }.
@@ -127,7 +126,7 @@ high-risk-breach-none-continue = Συνέχεια
 
 security-recommendation-steps-label = Συστάσεις ασφαλείας
 security-recommendation-steps-title = Ορίστε οι συμβουλές μας:
-security-recommendation-steps-cta-label = Το 'πιασα!
+security-recommendation-steps-cta-label = Το κατάλαβα!
 
 # Phone security recommendation
 
@@ -186,7 +185,7 @@ leaked-passwords-steps-subtitle = Αυτό απαιτεί πρόσβαση στ�
 leaked-passwords-step-one = Αλλάξτε τον κωδικό πρόσβασής σας για το <b>{ $emails_affected }</b> στο <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
 leaked-passwords-step-two = Αλλάξτε το όπου αλλού έχετε χρησιμοποιήσει.
 leaked-passwords-mark-as-fixed = Επισήμανση ως διορθωμένο
-leaked-passwords-skip = Παράκαμψη για την ώρα
+leaked-passwords-skip = Παράλειψη προς το παρόν
 # Variables
 # $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
 # "Est." is shortform for "Estimated".

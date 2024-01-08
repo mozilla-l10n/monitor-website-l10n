@@ -9,11 +9,11 @@ landing-all-hero-emailform-input-placeholder = yourname@example.com
 landing-all-hero-emailform-input-label = Εισαγάγετε τη διεύθυνση email σας για να ελέγξετε για έκθεση σε παραβίαση δεδομένων.
 landing-all-hero-emailform-submit-label = Δωρεάν σάρωση
 # This is a label underneath a big number "14" - it's an image that demos Monitor.
-landing-all-hero-image-chart-label = ανοίγματα
+landing-all-hero-image-chart-label = εκθέσεις
 
 # Value Proposition
 
-landing-all-value-prop-fix-exposures = Θα σας βοηθήσουμε να διορθώσετε τις προβολές σας
+landing-all-value-prop-fix-exposures = Θα σας βοηθήσουμε να διορθώσετε τις εκθέσεις σας
 landing-all-value-prop-fix-exposures-description = Αποστολή μας είναι να επαναφέρουμε τον έλεγχο των προσωπικών σας δεδομένων στα χέρια σας. Θα σας βοηθήσουμε να επιλύσετε παραβιάσεις δεδομένων και θα διατηρήσουμε ιδιωτικά τα στοιχεία σας — ενώ θα <privacy_link>θα σεβαστούμε το απόρρητό σας</privacy_link>.
 landing-all-value-prop-info-at-risk = Ποια δεδομένα θα μπορούσαν να κινδυνεύουν;
 landing-all-value-prop-info-at-risk-description = Οι διαρροές δεδομένων είναι δυστυχώς μέρος της ψηφιακής μας ζωής. Ενδέχεται να εκτεθούν κωδικοί πρόσβασης, στοιχεία επικοινωνίας, οικονομικά στοιχεία και άλλες προσωπικές πληροφορίες, θέτοντας σε κίνδυνο κλοπής ταυτότητας.
