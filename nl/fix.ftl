@@ -7,7 +7,7 @@ fix-flow-nav-leaked-passwords = Gelekte wachtwoorden
 fix-flow-nav-security-recommendations = Beveiligingsaanbevelingen
 guided-resolution-flow-exit = Terug naar dashboard
 guided-resolution-flow-back-arrow = Naar vorige stap
-guided-resolution-flow-next-arrow = Naar de volgende stap
+guided-resolution-flow-next-arrow = Naar volgende stap
 guided-resolution-flow-step-navigation-label = Stappen met instructies
 
 # Celebration screens
@@ -21,31 +21,21 @@ fix-flow-celebration-next-dashboard-label = Naar uw dashboard
 
 ## High-risk flow
 
-fix-flow-celebration-high-risk-title = U hebt uw blootstellingen met een hoog risico verholpen!
-fix-flow-celebration-high-risk-description-in-progress = Dit werk doen kan als veel voelen, maar het is belangrijk om uzelf veilig te houden. Ga zo door met het goede werk.
 fix-flow-celebration-high-risk-description-done = Dit werk doen kan als veel voelen, maar het is belangrijk om uzelf veilig te houden.
-fix-flow-celebration-high-risk-description-next-passwords = Laten we nu uw gelekte wachtwoorden herstellen.
-fix-flow-celebration-high-risk-description-next-security-questions = Laten we nu uw blootgestelde beveiligingsvragen oplossen.
-fix-flow-celebration-high-risk-description-next-security-recommendations = Hierna geven we u gepersonaliseerde beveiligingsaanbevelingen op basis van welke gegevens van u zijn gelekt.
 fix-flow-celebration-high-risk-description-next-dashboard = U hebt het einde van uw stappen bereikt. U kunt op uw dashboard eventuele actie-items bekijken en uw voortgang volgen.
 
 ## Leaked passwords and security questions flow
 
 fix-flow-celebration-leaked-passwords-title = Uw wachtwoorden zijn nu beschermd!
 fix-flow-celebration-security-questions-title = Uw beveiligingsvragen zijn beschermd!
-fix-flow-celebration-leaked-passwords-description-next-security-questions = Laten we nu uw blootgestelde beveiligingsvragen bekijken en bijwerken.
-fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Hierna geven we u gepersonaliseerde beveiligingsaanbevelingen op basis van welke gegevens van u zijn gelekt.
-fix-flow-celebration-leaked-passwords-description-next-dashboard = Mooi gedaan! U hebt het einde van uw stappen bereikt. U kunt op uw dashboard eventuele actie-items bekijken en uw voortgang volgen.
 
 ## Security recommendations flow
 
 fix-flow-celebration-security-recommendations-title = U hebt al uw aanbevelingen voltooid!
-fix-flow-celebration-security-recommendations-description-next-dashboard = Mooi gedaan! U hebt het einde van uw stappen bereikt. U kunt op uw dashboard eventuele actie-items bekijken en uw voortgang volgen.
 
 # High Risk Data Breaches
 
 high-risk-breach-heading = Dit is wat u kunt doen
-high-risk-breach-subheading = Dit vereist toegang tot uw gevoelige gegevens, dus u zult dit handmatig moeten verbeteren.
 # Variables
 # $num_breaches is the number of breaches where the high risk data was found.
 high-risk-breach-summary =
@@ -58,7 +48,6 @@ high-risk-breach-summary =
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
 high-risk-breach-name-and-date = { $breach_name } <breach_date>op { $breach_date }</breach_date>
-high-risk-breach-mark-as-fixed = Als vast markeren
 high-risk-breach-skip = Voorlopig overslaan
 # Variables:
 # $estimated_time is the estimated time it would take for a user to complete breach resolution steps. It not be singular, and the + is meant as "or more".
