@@ -105,6 +105,14 @@ dashboard-top-banner-non-us-protect-your-data-description-line1 =
         [one] Encontramos { $exposures_unresolved_num } exposição de seus dados.
        *[other] Encontramos { $exposures_unresolved_num } exposições de seus dados.
     }
+# Note: this line is preceded by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
+# Variables:
+#   $data_breach_unresolved_num (number) - the total number of data breaches the user has.
+dashboard-top-banner-non-us-protect-your-data-description-line2 =
+    { $data_breach_unresolved_num ->
+        [one] Apareceu em { $data_breach_unresolved_num } vazamento de dados. Orientamos passo a passo como resolver.
+       *[other] Apareceu em { $data_breach_unresolved_num } vazamentos de dados. Orientamos passo a passo como resolver.
+    }
 dashboard-top-banner-no-exposures-found-title = Nenhuma exposição encontrada
 dashboard-no-exposures-label = Nenhuma exposição encontrada
 dashboard-top-banner-monitor-more-cta = Monitorar mais emails
