@@ -56,9 +56,11 @@ security-recommendation-email-title = Vern e-postadressa di
 
 # IP security recommendation
 
+security-recommendation-ip-title = Bruk eit VPN for ekstra personvern
 
 # Leaked Passwords
 
+leaked-passwords-steps-title = Dette er det du skal gjere
 leaked-passwords-mark-as-fixed = Merk som løyst
 leaked-passwords-skip = Hopp over no
 
