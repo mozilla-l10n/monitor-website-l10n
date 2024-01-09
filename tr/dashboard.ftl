@@ -39,6 +39,7 @@ dashboard-top-banner-scan-in-progress-title = Taramanız hâlâ devam ediyor
 dashboard-top-banner-your-data-is-protected-title = Verileriniz korunuyor
 dashboard-top-banner-lets-keep-protecting-title = Verilerinizi korumaya devam edelim
 dashboard-top-banner-lets-keep-protecting-cta = Devam edelim
+dashboard-top-banner-monitor-more-cta = Daha fazla e-postayı izleyin
 
 # About Exposure Statuses Modal
 
