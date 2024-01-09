@@ -147,7 +147,7 @@ security-recommendation-ip-title = 使用 VPN 加强隐私保护
 # $num_breaches is the number of breaches where the IP address was found.
 security-recommendation-ip-summary = 您的 IP 地址出现在 { $num_breaches } 次数据外泄事件中：
 security-recommendation-ip-description = 您的 IP 地址可用于精准确定您的位置和互联网服务提供商。黑客可通过此信息找到您的位置，或尝试连接您的设备。
-security-recommendation-ip-step-one = 使用 VPN（例如 <link_to_info>{ -brand-mozilla-vpn }</link_to_info>）来隐藏您的真实 IP 地址，私密上网。
+security-recommendation-ip-step-one = 使用 VPN（例如 <link_to_info>{ -brand-mozilla-vpn }</link_to_info>）隐藏您的真实 IP 地址，私密上网。
 
 # Leaked Passwords
 
