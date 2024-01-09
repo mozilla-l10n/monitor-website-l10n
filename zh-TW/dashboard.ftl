@@ -56,6 +56,7 @@ dashboard-exposures-area-description-all-line1 =
 #   $data_breach_unresolved_num (number) - the unresolved number of data breaches the user has.
 dashboard-exposures-area-description-all-line2 =
     { $data_breach_unresolved_num ->
+        [zero] 沒有出現在資料外洩事件中。
        *[other] 出現在 { $data_breach_unresolved_num } 場資料外洩事件中。
     }
 dashboard-fixed-area-headline-all = 檢視所有處理過的資料外洩事件
