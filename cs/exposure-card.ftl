@@ -37,7 +37,7 @@ exposure-card-cta = Vyřešit všechny odhalení
 exposure-card-label-company-logo = Logo společnosti
 exposure-card-label-company = Společnost
 exposure-card-label-exposure-type = Typ odhalení
-exposure-card-label-date-found = Datum nalezeno
+exposure-card-label-date-found = Datum nalezení
 # Status of the exposure card, could be In Progress, Fixed or Action Needed
 exposure-card-label-status = Stav
 # Variables:
