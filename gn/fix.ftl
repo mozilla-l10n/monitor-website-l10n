@@ -29,6 +29,7 @@ fix-flow-celebration-high-risk-description-next-security-questions = Ko’ág̃a
 
 fix-flow-celebration-leaked-passwords-title = ¡Ne ñe’ẽñemi ko’ág̃a oñemo’ãma!
 fix-flow-celebration-security-questions-title = ¡Ne porandu tekorosãrãva oñemo’ãma!
+fix-flow-celebration-leaked-passwords-description-next-security-questions = Ko’ág̃a jahecha ha ñambohekopyahúta umi porandu tekorosãrã ivaikuaáva.
 
 ## Security recommendations flow
 
