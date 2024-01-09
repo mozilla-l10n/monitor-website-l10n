@@ -30,6 +30,13 @@ landing-all-data-breach-info-qn = Mba’e marandúpa ojehecha mba’ekuaarã ñe
 
 # Social proof
 
+# Variables
+# $num_users is the number of users in the millions.
+landing-all-social-proof-title =
+    { $num_users ->
+        [one] { $num_users } jeroviápe hetaiterei yvypóra arapy tuichakue
+       *[other] { $num_users } jeroviápe hetaiterei yvypóra arapy tuichakue
+    }
 landing-all-social-proof-press = Ojehechaháicha
 
 # Here's How We Help
