@@ -119,5 +119,5 @@ dashboard-top-banner-monitor-more-cta = 監控更多電子郵件地址
 
 modal-exposure-status-title = 關於資料曝光狀態
 modal-exposure-status-description-all = 我們會在所有已知的資料外洩事件中搜尋曝光的資料。您被曝光的資料會有下列一種狀態：
-modal-exposure-status-action-needed = <b>需要採取行動</b>表示事件已經發生，請採取行動處理。
-modal-exposure-status-fixed = <b>已處理</b>表示資料外洩事件已處理完成，無需再採取任何行動。
+modal-exposure-status-action-needed = <b>需要採取行動</b>：表示事件已經發生，請採取行動處理。
+modal-exposure-status-fixed = <b>已處理</b>：表示資料外洩事件已處理完成，無需再採取任何行動。
