@@ -24,3 +24,4 @@ landing-all-hero-image-chart-label = eksponeringar
 
 landing-all-help-protect-you-cta = Registrer deg for datalekkasjevarsel
 landing-all-get-started = Skann e-posten din for å kome i gang
+landing-all-take-back-data = Ta tilbake kontrollen over din data
