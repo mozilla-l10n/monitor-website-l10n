@@ -210,4 +210,4 @@ leaked-security-questions-steps-subtitle = Αυτό απαιτεί πρόσβα�
 # $breach_name is the name of the breach where the security questions were found.
 # $email_affected is the email associated with the breach.
 leaked-security-questions-step-one = Ενημερώστε τις ερωτήσεις ασφαλείας σας για το <b>{ $email_affected }</b> στο <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
-leaked-security-questions-step-two = Ενημερώστε τις σε οποιονδήποτε άλλο ιστότοπο όπου χρησιμοποιήσατε τις ίδιες ερωτήσεις ασφαλείας. Βεβαιωθείτε ότι χρησιμοποιείτε διαφορετικές ερωτήσεις ασφαλείας για κάθε λογαριασμό.
+leaked-security-questions-step-two = Ενημερώστε τις σε οποιονδήποτε άλλο ιστότοπο χρησιμοποιήσατε τις ίδιες ερωτήσεις ασφαλείας. Βεβαιωθείτε ότι χρησιμοποιείτε διαφορετικές ερωτήσεις ασφαλείας για κάθε λογαριασμό.
