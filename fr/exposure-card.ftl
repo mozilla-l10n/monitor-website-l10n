@@ -11,7 +11,7 @@ exposure-card-date-found = Date de la fuite
 
 status-pill-action-needed = Action nécessaire
 status-pill-progress = En cours
-status-pill-fixed = Corrigée
+status-pill-fixed = Résolue
 
 # Exposure Card
 

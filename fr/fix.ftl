@@ -58,7 +58,7 @@ high-risk-breach-summary =
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
 high-risk-breach-name-and-date = { $breach_name } <breach_date>le { $breach_date }</breach_date>
-high-risk-breach-mark-as-fixed = Marquer comme corrigée
+high-risk-breach-mark-as-fixed = Marquer comme résolue
 high-risk-breach-skip = Ignorer pour l’instant
 
 # Credit Card Breaches
