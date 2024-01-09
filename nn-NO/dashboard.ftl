@@ -5,6 +5,18 @@
 
 # Chart summarizing total exposures
 
+# The number inside <nr> will be displayed in a large font,
+# the label inside <label> will be shown underneath, in a smaller font.
+# Variables:
+#   $nr (number) - Number of unresolved exposures for the user
+exposure-chart-heading =
+    { $nr ->
+        [one] <nr>{ $nr }</nr> <label>eksponering</label>
+       *[other] <nr>{ $nr }</nr> <label>eksponeringar</label>
+    }
+# Variables:
+#   $nr (number) - Number of fixed exposures found for the user
+exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>løyste</label>
 exposure-chart-legend-heading-type = Eksponering
 exposure-chart-legend-heading-nr = Antal
 # Variables:
@@ -14,6 +26,8 @@ exposure-chart-returning-user-upgrade-prompt-cta = Start ei gratis skanning
 modal-cta-ok = OK
 modal-open-alt = Opne
 modal-close-alt = Lat att
+dashboard-tab-label-action-needed = Handling påkravd
+dashboard-tab-label-fixed = Løyst
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Filter
 dashboard-exposures-filter-company = Firma
@@ -33,6 +47,7 @@ dashboard-exposures-filter-reset = Tilbakestill
 dashboard-top-banner-scan-in-progress-title = Skanninga held framleis på
 dashboard-top-banner-your-data-is-protected-title = DIne data er verna
 dashboard-top-banner-your-data-is-protected-cta = Sjå kva som er løyst
+dashboard-top-banner-monitor-more-cta = Overvak fleire e-postadresser
 
 # About Exposure Statuses Modal
 
