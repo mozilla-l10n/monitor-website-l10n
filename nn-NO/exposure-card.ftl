@@ -25,6 +25,11 @@ exposure-card-ip-address = IP-adresse
 exposure-card-other = Anna
 exposure-card-description-info-for-sale-part-one = Denne nettstaden sel og publiserer <data_broker_link>detaljar om deg.</data_broker_link>
 exposure-card-description-info-for-sale-part-two = Fjern denne profilen for å ta vare på personvernet ditt.
+# Variables:
+# $data_breach_company is the company associated with the data breach.
+# $data_breach_date is the date of the data breach.
+exposure-card-description-data-breach-part-one = Informasjonen din vart eksponert i ein datalekkasje på <data_breach_link>{ $data_breach_company } den { $data_breach_date }.</data_breach_link>
+exposure-card-description-data-breach-part-two = Vi vil leie deg gjennom stega for å løyse problema.
 exposure-card-your-exposed-info = DIn eksporterte informasjon:
 exposure-card-exposure-type-data-broker = Info til sals
 exposure-card-exposure-type-data-breach = Datalekkasje
