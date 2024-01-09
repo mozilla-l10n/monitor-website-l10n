@@ -61,9 +61,13 @@ high-risk-breach-bank-account-step-three = Ehechajey ne mba’ete oĩre tepyme�
 
 # Social Security Number Breaches
 
+high-risk-breach-social-security-title = Nde seguridad social papapy ojehechakuaa
+high-risk-breach-social-security-step-two = <link_to_info>Ehecha nde deveha marandu’i</link_to_info> eikuaa hag̃ua oĩpa emonei’ỹva.
 
 # Social Security Number Modal
 
+ssn-modal-title = Ñemonge rehegua ha nde jedeverã jejoko
+ssn-modal-learn-more = Eikuaave ñemonge rehegua ha nde jedeverã jejoko
 ssn-modal-ok = MONEĨ
 
 # PIN Breaches
