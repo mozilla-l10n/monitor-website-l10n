@@ -140,6 +140,16 @@ security-recommendation-steps-cta-label = Iawn!
 # Phone security recommendation
 
 security-recommendation-phone-title = Diogelwch eich rhif ffôn
+# $num_breaches is the number of breaches where the phone number was found.
+security-recommendation-phone-summary =
+    { $num_breaches ->
+        [zero] Amlygwyd eich rhif ffôn mewn { $num_breaches } toriad data:
+        [one] Amlygwyd eich rhif ffôn mewn { $num_breaches } toriad data:
+        [two] Amlygwyd eich rhif ffôn mewn { $num_breaches } toriad data:
+        [few] Amlygwyd eich rhif ffôn mewn { $num_breaches } toriad data:
+        [many] Amlygwyd eich rhif ffôn mewn { $num_breaches } toriad data:
+       *[other] Amlygwyd eich rhif ffôn mewn { $num_breaches } toriad data:
+    }
 security-recommendation-phone-description = Yn anffodus ni allwch ei gymryd yn ôl. Ond mae yna gamau y gallwch eu cymryd i sicrhau eich bod yn aros yn ddiogel.
 security-recommendation-phone-step-one = Rhwystro rhifau sbam i atal mwy o alwadau sothach
 security-recommendation-phone-step-two = Peidiwch â chlicio ar ddolenni mewn testunau gan anfonwyr anhysbys; os yw'n ymddangos ei fod o ffynhonnell ddibynadwy, ffoniwch yn uniongyrchol i gadarnhau
