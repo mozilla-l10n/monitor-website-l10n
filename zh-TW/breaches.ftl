@@ -59,7 +59,7 @@ breaches-all-resolved-cta-button = 新增電子郵件地址
 # Variables:
 #   $breachDate (String) - Date of the breach
 #   $companyName (String) - Name of the company where the breach occurred
-breach-description = { $companyName } 於 { $breachDate } 發生了資料外洩事件。事件發生並經過驗證後，已於 { $addedDate } 列入我們的資料庫。此次事件外洩了下列資料：{ $dataClasses }
+breach-description = { $companyName } 於 { $breachDate }發生了資料外洩事件。事件發生並經過驗證後，已於 { $addedDate }列入我們的資料庫。此次事件外洩了下列資料：{ $dataClasses }
 
 ## Links that we might refer to when prompting the user to make changes after a breach
 

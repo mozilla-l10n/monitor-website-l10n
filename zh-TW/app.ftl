@@ -351,7 +351,7 @@ breach-overview-title = 概觀
 # This is a standardized breach overview blurb that appears on all breach detail pages.
 # $breachTitle is the name of the breached company or website.
 # $breachDate and $addedDate are calendar dates.
-breach-overview-new = { $breachTitle } 於 { $breachDate } 發生了資料外洩事件。事件發生並經過驗證後，已於 { $addedDate } 列入我們的資料庫。
+breach-overview-new = { $breachTitle } 於 { $breachDate }發生了資料外洩事件。事件發生並經過驗證後，已於 { $addedDate }列入我們的資料庫。
 # Title appearing on the Preferences dashboard.
 monitor-preferences = { -product-short-name } 偏好設定
 # When a user is signed in, this appears in the drop down menu
