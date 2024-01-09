@@ -24,6 +24,10 @@ exposure-chart-legend-heading-nr = Číslice
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
 exposure-chart-caption = Tento graf ukazuje, kolikrát jsou vaše informace aktivně zpřístupňovány.
+# Variables:
+#   $total_fixed_exposures_num (number) - Number of fixed exposures
+#   $total_exposures_num (number) - Number of total exposures
+exposure-chart-caption-fixed = Tento graf ukazuje celkový počet fixovaných expozic ({ $total_fixed_exposures_num } z { $total_exposures_num })
 exposure-chart-returning-user-upgrade-prompt = Adresa domů, členové rodiny a další zatím nejsou zahrnuti.
 exposure-chart-returning-user-upgrade-prompt-cta = Spustit bezplatné skenování
 exposure-chart-scan-in-progress-prompt = <b>Probíhá sken:</b> adresy, rodinné příslušníky a další lidé ještě nejsou zahrnuti.
