@@ -46,7 +46,7 @@ modal-close-alt = Fermer
 progress-card-heres-what-we-fixed-headline-all = Voici ce que vous avez corrigé
 progress-card-manually-fixed-headline = Corrigé manuellement
 dashboard-tab-label-action-needed = Action nécessaire
-dashboard-tab-label-fixed = Corrigé
+dashboard-tab-label-fixed = Corrigée
 dashboard-exposures-all-fixed-label = Tout est corrigé ici !
 dashboard-exposures-area-headline = Voir tous les sites où vos informations sont exposées
 # Note: this line precedes dashboard-exposures-area-description-all-line2.
@@ -65,18 +65,18 @@ dashboard-exposures-area-description-all-line2 =
         [one] Elle apparaît dans { $data_breach_unresolved_num } fuite de données.
        *[other] Elle apparaît à travers { $data_breach_unresolved_num } fuites de données.
     }
-dashboard-fixed-area-headline-all = Afficher toutes les expositions qui sont corrigées
+dashboard-fixed-area-headline-all = Afficher toutes les fuites corrigées
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Filtrer
 dashboard-exposures-filter-company = Entreprise
 dashboard-exposures-filter-date-found = Date d’identification
 dashboard-exposures-filter-date-found-last-seven-days = Les 7 derniers jours
 dashboard-exposures-filter-date-found-last-thirty-days = Les 30 derniers jours
-dashboard-exposures-filter-date-found-last-year = Année précédente
+dashboard-exposures-filter-date-found-last-year = L’année dernière
 dashboard-exposures-filter-status = État
 dashboard-exposures-filter-status-action-needed = Action nécessaire
 dashboard-exposures-filter-status-in-progress = En cours
-dashboard-exposures-filter-status-fixed = Corrigé
+dashboard-exposures-filter-status-fixed = Corrigée
 popover-open-filter-settings-alt = Sélectionner des filtres
 dashboard-exposures-filter-show-all = Tout afficher
 dashboard-exposures-filter-show-results = Afficher les résultats
