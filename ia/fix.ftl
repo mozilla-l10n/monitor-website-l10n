@@ -109,7 +109,9 @@ high-risk-breach-pin-step-three = Verifica tu contos pro debitos non autorisate.
 
 # No high risk breaches found
 
+high-risk-breach-none-title = Grande novas, nos non trovava alcun violationes de datos a alte risco
 high-risk-breach-none-sub-description-ssn = Numero de securitate social
+high-risk-breach-none-sub-description-bank-account = Informationes de conto bancari
 high-risk-breach-none-sub-description-cc-number = Numeros de carta de credito
 high-risk-breach-none-sub-description-pin = PINs
 high-risk-breach-none-continue = Continuar
