@@ -5,6 +5,12 @@
 
 # Chart summarizing total exposures
 
+# Variables:
+#   $nr (number) - Number of a particular type of exposure found for the user
+exposure-chart-legend-value-nr = { $nr }×
+exposure-chart-returning-user-upgrade-prompt = Ev adresi, aile üyeleri ve diğer bilgiler henüz dahil edilmemiştir.
+exposure-chart-returning-user-upgrade-prompt-cta = Ücretsiz tarama başlatın
+exposure-chart-scan-in-progress-prompt = <b>Tarama devam ediyor:</b> Adres, aile üyeleri ve diğer bilgiler henüz dahil edilmedi.
 modal-cta-ok = Tamam
 modal-open-alt = Aç
 modal-close-alt = Kapat
