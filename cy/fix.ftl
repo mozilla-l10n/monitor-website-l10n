@@ -80,47 +80,47 @@ high-risk-breach-estimated-time =
 # Credit Card Breaches
 
 high-risk-breach-credit-card-title = Datgelwyd rhif eich cerdyn credyd
-high-risk-breach-credit-card-description = Gall unrhyw un sy'n ei gael wneud pryniannau anawdurdodedig y gallech fod yn atebol amdanynt. Gweithredwch nawr i atal niwed ariannol.
-high-risk-breach-credit-card-step-one = Os yw'r cerdyn hwn gennych o hyd, cysylltwch â'r cyhoeddwr i roi gwybod iddo gael ei ddwyn.
+high-risk-breach-credit-card-description = Gall unrhyw un sy'n ei gael prynu nwyddau heb eich caniatâd y gallech chi fod yn gyfrifol amdano. Gweithredwch nawr i atal baich ariannol.
+high-risk-breach-credit-card-step-one = Os yw'r cerdyn hwn gennych o hyd, cysylltwch â'r cyhoeddwr i roi gwybod ei fod wedi cael ei ddwyn.
 high-risk-breach-credit-card-step-two = Gofynnwch am gerdyn newydd gyda rhif newydd.
-high-risk-breach-credit-card-step-three = Gwiriwch eich cyfrifon am daliadau anawdurdodedig.
+high-risk-breach-credit-card-step-three = Gwiriwch eich cyfrifon am daliadau heb ganiatâd.
 
 # Bank Account Breaches
 
 high-risk-breach-bank-account-title = Roedd eich cyfrif banc yn agored
 high-risk-breach-bank-account-description = Gallai cymryd camau cyn gynted â phosibl roi mwy o amddiffyniadau cyfreithiol i chi i'ch helpu i adennill unrhyw golledion.
-high-risk-breach-bank-account-step-one = Rhowch wybod i'ch banc ar unwaith bod rhif eich cyfrif wedi'i beryglu.
+high-risk-breach-bank-account-step-one = Rhowch wybod i'ch banc ar unwaith bod rhif eich cyfrif wedi'i danseilio.
 high-risk-breach-bank-account-step-two = Newid rhif eich cyfrif.
-high-risk-breach-bank-account-step-three = Gwiriwch eich cyfrifon am daliadau anawdurdodedig.
+high-risk-breach-bank-account-step-three = Gwiriwch eich cyfrifon am daliadau heb eich caniatâd.
 
 # Social Security Number Breaches
 
 high-risk-breach-social-security-title = Datgelwyd eich rhif nawdd cymdeithasol
 high-risk-breach-social-security-description = Gall sgamwyr agor benthyciadau neu gardiau credyd newydd gyda'ch rhif nawdd cymdeithasol. Gweithredwch yn gyflym i atal niwed ariannol.
-high-risk-breach-social-security-step-one = Amddiffynnwch eich hun trwy <link_to_info>gosod rhybudd twyll neu rewi eich credyd.</link_to_info>
-high-risk-breach-social-security-step-two = <link_to_info>Gwiriwch eich adroddiad credyd</link_to_info> am gyfrifon nad ydynt yn cael eu cydnabod.
+high-risk-breach-social-security-step-one = Diogelwch eich hun trwy <link_to_info>osod rhybudd twyll neu rewi eich credyd.</link_to_info>
+high-risk-breach-social-security-step-two = <link_to_info>Gwiriwch eich adroddiad credyd</link_to_info> am gyfrifon nad ydych yn eu hadnabod.
 
 # Social Security Number Modal
 
-ssn-modal-title = Ynglŷn â rhybuddion twyll a rhewi credyd
-ssn-modal-description-fraud-part-one = Mae <b>Rhybudd Twyll</b> yn ei gwneud yn ofynnol i fusnesau wirio pwy ydych chi cyn iddynt roi credyd newydd yn eich enw chi. Mae'n rhad ac am ddim, yn para blwyddyn, ac ni fydd yn effeithio'n negyddol ar eich sgôr credyd.
-ssn-modal-description-fraud-part-two = I sefydlu un, cysylltwch ag unrhyw un o'r tair canolfan credyd. Does dim rhaid i chi gysylltu â'r tri.
-ssn-modal-description-freeze-credit-part-one = Mae <b>rhewi eich credyd</b> yn atal unrhyw un rhag agor cyfrif newydd yn eich enw chi. Mae’n rhad ac am ddim ac ni fydd yn effeithio’n negyddol ar eich sgôr credyd, ond bydd angen i chi ei ddadrewi cyn agor unrhyw gyfrifon newydd.
+ssn-modal-title = Ynghylch rhybuddion twyll a rhewi credyd
+ssn-modal-description-fraud-part-one = <b>Rhybudd Twyll</b>, sef ei gwneud yn ofynnol i fusnesau wirio pwy ydych chi cyn iddyn nhw roi credyd newydd yn eich enw chi. Mae'n rhad ac am ddim, yn para blwyddyn, ac ni fydd yn effeithio'n negyddol ar eich sgôr credyd.
+ssn-modal-description-fraud-part-two = I greu un, cysylltwch ag unrhyw un o'r tair canolfan credyd. Does dim rhaid i chi gysylltu â'r tri.
+ssn-modal-description-freeze-credit-part-one = <b>Rhewi eich credyd</b>, sef atal unrhyw un rhag agor cyfrif newydd yn eich enw chi. Mae’n rhad ac am ddim ac ni fydd yn effeithio’n negyddol ar eich sgôr credyd, ond bydd angen i chi ei ddadrewi cyn agor unrhyw gyfrifon newydd.
 ssn-modal-description-freeze-credit-part-two = I rewi'ch credyd, cysylltwch â phob un o'r tair canolfan gredyd — <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link>, a <transunion_link>TransUnion</transunion_link>.
-ssn-modal-learn-more = Dysgwch fwy am rybuddion twyll a rhewi credyd
+ssn-modal-learn-more = Darllenwch ragor am rybuddion twyll a rhewi credyd
 ssn-modal-ok = Iawn
 
 # PIN Breaches
 
 high-risk-breach-pin-title = Cafodd eich PIN ei ddatgelu
-high-risk-breach-pin-description = Gallai cymryd camau cyn gynted â phosibl roi mwy o amddiffyniadau cyfreithiol i chi i'ch helpu i adennill unrhyw golledion.
-high-risk-breach-pin-step-one = Rhowch wybod i'ch banc ar unwaith bod eich PIN wedi'i beryglu.
-high-risk-breach-pin-step-two = Newidiwch eich PIN unrhyw le rydych chi wedi defnyddio'r un un.
-high-risk-breach-pin-step-three = Gwiriwch eich cyfrifon am daliadau anawdurdodedig.
+high-risk-breach-pin-description = Gall cymryd camau cyn gynted â phosibl rhoi mwy o amddiffyniadau cyfreithiol i chi i'ch helpu i adennill unrhyw golledion.
+high-risk-breach-pin-step-one = Rhowch wybod i'ch banc ar unwaith bod eich PIN wedi'i ddatgelu.
+high-risk-breach-pin-step-two = Newidiwch eich PIN lle bynnag rydych wedi defnyddio'r un un.
+high-risk-breach-pin-step-three = Gwiriwch eich cyfrifon am daliadau heb eich caniatâd.
 
 # No high risk breaches found
 
-high-risk-breach-none-title = Newyddion gwych, ni ddaethom o hyd i unrhyw doriadau data risg uchel
+high-risk-breach-none-title = Newyddion gwych, does dim golwg  o unrhyw doriadau data risg uchel
 # Variables
 # $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
 high-risk-breach-none-description = Rydym yn canfod toriadau data yn seiliedig ar eich cyfeiriad e-bost, ac ni welsom unrhyw doriadau data risg uchel ar gyfer { $email_list }.
