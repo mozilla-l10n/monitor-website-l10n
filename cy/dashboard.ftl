@@ -159,7 +159,7 @@ dashboard-top-banner-monitor-more-cta = Monitro mwy o e-byst
 
 # About Exposure Statuses Modal
 
-modal-exposure-status-title = Ynglŷn â statws datguddiad
-modal-exposure-status-description-all = Rydym yn chwilio am ddatguddiadau ym mhob achos hysbys o dorri data. Bydd gan eich datguddiadau un o'r statwsau canlynol:
-modal-exposure-status-action-needed = Mae <b>Gweithredu sydd ei angen</b> yn golygu ei fod yn weithredol ar hyn o bryd a bod angen i chi gymryd camau i'w drwsio.
+modal-exposure-status-title = Ynghylch statws datgeliadau
+modal-exposure-status-description-all = Rydym yn chwilio am ddatgeliadau ym mhob achos hysbys o dor-data. Bydd gan eich datgeliadau o'r cyflyrau canlynol:
+modal-exposure-status-action-needed = <b>Angen gweithredu</b>, sef, ei fod yn weithredol ar hyn o bryd a bod angen i chi gymryd camau i'w drwsio.
 modal-exposure-status-fixed = Mae <b>Sefydlog</b> yn golygu bod y datguddiad wedi'i ddatrys ac nid oes unrhyw gamau i chi eu cymryd.
