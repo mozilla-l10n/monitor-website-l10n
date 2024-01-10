@@ -39,6 +39,13 @@ fix-flow-celebration-security-recommendations-title = ¡Emyanyhẽmapa opaite ne
 
 high-risk-breach-heading = Kóva pe rejapova’erã
 # Variables
+# $num_breaches is the number of breaches where the high risk data was found.
+high-risk-breach-summary =
+    { $num_breaches ->
+        [one] Ojehecha { $num_breaches } mba’ekuaarã ñemboguápe:
+       *[other] Ojehecha { $num_breaches } mba’ekuaarã ñemboguápe:
+    }
+# Variables
 # $breach_name is the name of the breach where the high risk data was found.
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
