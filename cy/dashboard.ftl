@@ -34,7 +34,7 @@ exposure-chart-caption-fixed = Mae'r siart hwn yn dangos cyfanswm y datgeliadau 
 exposure-chart-returning-user-upgrade-prompt = Nid yw cyfeiriad cartref, aelodau teulu a rhagor wedi'u cynnwys eto.
 exposure-chart-returning-user-upgrade-prompt-cta = Dechreuwch sgan rhad ac am ddim
 exposure-chart-scan-in-progress-prompt = <b>Wrthi'n sganio:</b> nid yw cyfeiriad, aelodau'r teulu, a rhagor wedi'u cynnwys eto.
-modal-active-number-of-exposures-title = Ynghylch eich nifer o ddatguddiadau gweithredol
+modal-active-number-of-exposures-title = Ynghylch eich nifer o ddatgeliadau gweithredol
 # Variables:
 #   $limit (number) - Number of email addresses included in the plan
 modal-active-number-of-exposures-part-one-all =
@@ -47,7 +47,7 @@ modal-active-number-of-exposures-part-one-all =
        *[other] Mae'r siart hwn yn cynnwys cyfanswm y nifer o weithiau rydym wedi dod o hyn i unrhyw fath o ddata a ddatgelwyd ar draws yr holl doriadau data am y { $limit } cyfeiriad e-bost rydych yn eu monitro ar hyn o bryd.
     }
 modal-active-number-of-exposures-part-two = Er enghraifft, os oes gennych 10 datgeliad o'ch rhif ffôn, gall hynny olygu bod un rhif ffôn yn cael ei ddatgelu ar 10 gwefan gwahanol, neu gall olygu bod 2 rif ffôn gwahanol wedi'u datgelu ar 5 gwefan gwahanol.
-modal-active-number-of-exposures-part-three-all = Unwaith y byddan nhw wedi'u datrys, byddan nhw'n cael eu hychwanegu at gyfanswm eich datguddiadau wedi'u trwsio ar y dudalen Wedi Trwsio.
+modal-active-number-of-exposures-part-three-all = Unwaith y byddan nhw wedi'u datrys, byddan nhw'n cael eu hychwanegu at gyfanswm eich datgeliadau wedi'u trwsio ar y dudalen Wedi Trwsio.
 modal-cta-ok = Iawn
 modal-open-alt = Agor
 modal-close-alt = Cau
@@ -62,12 +62,12 @@ dashboard-exposures-area-headline = Gweld pob gwefan lle mae'ch manylion yn cael
 #   $exposures_unresolved_num (number) - the unresolved number of exposures the user has.
 dashboard-exposures-area-description-all-line1 =
     { $exposures_unresolved_num ->
-        [zero] Heb ganfod { $exposures_unresolved_num } datguddiad o'ch data.
-        [one] Wedi canfod { $exposures_unresolved_num } datguddiad o'ch data.
-        [two] Wedi canfod { $exposures_unresolved_num } ddatguddiad o'ch data.
-        [few] Wedi canfod { $exposures_unresolved_num } datguddiad o'ch data.
-        [many] Wedi canfod { $exposures_unresolved_num } datguddiad o'ch data.
-       *[other] Wedi canfod { $exposures_unresolved_num } datguddiad o'ch data.
+        [zero] Heb ganfod { $exposures_unresolved_num } datgeliad o'ch data.
+        [one] Wedi canfod { $exposures_unresolved_num } datgeliad o'ch data.
+        [two] Wedi canfod { $exposures_unresolved_num } ddatgeliad o'ch data.
+        [few] Wedi canfod { $exposures_unresolved_num } datgeliad o'ch data.
+        [many] Wedi canfod { $exposures_unresolved_num } datgeliad o'ch data.
+       *[other] Wedi canfod { $exposures_unresolved_num } datgeliad o'ch data.
     }
 # Note: this line follows dashboard-exposures-area-description-all-line1.
 # Variables:
