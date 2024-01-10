@@ -22,12 +22,12 @@ exposure-chart-legend-heading-nr = Szám
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
-exposure-chart-caption = Ez a diagram azt mutatja, hogy az adatai hányszor lettek aktívan kitéve.
+exposure-chart-caption = Ez a diagram azt jeleníti meg, hogy az adatai hányszor szivárogtak ki aktívan.
 # Variables:
 #   $total_fixed_exposures_num (number) - Number of fixed exposures
 #   $total_exposures_num (number) - Number of total exposures
-exposure-chart-caption-fixed = Ez a diagram az összes javított kitettséget mutatja ({ $total_fixed_exposures_num } / { $total_exposures_num })
-exposure-chart-returning-user-upgrade-prompt = Az otthoni cím, a családtagok és egyebek még nincsenek benne.
+exposure-chart-caption-fixed = Ez a diagram az összes javított kiszivárgást jeleníti meg ({ $total_fixed_exposures_num } / { $total_exposures_num })
+exposure-chart-returning-user-upgrade-prompt = Az otthoni cím, a családtagok és egyebek még nem szerepelnek benne.
 exposure-chart-returning-user-upgrade-prompt-cta = Indítson egy ingyenes vizsgálatot
 exposure-chart-scan-in-progress-prompt = <b>Vizsgálat folyamatban:</b> a cím, családtagok és egyebek még nincsenek benne.
 modal-active-number-of-exposures-title = Az aktív expozíciók számáról
@@ -65,7 +65,7 @@ dashboard-exposures-area-description-all-line2 =
         [one] { $data_breach_unresolved_num } adatvédelmi incidensben jelent meg.
        *[other] { $data_breach_unresolved_num } adatvédelmi incidensben jelent meg.
     }
-dashboard-fixed-area-headline-all = Összes javított expozíció megjelenítése
+dashboard-fixed-area-headline-all = Összes javított kiszivárgás megtekintése
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Szűrő
 dashboard-exposures-filter-company = Cég
@@ -127,7 +127,7 @@ dashboard-top-banner-monitor-more-cta = További e-mail-címek figyelése
 
 # About Exposure Statuses Modal
 
-modal-exposure-status-title = A kitettségi állapotokról
+modal-exposure-status-title = A kiszivárgások állapotáról
 modal-exposure-status-description-all = Az összes ismert adatsértésben kitettségeket keresünk. A megjelenítései a következő állapotok egyikében lesznek:
 modal-exposure-status-action-needed = A <b>Teendők szükségesek</b> azt jelenti, hogy aktív, és Önnek lépéseket kell tennie a javításához.
 modal-exposure-status-fixed = A <b>Rögzített</b> azt jelenti, hogy a kitettség megoldódott, és nincs tennivalója.
