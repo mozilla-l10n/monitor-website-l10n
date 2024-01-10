@@ -34,7 +34,7 @@ exposure-chart-caption-fixed = Mae'r siart hwn yn dangos cyfanswm y datgeliadau 
 exposure-chart-returning-user-upgrade-prompt = Nid yw cyfeiriad cartref, aelodau teulu a rhagor wedi'u cynnwys eto.
 exposure-chart-returning-user-upgrade-prompt-cta = Dechreuwch sgan rhad ac am ddim
 exposure-chart-scan-in-progress-prompt = <b>Wrthi'n sganio:</b> nid yw cyfeiriad, aelodau'r teulu, a rhagor wedi'u cynnwys eto.
-modal-active-number-of-exposures-title = Ynglŷn â'ch nifer o ddatguddiadau gweithredol
+modal-active-number-of-exposures-title = Ynghylch eich nifer o ddatguddiadau gweithredol
 # Variables:
 #   $limit (number) - Number of email addresses included in the plan
 modal-active-number-of-exposures-part-one-all =
@@ -52,7 +52,7 @@ modal-cta-ok = Iawn
 modal-open-alt = Agor
 modal-close-alt = Cau
 progress-card-heres-what-we-fixed-headline-all = Dyma beth rydych wedi'u trwsio
-progress-card-manually-fixed-headline = Wedi'i drwsio â llaw
+progress-card-manually-fixed-headline = Wedi'u trwsio â llaw
 dashboard-tab-label-action-needed = Angen gweithredu
 dashboard-tab-label-fixed = Wedi Trwsio
 dashboard-exposures-all-fixed-label = Popeth wedi'i drwsio yma!
@@ -75,11 +75,11 @@ dashboard-exposures-area-description-all-line1 =
 dashboard-exposures-area-description-all-line2 =
     { $data_breach_unresolved_num ->
         [zero] Heb ymddangosodd ar { $data_breach_unresolved_num } toriad data.
-        [one] Wedi ymddangosodd mewn { $data_breach_unresolved_num } tor-data .
-        [two] Wedi ymddangosodd mewn { $data_breach_unresolved_num } tor-data .
-        [few] Wedi ymddangosodd mewn { $data_breach_unresolved_num } tor-data .
-        [many] Wedi ymddangosodd mewn { $data_breach_unresolved_num } tor-data .
-       *[other] Wedi ymddangosodd mewn { $data_breach_unresolved_num } tor-data .
+        [one] Wedi ymddangos mewn { $data_breach_unresolved_num } tor-data .
+        [two] Wedi ymddangos mewn { $data_breach_unresolved_num } tor-data .
+        [few] Wedi ymddangos mewn { $data_breach_unresolved_num } tor-data .
+        [many] Wedi ymddangos mewn { $data_breach_unresolved_num } tor-data .
+       *[other] Wedi ymddangos mewn { $data_breach_unresolved_num } tor-data .
     }
 dashboard-fixed-area-headline-all = Gweld pob datgeliad sydd wedi'i drwsio
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
