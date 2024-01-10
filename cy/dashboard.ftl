@@ -109,12 +109,12 @@ dashboard-top-banner-lets-keep-protecting-title = Gadewch i ni barhau i ddiogelu
 # $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
 dashboard-top-banner-lets-keep-protecting-description =
     { $exposures_unresolved_num ->
-        [zero] Does gennych { $exposures_unresolved_num } amlygiad ar ôl i'w trwsio o hyd. Llongyfarchiadau! Daliwch ati ddiogelu eich hun.
-        [one] Mae gennych { $exposures_unresolved_num } datgeliad ar ôl i'w drwsio o hyd. Daliwch ati i ddiogelu eich hun. Byddwn yn eich arwain gam wrth gam.
-        [two] Mae gennych { $exposures_unresolved_num } ddatgeliad ar ôl i'w drwsio o hyd. Daliwch ati i ddiogelu eich hun. Byddwn yn eich arwain gam wrth gam.
-        [few] Mae gennych { $exposures_unresolved_num } datgeliad ar ôl i'w drwsio o hyd. Daliwch ati i ddiogelu eich hun. Byddwn yn eich arwain gam wrth gam.
-        [many] Mae gennych { $exposures_unresolved_num } datgeliad ar ôl i'w drwsio o hyd. Daliwch ati i ddiogelu eich hun. Byddwn yn eich arwain gam wrth gam.
-       *[other] Mae gennych { $exposures_unresolved_num } datgeliad ar ôl i'w drwsio o hyd. Daliwch ati i ddiogelu eich hun. Byddwn yn eich arwain gam wrth gam.
+        [zero] Does gennych chi { $exposures_unresolved_num } datgeliadau ar ôl i'w trwsio. Llongyfarchiadau! Daliwch ati i ddiogelu eich hun.
+        [one] Mae gennych { $exposures_unresolved_num } datgeliad ar ôl i'w drwsio. Daliwch ati i ddiogelu eich hun. Byddwn yn eich arwain gam wrth gam.
+        [two] Mae gennych { $exposures_unresolved_num } ddatgeliad ar ôl i'w trwsio. Daliwch ati i ddiogelu eich hun. Byddwn yn eich arwain gam wrth gam.
+        [few] Mae gennych { $exposures_unresolved_num } datgeliad ar ôl i'w trwsio. Daliwch ati i ddiogelu eich hun. Byddwn yn eich arwain gam wrth gam.
+        [many] Mae gennych { $exposures_unresolved_num } datgeliad ar ôl i'w trwsio o hyd. Daliwch ati i ddiogelu eich hun. Byddwn yn eich arwain gam wrth gam.
+       *[other] Mae gennych { $exposures_unresolved_num } datgeliad ar ôl i'w trwsio o hyd. Daliwch ati i ddiogelu eich hun. Byddwn yn eich arwain gam wrth gam.
     }
 dashboard-top-banner-lets-keep-protecting-cta = Daliwch ati!
 # Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
@@ -122,19 +122,19 @@ dashboard-top-banner-lets-keep-protecting-cta = Daliwch ati!
 #   $exposures_unresolved_num (number) - the total number of exposures the user has.
 dashboard-top-banner-non-us-protect-your-data-description-line1 =
     { $exposures_unresolved_num ->
-        [zero] Heb ganfod { $exposures_unresolved_num } datguddiad o'ch data.
-        [one] Wedi canfod { $exposures_unresolved_num } datguddiad o'ch data.
-        [two] Wedi canfod { $exposures_unresolved_num } ddatguddiad o'ch data.
-        [few] Wedi canfod { $exposures_unresolved_num } datguddiad o'ch data.
-        [many] Wedi canfod { $exposures_unresolved_num } datguddiad o'ch data.
-       *[other] Wedi canfod { $exposures_unresolved_num } datguddiad o'ch data.
+        [zero] Heb ganfod { $exposures_unresolved_num } datgeliad o'ch data.
+        [one] Wedi canfod { $exposures_unresolved_num } datgeliad o'ch data.
+        [two] Wedi canfod { $exposures_unresolved_num } ddatggeliad o'ch data.
+        [few] Wedi canfod { $exposures_unresolved_num } datgeliad o'ch data.
+        [many] Wedi canfod { $exposures_unresolved_num } datgeliad o'ch data.
+       *[other] Wedi canfod { $exposures_unresolved_num } datgeliad o'ch data.
     }
 # Note: this line is preceded by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
 # Variables:
 #   $data_breach_unresolved_num (number) - the total number of data breaches the user has.
 dashboard-top-banner-non-us-protect-your-data-description-line2 =
     { $data_breach_unresolved_num ->
-        [zero] Heb ymddangosodd ar { $data_breach_unresolved_num } tor-data. Byddwn yn eich arwain gam wrth gam ar sut i'w drwsio.
+        [zero] Heb ymddangos ar { $data_breach_unresolved_num } tor-data. Llongyfarchiadau!
         [one] Mae wedi ymddangos mewn { $data_breach_unresolved_num } tor-data. Byddwn yn eich arwain gam wrth gam ar sut i'w drwsio.
         [two] Mae wedi ymddangos mewn { $data_breach_unresolved_num } dor-data. Byddwn yn eich arwain gam wrth gam ar sut i'w drwsio.
         [few] Mae wedi ymddangos mewn { $data_breach_unresolved_num } tor-data. Byddwn yn eich arwain gam wrth gam ar sut i'w drwsio.

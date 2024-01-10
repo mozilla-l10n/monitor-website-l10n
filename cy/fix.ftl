@@ -33,8 +33,8 @@ fix-flow-celebration-high-risk-description-next-dashboard = Rydych wedi cyrraedd
 
 fix-flow-celebration-leaked-passwords-title = Mae eich cyfrineiriau bellach wedi'u diogelu!
 fix-flow-celebration-security-questions-title = Mae eich cwestiynau diogelwch wedi'u diogelu!
-fix-flow-celebration-leaked-passwords-description-next-security-questions = Nawr, gadewch i ni adolygu a diweddaru'ch cwestiynau diogelwch oedd wedi eu datgelu.
-fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Nesaf, byddwn yn rhoi argymhellion diogelwch personol i chi yn seiliedig ar ba ddata sydd gennych chi sydd wedi'i ddatgelu.
+fix-flow-celebration-leaked-passwords-description-next-security-questions = Nawr, gadewch i ni adolygu a diweddaru'ch cwestiynau diogelwch oedd wedi'u datgelu.
+fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Nesaf, byddwn yn rhoi argymhellion diogelwch personol i chi yn seiliedig ar ba ddata sydd gennych chi sydd wedi'u datgelu.
 fix-flow-celebration-leaked-passwords-description-next-dashboard = Rydych wedi cyrraedd diwedd eich taith. Gallwch weld unrhyw eitemau gweithredu a dilyn eich cynnydd ar eich bwrdd gwaith.
 
 ## Security recommendations flow
@@ -50,7 +50,7 @@ high-risk-breach-subheading = Mae hyn yn gofyn am fynediad i'ch manylion sensiti
 # $num_breaches is the number of breaches where the high risk data was found.
 high-risk-breach-summary =
     { $num_breaches ->
-        [zero] Heb ymddangos mewn { $num_breaches } tor-data:
+        [zero] Heb ymddangos mewn unrhyw dor-data.
         [one] Mae wedi ymddangos mewn { $num_breaches } tor-data:
         [two] Mae wedi ymddangos mewn { $num_breaches } dor-data:
         [few] Mae wedi ymddangos mewn { $num_breaches } tor-data:
@@ -87,7 +87,7 @@ high-risk-breach-credit-card-step-three = Gwiriwch eich cyfrifon am daliadau heb
 
 # Bank Account Breaches
 
-high-risk-breach-bank-account-title = Roedd eich cyfrif banc yn agored
+high-risk-breach-bank-account-title = Roedd eich cyfrif banc wedi'i ddatgelu
 high-risk-breach-bank-account-description = Gallai cymryd camau cyn gynted â phosibl roi mwy o amddiffyniadau cyfreithiol i chi i'ch helpu i adennill unrhyw golledion.
 high-risk-breach-bank-account-step-one = Rhowch wybod i'ch banc ar unwaith bod rhif eich cyfrif wedi'i danseilio.
 high-risk-breach-bank-account-step-two = Newid rhif eich cyfrif.
