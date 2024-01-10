@@ -162,4 +162,4 @@ dashboard-top-banner-monitor-more-cta = Monitro mwy o e-byst
 modal-exposure-status-title = Ynghylch statws datgeliadau
 modal-exposure-status-description-all = Rydym yn chwilio am ddatgeliadau ym mhob achos hysbys o dor-data. Bydd gan eich datgeliadau o'r cyflyrau canlynol:
 modal-exposure-status-action-needed = <b>Angen gweithredu</b>, sef, ei fod yn weithredol ar hyn o bryd a bod angen i chi gymryd camau i'w drwsio.
-modal-exposure-status-fixed = Mae <b>Sefydlog</b> yn golygu bod y datguddiad wedi'i ddatrys ac nid oes unrhyw gamau i chi eu cymryd.
+modal-exposure-status-fixed = <b>Wedi'i drwsio</b>, sef, fod y datgeliad wedi'i ddatrys ac nid oes unrhyw gamau i chi eu cymryd.

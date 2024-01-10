@@ -2,12 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fix-flow-nav-high-risk-data-breaches = Toriadau data risg uchel
+fix-flow-nav-high-risk-data-breaches = Tor-data risg uchel
 fix-flow-nav-leaked-passwords = Cyfrineiriau wedi'u gollwng
 fix-flow-nav-security-recommendations = Argymhellion diogelwch
-guided-resolution-flow-exit = Dychwelyd i'r dangosfwrdd
-guided-resolution-flow-back-arrow = Ewch i'r cam blaenorol
-guided-resolution-flow-next-arrow = Ewch i'r cam nesaf
+guided-resolution-flow-exit = Nôl i'r bwrdd gwaith
+guided-resolution-flow-back-arrow = Nôl i'r cam blaenorol
+guided-resolution-flow-next-arrow = Ymlaen i'r cam nesaf
 guided-resolution-flow-step-navigation-label = Camau tywys
 
 # Celebration screens
@@ -16,14 +16,14 @@ guided-resolution-flow-step-navigation-label = Camau tywys
 ## Shared CTA labels
 
 fix-flow-celebration-next-label = Gadewch i ni ddal ati
-fix-flow-celebration-next-recommendations-label = Gweler yr argymhellion
-fix-flow-celebration-next-dashboard-label = Ewch i'ch Dangosfwrdd
+fix-flow-celebration-next-recommendations-label = Gweld yr argymhellion
+fix-flow-celebration-next-dashboard-label = Ewch i'ch Bwrdd Gwaith
 
 ## High-risk flow
 
-fix-flow-celebration-high-risk-title = Rydych chi wedi trwsio'ch datguddiadau risg uchel!
-fix-flow-celebration-high-risk-description-in-progress = Gall gwneud y gwaith hwn deimlo fel llawer, ond mae'n bwysig gwneud hynny i gadw'ch hun yn ddiogel. Daliwch ati gyda'r gwaith da.
-fix-flow-celebration-high-risk-description-done = Gall gwneud y gwaith hwn deimlo fel llawer, ond mae'n bwysig gwneud hynny i gadw'ch hun yn ddiogel.
+fix-flow-celebration-high-risk-title = Rydych wedi trwsio'ch datgeliadau risg uchel!
+fix-flow-celebration-high-risk-description-in-progress = Gall hyn deimlo fel gwaith caled, ond mae'n bwysig ei wneud i gadw'ch hun yn ddiogel. Daliwch ati gyda'r gwaith da.
+fix-flow-celebration-high-risk-description-done = Gall hyn deimlo fel gwaith caled, ond mae'n bwysig ei wneud i gadw'ch hun yn ddiogel.
 fix-flow-celebration-high-risk-description-next-passwords = Nawr gadewch i ni drwsio'ch cyfrineiriau agored.
 fix-flow-celebration-high-risk-description-next-security-questions = Nawr gadewch i ni drwsio'ch cwestiynau diogelwch agored.
 fix-flow-celebration-high-risk-description-next-security-recommendations = Nesaf, byddwn yn rhoi argymhellion diogelwch personol i chi yn seiliedig ar ba ddata sydd gennych chi sydd wedi'i ddatgelu.
