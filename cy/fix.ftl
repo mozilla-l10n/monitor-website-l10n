@@ -62,8 +62,8 @@ high-risk-breach-summary =
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
 high-risk-breach-name-and-date = { $breach_name } <breach_date>ar { $breach_date }</breach_date>
-high-risk-breach-mark-as-fixed = Marciwch fel un sefydlog
-high-risk-breach-skip = Anwybyddu am nawr
+high-risk-breach-mark-as-fixed = Marciwch fel wedi'i drwsio
+high-risk-breach-skip = Hepgor am nawr
 # Variables:
 # $estimated_time is the estimated time it would take for a user to complete breach resolution steps. It not be singular, and the + is meant as "or more".
 # An example of this string is Your estimated time: 15+ minutes.
