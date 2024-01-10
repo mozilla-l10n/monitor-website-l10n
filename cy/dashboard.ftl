@@ -33,7 +33,7 @@ exposure-chart-caption = Mae'r siart hwn yn dangos sawl gwaith y mae eich manyli
 exposure-chart-caption-fixed = Mae'r siart hwn yn dangos cyfanswm y datgeliadau sydd wedi'u trwsio ( { $total_fixed_exposures_num } allan o { $total_exposures_num })
 exposure-chart-returning-user-upgrade-prompt = Nid yw cyfeiriad cartref, aelodau teulu a rhagor wedi'u cynnwys eto.
 exposure-chart-returning-user-upgrade-prompt-cta = Dechreuwch sgan rhad ac am ddim
-exposure-chart-scan-in-progress-prompt = <b>Sgan ar y gweill: nid yw cyfeiriad</b>, aelodau'r teulu, a mwy wedi'u cynnwys eto.
+exposure-chart-scan-in-progress-prompt = <b>Wrthi'n sganio:</b>  nid yw cyfeiriad, aelodau'r teulu, a rhagor wedi'u cynnwys eto.
 modal-active-number-of-exposures-title = Ynglŷn â'ch nifer o ddatguddiadau gweithredol
 # Variables:
 #   $limit (number) - Number of email addresses included in the plan
