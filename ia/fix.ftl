@@ -120,6 +120,7 @@ high-risk-breach-none-continue = Continuar
 # Security recommendations
 
 security-recommendation-steps-label = Recommendationes de securitate
+security-recommendation-steps-title = Ecce nostre consilio:
 security-recommendation-steps-cta-label = OK
 
 # Phone security recommendation
