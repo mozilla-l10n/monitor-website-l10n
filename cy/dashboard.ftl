@@ -39,15 +39,15 @@ modal-active-number-of-exposures-title = Ynglŷn â'ch nifer o ddatguddiadau gwe
 #   $limit (number) - Number of email addresses included in the plan
 modal-active-number-of-exposures-part-one-all =
     { $limit ->
-        [zero] Mae'r siart hwn yn cynnwys cyfanswm y nifer o weithiau y daethom o hyd i bob math o ddata a ddatgelwyd ar draws yr holl doriadau data ar gyfer hyd at { $limit } o gyfeiriadau e-bost yr ydych yn eu monitro ar hyn o bryd.
-        [one] Mae'r siart hwn yn cynnwys cyfanswm y nifer o weithiau y daethom o hyd i bob math o ddata a ddatgelwyd ar draws yr holl doriadau data ar gyfer y cyfeiriad e-bost { $limit } rydych yn ei fonitro ar hyn o bryd.
-        [two] Mae'r siart hwn yn cynnwys cyfanswm y nifer o weithiau y daethom o hyd i bob math o ddata a ddatgelwyd ar draws yr holl doriadau data ar gyfer hyd at { $limit } o gyfeiriadau e-bost yr ydych yn eu monitro ar hyn o bryd.
-        [few] Mae'r siart hwn yn cynnwys cyfanswm y nifer o weithiau y daethom o hyd i bob math o ddata a ddatgelwyd ar draws yr holl doriadau data ar gyfer hyd at { $limit } o gyfeiriadau e-bost yr ydych yn eu monitro ar hyn o bryd.
-        [many] Mae'r siart hwn yn cynnwys cyfanswm y nifer o weithiau y daethom o hyd i bob math o ddata a ddatgelwyd ar draws yr holl doriadau data ar gyfer hyd at { $limit } o gyfeiriadau e-bost yr ydych yn eu monitro ar hyn o bryd.
-       *[other] Mae'r siart hwn yn cynnwys cyfanswm y nifer o weithiau y daethom o hyd i bob math o ddata a ddatgelwyd ar draws yr holl doriadau data ar gyfer hyd at { $limit } o gyfeiriadau e-bost yr ydych yn eu monitro ar hyn o bryd.
+        [zero] Mae'r siart hwn yn cynnwys cyfanswm y nifer o weithiau rydym wedi dod o hyn i unrhyw fath o ddata a ddatgelwyd ar draws yr holl doriadau data am y { $limit } cyfeiriadau e-bost rydych yn eu monitro ar hyn o bryd.
+        [one] Mae'r siart hwn yn cynnwys cyfanswm y nifer o weithiau rydym wedi dod o hyn i unrhyw fath o ddata a ddatgelwyd ar draws yr holl doriadau data am yr { $limit } cyfeiriad e-bost rydych yn ei fonitro ar hyn o bryd.
+        [two] Mae'r siart hwn yn cynnwys cyfanswm y nifer o weithiau rydym wedi dod o hyn i unrhyw fath o ddata a ddatgelwyd ar draws yr holl doriadau data am y { $limit } gyfeiriad e-bost rydych yn eu monitro ar hyn o bryd.
+        [few] Mae'r siart hwn yn cynnwys cyfanswm y nifer o weithiau rydym wedi dod o hyn i unrhyw fath o ddata a ddatgelwyd ar draws yr holl doriadau data am y { $limit } cyfeiriad e-bost rydych yn eu monitro ar hyn o bryd.
+        [many] Mae'r siart hwn yn cynnwys cyfanswm y nifer o weithiau rydym wedi dod o hyn i unrhyw fath o ddata a ddatgelwyd ar draws yr holl doriadau data am y { $limit } chyfeiriad e-bost rydych yn eu monitro ar hyn o bryd.
+       *[other] Mae'r siart hwn yn cynnwys cyfanswm y nifer o weithiau rydym wedi dod o hyn i unrhyw fath o ddata a ddatgelwyd ar draws yr holl doriadau data am y { $limit } cyfeiriad e-bost rydych yn eu monitro ar hyn o bryd.
     }
-modal-active-number-of-exposures-part-two = Er enghraifft, os oes gennych 10 datguddiad o'ch rhif ffôn, gallai hynny olygu bod un rhif ffôn yn cael ei ddatgelu ar draws 10 safle gwahanol, neu gallai olygu bod 2 rif ffôn gwahanol wedi'u hamlygu ar draws 5 safle gwahanol.
-modal-active-number-of-exposures-part-three-all = Unwaith y byddant wedi'u datrys, cânt eu hychwanegu at gyfanswm eich datguddiadau sefydlog ar y dudalen Sefydlog.
+modal-active-number-of-exposures-part-two = Er enghraifft, os oes gennych 10 datgeliad o'ch rhif ffôn, gall hynny olygu bod un rhif ffôn yn cael ei ddatgelu ar 10 gwefan gwahanol, neu gall olygu bod 2 rif ffôn gwahanol wedi'u datgelu ar 5 gwefan gwahanol.
+modal-active-number-of-exposures-part-three-all = Unwaith y byddan nhw wedi'u datrys, byddan nhw'n cael eu hychwanegu at gyfanswm eich datguddiadau wedi'u trwsio ar y dudalen Wedi Trwsio.
 modal-cta-ok = Iawn
 modal-open-alt = Agor
 modal-close-alt = Cau
