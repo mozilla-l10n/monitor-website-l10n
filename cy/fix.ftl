@@ -123,10 +123,10 @@ high-risk-breach-pin-step-three = Gwiriwch eich cyfrifon am daliadau heb eich ca
 high-risk-breach-none-title = Newyddion gwych, does dim golwg  o unrhyw doriadau data risg uchel
 # Variables
 # $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
-high-risk-breach-none-description = Rydym yn canfod toriadau data yn seiliedig ar eich cyfeiriad e-bost, ac ni welsom unrhyw doriadau data risg uchel ar gyfer { $email_list }.
-high-risk-breach-none-sub-description-part-one = Mae achosion o dorri data risg uchel yn cynnwys:
+high-risk-breach-none-description = Rydym yn canfod toriadau data yn seiliedig ar eich cyfeiriad e-bost, ac nid ydym wedi gweld unrhyw dor-data risg uchel ar gyfer { $email_list }.
+high-risk-breach-none-sub-description-part-one = Mae achosion o dor-data risg uchel yn cynnwys:
 high-risk-breach-none-sub-description-ssn = Rhif nawdd cymdeithasol
-high-risk-breach-none-sub-description-bank-account = Gwybodaeth cyfrif banc
+high-risk-breach-none-sub-description-bank-account = Manylion cyfrif banc
 high-risk-breach-none-sub-description-cc-number = Rhifau cardiau credyd
 high-risk-breach-none-sub-description-pin = PINau
 high-risk-breach-none-continue = Parhau
@@ -150,9 +150,9 @@ security-recommendation-phone-summary =
         [many] Amlygwyd eich rhif ffôn mewn { $num_breaches } thoriad data:
        *[other] Amlygwyd eich rhif ffôn mewn { $num_breaches } toriad data:
     }
-security-recommendation-phone-description = Yn anffodus ni allwch ei gymryd yn ôl. Ond mae yna gamau y gallwch eu cymryd i sicrhau eich bod yn aros yn ddiogel.
-security-recommendation-phone-step-one = Rhwystro rhifau sbam i atal mwy o alwadau sothach
-security-recommendation-phone-step-two = Peidiwch â chlicio ar ddolenni mewn testunau gan anfonwyr anhysbys; os yw'n ymddangos ei fod o ffynhonnell ddibynadwy, ffoniwch yn uniongyrchol i gadarnhau
+security-recommendation-phone-description = Yn anffodus, does dim moddi chi ei gymryd yn ôl. Ond mae yna gamau y gallwch eu cymryd i sicrhau eich bod yn cadw'n ddiogel.
+security-recommendation-phone-step-one = Rhwystro rhifau sbam i atal mwy o alwadau ofer
+security-recommendation-phone-step-two = Peidiwch â chlicio ar ddolenni mewn testunau gan anfonwyr anhysbys; os yw'n ymddangos ei fod o ffynhonnell ddibynadwy, ffoniwch yn syth i gadarnhau
 
 # Email security recommendation
 
@@ -160,18 +160,18 @@ security-recommendation-email-title = Diogelwch eich cyfeiriad e-bost
 # $num_breaches is the number of breaches where the email address was found.
 security-recommendation-email-summary =
     { $num_breaches ->
-        [zero] Amlygwyd eich cyfeiriad e-bost mewn { $num_breaches } toriad data:
-        [one] Amlygwyd eich cyfeiriad e-bost mewn { $num_breaches } toriad data:
-        [two] Amlygwyd eich cyfeiriad e-bost mewn { $num_breaches } toriad data:
-        [few] Amlygwyd eich cyfeiriad e-bost mewn { $num_breaches } toriad data:
-        [many] Amlygwyd eich cyfeiriad e-bost mewn { $num_breaches } toriad data:
-       *[other] Amlygwyd eich cyfeiriad e-bost mewn { $num_breaches } toriad data:
+        [zero] Cafodd eich cyfeiriad e-bost ddim ei ddatgelu mewn unrhyw dor-data.
+        [one] Cafodd eich cyfeiriad e-bost ei ddatgelu mewn { $num_breaches } tor-data:
+        [two] Cafodd eich cyfeiriad e-bost ei ddatgelu mewn { $num_breaches } dor-data:
+        [few] Cafodd eich cyfeiriad e-bost ei ddatgelu mewn { $num_breaches } tor-data:
+        [many] Cafodd eich cyfeiriad e-bost ei ddatgelu mewn { $num_breaches } thor-data:
+       *[other] Cafodd eich cyfeiriad e-bost ei ddatgelu mewn { $num_breaches } tor-data:
     }
-security-recommendation-email-description = Yn anffodus ni allwch drwsio hyn. Ond mae yna gamau y gallwch eu cymryd i amddiffyn eich hun.
-security-recommendation-email-step-one = Peidiwch â chlicio ar ddolenni mewn e-byst gan anfonwyr anhysbys; os yw'n ymddangos ei fod o ffynhonnell ddibynadwy, ffoniwch yn uniongyrchol i gadarnhau
+security-recommendation-email-description = Yn anffodus, does dim moddi chi ei drwsio. Ond mae yna gamau y gallwch eu cymryd i sicrhau eich bod yn cadw'n ddiogel.
+security-recommendation-email-step-one = Peidiwch â chlicio ar ddolenni mewn e-byst gan anfonwyr anhysbys; os yw'n ymddangos ei fod o ffynhonnell ddibynadwy, ffoniwch yn syth i gadarnhau
 security-recommendation-email-step-two = Byddwch yn ymwybodol o <link_to_info>sgamiau gwe-rwydo</link_to_info>
 security-recommendation-email-step-three = Marciwch e-byst amheus fel sbam a rhwystrwch yr anfonwr
-security-recommendation-email-step-four = Defnyddiwch <link_to_info>{ -brand-relay } masgiau e-bost</link_to_info> i amddiffyn eich e-bost yn y dyfodol
+security-recommendation-email-step-four = Defnyddiwch <link_to_info>{ -brand-relay } arallenwau e-bost</link_to_info> i ddiogelu eich e-bost yn y dyfodol
 
 # IP security recommendation
 
@@ -186,7 +186,7 @@ security-recommendation-ip-summary =
         [many] Amlygwyd eich cyfeiriad IP mewn { $num_breaches } thoriad data:
        *[other] Amlygwyd eich cyfeiriad IP mewn { $num_breaches } thoriad data:
     }
-security-recommendation-ip-description = Mae eich cyfeiriad IP yn nodi'ch lleoliad a'ch darparwr gwasanaeth rhyngrwyd. Gallai hacwyr ddefnyddio'r wybodaeth hon i ddod o hyd i'ch lleoliad neu geisio cysylltu â'ch dyfeisiau.
+security-recommendation-ip-description = Mae eich cyfeiriad IP yn nodi'ch lleoliad a'ch darparwr gwasanaeth rhyngrwyd. Gall hacwyr ddefnyddio'r wybodaeth hon i ddod o hyd i'ch lleoliad neu geisio cysylltu â'ch dyfeisiau.
 security-recommendation-ip-step-one = Defnyddiwch VPN (fel <link_to_info>{ -brand-mozilla-vpn }</link_to_info>) i guddio'ch cyfeiriad IP go iawn a defnyddio'r rhyngrwyd yn breifat.
 
 # Leaked Passwords
@@ -196,17 +196,17 @@ security-recommendation-ip-step-one = Defnyddiwch VPN (fel <link_to_info>{ -bran
 leaked-passwords-title = Datgelwyd eich cyfrinair gan { $breach_name }
 # Variables
 # $breach_date is the date when the breach occurred.
-leaked-passwords-summary = Ymddangosodd mewn toriad data ar { $breach_date }.
-leaked-passwords-description = Gall sgamwyr gael mynediad i'ch cyfrif a byddant yn debygol o geisio ei ddefnyddio ar gyfrifon eraill i weld a ydych wedi defnyddio'r un cyfrinair. Newidiwch ef unrhyw le rydych chi wedi'i ddefnyddio i amddiffyn eich hun.
+leaked-passwords-summary = Ymddangosodd mewn tor-data ar { $breach_date }.
+leaked-passwords-description = Gall sgamwyr gael mynediad i'ch cyfrif a byddan nhw'n debygol o geisio ei ddefnyddio ar gyfrifon eraill i weld a ydych wedi defnyddio'r un cyfrinair. Newidiwch ef unrhyw le rydych chi wedi'i ddefnyddio i ddiogelu eich hun.
 leaked-passwords-steps-title = Dyma beth i'w wneud
 leaked-passwords-steps-subtitle = Mae hyn yn gofyn am fynediad i'ch cyfrif, felly bydd angen i chi ei drwsio â llaw.
 # Variables
 # $breach_name is the name of the breach where the leaked password was found.
 # $emails_affected are the emails associated with the breach.
-leaked-passwords-step-one = Newidiwch eich cyfrinair ar gyfer <b>{ $emails_affected }</b> ar <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-passwords-step-one = Newidiwch eich cyfrinair <b>{ $emails_affected }</b> ar <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
 leaked-passwords-step-two = Newidiwch ef unrhyw le arall rydych chi wedi'i ddefnyddio.
-leaked-passwords-mark-as-fixed = Marciwch fel un sefydlog
-leaked-passwords-skip = Anwybyddu am nawr
+leaked-passwords-mark-as-fixed = Marciwch fel wedi'i drwsio
+leaked-passwords-skip = Hepgor am nawr
 # Variables
 # $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
 # "Est." is shortform for "Estimated".
