@@ -213,12 +213,12 @@ leaked-passwords-skip = Hepgor am nawr
 # "mins" is shortform for "minutes".
 leaked-passwords-estimated-time =
     { $estimated_time ->
-        [zero] Est. amser i'w gwblhau: { $estimated_time } munud fesul gwefan
-        [one] Est. amser i'w gwblhau: { $estimated_time } munud fesul gwefan
-        [two] Est. amser i'w gwblhau: { $estimated_time } munud fesul gwefan
-        [few] Est. amser i'w gwblhau: { $estimated_time } munud fesul gwefan
-        [many] Est. amser i'w gwblhau: { $estimated_time } munud fesul gwefan
-       *[other] Est. amser i'w gwblhau: { $estimated_time } munud fesul gwefan
+        [zero] Popeth yn iawn - hyd yma. Gofal!
+        [one] Amcan o'r amser i'w gwblhau: { $estimated_time } munud fesul gwefan
+        [two] Amcan o'r amser i'w gwblhau: { $estimated_time } funud fesul gwefan
+        [few] Amcan o'r amser i'w gwblhau: { $estimated_time } munud fesul gwefan
+        [many] Amcan o'r amser i'w gwblhau: { $estimated_time } munud fesul gwefan
+       *[other] Amcan o'r amser i'w gwblhau: { $estimated_time } munud fesul gwefan
     }
 
 # Leaked Security Questions
@@ -229,11 +229,11 @@ leaked-security-questions-title = Datgelwyd eich cwestiynau diogelwch
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
 leaked-security-questions-summary = Mae nhw wedi ymddangos mewn toriad data ar { $breach_name } ar { $breach_date }.
-leaked-security-questions-description = Gall sgamwyr ddefnyddio'r rhain i gael mynediad i'ch cyfrifon, ac unrhyw wefan arall lle rydych chi wedi defnyddio'r un cwestiynau diogelwch. Diweddarwch nhw nawr i amddiffyn eich cyfrifon.
+leaked-security-questions-description = Gall sgamwyr ddefnyddio'r rhain i gael mynediad i'ch cyfrifon, ac unrhyw wefan arall lle rydych chi wedi defnyddio'r un cwestiynau diogelwch. Diweddarwch nhw nawr i ddiogelu eich cyfrifon.
 leaked-security-questions-steps-title = Dyma beth i'w wneud
 leaked-security-questions-steps-subtitle = Mae hyn yn gofyn am fynediad i'ch cyfrif, felly bydd angen i chi ei drwsio â llaw.
 # Variables
 # $breach_name is the name of the breach where the security questions were found.
 # $email_affected is the email associated with the breach.
-leaked-security-questions-step-one = Diweddarwch eich cwestiynau diogelwch ar gyfer <b>{ $email_affected }</b> ar <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-security-questions-step-one = Diweddarwch eich cwestiynau diogelwch <b>{ $email_affected }</b> ar <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
 leaked-security-questions-step-two = Diweddarwch nhw ar unrhyw wefan arall lle gwnaethoch chi ddefnyddio'r un cwestiynau diogelwch. Gwnewch yn siŵr eich bod chi'n defnyddio gwahanol gwestiynau diogelwch ar gyfer pob cyfrif.
