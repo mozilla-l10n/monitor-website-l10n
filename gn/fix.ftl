@@ -52,6 +52,14 @@ high-risk-breach-summary =
 high-risk-breach-name-and-date = { $breach_name } <breach_date> { $breach_date }</breach_date>-pe
 high-risk-breach-mark-as-fixed = Embokurusu oĩporãmaha
 high-risk-breach-skip = Ehasa ko’ág̃a
+# Variables:
+# $estimated_time is the estimated time it would take for a user to complete breach resolution steps. It not be singular, and the + is meant as "or more".
+# An example of this string is Your estimated time: 15+ minutes.
+high-risk-breach-estimated-time =
+    { $estimated_time ->
+        [one] Mboy aravópa: hetave { $estimated_time } aravo’ígui
+       *[other] Mboy aravópa: hetave { $estimated_time } aravo’ígui
+    }
 
 # Credit Card Breaches
 
@@ -102,6 +110,12 @@ security-recommendation-steps-cta-label = ¡Aikũmby!
 # Phone security recommendation
 
 security-recommendation-phone-title = Emo’ã ne pumbyry papapy
+# $num_breaches is the number of breaches where the phone number was found.
+security-recommendation-phone-summary =
+    { $num_breaches ->
+        [one] Ne pumbyry papapy ojehecha { $num_breaches } mba’ekuaarã ñemboguápe:
+       *[other] Ne pumbyry papapy ojehecha { $num_breaches } mba’ekuaarã ñemboguápe:
+    }
 security-recommendation-phone-step-one = Ejoko spam papapy emboyke hag̃ua ñehenói oiko’ỹva
 
 # Email security recommendation
