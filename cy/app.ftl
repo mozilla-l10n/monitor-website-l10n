@@ -44,7 +44,7 @@ user-add-duplicate-email = Mae'r e-bost hwn eisoes wedi'i ychwanegu at { -produc
 #   $preferencesLink (String) - Link to preferences
 #   $userEmail (String) - User email address
 user-add-duplicate-email-part-2 = Ewch i'ch { $preferencesLink } i wirio statws { $userEmail }.
-user-add-verification-email-just-sent = Nid oes modd anfon yr e-bost dilysu arall hwn mor yn gyflym. Ceisiwch eto yn nes ymlaen.
+user-add-verification-email-just-sent = Nid oes modd anfon yr e-bost dilysu arall hwn mor fuan. Ceisiwch eto yn nes ymlaen.
 user-add-unknown-error = Aeth rhywbeth o'i le wrth ychwanegu cyfeiriad e-bost arall. Ceisiwch eto yn nes ymlaen.
 error-headline = Gwall
 user-verify-token-error = Mae angen tocyn dilysu.
