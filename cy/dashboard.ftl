@@ -12,26 +12,26 @@
 exposure-chart-heading =
     { $nr ->
         [zero] <nr>{ $nr }</nr> <label>datgeliadau</label>
-        [one] <nr>{ $nr }</nr> <label>amlygiad</label>
-        [two] <nr>{ $nr }</nr> <label>datgeliadau</label>
-        [few] <nr>{ $nr }</nr> <label>datgeliadau</label>
-        [many] <nr>{ $nr }</nr> <label>datgeliadau</label>
-       *[other] <nr>{ $nr }</nr> <label>datgeliadau</label>
+        [one] <nr>{ $nr }</nr> <label>datgeliad</label>
+        [two] <nr>{ $nr }</nr> <label>ddatgeliad</label>
+        [few] <nr>{ $nr }</nr> <label>datgeliad</label>
+        [many] <nr>{ $nr }</nr> <label>datgeliad</label>
+       *[other] <nr>{ $nr }</nr> <label>datgeliad</label>
     }
 # Variables:
 #   $nr (number) - Number of fixed exposures found for the user
-exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>Sefydlog</label>
-exposure-chart-legend-heading-type = Amlygiad
-exposure-chart-legend-heading-nr = Rhif
+exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>Wedi'i drwsio</label>
+exposure-chart-legend-heading-type = Datgeliad
+exposure-chart-legend-heading-nr = Nifer
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr } ×
-exposure-chart-caption = Mae'r siart hwn yn dangos sawl gwaith y mae eich gwybodaeth yn cael ei datgelu.
+exposure-chart-caption = Mae'r siart hwn yn dangos sawl gwaith y mae eich manylion yn cael ei datgelu.
 # Variables:
 #   $total_fixed_exposures_num (number) - Number of fixed exposures
 #   $total_exposures_num (number) - Number of total exposures
-exposure-chart-caption-fixed = Mae'r siart hwn yn dangos cyfanswm y datguddiadau sy'n sefydlog ( { $total_fixed_exposures_num } allan o { $total_exposures_num })
-exposure-chart-returning-user-upgrade-prompt = Nid yw cyfeiriad cartref, aelodau'r teulu a mwy wedi'u cynnwys eto.
+exposure-chart-caption-fixed = Mae'r siart hwn yn dangos cyfanswm y datgeliadau sydd wedi'u trwsio ( { $total_fixed_exposures_num } allan o { $total_exposures_num })
+exposure-chart-returning-user-upgrade-prompt = Nid yw cyfeiriad cartref, aelodau teulu a rhagor wedi'u cynnwys eto.
 exposure-chart-returning-user-upgrade-prompt-cta = Dechreuwch sgan rhad ac am ddim
 exposure-chart-scan-in-progress-prompt = <b>Sgan ar y gweill: nid yw cyfeiriad</b>, aelodau'r teulu, a mwy wedi'u cynnwys eto.
 modal-active-number-of-exposures-title = Ynglŷn â'ch nifer o ddatguddiadau gweithredol
