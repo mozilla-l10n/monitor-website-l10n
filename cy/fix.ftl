@@ -150,7 +150,7 @@ security-recommendation-phone-summary =
         [many] Amlygwyd eich rhif ffôn mewn { $num_breaches } thoriad data:
        *[other] Amlygwyd eich rhif ffôn mewn { $num_breaches } toriad data:
     }
-security-recommendation-phone-description = Yn anffodus, does dim moddi chi ei gymryd yn ôl. Ond mae yna gamau y gallwch eu cymryd i sicrhau eich bod yn cadw'n ddiogel.
+security-recommendation-phone-description = Yn anffodus, does dim modd i chi ei gymryd yn ôl. Ond mae yna gamau y gallwch eu cymryd i sicrhau eich bod yn cadw'n ddiogel.
 security-recommendation-phone-step-one = Rhwystro rhifau sbam i atal mwy o alwadau ofer
 security-recommendation-phone-step-two = Peidiwch â chlicio ar ddolenni mewn testunau gan anfonwyr anhysbys; os yw'n ymddangos ei fod o ffynhonnell ddibynadwy, ffoniwch yn syth i gadarnhau
 
@@ -168,7 +168,7 @@ security-recommendation-email-summary =
        *[other] Cafodd eich cyfeiriad e-bost ei ddatgelu mewn { $num_breaches } tor-data:
     }
 security-recommendation-email-description = Yn anffodus, does dim moddi chi ei drwsio. Ond mae yna gamau y gallwch eu cymryd i sicrhau eich bod yn cadw'n ddiogel.
-security-recommendation-email-step-one = Peidiwch â chlicio ar ddolenni mewn e-byst gan anfonwyr anhysbys; os yw'n ymddangos ei fod o ffynhonnell ddibynadwy, ffoniwch yn syth i gadarnhau
+security-recommendation-email-step-one = Peidiwch â chlicio ar ddolenni mewn e-byst gan anfonwyr anhysbys; os yw'n ymddangos ei fod o ffynhonnell ddibynadwy, ffoniwch yn uniongyrchol i gadarnhau
 security-recommendation-email-step-two = Byddwch yn ymwybodol o <link_to_info>sgamiau gwe-rwydo</link_to_info>
 security-recommendation-email-step-three = Marciwch e-byst amheus fel sbam a rhwystrwch yr anfonwr
 security-recommendation-email-step-four = Defnyddiwch <link_to_info>{ -brand-relay } arallenwau e-bost</link_to_info> i ddiogelu eich e-bost yn y dyfodol

@@ -28,11 +28,11 @@ landing-all-faq-title = Cwestiynau cyffredin
 # FAQ is an acronym for Frequently Asked Questions
 landing-all-faq-see-all = Gweld yr holl gwestiynau cyffredin
 landing-all-data-breach-definition-qn = Beth yn union yw tor-data?
-landing-all-data-breach-definition-ans = Mae tor-data yn digwydd pan fydd manylion personol neu breifat yn cael ei datgelu, ei dwyn neu ei gopïo heb ganiatâd. Gall y digwyddiadau diogelwch hyn ddeillio o ymosodiadau seibr ar wefannau, apiau neu unrhyw gronfa ddata lle mae manylion personol pobl yn byw. Gall tor-data ddigwydd yn ddamweiniol hefyd, fel pe bai manylion mewngofnodi rhywun yn cael eu rhyddhau'n gyhoeddus.
+landing-all-data-breach-definition-ans = Mae tor-data yn digwydd pan fydd manylion personol neu breifat yn cael eu datgelu, eu dwyn neu eu copïo heb ganiatâd. Gall y digwyddiadau diogelwch hyn ddeillio o ymosodiadau seibr ar wefannau, apiau neu unrhyw gronfa ddata lle mae manylion personol pobl yn byw. Gall tor-data ddigwydd yn ddamweiniol hefyd, fel pan fydd manylion mewngofnodi rhywun yn cael eu rhyddhau'n gyhoeddus.
 landing-all-data-breach-next-steps-qn = Rwyf newydd ddeall fy mod i mewn tor-data. Beth ddylwn i ei wneud nesaf?
-landing-all-data-breach-next-steps-ans = Ewch i { -brand-mozilla-monitor } i ddysgu beth i'w wneud ar ôl tor-data a chael camau gweithredu i ddatrys datguddiad eich gwybodaeth bersonol. Mae hacwyr yn dibynnu ar bobl yn ailddefnyddio cyfrineiriau, felly mae'n bwysig creu cyfrineiriau cryf, unigryw ar gyfer eich holl gyfrifon. Cadwch eich cyfrineiriau mewn man diogel y mae gennych chi yn unig fynediad iddo; gallai hwn fod yr un man lle rydych yn storio dogfennau pwysig neu ddefnyddiwch reolwr cyfrinair.
+landing-all-data-breach-next-steps-ans = Ewch i { -brand-mozilla-monitor } i ddysgu beth i'w wneud ar ôl tor-data a chael camau gweithredu i ddatrys datguddiad eich manylion personol. Mae hacwyr yn dibynnu ar bobl yn ailddefnyddio cyfrineiriau, felly mae'n bwysig creu cyfrineiriau cryf, unigryw ar gyfer eich holl gyfrifon. Cadwch eich cyfrineiriau mewn man diogel y mai dim ond chi sydd â mynediad ato; gall hwn fod yr un man lle rydych yn cadw dogfennau pwysig, neu defnyddiwch reolwr cyfrinair.
 landing-all-data-breach-info-qn = Pa fanylion sy'n cael eu datgelu mewn achosion o dor-data?
-landing-all-data-breach-info-ans = Nid yw pob toriad yn amlygu'r un wybodaeth i gyd. Mae'n dibynnu ar yr hyn y gall hacwyr gael mynediad ato. Mae llawer o achosion o dor-data yn amlygu cyfeiriadau e-bost a chyfrineiriau. Mae eraill yn datgelu manylion mwy sensitif fel rhifau cardiau credyd, rhifau PIN, a rhifau nawdd cymdeithasol.
+landing-all-data-breach-info-ans = Nid yw pob tor-data yn amlygu'r un wybodaeth i gyd. Mae'n dibynnu ar yr hyn y gall hacwyr gael mynediad ato. Mae llawer o achosion o dor-data yn amlygu cyfeiriadau e-bost a chyfrineiriau. Mae eraill yn datgelu manylion mwy sensitif fel rhifau cardiau credyd, rhifau PIN, a rhifau nawdd cymdeithasol.
 
 # Social proof
 

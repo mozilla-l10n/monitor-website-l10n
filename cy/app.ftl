@@ -764,7 +764,7 @@ open-in-new-tab-alt = Agorwch y ddolen mewn tab newydd
 
 ## Search Engine Optimization
 
-meta-desc-2 = Darganfyddwch od ydych chi wedi bod yn rhan o dor-data gyda { -brand-fx-monitor }. Byddwn yn eich helpu i wybod beth i'w wneud nesaf ac yn monitro am unrhyw dor-data newydd yn barhaus.
+meta-desc-2 = Darganfyddwch os ydych wedi bod yn rhan o dor-data gyda { -brand-fx-monitor }. Byddwn yn eich helpu i wybod beth i'w wneud nesaf ac yn monitro am unrhyw dor-data newydd ar ôl hynny.
 
 ## Header
 
