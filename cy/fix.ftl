@@ -24,38 +24,38 @@ fix-flow-celebration-next-dashboard-label = Ewch i'ch Bwrdd Gwaith
 fix-flow-celebration-high-risk-title = Rydych wedi trwsio'ch datgeliadau risg uchel!
 fix-flow-celebration-high-risk-description-in-progress = Gall hyn deimlo fel gwaith caled, ond mae'n bwysig ei wneud i gadw'ch hun yn ddiogel. Daliwch ati gyda'r gwaith da.
 fix-flow-celebration-high-risk-description-done = Gall hyn deimlo fel gwaith caled, ond mae'n bwysig ei wneud i gadw'ch hun yn ddiogel.
-fix-flow-celebration-high-risk-description-next-passwords = Nawr gadewch i ni drwsio'ch cyfrineiriau agored.
-fix-flow-celebration-high-risk-description-next-security-questions = Nawr gadewch i ni drwsio'ch cwestiynau diogelwch agored.
+fix-flow-celebration-high-risk-description-next-passwords = Nawr gadewch i ni drwsio'ch cyfrineiriau sydd wedi'u datgelu.
+fix-flow-celebration-high-risk-description-next-security-questions = Nawr gadewch i ni drwsio'ch cwestiynau diogelwch sydd wedi'u datgelu.
 fix-flow-celebration-high-risk-description-next-security-recommendations = Nesaf, byddwn yn rhoi argymhellion diogelwch personol i chi yn seiliedig ar ba ddata sydd gennych chi sydd wedi'i ddatgelu.
-fix-flow-celebration-high-risk-description-next-dashboard = Rydych chi wedi cyrraedd diwedd eich camau. Gallwch weld unrhyw eitemau gweithredu ac olrhain eich cynnydd ar eich dangosfwrdd.
+fix-flow-celebration-high-risk-description-next-dashboard = Rydych wedi cyrraedd diwedd eich taith. Gallwch weld unrhyw eitemau gweithredu ac dilyn eich cynnydd ar eich bwrdd gwaith.
 
 ## Leaked passwords and security questions flow
 
 fix-flow-celebration-leaked-passwords-title = Mae eich cyfrineiriau bellach wedi'u diogelu!
 fix-flow-celebration-security-questions-title = Mae eich cwestiynau diogelwch wedi'u diogelu!
-fix-flow-celebration-leaked-passwords-description-next-security-questions = Nawr, gadewch i ni adolygu a diweddaru'ch cwestiynau diogelwch agored.
+fix-flow-celebration-leaked-passwords-description-next-security-questions = Nawr, gadewch i ni adolygu a diweddaru'ch cwestiynau diogelwch oedd wedi eu datgelu.
 fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Nesaf, byddwn yn rhoi argymhellion diogelwch personol i chi yn seiliedig ar ba ddata sydd gennych chi sydd wedi'i ddatgelu.
-fix-flow-celebration-leaked-passwords-description-next-dashboard = Da iawn! Rydych chi wedi cyrraedd diwedd eich camau. Gallwch weld unrhyw eitemau gweithredu ac olrhain eich cynnydd ar eich dangosfwrdd.
+fix-flow-celebration-leaked-passwords-description-next-dashboard = Rydych wedi cyrraedd diwedd eich taith. Gallwch weld unrhyw eitemau gweithredu a dilyn eich cynnydd ar eich bwrdd gwaith.
 
 ## Security recommendations flow
 
-fix-flow-celebration-security-recommendations-title = Rydych chi wedi cwblhau eich holl argymhellion!
-fix-flow-celebration-security-recommendations-description-next-dashboard = Da iawn! Rydych chi wedi cyrraedd diwedd eich camau. Gallwch weld unrhyw eitemau gweithredu ac olrhain eich cynnydd ar eich dangosfwrdd.
+fix-flow-celebration-security-recommendations-title = Rydych chi wedi cyflawni eich holl argymhellion!
+fix-flow-celebration-security-recommendations-description-next-dashboard = Da iawn! Rydych wedi cyrraedd diwedd eich taith. Gallwch weld unrhyw eitemau gweithredu a dilyn eich cynnydd ar eich bwrdd gwaith.
 
 # High Risk Data Breaches
 
 high-risk-breach-heading = Dyma beth i'w wneud
-high-risk-breach-subheading = Mae hyn yn gofyn am fynediad i'ch gwybodaeth sensitif, felly bydd angen i chi ei thrwsio â llaw.
+high-risk-breach-subheading = Mae hyn yn gofyn am fynediad i'ch manylion sensitif, felly bydd angen i chi eu trwsio â llaw.
 # Variables
 # $num_breaches is the number of breaches where the high risk data was found.
 high-risk-breach-summary =
     { $num_breaches ->
-        [zero] Ymddangosodd mewn { $num_breaches } toriad data:
-        [one] Ymddangosodd yn { $num_breaches } toriad data:
-        [two] Ymddangosodd mewn { $num_breaches } toriad data:
-        [few] Ymddangosodd mewn { $num_breaches } toriad data:
-        [many] Ymddangosodd mewn { $num_breaches } toriad data:
-       *[other] Ymddangosodd mewn { $num_breaches } toriad data:
+        [zero] Heb ymddangos mewn { $num_breaches } tor-data:
+        [one] Mae wedi ymddangos mewn { $num_breaches } tor-data:
+        [two] Mae wedi ymddangos mewn { $num_breaches } dor-data:
+        [few] Mae wedi ymddangos mewn { $num_breaches } tor-data:
+        [many] Mae wedi ymddangos mewn { $num_breaches } thor-data:
+       *[other] Mae wedi ymddangos mewn { $num_breaches } tor-data:
     }
 # Variables
 # $breach_name is the name of the breach where the high risk data was found.
