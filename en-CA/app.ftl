@@ -753,6 +753,16 @@ site-nav-ad-callout = Try our other security tools:
 brand-relay = { -brand-relay }
 brand-mozilla-vpn = { -brand-mozilla-vpn }
 mobile-menu-label = Main menu
+main-nav-button-collapse-label = Collapse menu
+main-nav-button-collapse-tooltip = Collapse menu
+main-nav-button-expand-label = Expand menu
+main-nav-button-expand-tooltip = Expand menu
+main-nav-label = Navigation
+main-nav-link-home-label = Home
+main-nav-link-dashboard-label = Dashboard
+main-nav-link-settings-label = Settings
+main-nav-link-faq-label = FAQs
+main-nav-link-faq-tooltip = Frequently asked questions
 
 ## User menu
 
@@ -770,6 +780,15 @@ menu-item-settings = Settings
 menu-item-help = Help and support
 # Obsolete
 menu-item-logout = Sign out
+user-menu-trigger-label = Open user menu
+user-menu-trigger-tooltip = Profile
+user-menu-manage-fxa-label = Manage your { -brand-mozilla-account }
+user-menu-settings-label = Settings
+user-menu-settings-tooltip = Configure { -brand-mozilla-monitor }
+user-menu-help-label = Help and support
+user-menu-help-tooltip = Get help using { -brand-mozilla-monitor }
+user-menu-signout-label = Sign out
+user-menu-signout-tooltip = Sign out of { -brand-mozilla-monitor }
 
 ## Footer
 
@@ -778,6 +797,8 @@ terms-of-service = Terms of Service
 privacy-notice = Privacy Notice
 github = { -brand-github }
 footer-nav-all-breaches = All Breaches
+footer-external-link-faq-label = FAQs
+footer-external-link-faq-tooltip = Frequently asked questions
 
 ## Error page
 
@@ -813,3 +834,6 @@ floating-banner-dismiss-button-label = No thanks
 
 ## Firefox Monitor -> Mozilla Monitor rebrand banner
 
+banner-monitor-rebrand-text = <b>{ -brand-mozilla-monitor }</b>: New name, look and even more ways to <b>reclaim your privacy</b>.
+banner-monitor-rebrand-dismiss-button-label = OK
+banner-monitor-rebrand-dismiss-button-tooltip = Dismiss
