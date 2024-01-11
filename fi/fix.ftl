@@ -31,6 +31,7 @@ fix-flow-celebration-high-risk-description-next-security-questions = Korjataan n
 
 fix-flow-celebration-leaked-passwords-title = Salasanasi ovat nyt suojattu!
 fix-flow-celebration-security-questions-title = Turvakysymyksesi ovat suojattuja!
+fix-flow-celebration-leaked-passwords-description-next-security-questions = Katselmoidaan ja päivitetään nyt altistuneet turvallisuuskysymyksesi.
 
 ## Security recommendations flow
 
@@ -62,9 +63,13 @@ ssn-modal-ok = OK
 # PIN Breaches
 
 high-risk-breach-pin-title = PIN-koodisi paljastui
+high-risk-breach-pin-step-one = Ilmoita pankillesi välittömästi, että PIN-koodisi on vaarantunut.
+high-risk-breach-pin-step-two = Vaihda PIN-koodi kaikkialla, missä olet mahdollisesti käyttänyt samaa PIN-koodia.
+high-risk-breach-pin-step-three = Tarkista tilisi luvattomien maksujen varalta.
 
 # No high risk breaches found
 
+high-risk-breach-none-title = Hyviä uutisia, suuren riskin tietovuotoja ei löytynyt
 high-risk-breach-none-sub-description-part-one = Suuren riskin tietomurtoihin sisältyy:
 high-risk-breach-none-sub-description-ssn = Henkilötunnus
 high-risk-breach-none-sub-description-bank-account = Pankkitilin tiedot
