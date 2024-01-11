@@ -79,6 +79,8 @@ dashboard-top-banner-lets-keep-protecting-title = 让我们继续保护您的数
 # $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
 dashboard-top-banner-lets-keep-protecting-description = 您还有 { $exposures_unresolved_num } 次暴露未处理。继续处理，保护自己。我们会一步步指导您操作。
 dashboard-top-banner-lets-keep-protecting-cta = 继续处理
+dashboard-top-banner-protect-your-data-title = 一起保护您的数据
+dashboard-top-banner-protect-your-data-cta = 一起处理此暴露
 # Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
 # Variables:
 #   $exposures_unresolved_num (number) - the total number of exposures the user has.
