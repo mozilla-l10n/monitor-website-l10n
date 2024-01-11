@@ -95,7 +95,7 @@ high-risk-breach-social-security-step-two = <link_to_info>Verifica tu reporto de
 # Social Security Number Modal
 
 ssn-modal-title = Re avisos de fraude e blocadas de credito
-ssn-modal-description-fraud-part-one = <b>Un aviso de fraude</b> require al negotios de verificar tu identitate ante que illo attribue nove credito in tu nomine. Illo es gratuite, dura un anno, e non afficera negativemente afficer tu punctuation de credito.
+ssn-modal-description-fraud-part-one = <b>Un aviso de fraude</b> require al negotios de verificar tu identitate ante que illo attribue nove credito in tu nomine. Illo es gratuite, dura un anno, e non afficera negativemente tu punctuation de credito.
 ssn-modal-learn-more = Saper plus circa avisos de fraude e blocadas de credito
 ssn-modal-ok = OK
 
