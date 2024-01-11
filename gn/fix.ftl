@@ -22,6 +22,7 @@ fix-flow-celebration-next-dashboard-label = Eho ne mba’erupa rendápe
 ## High-risk flow
 
 fix-flow-celebration-high-risk-title = ¡Emoĩporãma nde jehechauka ivaikuaavéva!
+fix-flow-celebration-high-risk-description-done = Ejapóvo ko tembiapo erekuaa hetaha, hákatu ejapomanteva’erã eime hag̃ua tekorosãme.
 fix-flow-celebration-high-risk-description-next-passwords = Ko’ág̃a ñamoĩporãta ne ñe’ẽñemi ivaikuaáva.
 fix-flow-celebration-high-risk-description-next-security-questions = Ko’ág̃a ñamoĩporãta umi porandu tekorosãrã ivaikuaáva.
 
@@ -38,6 +39,7 @@ fix-flow-celebration-security-recommendations-title = ¡Emyanyhẽmapa opaite ne
 # High Risk Data Breaches
 
 high-risk-breach-heading = Kóva pe rejapova’erã
+high-risk-breach-subheading = Kóva oikotevẽ ne maranduetépe jeike, ikatuhápe emoĩporã nde poite rupive.
 # Variables
 # $num_breaches is the number of breaches where the high risk data was found.
 high-risk-breach-summary =
@@ -82,12 +84,14 @@ high-risk-breach-social-security-step-two = <link_to_info>Ehecha nde deveha mara
 # Social Security Number Modal
 
 ssn-modal-title = Ñemonge rehegua ha nde jedeverã jejoko
+ssn-modal-description-fraud-part-two = Emboheko hag̃ua, eñe’ẽ peteĩva umi mbohapy oporombodevéva ndive. Natekotevẽi eñe’ẽ mbohapyvéva ndive.
 ssn-modal-learn-more = Eikuaave ñemonge rehegua ha nde jedeverã jejoko
 ssn-modal-ok = MONEĨ
 
 # PIN Breaches
 
 high-risk-breach-pin-title = Nde PIN ojehechakuaákuri
+high-risk-breach-pin-step-one = Emomarandu pya’e ne banco-pe ne mba’ete papapy ojeporukuaátarõ.
 high-risk-breach-pin-step-two = Emoambue ne PIN oimeraẽva tenda eiporuhaguépe.
 high-risk-breach-pin-step-three = Ehechajey ne mba’ete oĩre tepyme’ẽrã nemba’e’ỹva.
 
@@ -137,6 +141,7 @@ leaked-passwords-title = Ne ñe’ẽñemi { $breach_name } pegua ojehechakuaa
 # $breach_date is the date when the breach occurred.
 leaked-passwords-summary = Osẽ peteĩ mba’ekuaarã ñembogua { $breach_date }.
 leaked-passwords-steps-title = Kóva pe rejapova’erã
+leaked-passwords-steps-subtitle = Kóva oikotevẽ ne mba’etépe jeike, ikatuhápe emoĩporã nde poite rupive.
 leaked-passwords-step-two = Emoambue oimeraẽva tenda eiporuhaguépe.
 leaked-passwords-mark-as-fixed = Embokurusu oĩporãmaha
 leaked-passwords-skip = Ehasa ko’ág̃a

@@ -41,6 +41,22 @@ dashboard-tab-label-action-needed = Tekotevẽva ojejapo
 dashboard-tab-label-fixed = Opytáva
 dashboard-exposures-all-fixed-label = ¡Oĩporãma ko’ápe!
 dashboard-exposures-area-headline = Ehecha umi tenda ne marandu oñembyaikuaaha
+# Note: this line precedes dashboard-exposures-area-description-all-line2.
+# Variables:
+#   $exposures_unresolved_num (number) - the unresolved number of exposures the user has.
+dashboard-exposures-area-description-all-line1 =
+    { $exposures_unresolved_num ->
+        [one] Rojuhu { $exposures_unresolved_num } ne mba’ekuaarã jehechauka.
+       *[other] Rojuhu { $exposures_unresolved_num } ne mba’ekuaarã jehechauka.
+    }
+# Note: this line follows dashboard-exposures-area-description-all-line1.
+# Variables:
+#   $data_breach_unresolved_num (number) - the unresolved number of data breaches the user has.
+dashboard-exposures-area-description-all-line2 =
+    { $data_breach_unresolved_num ->
+        [one] Ojehecha { $data_breach_unresolved_num } mba’ekuaarã ñemboguápe:
+       *[other] Ojehecha { $data_breach_unresolved_num } mba’ekuaarã ñemboguápe:
+    }
 dashboard-fixed-area-headline-all = Ehecha umi jehechaukakue oĩporãjeýmava
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Mbogua
