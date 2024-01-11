@@ -141,6 +141,12 @@ security-recommendation-email-step-three = Emongurusu ñanduti veve ikatúva spa
 # IP security recommendation
 
 security-recommendation-ip-title = Eiporu VPN nde rekoñemiverã
+# $num_breaches is the number of breaches where the IP address was found.
+security-recommendation-ip-summary =
+    { $num_breaches ->
+        [one] Ne IP kundaharenda ojehecha { $num_breaches } mba’ekuaarã ñemboguápe:
+       *[other] Ne IP kundaharenda ojehecha { $num_breaches } mba’ekuaarã ñemboguápe:
+    }
 
 # Leaked Passwords
 
@@ -152,6 +158,10 @@ leaked-passwords-title = Ne ñe’ẽñemi { $breach_name } pegua ojehechakuaa
 leaked-passwords-summary = Osẽ peteĩ mba’ekuaarã ñembogua { $breach_date }.
 leaked-passwords-steps-title = Kóva pe rejapova’erã
 leaked-passwords-steps-subtitle = Kóva oikotevẽ ne mba’etépe jeike, ikatuhápe emoĩporã nde poite rupive.
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+# $emails_affected are the emails associated with the breach.
+leaked-passwords-step-one = Emoambue ne ñe’ẽñemi <b>{ $emails_affected }</b> peg̃uarã <link_to_breach_site>{ $breach_name }</link_to_breach_site>-pe.
 leaked-passwords-step-two = Emoambue oimeraẽva tenda eiporuhaguépe.
 leaked-passwords-mark-as-fixed = Embokurusu oĩporãmaha
 leaked-passwords-skip = Ehasa ko’ág̃a
