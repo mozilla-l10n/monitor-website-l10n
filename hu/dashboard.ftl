@@ -30,17 +30,17 @@ exposure-chart-caption-fixed = Ez a diagram az összes javított kiszivárgást 
 exposure-chart-returning-user-upgrade-prompt = Az otthoni cím, a családtagok és egyebek még nem szerepelnek benne.
 exposure-chart-returning-user-upgrade-prompt-cta = Indítson egy ingyenes vizsgálatot
 exposure-chart-scan-in-progress-prompt = <b>Vizsgálat folyamatban:</b> a cím, családtagok és egyebek még nincsenek benne.
-modal-active-number-of-exposures-title = Az aktív expozíciók számáról
+modal-active-number-of-exposures-title = Az aktív kiszivárgások számáról
 # Variables:
 #   $limit (number) - Number of email addresses included in the plan
 modal-active-number-of-exposures-part-one-all =
     { $limit ->
-        [one] Ez a diagram tartalmazza, hogy hányszor találtunk minden adattípust a jelenleg megfigyelt { $limit } e-mail-címhez tartozó adatsértésekben.
-       *[other] Ez a diagram tartalmazza, hogy hányszor találtunk minden adatot kitéve az adatsértéseket illetően, legfeljebb { $limit } jelenleg megfigyelt e-mail-címről.
+        [one] Ez a diagram tartalmazza, hogy hányszor találtuk meg az egyes adattípusokat a jelenleg megfigyelt { $limit } e-mail-címhez tartozó adatvédelmi incidensekben.
+       *[other] Ez a diagram tartalmazza, hogy hányszor találtuk meg az egyes adattípusokat a jelenleg megfigyelt { $limit } e-mail-címhez tartozó adatvédelmi incidensekben.
     }
-modal-active-number-of-exposures-part-two = Például ha 10 alkalommal került nyilvánosságra a telefonszáma, ez azt jelentheti, hogy egy telefonszám 10 különböző oldalon, vagy 2 különböző telefonszám 5 különböző oldalon jelent meg.
-modal-active-number-of-exposures-part-three-all = Amint meg lettek oldva, hozzáadódnak az összes fix expozícióhoz a Javítva oldalon.
-modal-fixed-number-of-exposures-title = A fix expozíciók számáról
+modal-active-number-of-exposures-part-two = Például ha 10 alkalommal szivárgott ki a telefonszáma, akkor ez azt jelentheti, hogy egy telefonszám 10 különböző oldalon, vagy 2 különböző telefonszám 5 különböző oldalon jelent meg.
+modal-active-number-of-exposures-part-three-all = Amint megoldja őket, hozzáadódnak az összes javított kiszivárgáshoz a Javítva oldalon.
+modal-fixed-number-of-exposures-title = A javított kiszivárgások számáról
 modal-fixed-number-of-exposures-all = Ez a diagram a jelenleg figyelt e-mail-címek kijavított adatsértéseinek teljes számát tartalmazza. Amint a kitettségek rögzítettként lettek megjelölve, hozzáadódnak az összeshez itt.
 modal-cta-ok = OK
 modal-open-alt = Megnyitás
