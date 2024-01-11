@@ -96,6 +96,9 @@ high-risk-breach-social-security-step-two = <link_to_info>Verifica tu reporto de
 
 ssn-modal-title = Re avisos de fraude e blocadas de credito
 ssn-modal-description-fraud-part-one = <b>Un aviso de fraude</b> require al negotios de verificar tu identitate ante que illo attribue nove credito in tu nomine. Illo es gratuite, dura un anno, e non afficera negativemente tu punctuation de credito.
+ssn-modal-description-fraud-part-two = Pro crear uno, contacta un del tres bureaus de credito. Tu non debe contactar tote tres.
+ssn-modal-description-freeze-credit-part-one = <b>Gelar tu credito</b> impedi a quicunque de aperir un nove conto in tu nomine. Illo es libere e non afficera negativemente tu punctuation de credito, ma tu besoniara de disgelar lo ante aperir ulle nove contos.
+ssn-modal-description-freeze-credit-part-two = Pro gelar tu credito, contacta cata del tres bureaus de credito: <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link>, e <transunion_link>TransUnion</transunion_link>.
 ssn-modal-learn-more = Saper plus circa avisos de fraude e blocadas de credito
 ssn-modal-ok = OK
 
@@ -129,6 +132,12 @@ security-recommendation-steps-cta-label = OK
 # Phone security recommendation
 
 security-recommendation-phone-title = Protege tu numero de telephono
+# $num_breaches is the number of breaches where the phone number was found.
+security-recommendation-phone-summary =
+    { $num_breaches ->
+        [one] Tu numero de telephono era exponite in { $num_breaches } violation de datos:
+       *[other] Tu numero de telephono era exponite in { $num_breaches } violationes de datos:
+    }
 
 # Email security recommendation
 
