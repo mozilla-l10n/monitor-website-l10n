@@ -81,6 +81,7 @@ high-risk-breach-bank-account-step-three = Ehechajey ne mba’ete oĩre tepyme�
 # Social Security Number Breaches
 
 high-risk-breach-social-security-title = Nde seguridad social papapy ojehechakuaa
+high-risk-breach-social-security-step-one = Eñemo’ã <link_to_info>embohekóvo kyhyjerã ani ejehode térã ejokóvo viru jeporu.</link_to_info>
 high-risk-breach-social-security-step-two = <link_to_info>Ehecha nde deveha marandu’i</link_to_info> eikuaa hag̃ua oĩpa emonei’ỹva.
 
 # Social Security Number Modal
@@ -127,6 +128,13 @@ security-recommendation-phone-step-one = Ejoko spam papapy emboyke hag̃ua ñehe
 # Email security recommendation
 
 security-recommendation-email-title = Emo’ã ñanduti veve kundaharape
+# $num_breaches is the number of breaches where the email address was found.
+security-recommendation-email-summary =
+    { $num_breaches ->
+        [one] Ne ñanduti veve kundaharape ojehecha { $num_breaches } mba’ekuaarã ñemboguápe:
+       *[other] Ne ñanduti veve kundaharape ojehecha { $num_breaches } mba’ekuaarã ñemboguápe:
+    }
+security-recommendation-email-description = Rombyasyeterei, ndaikatumo’ãi emyatyrõ ko apañuãi. Hákatu eku’ekuaa eñemo’ã hag̃ua.
 security-recommendation-email-step-two = Ema’ẽke <link_to_info>phishing jehode</link_to_info> rehe
 security-recommendation-email-step-three = Emongurusu ñanduti veve ikatúva spam ha emboyke imbouhára
 
