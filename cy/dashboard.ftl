@@ -48,6 +48,8 @@ modal-active-number-of-exposures-part-one-all =
     }
 modal-active-number-of-exposures-part-two = Er enghraifft, os oes gennych 10 datgeliad o'ch rhif ffôn, gall hynny olygu bod un rhif ffôn yn cael ei ddatgelu ar 10 gwefan gwahanol, neu gall olygu bod 2 rif ffôn gwahanol wedi'u datgelu ar 5 gwefan gwahanol.
 modal-active-number-of-exposures-part-three-all = Unwaith y byddan nhw wedi'u datrys, byddan nhw'n cael eu hychwanegu at gyfanswm eich datgeliadau wedi'u trwsio ar y dudalen Wedi Trwsio.
+modal-fixed-number-of-exposures-title = Ynglŷn â'ch nifer o ddatguddiadau sefydlog
+modal-fixed-number-of-exposures-all = Mae'r siart hwn yn cynnwys cyfanswm nifer yr achosion o dorri data sydd wedi'u pennu ar gyfer yr holl gyfeiriadau e-bost rydych chi'n eu monitro ar hyn o bryd. Unwaith y bydd datguddiadau wedi'u marcio'n sefydlog, cânt eu hychwanegu at y cyfanswm yma.
 modal-cta-ok = Iawn
 modal-open-alt = Agor
 modal-close-alt = Cau
@@ -117,6 +119,8 @@ dashboard-top-banner-lets-keep-protecting-description =
        *[other] Mae gennych { $exposures_unresolved_num } datgeliad ar ôl i'w trwsio o hyd. Daliwch ati i ddiogelu eich hun. Byddwn yn eich arwain gam wrth gam.
     }
 dashboard-top-banner-lets-keep-protecting-cta = Daliwch ati!
+dashboard-top-banner-protect-your-data-title = Gadewch i ni amddiffyn eich data
+dashboard-top-banner-protect-your-data-cta = Gadewch i ni ei drwsio
 # Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
 # Variables:
 #   $exposures_unresolved_num (number) - the total number of exposures the user has.

@@ -861,3 +861,9 @@ breach-detail-cta-signup = Gwiriwch am dor-data
 floating-banner-text = Rhowch hwb i'ch diogelwch ar-lein gyda newyddion, awgrymiadau a diweddariadau gan { -brand-Mozilla }.
 floating-banner-link-label = Ymuno
 floating-banner-dismiss-button-label = Dim diolch
+
+## Firefox Monitor -> Mozilla Monitor rebrand banner
+
+banner-monitor-rebrand-text = <b>{ -brand-mozilla-monitor }</b>: Enw newydd, edrychiad a hyd yn oed mwy o ffyrdd i <b>adennill eich preifatrwydd</b>.
+banner-monitor-rebrand-dismiss-button-label = Iawn
+banner-monitor-rebrand-dismiss-button-tooltip = Cau

@@ -33,6 +33,7 @@ landing-all-data-breach-next-steps-qn = Rwyf newydd ddeall fy mod i mewn tor-dat
 landing-all-data-breach-next-steps-ans = Ewch i { -brand-mozilla-monitor } i ddysgu beth i'w wneud ar ôl tor-data a chael camau gweithredu i ddatrys datgeliad eich manylion personol. Mae hacwyr yn dibynnu ar bobl yn ailddefnyddio cyfrineiriau, felly mae'n bwysig creu cyfrineiriau cryf, unigryw ar gyfer eich holl gyfrifon. Cadwch eich cyfrineiriau mewn man diogel y mai dim ond chi sydd â mynediad ato; gall hwn fod yr un man lle rydych yn cadw dogfennau pwysig, neu defnyddiwch reolwr cyfrinair.
 landing-all-data-breach-info-qn = Pa fanylion sy'n cael eu datgelu mewn achosion o dor-data?
 landing-all-data-breach-info-ans = Nid yw pob tor-data yn amlygu'r un wybodaeth i gyd. Mae'n dibynnu ar yr hyn y gall hacwyr gael mynediad ato. Mae llawer o achosion o dor-data yn amlygu cyfeiriadau e-bost a chyfrineiriau. Mae eraill yn datgelu manylion mwy sensitif fel rhifau cardiau credyd, rhifau PIN, a rhifau nawdd cymdeithasol.
+landing-all-close-faq-alt = Cau
 
 # Social proof
 
