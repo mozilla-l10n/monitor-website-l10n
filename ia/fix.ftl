@@ -110,6 +110,9 @@ high-risk-breach-pin-step-three = Verifica tu contos pro debitos non autorisate.
 # No high risk breaches found
 
 high-risk-breach-none-title = Grande novas, nos non trovava alcun violationes de datos a alte risco
+# Variables
+# $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
+high-risk-breach-none-description = Nos discoperi violationes de datos in base a tu adresse email, e nos non trova alcun violationes de datos a alte risco pro { $email_list }
 high-risk-breach-none-sub-description-part-one = Violationes de datos a alte risco include:
 high-risk-breach-none-sub-description-ssn = Numero de securitate social
 high-risk-breach-none-sub-description-bank-account = Informationes de conto bancari
