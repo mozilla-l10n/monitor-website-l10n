@@ -40,6 +40,8 @@ modal-active-number-of-exposures-part-one-all =
     }
 modal-active-number-of-exposures-part-two = Például ha 10 alkalommal került nyilvánosságra a telefonszáma, ez azt jelentheti, hogy egy telefonszám 10 különböző oldalon, vagy 2 különböző telefonszám 5 különböző oldalon jelent meg.
 modal-active-number-of-exposures-part-three-all = Amint meg lettek oldva, hozzáadódnak az összes fix expozícióhoz a Javítva oldalon.
+modal-fixed-number-of-exposures-title = A fix expozíciók számáról
+modal-fixed-number-of-exposures-all = Ez a diagram a jelenleg figyelt e-mail-címek kijavított adatsértéseinek teljes számát tartalmazza. Amint a kitettségek rögzítettként lettek megjelölve, hozzáadódnak az összeshez itt.
 modal-cta-ok = OK
 modal-open-alt = Megnyitás
 modal-close-alt = Bezárás
@@ -97,6 +99,8 @@ dashboard-top-banner-lets-keep-protecting-description =
        *[other] Még { $exposures_unresolved_num } javítanivalója van. Folytassa, és védje meg magát. Lépésről lépésre végigvezetjük.
     }
 dashboard-top-banner-lets-keep-protecting-cta = Folytassa
+dashboard-top-banner-protect-your-data-title = Védjük meg az adatait
+dashboard-top-banner-protect-your-data-cta = Javítsuk ki
 # Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
 # Variables:
 #   $exposures_unresolved_num (number) - the total number of exposures the user has.
