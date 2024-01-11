@@ -838,6 +838,6 @@ floating-banner-dismiss-button-label = Köszönöm, nem
 
 ## Firefox Monitor -> Mozilla Monitor rebrand banner
 
-banner-monitor-rebrand-text = <b>{ -brand-mozilla-monitor }</b>: Új név, kinézet és még több módja annak, hogy <b>visszaszerezze az adatvédelmét</b>.
+banner-monitor-rebrand-text = <b>{ -brand-mozilla-monitor }</b>: Új név, kinézet és még több módja annak, hogy <b>visszaszerezze a magánszféráját</b>.
 banner-monitor-rebrand-dismiss-button-label = OK
 banner-monitor-rebrand-dismiss-button-tooltip = Eltüntetés
