@@ -84,6 +84,14 @@ dashboard-top-banner-lets-keep-protecting-title = Romo’ãta gueteri ne mba’e
 dashboard-top-banner-lets-keep-protecting-cta = Jaku’ejeýke
 dashboard-top-banner-protect-your-data-title = Romo’ãta ne mba’ekuaarã
 dashboard-top-banner-protect-your-data-cta = Romoĩ porãta
+# Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
+# Variables:
+#   $exposures_unresolved_num (number) - the total number of exposures the user has.
+dashboard-top-banner-non-us-protect-your-data-description-line1 =
+    { $exposures_unresolved_num ->
+        [one] Rojuhu { $exposures_unresolved_num } ne mba’ekuaarã jehechauka.
+       *[other] Rojuhu { $exposures_unresolved_num } ne mba’ekuaarã jehechauka.
+    }
 dashboard-top-banner-no-exposures-found-title = Ndojejuhúi máva jehechauka
 dashboard-no-exposures-label = Ndojejuhúi máva jehechauka
 dashboard-top-banner-monitor-more-cta = Roma’ẽag̃uíta hetave ñanduti vevére

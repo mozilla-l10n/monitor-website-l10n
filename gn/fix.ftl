@@ -22,6 +22,7 @@ fix-flow-celebration-next-dashboard-label = Eho ne mba’erupa rendápe
 ## High-risk flow
 
 fix-flow-celebration-high-risk-title = ¡Emoĩporãma nde jehechauka ivaikuaavéva!
+fix-flow-celebration-high-risk-description-in-progress = Ejapóvo ko tembiapo erekuaa hetaha, hákatu ejapomanteva’erã eime hag̃ua tekorosãme. Emba’apo porãmeme ehóvo.
 fix-flow-celebration-high-risk-description-done = Ejapóvo ko tembiapo erekuaa hetaha, hákatu ejapomanteva’erã eime hag̃ua tekorosãme.
 fix-flow-celebration-high-risk-description-next-passwords = Ko’ág̃a ñamoĩporãta ne ñe’ẽñemi ivaikuaáva.
 fix-flow-celebration-high-risk-description-next-security-questions = Ko’ág̃a ñamoĩporãta umi porandu tekorosãrã ivaikuaáva.
@@ -73,6 +74,7 @@ high-risk-breach-credit-card-step-three = Ehechajey ne mba’ete oĩre tepyme’
 # Bank Account Breaches
 
 high-risk-breach-bank-account-title = Nde mba’ete banco pegua ojehechakuaa
+high-risk-breach-bank-account-step-one = Emomarandu pya’eterei ne banco-pe ne mba’ete papapy ikatuháre ojeporu.
 high-risk-breach-bank-account-step-two = Emoambue ne mba’ete papapy
 high-risk-breach-bank-account-step-three = Ehechajey ne mba’ete oĩre tepyme’ẽrã nemba’e’ỹva.
 
