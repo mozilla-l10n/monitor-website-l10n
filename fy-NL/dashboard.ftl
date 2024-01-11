@@ -41,6 +41,7 @@ modal-active-number-of-exposures-part-one-all =
 modal-active-number-of-exposures-part-two = As jo bygelyks 10 lekken fan jo telefoannûmer hawwe, kin dat betsjutte dat ien telefoannûmer op 10 ferskillende websites lekt wurde, of it kin betsjutte dat 2 ferskillende telefoannûmers op 5 ferskillende websites lekt binne.
 modal-active-number-of-exposures-part-three-all = Sadree’t se oplost binne, wurde se tafoege oan jo totale oantal fêste lekken op de side Oplost.
 modal-fixed-number-of-exposures-title = Oer jo oantal oploste lekken
+modal-fixed-number-of-exposures-all = Dit diagram omfettet it totale oantal gegevenslekken dat reparearre is foar alle e-mailadressen dy’t jo op dit stuit kontrolearje. Sa gau as lekken as oplost markearre binne, wurde se hjir oan it totaal tafoege.
 modal-cta-ok = OK
 modal-open-alt = Iepenje
 modal-close-alt = Slute
