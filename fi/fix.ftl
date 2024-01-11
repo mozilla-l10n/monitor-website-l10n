@@ -21,6 +21,11 @@ fix-flow-celebration-next-dashboard-label = Siirry kojelaudalle
 
 ## High-risk flow
 
+fix-flow-celebration-high-risk-title = Olet korjannut suuren riskin altistumiset!
+fix-flow-celebration-high-risk-description-in-progress = Tämän työn tekeminen voi tuntua suurelta, mutta se on tärkeää pitääksesi itsesi turvassa. Jatka samaan malliin.
+fix-flow-celebration-high-risk-description-done = Tämän työn tekeminen voi tuntua suurelta, mutta se on tärkeää pitääksesi itsesi turvassa.
+fix-flow-celebration-high-risk-description-next-passwords = Korjataan nyt altistuneet salasanasi.
+fix-flow-celebration-high-risk-description-next-security-questions = Korjataan nyt altistuneet turvallisuuskysymyksesi.
 
 ## Leaked passwords and security questions flow
 
