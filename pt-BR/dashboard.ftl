@@ -41,6 +41,7 @@ modal-active-number-of-exposures-part-one-all =
 modal-active-number-of-exposures-part-two = Por exemplo, se você tiver 10 exposições do seu número de celular, pode significar que um número de celular foi exposto em 10 sites diferentes ou pode significar que 2 números de celular foram expostos em 5 sites diferentes.
 modal-active-number-of-exposures-part-three-all = Depois de resolvidas, elas são adicionadas ao número total de exposições resolvidas na página 'Resolvido'.
 modal-fixed-number-of-exposures-title = Informações sobre seu número de exposições resolvidas
+modal-fixed-number-of-exposures-all = Este gráfico inclui o número total de vazamentos de dados que foram resolvidos em todos os endereços de email que você está monitorando atualmente. Exposições marcadas como resolvidas são adicionadas ao total aqui.
 modal-cta-ok = OK
 modal-open-alt = Abrir
 modal-close-alt = Fechar

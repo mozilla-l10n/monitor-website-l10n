@@ -152,6 +152,8 @@ security-recommendation-ip-summary =
         [one] Seu endereço IP foi exposto em { $num_breaches } vazamento de dados:
        *[other] Seu endereço IP foi exposto em { $num_breaches } vazamentos de dados:
     }
+security-recommendation-ip-description = Seu endereço IP identifica sua localização e provedor de serviços de internet. Hackers podem usar essas informações para encontrar sua localização ou tentar se conectar a seus dispositivos.
+security-recommendation-ip-step-one = Use uma VPN (como o <link_to_info>{ -brand-mozilla-vpn }</link_to_info>) para ocultar seu endereço IP real e usar a internet de forma privativa.
 
 # Leaked Passwords
 
@@ -161,6 +163,8 @@ leaked-passwords-title = Sua senha em { $breach_name } foi exposta
 # Variables
 # $breach_date is the date when the breach occurred.
 leaked-passwords-summary = Apareceu em um vazamento de dados em { $breach_date }.
+leaked-passwords-description = Fraudadores podem acessar sua conta e provavelmente tentar usar em outras contas para ver se você usou a mesma senha. Altere em todo lugar onde você usou para se proteger.
+leaked-passwords-steps-title = O que fazer
 leaked-passwords-steps-subtitle = Isso requer acesso à sua conta, então você precisa resolver manualmente.
 # Variables
 # $breach_name is the name of the breach where the leaked password was found.
