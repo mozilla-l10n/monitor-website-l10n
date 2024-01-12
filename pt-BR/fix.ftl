@@ -22,8 +22,11 @@ fix-flow-celebration-next-dashboard-label = Ir para seu painel
 ## High-risk flow
 
 fix-flow-celebration-high-risk-title = Você resolveu suas exposições de alto risco!
+fix-flow-celebration-high-risk-description-in-progress = Pode parecer trabalhoso, mas é importante para sua segurança. Mantenha o bom trabalho!
+fix-flow-celebration-high-risk-description-done = Pode parecer trabalhoso, mas é importante para sua segurança.
 fix-flow-celebration-high-risk-description-next-passwords = Agora vamos resolver suas senhas expostas.
 fix-flow-celebration-high-risk-description-next-security-questions = Agora vamos resolver suas perguntas de segurança expostas.
+fix-flow-celebration-high-risk-description-next-security-recommendations = A seguir, fornecemos recomendações de segurança personalizadas com base em quais dados seus foram expostos.
 
 ## Leaked passwords and security questions flow
 

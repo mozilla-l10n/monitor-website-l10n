@@ -120,6 +120,13 @@ dashboard-top-banner-non-us-protect-your-data-description-line2 =
 dashboard-top-banner-no-exposures-found-title = Nenhuma exposição encontrada
 dashboard-top-banner-non-us-no-exposures-found-description = Boa notícia! Pesquisamos em todos os vazamentos conhecidos de dados, não encontramos nenhuma exposição. Continuaremos monitorando seu endereço de email e alertaremos você se ocorrer um novo vazamento.
 dashboard-no-exposures-label = Nenhuma exposição encontrada
+# Variables:
+# $exposures_resolved_num is the number of exposures the user has resolved.
+dashboard-top-banner-non-us-your-data-is-protected-description =
+    { $exposures_resolved_num ->
+        [one] Bom trabalho, a exposição de seus dados foi resolvida! Continuamos monitorando e alertaremos você sobre quaisquer novas exposições.
+       *[other] Bom trabalho, todas as { $exposures_resolved_num } exposições de seus dados foram resolvidas! Continuamos monitorando e alertaremos você sobre quaisquer novas exposições.
+    }
 dashboard-top-banner-monitor-more-cta = Monitorar mais emails
 
 # About Exposure Statuses Modal
