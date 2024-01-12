@@ -46,6 +46,7 @@ progress-card-manually-fixed-headline = Remediate manualmente
 dashboard-tab-label-action-needed = Action necessari
 dashboard-tab-label-fixed = Remediate
 dashboard-exposures-all-fixed-label = Toto remediate ci!
+dashboard-exposures-area-headline = Circa tu numero de expositiones corrigite
 # Note: this line follows dashboard-exposures-area-description-all-line1.
 # Variables:
 #   $data_breach_unresolved_num (number) - the unresolved number of data breaches the user has.
