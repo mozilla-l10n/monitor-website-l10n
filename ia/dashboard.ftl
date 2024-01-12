@@ -22,7 +22,22 @@ exposure-chart-legend-heading-nr = Numero
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
+exposure-chart-caption = Iste diagramma monstra quante vices tu info es activemente exponite.
+# Variables:
+#   $total_fixed_exposures_num (number) - Number of fixed exposures
+#   $total_exposures_num (number) - Number of total exposures
+exposure-chart-caption-fixed = Iste diagramma monstra le total del expositiones que es corrigite ({ $total_fixed_exposures_num } de { $total_exposures_num })
+exposure-chart-returning-user-upgrade-prompt = Adresse de casa, familiares e plus non es ancora includite.
 exposure-chart-returning-user-upgrade-prompt-cta = Lancea un scansion gratuite
+exposure-chart-scan-in-progress-prompt = <b>Scansion in curso:</b> adresse, familiares, e altero non es ancora includite.
+modal-active-number-of-exposures-title = Circa tu numero de expositiones active
+# Variables:
+#   $limit (number) - Number of email addresses included in the plan
+modal-active-number-of-exposures-part-one-all =
+    { $limit ->
+        [one] Iste diagramma include le quante vices nos trovava cata typo de datos exponite inter tote le violationes de datos pro le { $limit } adresse email que tu actualmente survelia.
+       *[other] Iste diagramma include le quante vices nos trovava cata typo de datos exponite inter tote le violationes de datos pro le { $limit } adresses email que tu actualmente survelia.
+    }
 modal-cta-ok = OK
 modal-open-alt = Aperir
 modal-close-alt = Clauder
