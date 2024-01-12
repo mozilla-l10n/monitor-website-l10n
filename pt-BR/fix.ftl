@@ -37,6 +37,7 @@ fix-flow-celebration-security-recommendations-title = Você concluiu todas as re
 
 # High Risk Data Breaches
 
+high-risk-breach-heading = O que fazer
 high-risk-breach-subheading = Isso requer acesso a suas informações confidenciais, então você precisa resolver manualmente.
 # Variables
 # $num_breaches is the number of breaches where the high risk data was found.
@@ -182,4 +183,5 @@ leaked-security-questions-title = Suas perguntas de segurança foram expostas
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
 leaked-security-questions-summary = Apareceram em um vazamento de dados de { $breach_name } em { $breach_date }.
+leaked-security-questions-steps-title = O que fazer
 leaked-security-questions-steps-subtitle = Isso requer acesso à sua conta, então você precisa resolver manualmente.
