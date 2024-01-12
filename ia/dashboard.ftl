@@ -38,6 +38,10 @@ modal-active-number-of-exposures-part-one-all =
         [one] Iste diagramma include le quante vices nos trovava cata typo de datos exponite inter tote le violationes de datos pro le { $limit } adresse email que tu actualmente survelia.
        *[other] Iste diagramma include le quante vices nos trovava cata typo de datos exponite inter tote le violationes de datos pro le { $limit } adresses email que tu actualmente survelia.
     }
+modal-active-number-of-exposures-part-two = Per exemplo, si tu ha 10 expositiones de tu numero de telephono, que poterea significar que un numero de telephono es exponite inter 10 differente sitos, o illo poterea significar 2 differente numeros de telephono era exponite inter 5 differente sitos.
+modal-active-number-of-exposures-part-three-all = Un vice que illos es resolvite, illes sera addite a tu numero total de expositiones corrigite sur le pagina Corrigite.
+modal-fixed-number-of-exposures-title = Circa tu numero de expositiones corrigite
+modal-fixed-number-of-exposures-all = Iste diagramma include le numero total de violationes de datos que ha essite corrigite pro tote le adresses email que tu actualmente survelia. Un vice que le expositiones es marcate como corrigite, illes sera addite al total ci.
 modal-cta-ok = OK
 modal-open-alt = Aperir
 modal-close-alt = Clauder
@@ -46,7 +50,7 @@ progress-card-manually-fixed-headline = Remediate manualmente
 dashboard-tab-label-action-needed = Action necessari
 dashboard-tab-label-fixed = Remediate
 dashboard-exposures-all-fixed-label = Toto remediate ci!
-dashboard-exposures-area-headline = Circa tu numero de expositiones corrigite
+dashboard-exposures-area-headline = Vide tote le sitos ubi tu info es exponite
 # Note: this line follows dashboard-exposures-area-description-all-line1.
 # Variables:
 #   $data_breach_unresolved_num (number) - the unresolved number of data breaches the user has.
