@@ -35,10 +35,12 @@ fix-flow-celebration-leaked-passwords-title = Suas senhas agora estão protegida
 fix-flow-celebration-security-questions-title = Suas perguntas de segurança estão protegidas!
 fix-flow-celebration-leaked-passwords-description-next-security-questions = Agora vamos revisar e alterar suas perguntas de segurança expostas.
 fix-flow-celebration-leaked-passwords-description-next-security-recommendations = A seguir, fornecemos recomendações de segurança personalizadas com base em quais dados seus foram expostos.
+fix-flow-celebration-leaked-passwords-description-next-dashboard = Ótimo! Você chegou ao final das etapas. Pode ver qualquer item de ação e acompanhar o andamento no seu painel.
 
 ## Security recommendations flow
 
 fix-flow-celebration-security-recommendations-title = Você concluiu todas as recomendações!
+fix-flow-celebration-security-recommendations-description-next-dashboard = Ótimo! Você chegou ao final das etapas. Pode ver qualquer item de ação e acompanhar o andamento no seu painel.
 
 # High Risk Data Breaches
 
@@ -70,6 +72,7 @@ high-risk-breach-estimated-time =
 # Credit Card Breaches
 
 high-risk-breach-credit-card-title = O número do seu cartão de crédito foi exposto
+high-risk-breach-credit-card-description = Qualquer pessoa que obtiver pode fazer compras não autorizadas, pelas quais você poderá ser responsabilizado. Aja agora para evitar danos financeiros.
 high-risk-breach-credit-card-step-one = Se você ainda tiver este cartão, entre em contato com o emissor para relatar o roubo.
 high-risk-breach-credit-card-step-two = Solicite um novo cartão com outro número.
 high-risk-breach-credit-card-step-three = Verifique se há cobranças não autorizadas em suas contas.
@@ -85,12 +88,15 @@ high-risk-breach-bank-account-step-three = Verifique se há cobranças não auto
 # Social Security Number Breaches
 
 high-risk-breach-social-security-title = Seu número de previdência social foi exposto
+high-risk-breach-social-security-description = Fraudadores podem obter novos empréstimos ou cartões de crédito com seu número de previdência social. Aja rápido para evitar danos financeiros.
 high-risk-breach-social-security-step-one = Proteja-se <link_to_info>criando um alerta de fraude ou congelando seu crédito</link_to_info>.
 high-risk-breach-social-security-step-two = <link_to_info>Verifique seu relatório de crédito</link_to_info> para ver se há contas não reconhecidas.
 
 # Social Security Number Modal
 
 ssn-modal-title = Informações sobre alertas de fraude e congelamento de crédito
+ssn-modal-description-fraud-part-one = <b>Um alerta de fraude</b> exige que empresas verifiquem sua identidade antes de emitir novos créditos em seu nome. É gratuito, dura um ano e não afeta negativamente sua pontuação de crédito.
+ssn-modal-description-fraud-part-two = Para criar um, entre em contato com qualquer uma das três agências de crédito. Você não precisa entrar em contato com todas.
 ssn-modal-learn-more = Saiba mais sobre alertas de fraude e congelamento de crédito
 ssn-modal-ok = OK
 
