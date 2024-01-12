@@ -138,19 +138,50 @@ security-recommendation-phone-summary =
         [one] Tu numero de telephono era exponite in { $num_breaches } violation de datos:
        *[other] Tu numero de telephono era exponite in { $num_breaches } violationes de datos:
     }
+security-recommendation-phone-description = Infortunatemente tu non pote recuperar lo. Ma il ha passos que tu pote facer pro verificar que tu sta secur.
+security-recommendation-phone-step-one = Bloca le numeros spam pro impedir altere appellos immunditia
+security-recommendation-phone-step-two = Non clicca sur ligamines in textos de expeditores incognite; si illo pare esser ab un fonte digne de fide, appella directemente pro confirmar
 
 # Email security recommendation
 
 security-recommendation-email-title = Protege tu adresse email
+# $num_breaches is the number of breaches where the email address was found.
+security-recommendation-email-summary =
+    { $num_breaches ->
+        [one] Tu adresse email era exponite in { $num_breaches } violation de datos:
+       *[other] Tu adresse email era exponite in { $num_breaches } violationes de datos:
+    }
+security-recommendation-email-description = Infortunatemente tu non pote remediar a isto. Ma il ha passos que tu pote facer pro proteger te.
+security-recommendation-email-step-one = Non clicca sur ligamines in emails de expeditores incognite; si illo appare esser ab fonte digne de fide, appella directemente pro confirmar
+security-recommendation-email-step-two = Sia conscie de <link_to_info>attaccos fraudulente</link_to_info>
+security-recommendation-email-step-three = Marcar emails suspecte como spam e blocar le expeditor
 
 # IP security recommendation
 
+security-recommendation-ip-title = Usa un VPN pro ulterior confidentialitate
+# $num_breaches is the number of breaches where the IP address was found.
+security-recommendation-ip-summary =
+    { $num_breaches ->
+        [one] Adresse adresse IP era exponite in { $num_breaches } violation de datos:
+       *[other] Tu adresse IP era exponite in { $num_breaches } violationes de datos:
+    }
+security-recommendation-ip-description = Tu adresse IP indica tu position e fornitor de servicio internet. Piratas informatic poterea usar iste informationes pro trovar tu position o tentar de connecter se a tu apparatos.
+security-recommendation-ip-step-one = Usa un VPN (tal como <link_to_info>{ -brand-mozilla-vpn }</link_to_info>) pro celar tu real adresse IP e usar internet reservatemente.
 
 # Leaked Passwords
 
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+leaked-passwords-title = Tu { $breach_name } contrasigno era exponite
+# Variables
+# $breach_date is the date when the breach occurred.
+leaked-passwords-summary = Illo appareva in un violation de datos le { $breach_date }.
+leaked-passwords-description = Fraudatores pote acceder tu conto e probabilemente tentara de usar lo sur altere contos pro vider si tu ha usate le mesme contrasigno. Cambia lo ubique tu lo ha usate pro proteger te.
 leaked-passwords-steps-title = Ecce que facer
 leaked-passwords-steps-subtitle = Isto require accesso a tu conto, assi tu debera manualmente corriger lo.
+leaked-passwords-mark-as-fixed = Marcar como remediate
 leaked-passwords-skip = Saltar pro iste momento
 
 # Leaked Security Questions
 
+leaked-security-questions-title = Tu demandas de securitate era exponite
