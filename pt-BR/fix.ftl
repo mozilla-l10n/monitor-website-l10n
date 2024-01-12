@@ -27,12 +27,14 @@ fix-flow-celebration-high-risk-description-done = Pode parecer trabalhoso, mas �
 fix-flow-celebration-high-risk-description-next-passwords = Agora vamos resolver suas senhas expostas.
 fix-flow-celebration-high-risk-description-next-security-questions = Agora vamos resolver suas perguntas de segurança expostas.
 fix-flow-celebration-high-risk-description-next-security-recommendations = A seguir, fornecemos recomendações de segurança personalizadas com base em quais dados seus foram expostos.
+fix-flow-celebration-high-risk-description-next-dashboard = Você chegou ao final das etapas. Pode ver qualquer item de ação e acompanhar o andamento no seu painel.
 
 ## Leaked passwords and security questions flow
 
 fix-flow-celebration-leaked-passwords-title = Suas senhas agora estão protegidas!
 fix-flow-celebration-security-questions-title = Suas perguntas de segurança estão protegidas!
 fix-flow-celebration-leaked-passwords-description-next-security-questions = Agora vamos revisar e alterar suas perguntas de segurança expostas.
+fix-flow-celebration-leaked-passwords-description-next-security-recommendations = A seguir, fornecemos recomendações de segurança personalizadas com base em quais dados seus foram expostos.
 
 ## Security recommendations flow
 
