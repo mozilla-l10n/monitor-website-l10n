@@ -72,15 +72,31 @@ high-risk-breach-credit-card-step-three = Check your accounts for unauthorized c
 # Bank Account Breaches
 
 high-risk-breach-bank-account-title = Your bank account was exposed
+high-risk-breach-bank-account-description = Taking action as soon as possible could give you more legal protections to help you recover any losses.
+high-risk-breach-bank-account-step-one = Notify your bank immediately that your account number has been compromised.
+high-risk-breach-bank-account-step-two = Change your account number.
+high-risk-breach-bank-account-step-three = Check your accounts for unauthorized charges.
 
 # Social Security Number Breaches
 
+high-risk-breach-social-security-title = Your social security number was exposed
+high-risk-breach-social-security-description = Scammers can open up new loans or credit cards with your social security number. Act fast to prevent financial harm.
+high-risk-breach-social-security-step-one = Protect yourself by <link_to_info>setting up a fraud alert or freezing your credit.</link_to_info>
+high-risk-breach-social-security-step-two = <link_to_info>Check your credit report</link_to_info> for unrecognized accounts.
 
 # Social Security Number Modal
 
+ssn-modal-title = About fraud alerts and credit freezes
+ssn-modal-description-fraud-part-one = <b>A fraud alert</b> requires businesses to verify your identity before it issues new credit in your name. It’s free, lasts one year, and won’t negatively affect your credit score.
+ssn-modal-description-fraud-part-two = To set one up, contact any one of the three credit bureaus. You don’t have to contact all three.
+ssn-modal-description-freeze-credit-part-one = <b>Freezing your credit</b> prevents anyone from opening a new account in your name. It’s free and won’t negatively affect your credit score, but you’ll need to unfreeze it before opening any new accounts.
+ssn-modal-description-freeze-credit-part-two = To freeze your credit, contact each of the three credit bureaus — <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link>, and <transunion_link>TransUnion</transunion_link>.
+ssn-modal-learn-more = Learn more about fraud alerts and credit freezes
+ssn-modal-ok = OK
 
 # PIN Breaches
 
+high-risk-breach-pin-title = Your PIN was exposed
 
 # No high risk breaches found
 
