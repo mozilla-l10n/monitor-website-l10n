@@ -181,7 +181,23 @@ leaked-passwords-steps-title = Ecce que facer
 leaked-passwords-steps-subtitle = Isto require accesso a tu conto, assi tu debera manualmente corriger lo.
 leaked-passwords-mark-as-fixed = Marcar como remediate
 leaked-passwords-skip = Saltar pro iste momento
+# Variables
+# $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
+# "Est." is shortform for "Estimated".
+# "mins" is shortform for "minutes".
+leaked-passwords-estimated-time =
+    { $estimated_time ->
+        [one] Tempore ext. pro completar: { $estimated_time } minuta per sito
+       *[other] Tempore ext. pro completar: { $estimated_time } minutas per sito
+    }
 
 # Leaked Security Questions
 
 leaked-security-questions-title = Tu demandas de securitate era exponite
+# Variables
+# $breach_name is the name of the breach where the leaked security questions were found.
+# $breach_date is the date when the breach occurred.
+# An example of this string is Twitter on 13/09/18.
+leaked-security-questions-summary = Illos appareva in un violation de datos sur { $breach_name } le { $breach_date }.
+leaked-security-questions-steps-title = Ecce que facer
+leaked-security-questions-steps-subtitle = Isto require accesso a tu conto, assi tu debera manualmente corriger lo.
