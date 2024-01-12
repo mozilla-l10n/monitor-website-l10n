@@ -97,6 +97,8 @@ high-risk-breach-social-security-step-two = <link_to_info>Verifique seu relatór
 ssn-modal-title = Informações sobre alertas de fraude e congelamento de crédito
 ssn-modal-description-fraud-part-one = <b>Um alerta de fraude</b> exige que empresas verifiquem sua identidade antes de emitir novos créditos em seu nome. É gratuito, dura um ano e não afeta negativamente sua pontuação de crédito.
 ssn-modal-description-fraud-part-two = Para criar um, entre em contato com qualquer uma das três agências de crédito. Você não precisa entrar em contato com todas.
+ssn-modal-description-freeze-credit-part-one = <b>Congelar seu crédito</b> impede que alguém abra uma nova conta em seu nome. É gratuito e não afeta negativamente sua pontuação de crédito, mas você precisa descongelar antes de abrir novas contas.
+ssn-modal-description-freeze-credit-part-two = Para congelar seu crédito, entre em contato com cada uma das três agências de crédito — <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> e <transunion_link>TransUnion</transunion_link>.
 ssn-modal-learn-more = Saiba mais sobre alertas de fraude e congelamento de crédito
 ssn-modal-ok = OK
 
@@ -185,6 +187,15 @@ leaked-passwords-step-one = Mude sua senha de <b>{ $emails_affected }</b> em <li
 leaked-passwords-step-two = Mude em qualquer outro lugar onde a tenha usado.
 leaked-passwords-mark-as-fixed = Marcar como resolvido
 leaked-passwords-skip = Ignorar por enquanto
+# Variables
+# $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
+# "Est." is shortform for "Estimated".
+# "mins" is shortform for "minutes".
+leaked-passwords-estimated-time =
+    { $estimated_time ->
+        [one] Tempo estimado para concluir: { $estimated_time } minuto por site
+       *[other] Tempo estimado para concluir: { $estimated_time } minutos por site
+    }
 
 # Leaked Security Questions
 
@@ -194,5 +205,11 @@ leaked-security-questions-title = Suas perguntas de segurança foram expostas
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
 leaked-security-questions-summary = Apareceram em um vazamento de dados de { $breach_name } em { $breach_date }.
+leaked-security-questions-description = Fraudadores podem usar para acessar suas contas e qualquer outro site onde você tenha usado as mesmas perguntas de segurança. Altere agora mesmo para proteger suas contas.
 leaked-security-questions-steps-title = O que fazer
 leaked-security-questions-steps-subtitle = Isso requer acesso à sua conta, então você precisa resolver manualmente.
+# Variables
+# $breach_name is the name of the breach where the security questions were found.
+# $email_affected is the email associated with the breach.
+leaked-security-questions-step-one = Altere suas perguntas de segurança de <b>{ $email_affected }</b> em <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-security-questions-step-two = Altere em qualquer outro site onde tenha usado as mesmas perguntas de segurança. Certifique-se de usar perguntas de segurança diferentes em cada conta.
