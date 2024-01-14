@@ -637,6 +637,13 @@ ad-unit-3-prevent-throttling = 스로틀링 방지
 # ad 4 heading
 ad-unit-4-shopping-with = 이메일 마스크하고 쇼핑하기
 ad-unit-4-want-to-buy = 온라인으로 무언가를 구매하고 싶은데 해당 매장을 잘 모르거나 완전히 신뢰하지 못하나요?
+ad-unit-4-shop-online = 온라인 쇼핑을 할 때마다 이메일 마스크를 사용하세요. 실제 이메일로 확인 메시지를 받은 후 나중에 언제든지 쉽게 마스킹을 끌 수 있습니다.
+# ad 5 heading
+ad-unit-5-on-the-go = { -brand-relay }와 함께하세요
+ad-unit-5-instantly-make = 어디를 가든지 즉각적으로 맞춤형 이메일 마스크를 만들어보세요!
+ad-unit-5-privately-sign-in = 좋아하는 커피숍이나 공용 Wi-Fi에 비공개로 로그인하려면 이메일 마스크를 사용하세요.
+# ad 5 subheading 2
+ad-unit-5-email-receipts = 이메일 영수증 받기
 
 # Monitor V2
 
