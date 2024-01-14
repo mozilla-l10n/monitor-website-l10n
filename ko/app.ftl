@@ -631,6 +631,12 @@ ad-unit-1-how-do-you-keep = 이메일 주소를 어떻게 비밀로 유지하시
 ad-unit-2-do-you-worry = 공용 Wi-Fi의 안전이 걱정되나요?
 # ad 3 heading
 ad-unit-3-stay-in-the-game = 우리와 계속 함께하세요!
+ad-unit-3-lets-you-keep = { -brand-mozilla-vpn } 사용 시 게임을 하거나 영화를 스트리밍하는 동안 안정적인 연결을 안전하게 유지할 수 있습니다.
+# ad 3 list item 1
+ad-unit-3-prevent-throttling = 스로틀링 방지
+# ad 4 heading
+ad-unit-4-shopping-with = 이메일 마스크하고 쇼핑하기
+ad-unit-4-want-to-buy = 온라인으로 무언가를 구매하고 싶은데 해당 매장을 잘 모르거나 완전히 신뢰하지 못하나요?
 
 # Monitor V2
 
