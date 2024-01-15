@@ -34,6 +34,7 @@ exposure-chart-returning-user-upgrade-prompt-cta = Spustiť bezplatné skenovani
 exposure-chart-scan-in-progress-prompt = <b>Prebieha skenovanie:</b> adresa bydliska, rodinní príslušníci a ďalšie položky zatiaľ nie sú zahrnuté.
 modal-active-number-of-exposures-title = O počte aktívnych odhalení
 modal-active-number-of-exposures-part-three-all = Keď budú vyriešené, budú pridané k vášmu celkovému počtu vyriešených odhalení na stránke Vyriešené.
+modal-fixed-number-of-exposures-title = O počte vyriešených odhalení
 modal-cta-ok = OK
 modal-open-alt = Otvoriť
 modal-close-alt = Zavrieť
@@ -82,6 +83,7 @@ dashboard-exposures-filter-reset = Vynulovať
 
 ## Top banner on the dashboard
 
+dashboard-top-banner-section-label = Súhrnná nástenka
 dashboard-top-banner-scan-in-progress-title = Skenovanie stále prebieha
 dashboard-top-banner-your-data-is-protected-title = Vaše údaje sú chránené
 dashboard-top-banner-your-data-is-protected-cta = Pozrite sa, čo je vyriešené
@@ -95,6 +97,7 @@ dashboard-top-banner-lets-keep-protecting-description =
         [many] Stále vám zostáva vyriešiť { $exposures_unresolved_num } odhalení. Pokračujte a chráňte sa. Prevedieme vás krok za krokom.
        *[other] Stále vám zostáva vyriešiť { $exposures_unresolved_num } odhalení. Pokračujte a chráňte sa. Prevedieme vás krok za krokom.
     }
+dashboard-top-banner-protect-your-data-title = Poďme ochrániť vaše údaje
 dashboard-top-banner-protect-your-data-cta = Poďme to napraviť
 # Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
 # Variables:
