@@ -33,7 +33,17 @@ exposure-chart-returning-user-upgrade-prompt = Adresa bydliska, rodinní príslu
 exposure-chart-returning-user-upgrade-prompt-cta = Spustiť bezplatné skenovanie
 exposure-chart-scan-in-progress-prompt = <b>Prebieha skenovanie:</b> adresa bydliska, rodinní príslušníci a ďalšie položky zatiaľ nie sú zahrnuté.
 modal-active-number-of-exposures-title = O počte aktívnych odhalení
-modal-active-number-of-exposures-part-three-all = Keď budú vyriešené, budú pridané k vášmu celkovému počtu vyriešených odhalení na stránke Vyriešené.
+# Variables:
+#   $limit (number) - Number of email addresses included in the plan
+modal-active-number-of-exposures-part-one-all =
+    { $limit ->
+        [one] Tento graf obsahuje celkový počet odhalení pre každý typ údajov v rámci všetkých únikov údajov pre { $limit } e‑mailovú adresu, ktorú momentálne monitorujete.
+        [few] Tento graf obsahuje celkový počet odhalení pre každý typ údajov v rámci všetkých únikov údajov až pre { $limit } e‑mailové adresy, ktoré momentálne monitorujete.
+        [many] Tento graf obsahuje celkový počet odhalení pre každý typ údajov v rámci všetkých únikov údajov až pre { $limit } e‑mailových adries, ktoré momentálne monitorujete.
+       *[other] Tento graf obsahuje celkový počet odhalení pre každý typ údajov v rámci všetkých únikov údajov až pre { $limit } e‑mailových adries, ktoré momentálne monitorujete.
+    }
+modal-active-number-of-exposures-part-two = Ak máte napríklad 10 kontaktov so svojím telefónnym číslom, môže to znamenať, že jedno telefónne číslo je zverejnené na 10 rôznych stránkach, alebo to môže znamenať, že na 5 rôznych stránkach boli odhalené 2 rôzne telefónne čísla.
+modal-active-number-of-exposures-part-three-all = Keď budú vyriešené, budú pridané k vášmu celkovému počtu vyriešených odhalení na podstránke Vyriešené.
 modal-fixed-number-of-exposures-title = O počte vyriešených odhalení
 modal-fixed-number-of-exposures-all = Tento graf obsahuje celkový počet únikov údajov, ktoré boli vyriešené pre všetky e‑mailové adresy, ktoré momentálne monitorujeme. Keď je niektoré odhalenie označené ako vyriešené, pripočíta sa tu k celkovému súčtu.
 modal-cta-ok = OK
@@ -121,10 +131,15 @@ dashboard-top-banner-non-us-protect-your-data-description-line2 =
        *[other] Našli sme { $data_breach_unresolved_num } odhalení vašich údajov. Prevedieme vás krokmi, pomocou ktorých vykonáte nápravu.
     }
 dashboard-top-banner-no-exposures-found-title = Neboli nájdené žiadne odhalenia
-dashboard-top-banner-non-us-no-exposures-found-description = Skvelá správa! Prehľadali sme všetky známe úniky údajov a nenašli sme žiadne odhalenia. Budeme naďalej sledovať vašu e‑mailovú adresu a upozorníme vás, ak dôjde k novému úniku.
+dashboard-top-banner-non-us-no-exposures-found-description = Skvelá správa! Prehľadali sme všetky známe úniky údajov a nenašli sme žiadne odhalenia. Naďalej budeme sledovať vašu e‑mailovú adresu a upozorníme vás, ak dôjde k novému úniku.
 dashboard-no-exposures-label = Neboli nájdené žiadne odhalenia
+dashboard-top-banner-monitor-more-cta = Monitorovať ďalšie e‑maily
 
 # About Exposure Statuses Modal
 
-modal-exposure-status-action-needed = <b>Vyžaduje sa akcia</b> znamená, že odhalenie je momentálne aktívny a musíte podniknúť kroky na jeho vyriešenie.
-modal-exposure-status-fixed = <b>Vyriešené</b> znamená, že odhalenie bolo vyriešený a nemusíte podniknúť žiadne ďalšie kroky.
+modal-exposure-status-title = O stavoch odhalení
+modal-exposure-status-description-all =
+    Hľadáme odhalenia pri všetkých známych únikov údajov.
+    Vaše odhalenia budú mať jeden z nasledujúcich stavov:
+modal-exposure-status-action-needed = <b>Vyžaduje sa akcia</b> znamená, že odhalenie je momentálne aktívne a musíte podniknúť kroky na jeho vyriešenie.
+modal-exposure-status-fixed = <b>Vyriešené</b> znamená, že odhalenie bolo vyriešené a nemusíte podniknúť žiadne ďalšie kroky.

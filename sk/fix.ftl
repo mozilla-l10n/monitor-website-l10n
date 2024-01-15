@@ -104,6 +104,7 @@ security-recommendation-phone-title = Chráňte svoje telefónne číslo
 
 # Email security recommendation
 
+security-recommendation-email-title = Chráňte svoju e-mailovú adresu
 
 # IP security recommendation
 
