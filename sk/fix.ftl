@@ -103,6 +103,16 @@ security-recommendation-steps-cta-label = Rozumiem
 # Phone security recommendation
 
 security-recommendation-phone-title = Chráňte svoje telefónne číslo
+# $num_breaches is the number of breaches where the phone number was found.
+security-recommendation-phone-summary =
+    { $num_breaches ->
+        [one] Vaše telefónne číslo bolo odhalené pri { $num_breaches } úniku údajov:
+        [few] Vaše telefónne číslo bolo odhalené pri { $num_breaches } únikoch údajov:
+        [many] Vaše telefónne číslo bolo odhalené pri { $num_breaches } únikoch údajov:
+       *[other] Vaše telefónne číslo bolo odhalené pri { $num_breaches } únikoch údajov:
+    }
+security-recommendation-phone-description = Bohužiaľ toto nie je možné vyriešiť. Existujú však kroky, ktoré môžete podniknúť, aby ste zostali v bezpečí.
+security-recommendation-phone-step-one = Blokujte spamovacie čísla, aby ste zabránili ďalším nevyžiadaným hovorom
 
 # Email security recommendation
 
