@@ -35,6 +35,7 @@ exposure-chart-scan-in-progress-prompt = <b>Prebieha skenovanie:</b> adresa bydl
 modal-active-number-of-exposures-title = O počte aktívnych odhalení
 modal-active-number-of-exposures-part-three-all = Keď budú vyriešené, budú pridané k vášmu celkovému počtu vyriešených odhalení na stránke Vyriešené.
 modal-fixed-number-of-exposures-title = O počte vyriešených odhalení
+modal-fixed-number-of-exposures-all = Tento graf obsahuje celkový počet únikov údajov, ktoré boli vyriešené pre všetky e‑mailové adresy, ktoré momentálne monitorujeme. Keď je niektoré odhalenie označené ako vyriešené, pripočíta sa tu k celkovému súčtu.
 modal-cta-ok = OK
 modal-open-alt = Otvoriť
 modal-close-alt = Zavrieť
