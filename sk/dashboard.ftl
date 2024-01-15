@@ -28,7 +28,7 @@ exposure-chart-caption = Tento graf ukazuje, koľkokrát sú vaše informácie a
 # Variables:
 #   $total_fixed_exposures_num (number) - Number of fixed exposures
 #   $total_exposures_num (number) - Number of total exposures
-exposure-chart-caption-fixed = Tento graf zobrazuje celkový odhalení, ktoré sú opravené ({ $total_fixed_exposures_num } z { $total_exposures_num })
+exposure-chart-caption-fixed = Tento graf zobrazuje celkový počet odhalení, ktoré boli vyriešené ({ $total_fixed_exposures_num } z { $total_exposures_num })
 exposure-chart-returning-user-upgrade-prompt = Adresa bydliska, rodinní príslušníci a ďalšie položky zatiaľ nie sú zahrnuté.
 exposure-chart-returning-user-upgrade-prompt-cta = Spustiť bezplatné skenovanie
 exposure-chart-scan-in-progress-prompt = <b>Prebieha skenovanie:</b> adresa bydliska, rodinní príslušníci a ďalšie položky zatiaľ nie sú zahrnuté.
