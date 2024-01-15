@@ -97,7 +97,7 @@ dashboard-exposures-filter-reset = Vynulovať
 dashboard-top-banner-section-label = Súhrnná nástenka
 dashboard-top-banner-scan-in-progress-title = Skenovanie stále prebieha
 dashboard-top-banner-your-data-is-protected-title = Vaše údaje sú chránené
-dashboard-top-banner-your-data-is-protected-cta = Pozrite sa, čo je vyriešené
+dashboard-top-banner-your-data-is-protected-cta = Pozrite sa, čo všetko je vyriešené
 dashboard-top-banner-lets-keep-protecting-title = Poďme ochrániť vaše údaje
 # Variables:
 # $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
@@ -133,6 +133,15 @@ dashboard-top-banner-non-us-protect-your-data-description-line2 =
 dashboard-top-banner-no-exposures-found-title = Neboli nájdené žiadne odhalenia
 dashboard-top-banner-non-us-no-exposures-found-description = Skvelá správa! Prehľadali sme všetky známe úniky údajov a nenašli sme žiadne odhalenia. Naďalej budeme sledovať vašu e‑mailovú adresu a upozorníme vás, ak dôjde k novému úniku.
 dashboard-no-exposures-label = Neboli nájdené žiadne odhalenia
+# Variables:
+# $exposures_resolved_num is the number of exposures the user has resolved.
+dashboard-top-banner-non-us-your-data-is-protected-description =
+    { $exposures_resolved_num ->
+        [one] Skvelá práca, odhalenie vašich údajov je vyriešené! Budeme pokračovať v monitorovaní a upozorníme vás na akékoľvek nové odhalenia.
+        [few] Skvelá práca, všetky odhalenia vašich údajov (celkom { $exposures_resolved_num }) sú vyriešené! Budeme pokračovať v monitorovaní a upozorníme vás na akékoľvek nové odhalenia.
+        [many] Skvelá práca, všetkých { $exposures_resolved_num } odhalení vašich údajov je vyriešených! Budeme pokračovať v monitorovaní a upozorníme vás na akékoľvek nové odhalenia.
+       *[other] Skvelá práca, všetkých { $exposures_resolved_num } odhalení vašich údajov je vyriešených! Budeme pokračovať v monitorovaní a upozorníme vás na akékoľvek nové odhalenia.
+    }
 dashboard-top-banner-monitor-more-cta = Monitorovať ďalšie e‑maily
 
 # About Exposure Statuses Modal
