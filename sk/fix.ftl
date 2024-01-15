@@ -44,7 +44,7 @@ fix-flow-celebration-security-recommendations-description-next-dashboard = Veľm
 
 # High Risk Data Breaches
 
-high-risk-breach-heading = Tu je to, čo je potrebné urobiť
+high-risk-breach-heading = Toto je potrebné urobiť
 high-risk-breach-subheading = Vyžaduje si to prístup k vašim citlivým informáciám, takže ich budete musieť vyriešiť manuálne.
 # Variables
 # $num_breaches is the number of breaches where the high risk data was found.
@@ -177,11 +177,40 @@ leaked-passwords-title = Vaše heslo pre { $breach_name } bolo odhalené
 # $breach_date is the date when the breach occurred.
 leaked-passwords-summary = Objavilo sa pri úniku údajov dňa { $breach_date }.
 leaked-passwords-description = Podvodníci ho môžu použiť na prístup k vášmu účtu a pravdepodobne sa ho pokúsia použiť aj na iných účtoch, aby zistili, či ste nepoužili rovnaké heslo. Heslo zmeňte všade, kde ste ho používali.
-leaked-passwords-steps-title = Tu je to, čo je potrebné urobiť
+leaked-passwords-steps-title = Toto je potrebné urobiť
+leaked-passwords-steps-subtitle = Toto si vyžaduje prístup k vášmu účtu, takže to budete musieť vyriešiť manuálne.
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+# $emails_affected are the emails associated with the breach.
+leaked-passwords-step-one = Zmeňte si heslo pre účet <b>{ $emails_affected }</b> na stránkach <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-passwords-step-two = Zmeňte ho aj kdekoľvek inde, kde ste ho používali.
 leaked-passwords-mark-as-fixed = Označiť ako vyriešené
 leaked-passwords-skip = Teraz preskočiť
+# Variables
+# $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
+# "Est." is shortform for "Estimated".
+# "mins" is shortform for "minutes".
+leaked-passwords-estimated-time =
+    { $estimated_time ->
+        [one] Odhadovaný čas na dokončenie: { $estimated_time } minúta na stránku
+        [few] Odhadovaný čas na dokončenie: { $estimated_time } minúty na stránku
+        [many] Odhadovaný čas na dokončenie: { $estimated_time } minút na stránku
+       *[other] Odhadovaný čas na dokončenie: { $estimated_time } minút na stránku
+    }
 
 # Leaked Security Questions
 
-leaked-security-questions-steps-title = Tu je to, čo je potrebné urobiť
-leaked-security-questions-steps-subtitle = Vyžaduje si to prístup k vášmu účtu, takže ich budete musieť vyriešiť manuálne.
+leaked-security-questions-title = Vaše bezpečnostné otázky boli odhalené
+# Variables
+# $breach_name is the name of the breach where the leaked security questions were found.
+# $breach_date is the date when the breach occurred.
+# An example of this string is Twitter on 13/09/18.
+leaked-security-questions-summary = Objavili sa pri úniku údajov stránky { $breach_name } dňa { $breach_date }.
+leaked-security-questions-description = Podvodníci ich môžu použiť na prístup k vašim účtom a iným stránkam, na ktorých ste použili rovnaké bezpečnostné otázky. Aktualizujte ich teraz, aby ste ochránili svoje účty.
+leaked-security-questions-steps-title = Toto je potrebné urobiť
+leaked-security-questions-steps-subtitle = Toto si vyžaduje prístup k vášmu účtu, takže to budete musieť vyriešiť manuálne.
+# Variables
+# $breach_name is the name of the breach where the security questions were found.
+# $email_affected is the email associated with the breach.
+leaked-security-questions-step-one = Aktualizujte svoje bezpečnostné otázky pre <b>{ $email_affected }</b> na stránkach <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-security-questions-step-two = Aktualizujte ich na akejkoľvek inej stránke, kde ste použili rovnaké bezpečnostné otázky. Pre každý účet použite iné bezpečnostné otázky.
