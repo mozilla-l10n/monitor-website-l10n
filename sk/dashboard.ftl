@@ -111,10 +111,10 @@ dashboard-top-banner-non-us-protect-your-data-description-line1 =
 #   $data_breach_unresolved_num (number) - the total number of data breaches the user has.
 dashboard-top-banner-non-us-protect-your-data-description-line2 =
     { $data_breach_unresolved_num ->
-        [one] Našli sme { $exposures_unresolved_num } odhalenie vašich údajov. Prevedieme vás krokmi, pomocou ktorých vykonáte nápravu.
-        [few] Našli sme { $exposures_unresolved_num } odhalenia vašich údajov. Prevedieme vás krokmi, pomocou ktorých vykonáte nápravu.
-        [many] Našli sme { $exposures_unresolved_num } odhalení vašich údajov. Prevedieme vás krokmi, pomocou ktorých vykonáte nápravu.
-       *[other] Našli sme { $exposures_unresolved_num } odhalení vašich údajov. Prevedieme vás krokmi, pomocou ktorých vykonáte nápravu.
+        [one] Našli sme { $data_breach_unresolved_num } odhalenie vašich údajov. Prevedieme vás krokmi, pomocou ktorých vykonáte nápravu.
+        [few] Našli sme { $data_breach_unresolved_num } odhalenia vašich údajov. Prevedieme vás krokmi, pomocou ktorých vykonáte nápravu.
+        [many] Našli sme { $data_breach_unresolved_num } odhalení vašich údajov. Prevedieme vás krokmi, pomocou ktorých vykonáte nápravu.
+       *[other] Našli sme { $data_breach_unresolved_num } odhalení vašich údajov. Prevedieme vás krokmi, pomocou ktorých vykonáte nápravu.
     }
 dashboard-top-banner-no-exposures-found-title = Neboli nájdené žiadne odhalenia
 dashboard-top-banner-non-us-no-exposures-found-description = Skvelá správa! Prehľadali sme všetky známe úniky údajov a nenašli sme žiadne odhalenia. Budeme naďalej sledovať vašu e‑mailovú adresu a upozorníme vás, ak dôjde k novému úniku.
