@@ -22,13 +22,20 @@ fix-flow-celebration-next-dashboard-label = Prejsť na moju Nástenku
 ## High-risk flow
 
 fix-flow-celebration-high-risk-title = Vyriešili ste svoje vysoko rizikové úniky!
+fix-flow-celebration-high-risk-description-in-progress = Vykonávať tieto kroky môže znieť ako veľa práce, ale je dôležité, aby ste ich robili a zostali v bezpečí. Pokračujte v dobrej práci.
+fix-flow-celebration-high-risk-description-done = Vykonávať tieto kroky môže znieť ako veľa práce, ale je dôležité, aby ste ich robili a zostali v bezpečí.
 fix-flow-celebration-high-risk-description-next-passwords = Teraz poďme vyriešiť vaše odhalené heslá.
 fix-flow-celebration-high-risk-description-next-security-questions = Teraz poďme vyriešiť vaše odhalené bezpečnostné otázky.
+fix-flow-celebration-high-risk-description-next-security-recommendations = Ďalej vám poskytneme prispôsobené bezpečnostné odporúčania na základe toho, aké vaše údaje boli odhalené.
+fix-flow-celebration-high-risk-description-next-dashboard = Dosiahli ste posledný z vašich krokov. Na nástenke si môžete pozrieť všetky položky, vykonať akcie a sledovať svoj pokrok.
 
 ## Leaked passwords and security questions flow
 
 fix-flow-celebration-leaked-passwords-title = Vaše heslá sú teraz chránené!
 fix-flow-celebration-security-questions-title = Vaše bezpečnostné otázky sú chránené!
+fix-flow-celebration-leaked-passwords-description-next-security-questions = Teraz poďme skontrolovať a aktualizovať vaše odhalené bezpečnostné otázky.
+fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Ďalej vám poskytneme prispôsobené bezpečnostné odporúčania na základe toho, aké vaše údaje boli odhalené.
+fix-flow-celebration-leaked-passwords-description-next-dashboard = Veľmi dobré! Dosiahli ste posledný z vašich krokov. Na nástenke si môžete pozrieť všetky položky, vykonať akcie a sledovať svoj pokrok.
 
 ## Security recommendations flow
 
@@ -60,10 +67,10 @@ high-risk-breach-skip = Teraz preskočiť
 # An example of this string is Your estimated time: 15+ minutes.
 high-risk-breach-estimated-time =
     { $estimated_time ->
-        [one] Váš odhadovaný čas: viac ako { $estimated_time } minúta
-        [few] Váš odhadovaný čas: viac ako { $estimated_time } minúty
-        [many] Váš odhadovaný čas: viac ako { $estimated_time } minút
-       *[other] Váš odhadovaný čas: viac ako { $estimated_time } minút
+        [one] Odhadovaný čas: viac ako { $estimated_time } minúta
+        [few] Odhadovaný čas: viac ako { $estimated_time } minúty
+        [many] Odhadovaný čas: viac ako { $estimated_time } minút
+       *[other] Odhadovaný čas: viac ako { $estimated_time } minút
     }
 
 # Credit Card Breaches
@@ -96,6 +103,10 @@ ssn-modal-ok = OK
 # PIN Breaches
 
 high-risk-breach-pin-title = Váš PIN bol odhalený
+high-risk-breach-pin-description = Ak podniknete kroky čo najskôr, môžete získať viac právnej ochrany, ktorá vám pomôže získať späť akékoľvek straty.
+high-risk-breach-pin-step-one = Okamžite informujte svoju banku, že váš kód PIN bol prezradený.
+high-risk-breach-pin-step-two = Zmeňte svoj PIN kdekoľvek, kde ste použili rovnaký.
+high-risk-breach-pin-step-three = Skontrolujte svoje účty, či nemáte neoprávnené pohyby.
 
 # No high risk breaches found
 
@@ -159,6 +170,13 @@ security-recommendation-ip-step-one = Použite sieť VPN (napríklad <link_to_in
 
 # Leaked Passwords
 
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+leaked-passwords-title = Vaše heslo pre { $breach_name } bolo odhalené
+# Variables
+# $breach_date is the date when the breach occurred.
+leaked-passwords-summary = Objavilo sa pri úniku údajov dňa { $breach_date }.
+leaked-passwords-description = Podvodníci ho môžu použiť na prístup k vášmu účtu a pravdepodobne sa ho pokúsia použiť aj na iných účtoch, aby zistili, či ste nepoužili rovnaké heslo. Heslo zmeňte všade, kde ste ho používali.
 leaked-passwords-steps-title = Tu je to, čo je potrebné urobiť
 leaked-passwords-mark-as-fixed = Označiť ako vyriešené
 leaked-passwords-skip = Teraz preskočiť
