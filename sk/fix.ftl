@@ -139,7 +139,7 @@ security-recommendation-phone-step-two = Neklikajte na odkazy v SMS správach od
 
 # Email security recommendation
 
-security-recommendation-email-title = Chráňte svoju e-mailovú adresu
+security-recommendation-email-title = Chráňte svoju e‑mailovú adresu
 # $num_breaches is the number of breaches where the email address was found.
 security-recommendation-email-summary =
     { $num_breaches ->
@@ -149,7 +149,7 @@ security-recommendation-email-summary =
        *[other] Vaša e‑mailová adresa bola odhalená pri { $num_breaches } únikoch údajov:
     }
 security-recommendation-email-description = Bohužiaľ toto nie je možné vyriešiť. Existujú však kroky, ktorými sa môžete chrániť.
-security-recommendation-email-step-one = Neklikajte na odkazy v e-mailoch od neznámych odosielateľov; ak sa zdá, že odkaz pochádza z dôveryhodného zdroja, zavolajte mu a potvrďte ho
+security-recommendation-email-step-one = Neklikajte na odkazy v e‑mailoch od neznámych odosielateľov; ak sa zdá, že odkaz pochádza z dôveryhodného zdroja, zavolajte mu a potvrďte ho
 security-recommendation-email-step-two = Pozrite si informácie o <link_to_info>phishingových podvodoch</link_to_info>
 security-recommendation-email-step-three = Označte podozrivé e‑maily ako nevyžiadané a zablokujte odosielateľa
 security-recommendation-email-step-four = V budúcnosti použite <link_to_info>e‑mailové masky služby { -brand-relay }</link_to_info> na ochranu vašej skutočnej e‑mailovej adresy
