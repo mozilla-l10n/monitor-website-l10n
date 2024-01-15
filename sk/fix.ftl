@@ -40,6 +40,15 @@ fix-flow-celebration-security-recommendations-description-next-dashboard = Veľm
 high-risk-breach-heading = Tu je to, čo je potrebné urobiť
 high-risk-breach-subheading = Vyžaduje si to prístup k vašim citlivým informáciám, takže ich budete musieť vyriešiť manuálne.
 # Variables
+# $num_breaches is the number of breaches where the high risk data was found.
+high-risk-breach-summary =
+    { $num_breaches ->
+        [one] Objavilo sa v { $num_breaches } úniku údajov:
+        [few] Objavilo sa v { $num_breaches } únikoch údajov:
+        [many] Objavilo sa v { $num_breaches } únikoch údajov:
+       *[other] Objavilo sa v { $num_breaches } únikoch údajov:
+    }
+# Variables
 # $breach_name is the name of the breach where the high risk data was found.
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
@@ -77,6 +86,8 @@ high-risk-breach-bank-account-step-three = Skontrolujte svoje účty, či nemát
 
 high-risk-breach-social-security-title = Vaše číslo sociálneho zabezpečenia bolo odhalené
 high-risk-breach-social-security-description = Podvodníci si môžu otvoriť nové pôžičky alebo kreditné karty s vaším číslom sociálneho zabezpečenia. Konajte rýchlo, aby ste predišli finančným škodám.
+high-risk-breach-social-security-step-one = Chráňte sa <link_to_info>nastavením upozornenia na podvod alebo zablokovaním kreditnej karty</link_to_info>.
+high-risk-breach-social-security-step-two = <link_to_info>Skontrolujte si pohyby na kreditnej karte</link_to_info>, či sa tam nenachádzajú neznáme platby.
 
 # Social Security Number Modal
 
