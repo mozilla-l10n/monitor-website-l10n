@@ -15,6 +15,7 @@ guided-resolution-flow-step-navigation-label = Kroky sprievodcu
 
 ## Shared CTA labels
 
+fix-flow-celebration-next-label = Poďme chrániť naďalej
 fix-flow-celebration-next-recommendations-label = Pozrite si odporúčania
 fix-flow-celebration-next-dashboard-label = Prejsť na moju Nástenku
 
@@ -32,6 +33,7 @@ fix-flow-celebration-security-questions-title = Vaše bezpečnostné otázky sú
 ## Security recommendations flow
 
 fix-flow-celebration-security-recommendations-title = Dokončili ste všetky naše odporúčania!
+fix-flow-celebration-security-recommendations-description-next-dashboard = Veľmi dobré! Dosiahli ste posledný z vašich krokov. Na nástenke si môžete pozrieť všetky položky, vykonať akcie a sledovať svoj pokrok.
 
 # High Risk Data Breaches
 
@@ -121,6 +123,17 @@ security-recommendation-email-step-four = V budúcnosti použite <link_to_info>e
 
 # IP security recommendation
 
+security-recommendation-ip-title = Väčšie súkromie získate použitím VPN
+# $num_breaches is the number of breaches where the IP address was found.
+security-recommendation-ip-summary =
+    { $num_breaches ->
+        [one] Vaša IP adresa bola odhalená pri { $num_breaches } úniku údajov:
+        [few] Vaša IP adresa bola odhalená pri { $num_breaches } únikoch údajov:
+        [many] Vaša IP adresa bola odhalená pri { $num_breaches } únikoch údajov:
+       *[other] Vaša IP adresa bola odhalená pri { $num_breaches } únikoch údajov:
+    }
+security-recommendation-ip-description = Vaša IP adresa presne určuje vašu polohu a poskytovateľa internetových služieb. Hackeri môžu tieto informácie použiť na nájdenie vašej polohy alebo na pokus o pripojenie k vašim zariadeniam.
+security-recommendation-ip-step-one = Použite sieť VPN (napríklad <link_to_info>{ -brand-mozilla-vpn }</link_to_info>), aby ste skryli svoju skutočnú IP adresu a používali internet súkromne.
 
 # Leaked Passwords
 

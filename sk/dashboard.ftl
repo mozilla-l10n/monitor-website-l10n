@@ -108,6 +108,7 @@ dashboard-top-banner-lets-keep-protecting-description =
         [many] Stále vám zostáva vyriešiť { $exposures_unresolved_num } odhalení. Pokračujte a chráňte sa. Prevedieme vás krok za krokom.
        *[other] Stále vám zostáva vyriešiť { $exposures_unresolved_num } odhalení. Pokračujte a chráňte sa. Prevedieme vás krok za krokom.
     }
+dashboard-top-banner-lets-keep-protecting-cta = Poďme chrániť naďalej
 dashboard-top-banner-protect-your-data-title = Poďme ochrániť vaše údaje
 dashboard-top-banner-protect-your-data-cta = Poďme to napraviť
 # Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
