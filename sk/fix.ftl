@@ -113,6 +113,7 @@ security-recommendation-phone-summary =
     }
 security-recommendation-phone-description = Bohužiaľ toto nie je možné vyriešiť. Existujú však kroky, ktoré môžete podniknúť, aby ste zostali v bezpečí.
 security-recommendation-phone-step-one = Blokujte spamovacie čísla, aby ste zabránili ďalším nevyžiadaným hovorom
+security-recommendation-phone-step-two = Neklikajte na odkazy v SMS správach od neznámych odosielateľov. Ak sa vám zdá, že správa pochádza z dôveryhodného zdroja, zavolajte mu a potvrďte ju
 
 # Email security recommendation
 
