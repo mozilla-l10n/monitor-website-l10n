@@ -25,8 +25,8 @@ exposure-chart-legend-heading-type = l’exposition ;
 exposure-chart-legend-heading-nr = Nombre
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
-exposure-chart-legend-value-nr = × { $nr }×
-exposure-chart-caption = Ce graphique montre combien de fois vos informations sont activement exposées.
+exposure-chart-legend-value-nr = { $nr }×
+exposure-chart-caption = Ce graphique montre combien de fois vos informations sont activement révélées.
 # Variables:
 #   $total_fixed_exposures_num (number) - Number of fixed exposures
 #   $total_exposures_num (number) - Number of total exposures
