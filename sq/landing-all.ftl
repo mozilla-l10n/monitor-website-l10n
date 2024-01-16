@@ -41,10 +41,19 @@ landing-all-social-proof-title =
     { $num_users ->
        *[other] Besuar nga { $num_users } milionë vetë anembanë botës
     }
+# Variables
+# $num_countries is the number of countries available.
+landing-all-social-proof-description =
+    { $num_countries ->
+       *[other] Që nga 2018-a, kemi ndihmuar njerëz në { $num_countries } vende të mbrojnë të dhënat e tyre, kur këto janë ekspozuar.
+    }
 landing-all-social-proof-press = Siç është parë në
 
 # Here's How We Help
 
+landing-all-help-protect-you = Ja se si ndihmojmë të mbroheni
+landing-all-help-protect-you-description = Besojmë në të drejtën tuaj për privatësi, ndaj mbrojtja me mbikëqyrje cenimesh të dhënash është përherë falas.
+landing-all-help-protect-you-feature-one = Do të kontrollojmë për ju në krejt cenimet e ditura të të dhënave
 landing-all-help-protect-you-cta = Regjistrohuni për sinjalizime rreth cenimesh
 landing-all-get-started = Që t’ia filloni, skanoni email-in tuaj
 landing-all-take-back-data = Rimerrni kontrollin e të dhënave tuaja
