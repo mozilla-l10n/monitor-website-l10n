@@ -46,14 +46,39 @@ fix-flow-celebration-security-recommendations-description-next-dashboard = Bukur
 
 high-risk-breach-heading = Ja ç’të bëni
 high-risk-breach-subheading = Kjo lyp hyrje te hollësi tuajat rezervat, ndaj do të duhet ta ndreqni dorazi ju vetë këtë.
+# Variables
+# $num_breaches is the number of breaches where the high risk data was found.
+high-risk-breach-summary =
+    { $num_breaches ->
+        [one] U shfaq në { $num_breaches } cenim të dhënash:
+       *[other] U shfaq në { $num_breaches } cenime të dhënash:
+    }
+# Variables
+# $breach_name is the name of the breach where the high risk data was found.
+# $breach_date is the date when the breach occurred.
+# An example of this string is Twitter on 13/09/18.
+high-risk-breach-name-and-date = { $breach_name } <breach_date>më { $breach_date }</breach_date>
 high-risk-breach-mark-as-fixed = Vëri shenjë si të ndrequr
 high-risk-breach-skip = Hëpërhë anashkaloje
+# Variables:
+# $estimated_time is the estimated time it would take for a user to complete breach resolution steps. It not be singular, and the + is meant as "or more".
+# An example of this string is Your estimated time: 15+ minutes.
+high-risk-breach-estimated-time =
+    { $estimated_time ->
+       *[other] Kohë afërsisht për ju: { $estimated_time }+ minuta
+    }
 
 # Credit Card Breaches
 
+high-risk-breach-credit-card-title = Qe ekspozuar numri i kartës tuaj të kreditit
+high-risk-breach-credit-card-description = Cilido që e shtie në dorë, mund të bëjë blerje të paautorizuara, për të cilat përgjegjësinë e mbani ju. Veproni që tani, për të parandaluar dëmtim financiar.
+high-risk-breach-credit-card-step-one = Nëse e keni ende këtë kartë, lidhuni me emetuesin për ta njoftuar se është vjedhur.
+high-risk-breach-credit-card-step-two = Kërkoni një kartë të re, me një numër të ri.
+high-risk-breach-credit-card-step-three = Kontrolloni llogaritë tuaja për veprime të paautorizuara.
 
 # Bank Account Breaches
 
+high-risk-breach-bank-account-title = Qe ekspozuar llogaria juaj bankare
 high-risk-breach-bank-account-step-one = Njoftojeni menjëherë bankën tuaj se numri i llogarisë tuaj është komprometuar.
 high-risk-breach-bank-account-step-two = Ndryshoni numrin e llogarisë tuaj.
 high-risk-breach-bank-account-step-three = Kontrolloni llogaritë tuaja për veprime të paautorizuara.
