@@ -51,6 +51,14 @@ dashboard-tab-label-action-needed = Action necessari
 dashboard-tab-label-fixed = Remediate
 dashboard-exposures-all-fixed-label = Toto remediate ci!
 dashboard-exposures-area-headline = Vide tote le sitos ubi tu info es exponite
+# Note: this line precedes dashboard-exposures-area-description-all-line2.
+# Variables:
+#   $exposures_unresolved_num (number) - the unresolved number of exposures the user has.
+dashboard-exposures-area-description-all-line1 =
+    { $exposures_unresolved_num ->
+        [one] Nos trovava { $exposures_unresolved_num } exposition de tu datos.
+       *[other] Nos trovava { $exposures_unresolved_num } expositiones de tu datos.
+    }
 # Note: this line follows dashboard-exposures-area-description-all-line1.
 # Variables:
 #   $data_breach_unresolved_num (number) - the unresolved number of data breaches the user has.
