@@ -120,6 +120,20 @@ dashboard-top-banner-non-us-protect-your-data-description-line2 =
 dashboard-top-banner-no-exposures-found-title = S’u gjetën ekspozime
 dashboard-top-banner-non-us-no-exposures-found-description = Lajme të mbara! Kërkuam në krejt cenimet e ditura të të dhënave dhe s’gjetëm ekspozim. Do të vazhdojmë të mbikëqyrim adresën tuaj email dhe t’ju sinjalizojmë kur të ketë cenime të reja.
 dashboard-no-exposures-label = S’u gjetën ekspozime
+# Variables:
+# $exposures_resolved_num is the number of exposures the user has resolved.
+dashboard-top-banner-non-us-your-data-is-protected-description =
+    { $exposures_resolved_num ->
+        [one] Punë e mbarë, ekspozimi të dhënave tuaja u ndreq! Do të vazhdojmë të mbikëqyrim dhe t’ju sinjalizojmë për çdo ekspozim të ri.
+       *[other] Punë e mbarë, krejt { $exposures_resolved_num } ekspozimet e të dhënave tuaja u ndreqën! Do të vazhdojmë të mbikëqyrim dhe t’ju sinjalizojmë për çdo ekspozim të ri.
+    }
+dashboard-top-banner-monitor-more-cta = Mbikëqyrni më tepër email-e
 
 # About Exposure Statuses Modal
 
+modal-exposure-status-title = Rreth gjendjesh ekspozimi
+modal-exposure-status-description-all =
+    Kërkojmë për ekspozime në krejt cenimet e ditura të të dhënave.
+    Ekspozimet tuaja do të kenë një nga gjendjet vijuese:
+modal-exposure-status-action-needed = <b>Lyp veprim</b> që do të thotë është aktualisht aktive dhe duhet të ndërmerrni hapa për ta ndrequr.
+modal-exposure-status-fixed = <b>Ndrequr</b> do të thotë se ekspozimi është zgjidhur dhe s’ka ndonjë veprim të duhet ta bëni.
