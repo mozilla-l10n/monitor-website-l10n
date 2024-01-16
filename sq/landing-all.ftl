@@ -3,13 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 public-nav-name = { -brand-mozilla-monitor }
+landing-all-hero-title = Gjeni se ku është ekspozuar informacion i juaji privat — dhe rifitojeni
+landing-all-hero-lead = Ne kontrollojmë cenime të dhënash për të parë nëse të dhënat tuaja kanë rrjedhur dhe ju japim hapa për ta zgjidhur çështjen.
 landing-all-hero-emailform-input-placeholder = emrijuaj@example.com
+landing-all-hero-emailform-input-label = Jepni adresën tuaj email, për të kontrolluar për ekspozime në cenime të dhënash.
+landing-all-hero-emailform-submit-label = Përfitoni kontroll falas
 # This is a label underneath a big number "14" - it's an image that demos Monitor.
 landing-all-hero-image-chart-label = ekspozime
 
 # Value Proposition
 
 landing-all-value-prop-fix-exposures = Do t’ju ndihmojmë të ndreqni ekspozimet tuaja
+landing-all-value-prop-fix-exposures-description = Misioni ynë është të rikthejmë në duart tuaja kontrollin e të dhënave tuaja personale. Do t’ju ndihmojmë të zgjidhni cenime të dhënash dhe të mbani privat informacionin tuaj — dhe do të <privacy_link>respektojmë privatësinë tuaj</privacy_link>, gjatë procesit.
 landing-all-value-prop-info-at-risk = Ç’informacione mund të rrezikohen?
 
 # Quote

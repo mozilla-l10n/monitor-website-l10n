@@ -781,5 +781,6 @@ floating-banner-dismiss-button-label = Jo, faleminderit
 
 ## Firefox Monitor -> Mozilla Monitor rebrand banner
 
+banner-monitor-rebrand-text = <b>{ -brand-mozilla-monitor }</b>: Emër, pamje dhe më tepër rrugë të reja për <b> të pretenduar privatësinë tuaj</b>.
 banner-monitor-rebrand-dismiss-button-label = OK
 banner-monitor-rebrand-dismiss-button-tooltip = Hidhe tej

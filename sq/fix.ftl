@@ -109,6 +109,9 @@ high-risk-breach-pin-step-three = Kontrolloni llogaritë tuaja për veprime të 
 # No high risk breaches found
 
 high-risk-breach-none-title = Lajme të mbara, s’gjetëm ndonjë cenim të dhënash me rrezik të madh
+# Variables
+# $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
+high-risk-breach-none-description = Pikasim cenime të dhënash bazuar në adresën tuaj email dhe s’gjetëm ndonjë cenim të dhënash me rrezik të madh për { $email_list }.
 high-risk-breach-none-sub-description-part-one = Në cenime të dhënash me rrezik të madh përfshihen
 high-risk-breach-none-sub-description-ssn = Numër sigurimesh shoqërore
 high-risk-breach-none-sub-description-bank-account = Hollësi llogarie bankare
@@ -164,6 +167,12 @@ security-recommendation-ip-step-one = Përdorni një VPN (b.f., <link_to_info>{ 
 
 # Leaked Passwords
 
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+leaked-passwords-title = Fjalëkalimi juaj { $breach_name } qe ekspozuar
+# Variables
+# $breach_date is the date when the breach occurred.
+leaked-passwords-summary = U shfaq në një cenim të dhënash më { $breach_date }.
 leaked-passwords-steps-title = Ja ç’të bëni
 leaked-passwords-steps-subtitle = Kjo lyp hyrje te llogaria juaj, ndaj do të duhet ta ndreqni dorazi ju vetë këtë.
 # Variables
@@ -173,6 +182,14 @@ leaked-passwords-step-one = Ndryshoni fjalëkalimin tuaj për <b>{ $emails_affec
 leaked-passwords-step-two = Ndryshojeni kudo ku e keni përdorur.
 leaked-passwords-mark-as-fixed = Vëri shenjë si të ndrequr
 leaked-passwords-skip = Hëpërhë anashkaloje
+# Variables
+# $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
+# "Est." is shortform for "Estimated".
+# "mins" is shortform for "minutes".
+leaked-passwords-estimated-time =
+    { $estimated_time ->
+       *[other] Kohë kryerje afërsisht: { $estimated_time } minuta për sajt
+    }
 
 # Leaked Security Questions
 
@@ -188,3 +205,4 @@ leaked-security-questions-steps-subtitle = Kjo lyp hyrje te llogaria juaj, ndaj 
 # $breach_name is the name of the breach where the security questions were found.
 # $email_affected is the email associated with the breach.
 leaked-security-questions-step-one = Përditësoni pyetjet tuaja të sigurisë për <b>{ $emails_affected }</b> te <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-security-questions-step-two = Përditësojini në çfarëdo sajti tjetër ku keni përdorur të njëjtat pyetje sigurie. Mos harroni të përdorni pyetje të ndryshme sigurie për çdo llogari.
