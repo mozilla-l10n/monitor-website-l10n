@@ -77,21 +77,51 @@ high-risk-breach-pin-step-three = Kontrolloni llogaritë tuaja për veprime të 
 
 high-risk-breach-none-sub-description-ssn = Numër sigurimesh shoqërore
 high-risk-breach-none-sub-description-bank-account = Hollësi llogarie bankare
+high-risk-breach-none-sub-description-cc-number = Numra kartash krediti
+high-risk-breach-none-sub-description-pin = PIN-e
+high-risk-breach-none-continue = Vazhdoni
 
 # Security recommendations
 
+security-recommendation-steps-label = Rekomandime sigurie
+security-recommendation-steps-title = Ja këshilla jonë:
+security-recommendation-steps-cta-label = E mora vesh!
 
 # Phone security recommendation
 
+security-recommendation-phone-title = Mbroni numrin tuaj të telefonit
 
 # Email security recommendation
 
+security-recommendation-email-title = Mbroni adresën tuaj email
 
 # IP security recommendation
 
+security-recommendation-ip-title = Përdorni një VPN, për më tepër privatësi
 
 # Leaked Passwords
 
+leaked-passwords-steps-title = Ja ç’të bëni
+leaked-passwords-steps-subtitle = Kjo lyp hyrje te llogaria juaj, ndaj do të duhet ta ndreqni dorazi ju vetë këtë.
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+# $emails_affected are the emails associated with the breach.
+leaked-passwords-step-one = Ndryshoni fjalëkalimin tuaj për <b>{ $emails_affected }</b> te <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-passwords-step-two = Ndryshojeni kudo ku e keni përdorur.
+leaked-passwords-mark-as-fixed = Vëri shenjë si të ndrequr
+leaked-passwords-skip = Hëpërhë anashkaloje
 
 # Leaked Security Questions
 
+leaked-security-questions-title = Pyetjet tuaja të sigurisë qenë ekspozuar
+# Variables
+# $breach_name is the name of the breach where the leaked security questions were found.
+# $breach_date is the date when the breach occurred.
+# An example of this string is Twitter on 13/09/18.
+leaked-security-questions-summary = U shfaqën në një cenim të dhënash te { $breach_name } më { $breach_date }.
+leaked-security-questions-steps-title = Ja ç’të bëni
+leaked-security-questions-steps-subtitle = Kjo lyp hyrje te llogaria juaj, ndaj do të duhet ta ndreqni dorazi ju vetë këtë.
+# Variables
+# $breach_name is the name of the breach where the security questions were found.
+# $email_affected is the email associated with the breach.
+leaked-security-questions-step-one = Përditësoni pyetjet tuaja të sigurisë për <b>{ $emails_affected }</b> te <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
