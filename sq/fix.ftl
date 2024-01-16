@@ -79,6 +79,7 @@ high-risk-breach-credit-card-step-three = Kontrolloni llogaritë tuaja për vepr
 # Bank Account Breaches
 
 high-risk-breach-bank-account-title = Qe ekspozuar llogaria juaj bankare
+high-risk-breach-bank-account-description = Ndërmarrja e një veprimi sa më shpejt që të jetë e mundur, mund t’ju jepte më tepër mbrojtje ligjore, për të ndihmuar të rimarrë çfarëdo humbjesh
 high-risk-breach-bank-account-step-one = Njoftojeni menjëherë bankën tuaj se numri i llogarisë tuaj është komprometuar.
 high-risk-breach-bank-account-step-two = Ndryshoni numrin e llogarisë tuaj.
 high-risk-breach-bank-account-step-three = Kontrolloni llogaritë tuaja për veprime të paautorizuara.
@@ -86,20 +87,28 @@ high-risk-breach-bank-account-step-three = Kontrolloni llogaritë tuaja për vep
 # Social Security Number Breaches
 
 high-risk-breach-social-security-title = Numri juaj i sigurimeve shoqërore qe ekspozuar
+high-risk-breach-social-security-step-one = Mbroni veten duke <link_to_info>ujdisur një sinjalizim mashtrimi, ose duke ngrirë kartën tuaj të kreditit.</link_to_info>
+high-risk-breach-social-security-step-two = <link_to_info>Kontrolloni raportin e kartës tuaj të kreditit</link_to_info> për llogari të panjohura.
 
 # Social Security Number Modal
 
+ssn-modal-title = Mbi sinjalizime mashtrimesh dhe ngrirje karte krediti
+ssn-modal-description-fraud-part-one = <b>Një sinjalizim mashtrimi</b> lyp që biznese të verifikojnë identitetin tuaj, para se të emetojë kredit të ri në emrin tuaj. Është falas, zgjat një vi dhe s’do të ndikojë negativisht në vlerësimin e kreditit tuaj.
+ssn-modal-description-fraud-part-two = Që të ujdisni një të tillë, lidhuni me një nga tre zyrat e kreditit. Nuk ju duhet të kontaktoni që të treja.
+ssn-modal-learn-more = Mësoni më tepër mbi sinjalizime mashtrimesh dhe ngrirje karte krediti
 ssn-modal-ok = OK
 
 # PIN Breaches
 
 high-risk-breach-pin-title = PIN-i juaj qe ekspozuar
+high-risk-breach-pin-description = Ndërmarrja e një veprimi sa më shpejt që të jetë e mundur, mund t’ju jepte më tepër mbrojtje ligjore, për të ndihmuar të rimarrë çfarëdo humbjesh
 high-risk-breach-pin-step-one = Njoftojeni menjëherë bankën tuaj se PIN-i juaj tuaj është komprometuar.
 high-risk-breach-pin-step-two = Ndryshojeni PIN-in tuaj kudo që keni përdorur po atë.
 high-risk-breach-pin-step-three = Kontrolloni llogaritë tuaja për veprime të paautorizuara.
 
 # No high risk breaches found
 
+high-risk-breach-none-title = Lajme të mbara, s’gjetëm ndonjë cenim të dhënash me rrezik të madh
 high-risk-breach-none-sub-description-ssn = Numër sigurimesh shoqërore
 high-risk-breach-none-sub-description-bank-account = Hollësi llogarie bankare
 high-risk-breach-none-sub-description-cc-number = Numra kartash krediti
