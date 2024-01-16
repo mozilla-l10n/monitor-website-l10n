@@ -106,18 +106,18 @@ dashboard-top-banner-protect-your-data-cta = Javítsuk ki
 #   $exposures_unresolved_num (number) - the total number of exposures the user has.
 dashboard-top-banner-non-us-protect-your-data-description-line1 =
     { $exposures_unresolved_num ->
-        [one] Az adatai { $exposures_unresolved_num } kikerülését találtuk.
-       *[other] { $exposures_unresolved_num } adatmegjelenítést találtunk.
+        [one] { $exposures_unresolved_num } adatkikerülést találtuk.
+       *[other] { $exposures_unresolved_num } adatkikerülést találtuk.
     }
 # Note: this line is preceded by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
 # Variables:
 #   $data_breach_unresolved_num (number) - the total number of data breaches the user has.
 dashboard-top-banner-non-us-protect-your-data-description-line2 =
     { $data_breach_unresolved_num ->
-        [one] { $data_breach_unresolved_num } adatsértésben jelent meg. Lépésről lépésre végigvezeti a kijavításához.
-       *[other] { $data_breach_unresolved_num } adatvédelmi incidens miatt jelent meg. Lépésről lépésre végigvezeti a kijavításához.
+        [one] { $data_breach_unresolved_num } adatvédelmi incidensben szerepelt. A javításhoz végigvezetjük lépésről lépésre.
+       *[other] { $data_breach_unresolved_num } adatvédelmi incidensben szerepelt. A javításhoz végigvezetjük lépésről lépésre.
     }
-dashboard-top-banner-no-exposures-found-title = Nem találhatók kitettségek
+dashboard-top-banner-no-exposures-found-title = Nem találhatók adatkikerülések
 dashboard-top-banner-non-us-no-exposures-found-description = Nagyszerű hírek! Átkutattuk az összes ismert adatsértést, és nem találtunk kitettséget. Folyamatosan figyeljük az e-mail-címét, és értesíteni fogjuk, ha új adatsértés történik.
 dashboard-no-exposures-label = Nem találhatók kitettségek
 # Variables:
