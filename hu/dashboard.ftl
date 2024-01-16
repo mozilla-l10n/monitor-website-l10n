@@ -90,13 +90,13 @@ dashboard-top-banner-section-label = A vezérlőpult összefoglalója
 dashboard-top-banner-scan-in-progress-title = A vizsgálat még folyamatban van
 dashboard-top-banner-your-data-is-protected-title = Az adatai védve vannak
 dashboard-top-banner-your-data-is-protected-cta = Nézze meg, mi lett javítva
-dashboard-top-banner-lets-keep-protecting-title = Védjük továbbra is az adatait
+dashboard-top-banner-lets-keep-protecting-title = Védjük meg továbbra is az adatait
 # Variables:
 # $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
 dashboard-top-banner-lets-keep-protecting-description =
     { $exposures_unresolved_num ->
-        [one] Még { $exposures_unresolved_num } javítanivalója van. Folytassa, és védje meg magát. Lépésről lépésre végigvezetjük.
-       *[other] Még { $exposures_unresolved_num } javítanivalója van. Folytassa, és védje meg magát. Lépésről lépésre végigvezetjük.
+        [one] Még { $exposures_unresolved_num } javítanivalója van. Folytassa, és védje meg magát. Végigvezetjük lépésről lépésre.
+       *[other] Még { $exposures_unresolved_num } javítanivalója van. Folytassa, és védje meg magát. Végigvezetjük lépésről lépésre.
     }
 dashboard-top-banner-lets-keep-protecting-cta = Folytassa
 dashboard-top-banner-protect-your-data-title = Védjük meg az adatait
