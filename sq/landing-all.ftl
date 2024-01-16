@@ -16,9 +16,11 @@ landing-all-hero-image-chart-label = ekspozime
 landing-all-value-prop-fix-exposures = Do t’ju ndihmojmë të ndreqni ekspozimet tuaja
 landing-all-value-prop-fix-exposures-description = Misioni ynë është të rikthejmë në duart tuaja kontrollin e të dhënave tuaja personale. Do t’ju ndihmojmë të zgjidhni cenime të dhënash dhe të mbani privat informacionin tuaj — dhe do të <privacy_link>respektojmë privatësinë tuaj</privacy_link>, gjatë procesit.
 landing-all-value-prop-info-at-risk = Ç’informacione mund të rrezikohen?
+landing-all-value-prop-info-at-risk-description = Mjerisht, rrjedhjet e të dhënave janë pjesë e jetës tonë dixhitale. Fjalëkalimet tuaja, hollësi kontakti, informacion financiar dhe hollësi të tjera personale mund të ekspozohen, duke ju vënë përballë rreziku vjedhjeje identiteti.
 
 # Quote
 
+landing-all-quote = <data_breaches>Cenime të dhënash</data_breaches> ndodhin çdo 11 minuta, duke ekspozuar informacione tuaja p — por mos u shqetësoni, mund t’ju ndihmojmë.
 
 # Non-US FAQ
 
@@ -26,6 +28,7 @@ landing-all-faq-title = Pyetje të bëra rëndom
 # FAQ is an acronym for Frequently Asked Questions
 landing-all-faq-see-all = Shihini krejt PBR-të
 landing-all-data-breach-definition-qn = Ç’është tamam tamam një cenim të dhënash?
+landing-all-data-breach-definition-ans = Një cenim të dhënash ndodh kur informacion personal ose privat ekspozohet, vidhet ose kopjohet pa leje. Këto incidente sigurie mund të vijnë nga sulme kibernetike ndaj sajtesh, aplikacionesh apo çfarëdo baze të dhënash ku gjenden hollësi personale të njerëzve. Një cenim të dhënash mund të ndodhë edhe aksidentalisht, si në rastin kur kredencialet e hyrjes së dikujt ekspozohen publikisht.
 landing-all-data-breach-next-steps-qn = Sapo pashë se jam pjesë e një cenimi të dhënash. Ç’të bëj më tej?
 landing-all-data-breach-info-qn = Ç’hollësi ekspozohen në cenime të dhënash?
 landing-all-close-faq-alt = Mbylle
