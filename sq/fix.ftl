@@ -109,6 +109,7 @@ high-risk-breach-pin-step-three = Kontrolloni llogaritë tuaja për veprime të 
 # No high risk breaches found
 
 high-risk-breach-none-title = Lajme të mbara, s’gjetëm ndonjë cenim të dhënash me rrezik të madh
+high-risk-breach-none-sub-description-part-one = Në cenime të dhënash me rrezik të madh përfshihen
 high-risk-breach-none-sub-description-ssn = Numër sigurimesh shoqërore
 high-risk-breach-none-sub-description-bank-account = Hollësi llogarie bankare
 high-risk-breach-none-sub-description-cc-number = Numra kartash krediti
@@ -124,14 +125,42 @@ security-recommendation-steps-cta-label = E mora vesh!
 # Phone security recommendation
 
 security-recommendation-phone-title = Mbroni numrin tuaj të telefonit
+# $num_breaches is the number of breaches where the phone number was found.
+security-recommendation-phone-summary =
+    { $num_breaches ->
+        [one] Numri juaj i telefonit u shfaq në { $num_breaches } cenim të dhënash:
+       *[other] Numri juaj i telefonit u shfaq në { $num_breaches } cenime të dhënash:
+    }
+security-recommendation-phone-description = Mjerisht, s’mund ta rimerrni. Por ka hapa që mund t’i ndërmerrni për të garantuar të jeni i parrezik.
+security-recommendation-phone-step-one = Bllokoni numra të padëshiruar, për të parandaluar marrjen e më tepër thirrjesh të padëshiruara
+security-recommendation-phone-step-two = Mos klikoni mbi lidhje në tekste nga dërgues të panjohur; nëse duket të jetë prej një burimi të besuar, telefonojini drejtpërdrejt, për ta ripohuar
 
 # Email security recommendation
 
 security-recommendation-email-title = Mbroni adresën tuaj email
+# $num_breaches is the number of breaches where the email address was found.
+security-recommendation-email-summary =
+    { $num_breaches ->
+        [one] Adresa juaj email u shfaq në { $num_breaches } cenim të dhënash:
+       *[other] Adresa juaj email u shfaq në { $num_breaches } cenime të dhënash:
+    }
+security-recommendation-email-description = Mjerisht, këtë s’mund ta ndreqni. Por ka hapa që mund t’i ndërmerrni për të mbrojtur veten.
+security-recommendation-email-step-one = Mos klikoni mbi lidhje në email-e nga dërgues të panjohur; nëse duket të jetë prej një burimi të besuar, telefonojini drejtpërdrejt, për ta ripohuar
+security-recommendation-email-step-two = Hapni sytë nga <link_to_info>mashtrime karremëzimi</link_to_info>
+security-recommendation-email-step-three = Vëruni shenjë si të padëshiruar email-eve të dyshimtë dhe bllokoni dërguesin
+security-recommendation-email-step-four = Përdorni <link_to_info>{ -brand-relay } maska email-i</link_to_info> që të mbroni email-in tuaj në të ardhmen
 
 # IP security recommendation
 
 security-recommendation-ip-title = Përdorni një VPN, për më tepër privatësi
+# $num_breaches is the number of breaches where the IP address was found.
+security-recommendation-ip-summary =
+    { $num_breaches ->
+        [one] Adresa juaj IP u shfaq në { $num_breaches } cenim të dhënash:
+       *[other] Adresa juaj IP u shfaq në { $num_breaches } cenime të dhënash:
+    }
+security-recommendation-ip-description = Adresa juaj IP është një piketë e vendndodhjes tuaj dhe e operatorit të shërbimeve tuaja internet. Hacker-a mund ta përdorim këtë informacion për të zbuluar vendndodhjen tuaj, ose të provojnë të lidhen me pajisjet tuaja.
+security-recommendation-ip-step-one = Përdorni një VPN (b.f., <link_to_info>{ -brand-mozilla-vpn }</link_to_info>), për të fshehur adresën tuaj të njëmendtë IP dhe përdorur internetin privatisht.
 
 # Leaked Passwords
 
