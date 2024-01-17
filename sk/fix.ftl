@@ -45,7 +45,7 @@ fix-flow-celebration-security-recommendations-description-next-dashboard = Veľm
 # High Risk Data Breaches
 
 high-risk-breach-heading = Toto je potrebné urobiť
-high-risk-breach-subheading = Vyžaduje si to prístup k vašim citlivým informáciám, takže ich budete musieť vyriešiť manuálne.
+high-risk-breach-subheading = Toto si vyžaduje prístup k vašim citlivým informáciám, takže to budete musieť vyriešiť manuálne.
 # Variables
 # $num_breaches is the number of breaches where the high risk data was found.
 high-risk-breach-summary =
@@ -83,7 +83,7 @@ high-risk-breach-credit-card-step-three = Skontrolujte svoje účty, či nemáte
 
 # Bank Account Breaches
 
-high-risk-breach-bank-account-title = Váš bankový účet bol odhalený
+high-risk-breach-bank-account-title = Číslo vášho bankového účtu bolo odhalené
 high-risk-breach-bank-account-description = Ak podniknete kroky čo najskôr, môžete získať viac právnej ochrany, ktorá vám pomôže získať späť akékoľvek straty.
 high-risk-breach-bank-account-step-one = Okamžite informujte svoju banku, že číslo vášho účtu bolo prezradené.
 high-risk-breach-bank-account-step-two = Zmeňte si číslo účtu.
@@ -192,10 +192,10 @@ leaked-passwords-skip = Teraz preskočiť
 # "mins" is shortform for "minutes".
 leaked-passwords-estimated-time =
     { $estimated_time ->
-        [one] Odhadovaný čas na dokončenie: { $estimated_time } minúta na stránku
-        [few] Odhadovaný čas na dokončenie: { $estimated_time } minúty na stránku
-        [many] Odhadovaný čas na dokončenie: { $estimated_time } minút na stránku
-       *[other] Odhadovaný čas na dokončenie: { $estimated_time } minút na stránku
+        [one] Odhadovaný čas: { $estimated_time } minúta na stránku
+        [few] Odhadovaný čas: { $estimated_time } minúty na stránku
+        [many] Odhadovaný čas: { $estimated_time } minút na stránku
+       *[other] Odhadovaný čas: { $estimated_time } minút na stránku
     }
 
 # Leaked Security Questions
