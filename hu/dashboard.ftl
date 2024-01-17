@@ -118,8 +118,8 @@ dashboard-top-banner-non-us-protect-your-data-description-line2 =
        *[other] { $data_breach_unresolved_num } adatvédelmi incidensben szerepelt. A javításhoz végigvezetjük lépésről lépésre.
     }
 dashboard-top-banner-no-exposures-found-title = Nem találhatók adatkikerülések
-dashboard-top-banner-non-us-no-exposures-found-description = Nagyszerű hírek! Átkutattuk az összes ismert adatsértést, és nem találtunk kitettséget. Folyamatosan figyeljük az e-mail-címét, és értesíteni fogjuk, ha új adatsértés történik.
-dashboard-no-exposures-label = Nem találhatók kitettségek
+dashboard-top-banner-non-us-no-exposures-found-description = Nagyszerű hírek! Átnéztük az összes ismert adatvédelmi incidenst, és nem találtunk adatkikerüléseket. Folyamatosan figyelni fogjuk az e-mail-címét, és értesíteni fogjuk, ha új adatvédelmi incidens történik.
+dashboard-no-exposures-label = Nem találhatók adatkikerülések
 # Variables:
 # $exposures_resolved_num is the number of exposures the user has resolved.
 dashboard-top-banner-non-us-your-data-is-protected-description =
