@@ -120,6 +120,7 @@ high-risk-breach-none-title = Skvelá správa, nenašli sme žiadne vysoko rizik
 # Variables
 # $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
 high-risk-breach-none-description = Na základe vašej e‑mailovej adresy preverujeme úniky údajov a nenašli sme žiadne vysoko rizikové úniky pre adresu { $email_list }.
+high-risk-breach-none-sub-description-part-one = Medzi vysokorizikové úniky údajov patria:
 high-risk-breach-none-sub-description-ssn = Číslo sociálneho zabezpečenia
 high-risk-breach-none-sub-description-bank-account = Informácie o bankovom účte
 high-risk-breach-none-sub-description-cc-number = Čísla kreditných kariet
