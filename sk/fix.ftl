@@ -50,10 +50,10 @@ high-risk-breach-subheading = Toto si vyžaduje prístup k vašim citlivým info
 # $num_breaches is the number of breaches where the high risk data was found.
 high-risk-breach-summary =
     { $num_breaches ->
-        [one] Objavilo sa v { $num_breaches } úniku údajov:
-        [few] Objavilo sa v { $num_breaches } únikoch údajov:
-        [many] Objavilo sa v { $num_breaches } únikoch údajov:
-       *[other] Objavilo sa v { $num_breaches } únikoch údajov:
+        [one] Údaj sa objavil v { $num_breaches } úniku údajov:
+        [few] Údaj sa objavil v { $num_breaches } únikoch údajov:
+        [many] Údaj sa objavil v { $num_breaches } únikoch údajov:
+       *[other] Údaj sa objavil v { $num_breaches } únikoch údajov:
     }
 # Variables
 # $breach_name is the name of the breach where the high risk data was found.
