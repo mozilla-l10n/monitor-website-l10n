@@ -93,11 +93,17 @@ high-risk-breach-bank-account-step-three = Skontrolujte svoje účty, či nemát
 
 high-risk-breach-social-security-title = Vaše číslo sociálneho zabezpečenia bolo odhalené
 high-risk-breach-social-security-description = Podvodníci si môžu otvoriť nové pôžičky alebo kreditné karty s vaším číslom sociálneho zabezpečenia. Konajte rýchlo, aby ste predišli finančným škodám.
-high-risk-breach-social-security-step-one = Chráňte sa <link_to_info>nastavením upozornenia na podvod alebo zablokovaním kreditnej karty</link_to_info>.
+high-risk-breach-social-security-step-one = Chráňte sa <link_to_info>nastavením upozornení na podvod alebo zmrazením úverov.</link_to_info>
 high-risk-breach-social-security-step-two = <link_to_info>Skontrolujte si pohyby na kreditnej karte</link_to_info>, či sa tam nenachádzajú neznáme platby.
 
 # Social Security Number Modal
 
+ssn-modal-title = O upozorneniach na podvody a zmrazení úverov
+ssn-modal-description-fraud-part-one = <b>Upozornenie na podvod</b> vyžaduje, aby firmy overili vašu totožnosť predtým, ako im vydá nový kredit na vaše meno. Je to zadarmo, trvá jeden rok a nebude to mať negatívny vplyv na vaše kreditné skóre.
+ssn-modal-description-fraud-part-two = Ak si ho chcete nastaviť, kontaktujte ktorúkoľvek z troch úverových kancelárií. Nemusíte kontaktovať všetky tri.
+ssn-modal-description-freeze-credit-part-one = <b>Zmrazenie úverov</b> bráni komukoľvek otvoriť si nový účet na vaše meno. Je to zadarmo a nebude to mať negatívny vplyv na vaše kreditné skóre, ale pred otvorením akýchkoľvek nových účtov ich musíte rozmraziť.
+ssn-modal-description-freeze-credit-part-two = Ak chcete zmraziť svoje úvery, kontaktujte každú z troch úverových kancelárií – <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> a <transunion_link>TransUnion</transunion_link>.
+ssn-modal-learn-more = Ďalšie informácie o upozorneniach na podvody a zmrazení úverov
 ssn-modal-ok = OK
 
 # PIN Breaches
@@ -110,6 +116,10 @@ high-risk-breach-pin-step-three = Skontrolujte svoje účty, či nemáte neoprá
 
 # No high risk breaches found
 
+high-risk-breach-none-title = Skvelá správa, nenašli sme žiadne vysoko rizikové úniky údajov
+# Variables
+# $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
+high-risk-breach-none-description = Na základe vašej e‑mailovej adresy preverujeme úniky údajov a nenašli sme žiadne vysoko rizikové úniky pre adresu { $email_list }.
 high-risk-breach-none-sub-description-ssn = Číslo sociálneho zabezpečenia
 high-risk-breach-none-sub-description-bank-account = Informácie o bankovom účte
 high-risk-breach-none-sub-description-cc-number = Čísla kreditných kariet
