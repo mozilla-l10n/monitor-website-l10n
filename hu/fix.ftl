@@ -118,7 +118,7 @@ high-risk-breach-none-title = Jó hír, hogy nem találtunk magas kockázatú ad
 high-risk-breach-none-description = Az adatvédelmi incidenseket az e-mail-címe alapján észleljük, és nem találtunk magas kockázatú adatvédelmi incidenst a következővel kapcsolatban: { $email_list }.
 high-risk-breach-none-sub-description-part-one = Magas kockázatú adatvédelmi incidensek, többek között:
 high-risk-breach-none-sub-description-ssn = Társadalombiztosítási azonosító
-high-risk-breach-none-sub-description-bank-account = Bankszámlainformációk
+high-risk-breach-none-sub-description-bank-account = Bankszámla-információk
 high-risk-breach-none-sub-description-cc-number = Hitelkártyaszámok
 high-risk-breach-none-sub-description-pin = PIN-kódok
 high-risk-breach-none-continue = Folytatás
@@ -135,8 +135,8 @@ security-recommendation-phone-title = Védje meg a telefonszámát
 # $num_breaches is the number of breaches where the phone number was found.
 security-recommendation-phone-summary =
     { $num_breaches ->
-        [one] A telefonszáma { $num_breaches } adatsértésben jelent meg:
-       *[other] A telefonszáma { $num_breaches } adatsértésben jelent meg:
+        [one] A telefonszáma { $num_breaches } adatvédelmi incidensben szerepelt:
+       *[other] A telefonszáma { $num_breaches } adatvédelmi incidensben szerepelt:
     }
 security-recommendation-phone-description = Sajnos nem veheti vissza. De vannak lépések, amelyeket tehet a biztonsága érdekében.
 security-recommendation-phone-step-one = Blokkolja a kéretlen számokat, hogy megakadályozza a kéretlen hívások számát
