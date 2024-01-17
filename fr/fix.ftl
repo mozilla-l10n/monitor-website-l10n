@@ -147,7 +147,7 @@ security-recommendation-email-description = Malheureusement, vous ne pouvez pas 
 security-recommendation-email-step-one = Ne cliquez pas sur les liens dans les e-mails d’expéditeurs inconnus. Si l’e-mail semble provenir de source digne de confiance, appelez directement pour confirmer
 security-recommendation-email-step-two = Méfiez-vous des <link_to_info>escroqueries par hameçonnage</link_to_info>
 security-recommendation-email-step-three = Marquez les e-mails suspects comme spam et bloquez l’expéditeur
-security-recommendation-email-step-four = Utilisez <link_to_info>alias de messagerie de { -brand-relay }</link_to_info> pour protéger votre e-mail à l’avenir
+security-recommendation-email-step-four = Utilisez les <link_to_info>alias de messagerie de { -brand-relay }</link_to_info> pour protéger votre adresse e-mail à l’avenir
 
 # IP security recommendation
 
@@ -168,15 +168,15 @@ security-recommendation-ip-step-one = Utilisez un VPN (tel que <link_to_info>{ -
 leaked-passwords-title = Votre mot de passe { $breach_name } a été compromis
 # Variables
 # $breach_date is the date when the breach occurred.
-leaked-passwords-summary = Elle apparaît dans une fuite de données du { $breach_date }.
-leaked-passwords-description = Les fraudeurs peuvent accéder à votre compte et vont probablement essayer de l’utiliser sur d’autres comptes pour voir si vous avez utilisé le même mot de passe. Changez-le partout où vous l’avez utilisé pour vous protéger.
+leaked-passwords-summary = Il apparaît dans une fuite de données du { $breach_date }.
+leaked-passwords-description = Les fraudeurs peuvent accéder à votre compte et vont probablement essayer de l’utiliser sur d’autres comptes pour voir si vous avez utilisé le même mot de passe. Changez-le partout où vous l’avez réutilisé pour vous protéger.
 leaked-passwords-steps-title = Voici la marche à suivre
 leaked-passwords-steps-subtitle = Ce problème nécessite d’accéder à votre compte, vous devrez donc le corriger manuellement.
 # Variables
 # $breach_name is the name of the breach where the leaked password was found.
 # $emails_affected are the emails associated with the breach.
 leaked-passwords-step-one = Modifiez votre mot de passe pour <b>{ $emails_affected }</b> sur <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
-leaked-passwords-step-two = Modifiez-le partout où vous l’avez utilisé.
+leaked-passwords-step-two = Modifiez-le partout où vous l’avez réutilisé.
 leaked-passwords-mark-as-fixed = Marquer comme corrigé
 leaked-passwords-skip = Passer pour le moment
 
