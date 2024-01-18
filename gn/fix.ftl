@@ -140,6 +140,7 @@ security-recommendation-email-description = Rombyasyeterei, ndaikatumo’ãi emy
 security-recommendation-email-step-one = Ani eikutu juajuha ñanduti veve eikua’ỹva omboúvagui; eimo’ãramo ouha ejeroviahágui, ehenói eikuaa porã hag̃ua
 security-recommendation-email-step-two = Ema’ẽke <link_to_info>phishing jehode</link_to_info> rehe
 security-recommendation-email-step-three = Emongurusu ñanduti veve ikatúva spam ha emboyke imbouhára
+security-recommendation-email-step-four = Eiporu <link_to_info>{ -brand-relay } ñanduti veve rovamo’ãha</link_to_info> mba’éva emo’ã hag̃ua ne ñanduti veve tenondeve
 
 # IP security recommendation
 
