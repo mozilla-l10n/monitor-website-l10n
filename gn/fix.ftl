@@ -123,7 +123,9 @@ security-recommendation-phone-summary =
         [one] Ne pumbyry papapy ojehecha { $num_breaches } mba’ekuaarã ñemboguápe:
        *[other] Ne pumbyry papapy ojehecha { $num_breaches } mba’ekuaarã ñemboguápe:
     }
+security-recommendation-phone-description = Rombyasyeterei, ndaikatumo’ãi eipe’a. Hákatu eku’ekuaa eñemo’ãve hag̃ua.
 security-recommendation-phone-step-one = Ejoko spam papapy emboyke hag̃ua ñehenói oiko’ỹva
+security-recommendation-phone-step-two = Ani eikutu juajuha moñe’ẽrã eikua’ỹva omboúvagui; eimo’ãramo ouha ejeroviahágui, ehenói eikuaa porã hag̃ua
 
 # Email security recommendation
 
