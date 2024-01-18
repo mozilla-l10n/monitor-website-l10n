@@ -66,21 +66,21 @@ high-risk-breach-skip = Ignorer pour l’instant
 high-risk-breach-credit-card-title = Votre numéro de carte bancaire a été compromis
 high-risk-breach-credit-card-description = Toute personne qui les obtient peut effectuer des achats non autorisés pour lesquels vous pouvez être tenu responsable. Agissez maintenant pour prévenir les pertes financières.
 high-risk-breach-credit-card-step-one = Si vous avez toujours cette carte, contactez l’émetteur pour signaler qu’elle a été volée.
-high-risk-breach-credit-card-step-two = Demander une nouvelle carte avec un nouveau numéro.
-high-risk-breach-credit-card-step-three = Vérifiez vos comptes sans frais non autorisés.
+high-risk-breach-credit-card-step-two = Demandez une nouvelle carte avec un nouveau numéro.
+high-risk-breach-credit-card-step-three = Surveillez vos comptes pour détecter les transactions non autorisées.
 
 # Bank Account Breaches
 
-high-risk-breach-bank-account-title = Votre compte bancaire a été exposé
+high-risk-breach-bank-account-title = Votre compte bancaire a été compromis
 high-risk-breach-bank-account-description = Agir dès que possible pourrait vous donner plus de protections juridiques pour vous aider à récupérer les pertes éventuelles.
 high-risk-breach-bank-account-step-one = Informez immédiatement votre banque que votre numéro de compte a été compromis.
 high-risk-breach-bank-account-step-two = Changer votre numéro de compte.
-high-risk-breach-bank-account-step-three = Vérifiez vos comptes sans frais non autorisés.
+high-risk-breach-bank-account-step-three = Surveillez vos comptes pour détecter les transactions non autorisées.
 
 # Social Security Number Breaches
 
 high-risk-breach-social-security-title = Votre numéro de sécurité sociale a été compromis
-high-risk-breach-social-security-description = Les fraudeurs peuvent négocier de nouveaux prêts ou cartes bancaires à votre numéro de sécurité sociale. Agissez rapidement pour éviter les préjudices financiers.
+high-risk-breach-social-security-description = Les fraudeurs peuvent négocier de nouveaux prêts ou cartes de crédit avec votre numéro de sécurité sociale. Agissez rapidement pour éviter les préjudices financiers.
 high-risk-breach-social-security-step-one = Protégez-vous en <link_to_info>créant une alerte de fraude ou en gelant votre crédit.</link_to_info>
 high-risk-breach-social-security-step-two = <link_to_info>Vérifiez la présence de comptes non reconnus dans votre rapport de crédit</link_to_info>.
 
