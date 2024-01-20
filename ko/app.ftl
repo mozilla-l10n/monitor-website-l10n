@@ -745,16 +745,26 @@ error-page-error-404-cta-button = 뒤로 가기
 # Variables:
 #   $errorCode (number) - the status code of the error, e.g. 403
 error-page-error-other-title = { $errorCode } 문제가 발생했습니다.
+error-page-error-other-copy = 다시 시도하거나 나중에 다시 방문해 주세요.
 
 ## Breach overview page
 
+all-breaches-headline-2 = { -brand-fx-monitor }가 감지한 모든 위반
 search-breaches = 유출 내역 검색하기
+# the kind of user data exposed to hackers in data breach.
+exposed-data = 노출된 데이터:
 
 ## Public breach detail page
 
+find-out-if-2 = 이번 위반에 포함되었는지 알아보세요.
+breach-detail-cta-signup = 유출 여부 확인하기
 
 ## Floating banner
 
+floating-banner-link-label = 가입하기
+floating-banner-dismiss-button-label = 아니요
 
 ## Firefox Monitor -> Mozilla Monitor rebrand banner
 
+banner-monitor-rebrand-dismiss-button-label = 예
+banner-monitor-rebrand-dismiss-button-tooltip = 닫기
