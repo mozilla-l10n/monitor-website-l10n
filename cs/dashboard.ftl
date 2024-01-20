@@ -30,7 +30,7 @@ exposure-chart-caption = Tento graf ukazuje, kolikrát jsou vaše informace akti
 exposure-chart-caption-fixed = Tento graf ukazuje celkový počet fixovaných expozic ({ $total_fixed_exposures_num } z { $total_exposures_num })
 exposure-chart-returning-user-upgrade-prompt = Adresa domů, členové rodiny a další zatím nejsou zahrnuté.
 exposure-chart-returning-user-upgrade-prompt-cta = Spustit bezplatné skenování
-exposure-chart-scan-in-progress-prompt = <b>Probíhá sken:</b> adresy, rodinné příslušníky a další lidé ještě nejsou zahrnuti.
+exposure-chart-scan-in-progress-prompt = <b>Probíhá skenování:</b> adresa, rodinní příslušníci a další údaje zatím nejsou zahrnuty.
 modal-active-number-of-exposures-title = O vašem počtu aktivních expozic
 # Variables:
 #   $limit (number) - Number of email addresses included in the plan
