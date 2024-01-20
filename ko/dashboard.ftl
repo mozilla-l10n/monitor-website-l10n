@@ -53,17 +53,27 @@ dashboard-top-banner-your-data-is-protected-cta = 해결된 사항 보기
 dashboard-top-banner-lets-keep-protecting-title = 데이터를 계속 보호합시다.
 # Variables:
 # $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
-dashboard-top-banner-lets-keep-protecting-description = 아직 해결해야 할 유출이 { $exposures_unresolved_num }개 남아 있습니다. 계속해서 보호하세요. 단계별로 안내해드리겠습니다.
+dashboard-top-banner-lets-keep-protecting-description = 아직 해결해야 할 노출이 { $exposures_unresolved_num }개 남아 있습니다. 계속해서 보호하세요. 단계별로 안내해드리겠습니다.
 dashboard-top-banner-lets-keep-protecting-cta = 계속 해봅시다.
 dashboard-top-banner-protect-your-data-title = 데이터를 보호합시다.
 dashboard-top-banner-protect-your-data-cta = 문제를 해결합시다.
 # Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
 # Variables:
 #   $exposures_unresolved_num (number) - the total number of exposures the user has.
-dashboard-top-banner-non-us-protect-your-data-description-line1 = { $exposures_unresolved_num }개의 데이터가 유출된 것으로 나타났습니다.
-dashboard-top-banner-no-exposures-found-title = 유출 결과 없음
+dashboard-top-banner-non-us-protect-your-data-description-line1 = { $exposures_unresolved_num }개의 데이터가 노출된 것으로 나타났습니다.
+dashboard-top-banner-no-exposures-found-title = 노출 결과 없음
 dashboard-top-banner-non-us-no-exposures-found-description = 좋은 소식입니다! 알려진 모든 데이터 유출을 검색했지만 노출된 내용은 발견되지 않았습니다. 이메일 주소를 계속 모니터링하고 새로운 유출이 발생하면 경고를 해드립니다.
 dashboard-no-exposures-label = 노출 결과 없음
+# Variables:
+# $exposures_resolved_num is the number of exposures the user has resolved.
+dashboard-top-banner-non-us-your-data-is-protected-description = 잘하셨습니다. 데이터의 모든 { $exposures_resolved_num }개의 노출이 수정되었습니다! 계속 모니터링해서 새로운 노출이 있으면 알려드리겠습니다.
+dashboard-top-banner-monitor-more-cta = 더 많은 이메일 모니터링
 
 # About Exposure Statuses Modal
 
+modal-exposure-status-title = 노출 상태 정보
+modal-exposure-status-description-all =
+    알려진 모든 데이터 침해에 대한 노출을 검색합니다.
+    노출은 다음 중 하나의 상태입니다:
+modal-exposure-status-action-needed = <b>조치 필요</b>는 현재 진행중이며 문제를 해결하기 위한 조치를 취해야 함을 의미합니다.
+modal-exposure-status-fixed = <b>수정됨</b>은 노출이 해결되었으며 취해야 할 조치가 없음을 의미합니다.
