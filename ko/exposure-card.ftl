@@ -39,3 +39,7 @@ exposure-card-label-exposure-type = 유출 유형
 exposure-card-label-date-found = 발견된 날짜
 # Status of the exposure card, could be In Progress, Fixed or Action Needed
 exposure-card-label-status = 상태
+# Variables:
+# $category_label is the data breach exposure type that was leaked. Eg. Email, IP Address.
+# $count is the number of times that the data type was leaked.
+exposure-card-label-and-count = { $category_label }: { $count }
