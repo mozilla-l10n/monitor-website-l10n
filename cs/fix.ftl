@@ -17,7 +17,7 @@ guided-resolution-flow-step-navigation-label = Návody
 
 fix-flow-celebration-next-label = Pojďme dál
 fix-flow-celebration-next-recommendations-label = Podívejte se na doporučení
-fix-flow-celebration-next-dashboard-label = Přejděte na svou nástěnku
+fix-flow-celebration-next-dashboard-label = Přejít na svou nástěnku
 
 ## High-risk flow
 
@@ -39,7 +39,7 @@ fix-flow-celebration-leaked-passwords-description-next-dashboard = Výborně! Do
 
 ## Security recommendations flow
 
-fix-flow-celebration-security-recommendations-title = Vyplnili jste všechna vaše doporučení!
+fix-flow-celebration-security-recommendations-title = Dokončili jste všechna naše doporučení!
 fix-flow-celebration-security-recommendations-description-next-dashboard = Výborně! Dosáhli jste konce svých kroků. Na nástěnce si můžete zobrazit úkoly a sledovat svůj postup.
 
 # High Risk Data Breaches
@@ -73,7 +73,7 @@ high-risk-breach-estimated-time =
 
 # Credit Card Breaches
 
-high-risk-breach-credit-card-title = Číslo vaší platební karty bylo vyzrazeno
+high-risk-breach-credit-card-title = Číslo vaší platební karty bylo odhaleno
 high-risk-breach-credit-card-description = Každý, kdo ho získá, může provádět neoprávněné nákupy, za které můžete nést odpovědnost. Jednejte hned a vyhněte se finančním škodám.
 high-risk-breach-credit-card-step-one = Pokud tuto kartu stále máte, kontaktujte vydavatele a nahlaste nám, že je karta ukradena.
 high-risk-breach-credit-card-step-two = Požádat o novou kartu s novým číslem.
@@ -81,15 +81,15 @@ high-risk-breach-credit-card-step-three = Zkontrolujte účty za neoprávněné 
 
 # Bank Account Breaches
 
-high-risk-breach-bank-account-title = Váš bankovní účet byl odhalen
+high-risk-breach-bank-account-title = Číslo vašeho bankovního účtu bylo odhaleno
 high-risk-breach-bank-account-description = Pokud podniknete kroky co nejdříve, můžete získat další právní ochranu, která vám pomůže získat zpět jakékoli ztráty.
 high-risk-breach-bank-account-step-one = Okamžitě informujte svou banku, že číslo vašeho účtu bylo prozrazeno.
 high-risk-breach-bank-account-step-two = Změňte si číslo svého účtu.
-high-risk-breach-bank-account-step-three = Zkontrolujte účty za neoprávněné platby.
+high-risk-breach-bank-account-step-three = Zkontrolujte, zda na vašich účtech nejsou neoprávněně pohyby.
 
 # Social Security Number Breaches
 
-high-risk-breach-social-security-title = Vaše rodné číslo bylo vyzrazeno
+high-risk-breach-social-security-title = Vaše číslo sociálního zabezpečení bylo odhalené
 high-risk-breach-social-security-description = Podvodníci si mohou otevřít nové půjčky nebo kreditní karty s vaším číslem sociálního zabezpečení. Jednejte rychle, abyste předešli finančním škodám.
 high-risk-breach-social-security-step-one = Chraňte se tím, že si <link_to_info>nastavíte upozornění na podvod nebo si nastavíte zmrazení svého kreditu.</link_to_info>
 high-risk-breach-social-security-step-two = <link_to_info>Zkontrolujte stav svého účtu</link_to_info>, jestli neobsahuje nerozpoznané účty.
