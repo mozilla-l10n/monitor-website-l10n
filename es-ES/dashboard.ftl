@@ -49,6 +49,28 @@ progress-card-heres-what-we-fixed-headline-all = Esto es lo que has corregido
 progress-card-manually-fixed-headline = Corregidas de forma manual
 dashboard-tab-label-action-needed = Acción necesaria
 dashboard-tab-label-fixed = Corregida
+dashboard-exposures-all-fixed-label = ¡Todo corregido!
+dashboard-exposures-area-headline = Ver todos los sitios donde tu información está expuesta
+# Note: this line precedes dashboard-exposures-area-description-all-line2.
+# Variables:
+#   $exposures_unresolved_num (number) - the unresolved number of exposures the user has.
+dashboard-exposures-area-description-all-line1 =
+    { $exposures_unresolved_num ->
+        [one] Encontramos { $exposures_unresolved_num } exposición de tus datos.
+       *[other] Encontramos { $exposures_unresolved_num } exposiciones de tus datos.
+    }
+# Note: this line follows dashboard-exposures-area-description-all-line1.
+# Variables:
+#   $data_breach_unresolved_num (number) - the unresolved number of data breaches the user has.
+dashboard-exposures-area-description-all-line2 =
+    { $data_breach_unresolved_num ->
+        [one] Has estado afectado por { $data_breach_unresolved_num } filtración de datos.
+       *[other] Has estado afectado por { $data_breach_unresolved_num } filtraciones de datos.
+    }
+dashboard-fixed-area-headline-all = Ver todas las exposiciones que están corregidas
+# This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
+dashboard-exposures-filter = Filtro
+dashboard-exposures-filter-company = Empresa
 
 ## Top banner on the dashboard
 
