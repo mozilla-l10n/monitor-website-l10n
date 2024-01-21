@@ -66,7 +66,9 @@ dashboard-top-banner-non-us-protect-your-data-description-line2 =
         [one] { $data_breach_unresolved_num } veri ihlalinde karşımıza çıktı. Sorunu nasıl çözeceğinizi adım adım anlatacağız.
        *[other] { $data_breach_unresolved_num } veri ihlalinde karşımıza çıktı. Sorunu nasıl çözeceğinizi adım adım anlatacağız.
     }
+dashboard-top-banner-no-exposures-found-title = Hiç veri ihlali bulunamadı
 dashboard-top-banner-monitor-more-cta = Daha fazla e-postayı izleyin
 
 # About Exposure Statuses Modal
 
+modal-exposure-status-title = Veri ihlali durumları hakkında
