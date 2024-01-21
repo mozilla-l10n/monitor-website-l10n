@@ -71,9 +71,25 @@ dashboard-fixed-area-headline-all = Ver todas las exposiciones que están correg
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Filtro
 dashboard-exposures-filter-company = Empresa
+dashboard-exposures-filter-date-found = Fecha de la identificación
+dashboard-exposures-filter-date-found-last-seven-days = Últimos 7 días
+dashboard-exposures-filter-date-found-last-thirty-days = Últimos 30 días
+dashboard-exposures-filter-date-found-last-year = El año pasado
+dashboard-exposures-filter-status = Estado
+dashboard-exposures-filter-status-action-needed = Acción necesaria
+dashboard-exposures-filter-status-in-progress = En curso
+dashboard-exposures-filter-status-fixed = Corregida
+popover-open-filter-settings-alt = Seleccionar filtros
+dashboard-exposures-filter-show-all = Mostrar todo
+dashboard-exposures-filter-show-results = Mostrar resultados
+dashboard-exposures-filter-reset = Restablecer
 
 ## Top banner on the dashboard
 
+dashboard-top-banner-section-label = Resumen del panel
+dashboard-top-banner-scan-in-progress-title = Tu escaneo aún está en curso
+dashboard-top-banner-your-data-is-protected-title = Tus datos están protegidos
+dashboard-top-banner-your-data-is-protected-cta = Ver lo que se ha corregido
 
 # About Exposure Statuses Modal
 
