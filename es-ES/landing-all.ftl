@@ -37,6 +37,29 @@ landing-all-close-faq-alt = Cerrar
 
 # Social proof
 
+# Variables
+# $num_users is the number of users in the millions.
+landing-all-social-proof-title =
+    { $num_users ->
+        [one] Con la confianza de { $num_users } millón de personas en todo el mundo
+       *[other] Con la confianza de { $num_users } millones de personas en todo el mundo
+    }
+# Variables
+# $num_countries is the number of countries available.
+landing-all-social-proof-description =
+    { $num_countries ->
+        [one] Desde 2018, hemos ayudado a personas en { $num_countries } país a proteger sus datos cuando estaban expuestos.
+       *[other] Desde 2018, hemos ayudado a personas en { $num_countries } países a proteger sus datos cuando estaban expuestos.
+    }
+landing-all-social-proof-press = Como se vio en
 
 # Here's How We Help
 
+landing-all-help-protect-you = Así es como te ayudamos a protegerte
+landing-all-help-protect-you-description = Creemos en tu derecho a la privacidad, por lo que la protección que monitoriza filtraciones de datos siempre es gratuita.
+landing-all-help-protect-you-feature-one = Te buscaremos en todas las filtraciones de datos conocidas
+landing-all-help-protect-you-feature-two = Te guiaremos a través de los pasos necesarios para resolver cada filtración
+landing-all-help-protect-you-feature-three = Monitorizaremos continuamente y te enviaremos alertas sobre cualquier nueva filtración.
+landing-all-help-protect-you-cta = Regístrate para recibir alertas de filtraciones
+landing-all-get-started = Escanea tu correo electrónico para empezar
+landing-all-take-back-data = Recupera el control de tus datos
