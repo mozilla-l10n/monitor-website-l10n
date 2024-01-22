@@ -57,7 +57,7 @@ high-risk-breach-summary =
 # $breach_name is the name of the breach where the high risk data was found.
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
-high-risk-breach-name-and-date = { $breach_name } <breach_date>le { $breach_date }</breach_date>
+high-risk-breach-name-and-date = { $breach_name } <breach_date>du { $breach_date }</breach_date>
 high-risk-breach-mark-as-fixed = Marquer comme résolue
 high-risk-breach-skip = Ignorer pour l’instant
 # Variables:
@@ -92,7 +92,7 @@ high-risk-breach-social-security-step-two = <link_to_info>Vérifiez la présence
 
 ssn-modal-title = À propos des alertes de fraude et du gel du crédit
 ssn-modal-description-fraud-part-one = <b>Une alerte à la fraude</b> demande aux entreprises de vérifier votre identité avant d’attribuer un nouveau crédit en votre nom. C’est gratuit, dure un an et n’affectera pas négativement votre score de crédit.
-ssn-modal-description-fraud-part-two = Pour en créer un, contactez l’une des trois agences d’évaluation du crédit. Vous n’êtes pas obligé·e de contacter les trois.
+ssn-modal-description-fraud-part-two = Pour en créer une, contactez l’une des trois agences d’évaluation du crédit. Vous n’êtes pas obligé·e de contacter les trois.
 ssn-modal-description-freeze-credit-part-one = <b>Le gel de votre crédit</b> empêche quiconque d’ouvrir un nouveau compte à votre nom. C’est gratuit et ça n’affectera pas négativement votre score de crédit, mais vous devrez le débloquer avant d’ouvrir de nouveaux comptes.
 ssn-modal-description-freeze-credit-part-two = Pour geler votre crédit, contactez chacune des trois agences d’évaluation du crédit : <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> et <transunion_link>TransUnion</transunion_link>.
 ssn-modal-learn-more = En savoir plus sur les alertes à la fraude et le gel du crédit
