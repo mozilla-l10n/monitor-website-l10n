@@ -23,10 +23,12 @@ column-status-badge-resolved = Yefra
 column-status-badge-active = Urmid
 breaches-resolve-heading = Fru tarewla-agi
 breaches-none-cta-button = Rnu tansa imayl
+breaches-all-resolved-cta-button = Rnu tansa imayl
 
 ## Links that we might refer to when prompting the user to make changes after a breach
 
 breach-checklist-link-firefox-relay = { -brand-relay }
+breach-checklist-link-password-manager = Amsefrak n wawalen uffiren { -brand-firefox }
 breach-checklist-link-mozilla-vpn = { -brand-mozilla-vpn }
 
 ## Prompts the user for changes when there is a breach detected of password
