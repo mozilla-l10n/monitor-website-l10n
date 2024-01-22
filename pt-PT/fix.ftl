@@ -81,7 +81,7 @@ high-risk-breach-credit-card-step-three = Verifique se tem cobranças não autor
 
 high-risk-breach-bank-account-title = A sua conta bancária foi exposta
 high-risk-breach-bank-account-description = Agir o mais rapidamente possível pode fornecer mais proteções legais para ajudar a recuperar qualquer perda.
-high-risk-breach-bank-account-step-one = Notifique imediatamente o seu banco que o número da sua conta foi comprometido.
+high-risk-breach-bank-account-step-one = Notifique imediatamente o seu banco que o seu número de conta foi comprometido.
 high-risk-breach-bank-account-step-two = Altere o número da sua conta.
 high-risk-breach-bank-account-step-three = Verifique se tem cobranças não autorizadas nas suas contas.
 
@@ -96,38 +96,38 @@ high-risk-breach-social-security-step-two = <link_to_info>Confirme o seu extract
 
 ssn-modal-title = Sobre os alertas de fraude e bloqueios de crédito
 ssn-modal-description-fraud-part-one = <b>Um alerta de fraude</b> requer que as empresas verifiquem a sua identidade antes de emitir um novo crédito em seu nome. É gratuito, tem a duração de um ano e não afeta negativamente a sua pontuação de crédito.
-ssn-modal-description-fraud-part-two = Para configurar um, contacte qualquer um dos três serviços de crédito. Não precisa de contactar os três.
-ssn-modal-description-freeze-credit-part-one = <b>Congerar o seu crédito</b> impede que alguém abra uma nova conta em seu nome. É gratuito e não irá afetar negativamente a sua pontuação de crédito, mas irá precisar de o desbloquear antes de abrir quaisquer novas contas.
-ssn-modal-description-freeze-credit-part-two = Para congelar o seu crédito, contacte cada uma das três empresas de crédito — <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> e <transunion_link>TransUnion</transunion_link>.
-ssn-modal-learn-more = Saber mais acerca de alertas de fraude e bloqueios de crédito
-ssn-modal-ok = OK
+ssn-modal-description-fraud-part-two = Para configurar um alerta, contacte qualquer um dos três serviços de crédito. Não precisa de contactar todos os três.
+ssn-modal-description-freeze-credit-part-one = <b>Congelar o seu crédito</b> impede que alguém abra uma nova conta em seu nome. É gratuito e não irá afetar negativamente a sua pontuação de crédito, mas irá precisar de o desbloquear antes de abrir quaisquer novas contas.
+ssn-modal-description-freeze-credit-part-two = Para congelar o seu crédito, contacte cada uma das três empresas de crédito – <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> e <transunion_link>TransUnion</transunion_link>.
+ssn-modal-learn-more = Saber mais sobre alertas de fraude e bloqueios de crédito
+ssn-modal-ok = Ok
 
 # PIN Breaches
 
 high-risk-breach-pin-title = O seu PIN foi exposto
-high-risk-breach-pin-description = Agir o mais rapidamente possível pode fornecer mais proteções legais para ajudar a recuperar quaisquer perda.
-high-risk-breach-pin-step-one = Notifique o seu banco imediatamente que o seu PIN foi comprometido.
-high-risk-breach-pin-step-two = Altere o seu PIN em qualquer lugar em que utilizou o mesmo.
-high-risk-breach-pin-step-three = Verifique as suas contas por cobranças não autorizadas.
+high-risk-breach-pin-description = Agir o mais rapidamente possível pode fornecer mais proteções legais para ajudar a recuperar qualquer perda.
+high-risk-breach-pin-step-one = Notifique imediatamente o seu banco que o seu PIN foi comprometido.
+high-risk-breach-pin-step-two = Altere o seu PIN em qualquer sítio onde tenha utilizado o mesmo.
+high-risk-breach-pin-step-three = Verifique se tem cobranças não autorizadas nas suas contas.
 
 # No high risk breaches found
 
-high-risk-breach-none-title = Boas notícias, não encontrámos nenhuma violação de dados de alto risco
+high-risk-breach-none-title = Boas notícias: não encontrámos nenhuma violação de dados de alto risco
 # Variables
 # $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
-high-risk-breach-none-description = Detetámos as violações de dados com base no seu endereço de e-mail e não encontrámos nenhuma violação de dados de alto risco para { $email_list }.
-high-risk-breach-none-sub-description-part-one = As brechas de dados de alto risco incluem:
+high-risk-breach-none-description = Detetámos violações de dados com base no seu endereço de e-mail e não encontrámos nenhuma violação de dados de alto risco para { $email_list }.
+high-risk-breach-none-sub-description-part-one = As violações de dados de alto risco incluem:
 high-risk-breach-none-sub-description-ssn = Número da segurança social
-high-risk-breach-none-sub-description-bank-account = Informações da conta
+high-risk-breach-none-sub-description-bank-account = Informações da conta bancária
 high-risk-breach-none-sub-description-cc-number = Números de cartão de crédito
-high-risk-breach-none-sub-description-pin = PINs
+high-risk-breach-none-sub-description-pin = PIN
 high-risk-breach-none-continue = Continuar
 
 # Security recommendations
 
 security-recommendation-steps-label = Recomendações de segurança
 security-recommendation-steps-title = Eis o nosso conselho:
-security-recommendation-steps-cta-label = Percebi!
+security-recommendation-steps-cta-label = Compreendi!
 
 # Phone security recommendation
 
@@ -135,7 +135,7 @@ security-recommendation-phone-title = Proteja o seu número de telefone
 # $num_breaches is the number of breaches where the phone number was found.
 security-recommendation-phone-summary =
     { $num_breaches ->
-        [one] O seu número de telefone foi exposto em { $num_breaches } violações de dados:
+        [one] O seu número de telefone foi exposto em { $num_breaches } violação de dados:
        *[other] O seu número de telefone foi exposto em { $num_breaches } violações de dados:
     }
 security-recommendation-phone-description = Infelizmente não pode recuperá-la. Mas existem passos que pode tomar para ter a certeza que está seguro(a).
