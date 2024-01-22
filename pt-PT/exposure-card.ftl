@@ -10,13 +10,13 @@ exposure-card-date-found = Data da exposição
 # Status Pill
 
 status-pill-action-needed = Ação necessária
-status-pill-progress = Em progresso
-status-pill-fixed = Corrigido
+status-pill-progress = Em curso
+status-pill-fixed = Corrigida
 
 # Exposure Card
 
 exposure-card-family-members = Membros da família
-exposure-card-email = Email
+exposure-card-email = E-mail
 exposure-card-phone-number = Número de telefone
 exposure-card-address = Endereço
 exposure-card-credit-card = Cartão de Crédito
