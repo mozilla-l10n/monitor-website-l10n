@@ -131,10 +131,10 @@ security-recommendation-phone-title = Protégez votre numéro de téléphone
 # $num_breaches is the number of breaches where the phone number was found.
 security-recommendation-phone-summary =
     { $num_breaches ->
-        [one] Votre numéro de téléphone a été exposé dans { $num_breaches } fuite de données :
-       *[other] Votre numéro de téléphone a été exposé dans { $num_breaches } fuites de données :
+        [one] Votre numéro de téléphone figure dans { $num_breaches } fuite de données :
+       *[other] Votre numéro de téléphone figure dans { $num_breaches } fuites de données :
     }
-security-recommendation-phone-description = Malheureusement, vous ne pouvez pas le reprendre. Cependant, vous pouvez prendre certaines mesures pour assurer votre sécurité.
+security-recommendation-phone-description = Malheureusement, vous ne pouvez pas le retirer. Cependant, vous pouvez prendre certaines mesures pour assurer votre sécurité.
 security-recommendation-phone-step-one = Bloquez les numéros indésirables pour empêcher davantage d’appels indésirables
 security-recommendation-phone-step-two = Ne cliquez pas sur les liens dans les SMS d’expéditeurs inconnus. Si le SMS semble provenir de source digne de confiance, appelez directement pour confirmer
 
@@ -175,13 +175,13 @@ leaked-passwords-title = Votre mot de passe { $breach_name } a été compromis
 leaked-passwords-summary = Il apparaît dans une fuite de données du { $breach_date }.
 leaked-passwords-description = Les fraudeurs peuvent accéder à votre compte et vont probablement essayer de l’utiliser sur d’autres comptes pour voir si vous avez utilisé le même mot de passe. Changez-le partout où vous l’avez réutilisé pour vous protéger.
 leaked-passwords-steps-title = Voici la marche à suivre
-leaked-passwords-steps-subtitle = Ce problème nécessite d’accéder à votre compte, vous devrez donc le corriger manuellement.
+leaked-passwords-steps-subtitle = Ce problème nécessite d’accéder à votre compte, vous devrez donc le résoudre manuellement.
 # Variables
 # $breach_name is the name of the breach where the leaked password was found.
 # $emails_affected are the emails associated with the breach.
 leaked-passwords-step-one = Modifiez votre mot de passe pour <b>{ $emails_affected }</b> sur <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
 leaked-passwords-step-two = Modifiez-le partout où vous l’avez réutilisé.
-leaked-passwords-mark-as-fixed = Marquer comme corrigé
+leaked-passwords-mark-as-fixed = Marquer comme résolu
 leaked-passwords-skip = Ignorer pour le moment
 # Variables
 # $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
@@ -199,7 +199,7 @@ leaked-security-questions-title = Vos questions de sécurité ont été compromi
 leaked-security-questions-summary = Elles figurent dans une fuite de données sur { $breach_name } le { $breach_date }.
 leaked-security-questions-description = Les fraudeurs peuvent les utiliser pour accéder à vos comptes et à tout autre site où vous avez posé les mêmes questions de sécurité. Mettez-les à jour maintenant pour protéger vos comptes.
 leaked-security-questions-steps-title = Voici la marche à suivre
-leaked-security-questions-steps-subtitle = Ce problème nécessite d’accéder à votre compte, vous devrez donc le corriger manuellement.
+leaked-security-questions-steps-subtitle = Ce problème nécessite d’accéder à votre compte, vous devrez donc le résoudre manuellement.
 # Variables
 # $breach_name is the name of the breach where the security questions were found.
 # $email_affected is the email associated with the breach.

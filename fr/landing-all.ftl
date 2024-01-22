@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 public-nav-name = { -brand-mozilla-monitor }
-landing-all-hero-title = Découvrez où sont exposées vos informations personnelles et retirez-les
+landing-all-hero-title = Découvrez où vos informations personnelles ont fuité et reprenez le contrôle
 landing-all-hero-lead = Nous analysons les fuites de données pour voir si vos données ont été divulguées et nous vous indiquons les étapes pour y remédier.
 landing-all-hero-emailform-input-placeholder = votrenom@example.com
 landing-all-hero-emailform-input-label = Saisissez votre adresse e-mail pour vérifier l’existence de fuites de données.
