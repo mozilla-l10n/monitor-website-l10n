@@ -60,6 +60,10 @@ high-risk-breach-summary =
 high-risk-breach-name-and-date = { $breach_name } <breach_date>le { $breach_date }</breach_date>
 high-risk-breach-mark-as-fixed = Marquer comme résolue
 high-risk-breach-skip = Ignorer pour l’instant
+# Variables:
+# $estimated_time is the estimated time it would take for a user to complete breach resolution steps. It not be singular, and the + is meant as "or more".
+# An example of this string is Your estimated time: 15+ minutes.
+high-risk-breach-estimated-time = Temps estimé : plus de { $estimated_time } minutes
 
 # Credit Card Breaches
 
@@ -179,6 +183,11 @@ leaked-passwords-step-one = Modifiez votre mot de passe pour <b>{ $emails_affect
 leaked-passwords-step-two = Modifiez-le partout où vous l’avez réutilisé.
 leaked-passwords-mark-as-fixed = Marquer comme corrigé
 leaked-passwords-skip = Ignorer pour le moment
+# Variables
+# $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
+# "Est." is shortform for "Estimated".
+# "mins" is shortform for "minutes".
+leaked-passwords-estimated-time = Temps estimé : { $estimated_time } minutes par site
 
 # Leaked Security Questions
 
