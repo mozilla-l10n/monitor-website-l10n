@@ -99,8 +99,8 @@ dashboard-top-banner-lets-keep-protecting-title = Continuons à protéger vos do
 # $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
 dashboard-top-banner-lets-keep-protecting-description =
     { $exposures_unresolved_num ->
-        [one] Vous avez encore { $exposures_unresolved_num } exposition à corriger. Continuez et protégez-vous. Nous vous guiderons pas à pas.
-       *[other] Il vous reste encore { $exposures_unresolved_num } à corriger. Continuez et protégez-vous. Nous vous guiderons pas à pas.
+        [one] Il vous reste { $exposures_unresolved_num } fuite à résoudre. Continuez et protégez-vous. Nous vous guiderons pas à pas.
+       *[other] Il vous reste { $exposures_unresolved_num } fuites à résoudre. Continuez et protégez-vous. Nous vous guiderons pas à pas.
     }
 dashboard-top-banner-lets-keep-protecting-cta = Continuons
 dashboard-top-banner-protect-your-data-title = Protégeons vos données
