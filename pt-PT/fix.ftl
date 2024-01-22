@@ -22,11 +22,11 @@ fix-flow-celebration-next-dashboard-label = Ir para o seu Painel
 ## High-risk flow
 
 fix-flow-celebration-high-risk-title = Corrigiu as suas exposições de alto risco!
-fix-flow-celebration-high-risk-description-in-progress = Fazer este trabalho pode parecer muito, mas é importante fazê-lo para se manter seguro. Continue com o bom trabalho.
-fix-flow-celebration-high-risk-description-done = Fazer este trabalho pode parecer muito, mas é importante fazê-lo para se manter seguro.
-fix-flow-celebration-high-risk-description-next-passwords = Agora vamos corrigir as suas palavras-passe expostas.
-fix-flow-celebration-high-risk-description-next-security-questions = Agora vamos corrigir as suas questões de segurança expostas.
-fix-flow-celebration-high-risk-description-next-security-recommendations = A seguir, iremos dar-lhe recomendações de segurança personalizadas com base nos dados seus que foram expostos.
+fix-flow-celebration-high-risk-description-in-progress = Fazer este trabalho pode parecer demasiado, mas é importante para se manter em segurança. Continue com o bom trabalho.
+fix-flow-celebration-high-risk-description-done = Fazer este trabalho pode parecer demasiado, mas é importante para se manter em segurança.
+fix-flow-celebration-high-risk-description-next-passwords = Vamos corrigir agora as suas palavras-passe expostas.
+fix-flow-celebration-high-risk-description-next-security-questions = Vamos corrigir agora as suas questões de segurança expostas.
+fix-flow-celebration-high-risk-description-next-security-recommendations = De seguida iremos fornecer-lhe recomendações de segurança personalizadas com base nos seus dados que foram expostos.
 fix-flow-celebration-high-risk-description-next-dashboard = Chegou ao fim dos seus passos. Pode ver quaisquer itens de ação e acompanhar o seu progresso no seu painel.
 
 ## Leaked passwords and security questions flow
@@ -50,8 +50,8 @@ high-risk-breach-subheading = Isto requer acesso à sua informação sensível, 
 # $num_breaches is the number of breaches where the high risk data was found.
 high-risk-breach-summary =
     { $num_breaches ->
-        [one] Este apareceu em { $num_breaches } violações de dados:
-       *[other] Este apareceu em { $num_breaches } violações de dados:
+        [one] Apareceu em { $num_breaches } violação de dados:
+       *[other] Apareceu em { $num_breaches } violações de dados:
     }
 # Variables
 # $breach_name is the name of the breach where the high risk data was found.
