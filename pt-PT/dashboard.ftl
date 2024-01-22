@@ -16,7 +16,7 @@ exposure-chart-heading =
     }
 # Variables:
 #   $nr (number) - Number of fixed exposures found for the user
-exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label> Corrigido</label>
+exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label> Corrigidas</label>
 exposure-chart-legend-heading-type = exposição
 exposure-chart-legend-heading-nr = Número
 # Variables:
@@ -26,23 +26,23 @@ exposure-chart-caption = Este gráfico mostra quantas vezes a sua informação �
 # Variables:
 #   $total_fixed_exposures_num (number) - Number of fixed exposures
 #   $total_exposures_num (number) - Number of total exposures
-exposure-chart-caption-fixed = Este gráfico mostra o total de exposição que são fixas ({ $total_fixed_exposures_num } de { $total_exposures_num })
+exposure-chart-caption-fixed = Este gráfico mostra o total de exposições que estão corrigidas ({ $total_fixed_exposures_num } de { $total_exposures_num })
 exposure-chart-returning-user-upgrade-prompt = Endereço pessoal, membros da família e outros ainda não estão incluídos.
 exposure-chart-returning-user-upgrade-prompt-cta = Iniciar uma verificação gratuita
-exposure-chart-scan-in-progress-prompt = <b>Digitalização em progresso:</b> endereço, membros da família e outros ainda não foram incluídos.
-modal-active-number-of-exposures-title = Acerca do seu número de exposição ativas
+exposure-chart-scan-in-progress-prompt = <b>Verificação em curso:</b> endereço, membros da família e outros ainda não foram incluídos.
+modal-active-number-of-exposures-title = Sobre o seu número de exposições ativas
 # Variables:
 #   $limit (number) - Number of email addresses included in the plan
 modal-active-number-of-exposures-part-one-all =
     { $limit ->
-        [one] Este gráfico inclui o número total de vezes que encontrámos cada tipo de dados exposto em todas as brechas de dados para o endereço de e-mail { $limit } que está atualmente a monitorizar.
-       *[other] Este gráfico inclui o número total de vezes que encontrámos cada tipo de dados exposto em todas as brechas de dados para até { $limit } endereços de e-mail que está atualmente a monitorizar.
+        [one] Este gráfico inclui o número total de vezes que encontrámos cada tipo de dados exposto em todas as violações de dados para { $limit } endereço de e-mail que está atualmente a monitorizar.
+       *[other] Este gráfico inclui o número total de vezes que encontrámos cada tipo de dados exposto em todas as violações de dados para até { $limit } endereços de e-mail que está atualmente a monitorizar.
     }
-modal-active-number-of-exposures-part-two = Por exemplo, se tiver 10 exposição ao seu número de telefone, isto pode significar que um número de telefone está exposto em 10 sites diferentes, ou pode significar que 2 números de telefone diferentes foram expostos em 5 sites diferentes.
-modal-active-number-of-exposures-part-three-all = Assim que resolvidas, serão adicionadas ao seu número total de exposição fixas na página Fixado.
-modal-fixed-number-of-exposures-title = Acerca do seu número de exposição fixa
-modal-fixed-number-of-exposures-all = Este gráfico inclui o número total de violações de dados que foram corrigidas para todos os endereços de e-mail que está a monitorizar atualmente. Assim que as experiências forem marcadas como fixas, as mesmas serão adicionadas ao total.
-modal-cta-ok = OK
+modal-active-number-of-exposures-part-two = Por exemplo, se tiver 10 exposições do seu número de telefone, isto pode significar que um número de telefone está exposto em 10 sites diferentes, ou pode significar que 2 números de telefone diferentes foram expostos em 5 sites diferentes.
+modal-active-number-of-exposures-part-three-all = Após a sua resolução, serão adicionadas ao seu número total de exposições corrigidas na página Corrigidas.
+modal-fixed-number-of-exposures-title = Sobre o seu número de exposições corrigidas
+modal-fixed-number-of-exposures-all = Este gráfico inclui o número total de violações de dados que foram corrigidas para todos os endereços de e-mail que está atualmente a monitorizar. Assim que as exposições forem marcadas como corrigidas, as mesmas serão adicionadas ao total.
+modal-cta-ok = Ok
 modal-open-alt = Abrir
 modal-close-alt = Fechar
 progress-card-heres-what-we-fixed-headline-all = Eis o que corrigiu
@@ -57,7 +57,7 @@ dashboard-exposures-area-headline = Ver todos os sites onde a sua informação e
 dashboard-exposures-area-description-all-line1 =
     { $exposures_unresolved_num ->
         [one] Encontrámos { $exposures_unresolved_num } exposição dos seus dados.
-       *[other] Encontrámos { $exposures_unresolved_num } exposição dos seus dados.
+       *[other] Encontrámos { $exposures_unresolved_num } exposições dos seus dados.
     }
 # Note: this line follows dashboard-exposures-area-description-all-line1.
 # Variables:
