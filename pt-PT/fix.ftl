@@ -65,37 +65,37 @@ high-risk-breach-skip = Ignorar por agora
 # An example of this string is Your estimated time: 15+ minutes.
 high-risk-breach-estimated-time =
     { $estimated_time ->
-        [one] O tempo estimado: +{ $estimated_time } minutos
-       *[other] O tempo estimado: +{ $estimated_time } minutos
+        [one] O seu tempo estimado: mais de { $estimated_time } minuto
+       *[other] O seu tempo estimado: mais de { $estimated_time } minutos
     }
 
 # Credit Card Breaches
 
 high-risk-breach-credit-card-title = O número do seu cartão de crédito foi exposto
-high-risk-breach-credit-card-description = Qualquer pessoa que os obtenha pode fazer compras não autorizadas que podem ser responsáveis. Aja agora para evitar problemas financeiros.
-high-risk-breach-credit-card-step-one = Se ainda tem este cartão, contacte o emissor para reportar o roubo.
+high-risk-breach-credit-card-description = Qualquer pessoa que obtenha o mesmo pode fazer compras não autorizadas relativamente às quais você pode ser responsável. Aja agora para evitar problemas financeiros.
+high-risk-breach-credit-card-step-one = Se ainda tem este cartão, contacte o emissor para reportar o furto.
 high-risk-breach-credit-card-step-two = Solicite um novo cartão com um novo número.
-high-risk-breach-credit-card-step-three = Verifique as suas contas por cobranças não autorizadas.
+high-risk-breach-credit-card-step-three = Verifique se tem cobranças não autorizadas nas suas contas.
 
 # Bank Account Breaches
 
 high-risk-breach-bank-account-title = A sua conta bancária foi exposta
-high-risk-breach-bank-account-description = Agir o mais rapidamente possível pode fornecer mais proteções legais para ajudar a recuperar quaisquer perda.
+high-risk-breach-bank-account-description = Agir o mais rapidamente possível pode fornecer mais proteções legais para ajudar a recuperar qualquer perda.
 high-risk-breach-bank-account-step-one = Notifique imediatamente o seu banco que o número da sua conta foi comprometido.
 high-risk-breach-bank-account-step-two = Altere o número da sua conta.
-high-risk-breach-bank-account-step-three = Verifique as suas contas por cobranças não autorizadas.
+high-risk-breach-bank-account-step-three = Verifique se tem cobranças não autorizadas nas suas contas.
 
 # Social Security Number Breaches
 
 high-risk-breach-social-security-title = O seu número da segurança social foi exposto
 high-risk-breach-social-security-description = Os burlões podem conseguir novos empréstimos ou cartões de crédito com o seu número da segurança social. Aja rapidamente para evitar danos financeiros.
 high-risk-breach-social-security-step-one = Proteja-se <link_to_info>configurando um alerta de fraude ou congelando o seu crédito.</link_to_info>
-high-risk-breach-social-security-step-two = <link_to_info>Confirme o seu relatório de crédito</link_to_info> para contas desconhecidas.
+high-risk-breach-social-security-step-two = <link_to_info>Confirme o seu extracto de crédito</link_to_info> por contas desconhecidas.
 
 # Social Security Number Modal
 
-ssn-modal-title = Acerca de alertas de fraude e bloqueios de crédito
-ssn-modal-description-fraud-part-one = <b>Um alerta de fraude</b> requer que as empresas verifiquem a sua identidade antes de emitir um novo crédito em seu nome. É gratuito, termina um ano e não afeta negativamente a sua pontuação de crédito.
+ssn-modal-title = Sobre os alertas de fraude e bloqueios de crédito
+ssn-modal-description-fraud-part-one = <b>Um alerta de fraude</b> requer que as empresas verifiquem a sua identidade antes de emitir um novo crédito em seu nome. É gratuito, tem a duração de um ano e não afeta negativamente a sua pontuação de crédito.
 ssn-modal-description-fraud-part-two = Para configurar um, contacte qualquer um dos três serviços de crédito. Não precisa de contactar os três.
 ssn-modal-description-freeze-credit-part-one = <b>Congerar o seu crédito</b> impede que alguém abra uma nova conta em seu nome. É gratuito e não irá afetar negativamente a sua pontuação de crédito, mas irá precisar de o desbloquear antes de abrir quaisquer novas contas.
 ssn-modal-description-freeze-credit-part-two = Para congelar o seu crédito, contacte cada uma das três empresas de crédito — <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> e <transunion_link>TransUnion</transunion_link>.
