@@ -24,10 +24,10 @@ fix-flow-celebration-next-dashboard-label = Accédez au tableau de bord
 fix-flow-celebration-high-risk-title = Vous avez corrigé vos expositions à haut risque !
 fix-flow-celebration-high-risk-description-in-progress = Faire ce travail peut paraitre beaucoup, mais il est important de le faire pour votre sécurité. Continuez votre bon travail.
 fix-flow-celebration-high-risk-description-done = Faire ce travail peut paraitre beaucoup, mais il est important de le faire pour votre sécurité.
-fix-flow-celebration-high-risk-description-next-passwords = Réparons vos mots de passe compromis.
-fix-flow-celebration-high-risk-description-next-security-questions = Résolvons à présent vos questions de sécurité révélées.
-fix-flow-celebration-high-risk-description-next-security-recommendations = Ensuite, nous vous donnerons des recommandations de sécurité personnalisées en fonction de vos données qui ont été exposées.
-fix-flow-celebration-high-risk-description-next-dashboard = Vous avez atteint le terme. Vous pouvez visualiser les actions à accomplir et suivre vos progrès sur votre tableau de bord.
+fix-flow-celebration-high-risk-description-next-passwords = Occupons-nous à présent de vos mots de passe compromis.
+fix-flow-celebration-high-risk-description-next-security-questions = Occupons-nous à présent de vos questions de sécurité compromises.
+fix-flow-celebration-high-risk-description-next-security-recommendations = Ensuite, nous vous proposerons des recommandations de sécurité personnalisées en fonction des données qui ont été divulguées.
+fix-flow-celebration-high-risk-description-next-dashboard = Vous avez atteint la dernière étape. Vous pouvez visualiser les actions à accomplir et suivre vos progrès sur votre tableau de bord.
 
 ## Leaked passwords and security questions flow
 
@@ -40,7 +40,7 @@ fix-flow-celebration-leaked-passwords-description-next-dashboard = Bien joué !
 ## Security recommendations flow
 
 fix-flow-celebration-security-recommendations-title = Vous avez appliqué toutes vos recommandations.
-fix-flow-celebration-security-recommendations-description-next-dashboard = Bien joué ! Vous avez atteint le terme. Vous pouvez visualiser les actions à accomplir et suivre vos progrès sur votre tableau de bord.
+fix-flow-celebration-security-recommendations-description-next-dashboard = Bien joué ! Vous avez atteint la dernière étape. Vous pouvez visualiser les actions à accomplir et suivre vos progrès sur votre tableau de bord.
 
 # High Risk Data Breaches
 
