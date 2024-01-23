@@ -13,10 +13,10 @@ landing-all-hero-image-chart-label = expositions
 
 # Value Proposition
 
-landing-all-value-prop-fix-exposures = Nous vous aiderons à corriger vos risques de fuite de données
-landing-all-value-prop-fix-exposures-description = Notre mission est de rendre le contrôle de vos données personnelles entre vos mains. Nous vous aiderons à résoudre les fuites de données et à protéger la confidentialité de vos informations, et nous <privacy_link>respecterons votre vie privée</privacy_link> ce faisant.
+landing-all-value-prop-fix-exposures = Nous vous aiderons à résoudre vos fuites de données
+landing-all-value-prop-fix-exposures-description = Notre mission est de vous aider à reprendre le contrôle de vos données personnelles. Nous vous aiderons à résoudre les fuites de données et à protéger la confidentialité de vos informations, et nous <privacy_link>respecterons votre vie privée</privacy_link> ce faisant.
 landing-all-value-prop-info-at-risk = Quelles informations pourraient être menacées ?
-landing-all-value-prop-info-at-risk-description = Les fuites de données font malheureusement partie de notre vie numérique. Vos mots de passe, coordonnées, informations financières et autres informations personnelles peuvent être compromis, vous exposer à un vol d’identité.
+landing-all-value-prop-info-at-risk-description = Les fuites de données font malheureusement partie de notre vie numérique. Vos mots de passe, coordonnées, informations financières et autres informations personnelles peuvent être compromis, vous exposant à un risque de vol d’identité.
 
 # Quote
 
