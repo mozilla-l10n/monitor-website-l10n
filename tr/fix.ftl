@@ -100,6 +100,7 @@ high-risk-breach-pin-step-three = Hesaplarınızda tanımadığınız ödemeler 
 
 # No high risk breaches found
 
+high-risk-breach-none-title = Her şey yolunda, yüksek riskli herhangi bir veri ihlali bulamadık
 # Variables
 # $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
 high-risk-breach-none-description = E-posta adresinize bağlı olarak veri ihlalleri tespit ettik. { $email_list } için yüksek riskli veri ihlalleri bulamadık.
