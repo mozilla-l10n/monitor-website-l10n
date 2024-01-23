@@ -108,18 +108,14 @@ dashboard-top-banner-protect-your-data-cta = Résoudre
 # Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
 # Variables:
 #   $exposures_unresolved_num (number) - the total number of exposures the user has.
-dashboard-top-banner-non-us-protect-your-data-description-line1 =
-    { $exposures_unresolved_num ->
-        [one] Nous avons détecté { $exposures_unresolved_num } pour vos données.
-       *[other] Nous avons trouvé { $exposures_unresolved_num } risques de vos données.
-    }
+dashboard-top-banner-non-us-protect-your-data-description-line1 = Nous avons détecté vos données { $exposures_unresolved_num } fois.
 # Note: this line is preceded by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
 # Variables:
 #   $data_breach_unresolved_num (number) - the total number of data breaches the user has.
 dashboard-top-banner-non-us-protect-your-data-description-line2 =
     { $data_breach_unresolved_num ->
-        [one] Elle apparaît dans { $data_breach_unresolved_num } fuite de données. Nous vous guiderons pas à pas pour résoudre le problème.
-       *[other] Elle apparaît à travers { $data_breach_unresolved_num } fuites de données. Nous vous guiderons pas à pas pour résoudre le problème.
+        [one] Elles apparaissent dans { $data_breach_unresolved_num } fuite de données. Nous vous guiderons pas à pas pour résoudre le problème.
+       *[other] Elles apparaissent dans { $data_breach_unresolved_num } fuites de données. Nous vous guiderons pas à pas pour résoudre le problème.
     }
 dashboard-top-banner-non-us-no-exposures-found-description = Bonne nouvelle ! Nous avons cherché toutes les fuites de données connues et n’avons trouvé aucune exposition. Nous continuerons à surveiller votre adresse électronique et vous informerons si une nouvelle fuite de données se produit.
 # Variables:
