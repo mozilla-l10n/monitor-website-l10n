@@ -117,7 +117,9 @@ dashboard-top-banner-non-us-protect-your-data-description-line2 =
         [one] Elles apparaissent dans { $data_breach_unresolved_num } fuite de données. Nous vous guiderons pas à pas pour résoudre le problème.
        *[other] Elles apparaissent dans { $data_breach_unresolved_num } fuites de données. Nous vous guiderons pas à pas pour résoudre le problème.
     }
+dashboard-top-banner-no-exposures-found-title = Aucune fuite détectée
 dashboard-top-banner-non-us-no-exposures-found-description = Bonne nouvelle ! Nous avons recherché dans toutes les fuites de données connues et n’avons trouvé aucune trace de vos données. Nous continuerons à surveiller votre adresse e-mail et vous informerons si une nouvelle fuite de données se produit.
+dashboard-no-exposures-label = Aucune fuite détectée
 # Variables:
 # $exposures_resolved_num is the number of exposures the user has resolved.
 dashboard-top-banner-non-us-your-data-is-protected-description =

@@ -9,7 +9,7 @@ landing-all-hero-emailform-input-placeholder = votrenom@example.com
 landing-all-hero-emailform-input-label = Saisissez votre adresse e-mail pour vérifier l’existence de fuites de données.
 landing-all-hero-emailform-submit-label = Effectuer un scan gratuit
 # This is a label underneath a big number "14" - it's an image that demos Monitor.
-landing-all-hero-image-chart-label = expositions
+landing-all-hero-image-chart-label = détections
 
 # Value Proposition
 
