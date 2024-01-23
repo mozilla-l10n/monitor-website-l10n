@@ -122,14 +122,14 @@ dashboard-top-banner-non-us-no-exposures-found-description = Bonne nouvelle ! N
 # $exposures_resolved_num is the number of exposures the user has resolved.
 dashboard-top-banner-non-us-your-data-is-protected-description =
     { $exposures_resolved_num ->
-        [one] Excellent travail, l’exposition de vos données est corrigée ! Nous continuerons de vous surveiller et vous avertirons en cas de nouveau risque.
-       *[other] Excellent travail, tous les risques de { $exposures_resolved_num } de vos données sont corrigés ! Nous continuerons de vous surveiller et vous avertirons en cas de nouveau risque.
+        [one] Excellent travail, la fuite a été résolue ! Nous continuerons de surveiller vos données et vous avertirons en cas de nouvelle fuite.
+       *[other] Excellent travail, vos { $exposures_resolved_num } fuites ont été résolues ! Nous continuerons de surveiller vos données et vous avertirons en cas de nouvelle fuite.
     }
 dashboard-top-banner-monitor-more-cta = Surveiller davantage d’adresses e-mail
 
 # About Exposure Statuses Modal
 
 modal-exposure-status-title = À propos des états des différentes fuites
-modal-exposure-status-description-all = Nous recherchons les expositions dans toutes les fuites de données connues. Vos engagements auront l’un des statuts suivants :
-modal-exposure-status-action-needed = <b>Action nécessaire</b> signifie qu’il est actuellement actif et que vous devez prendre des mesures pour le corriger.
-modal-exposure-status-fixed = <b>Résolu</b> signifie que le problème a été résolu et que vous n’avez aucune action à accomplir.
+modal-exposure-status-description-all = Nous recherchons la présence de vos données dans toutes les fuites de données connues. Vos fuites auront l’un des états suivants :
+modal-exposure-status-action-needed = <b>Action nécessaire</b> signifie que la fuite est active et que vous devez prendre des mesures pour la résoudre.
+modal-exposure-status-fixed = <b>Résolue</b> signifie que la fuite a été résolue et que vous n’avez aucune action à accomplir.
