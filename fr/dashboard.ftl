@@ -30,7 +30,7 @@ exposure-chart-caption = Ce graphique montre combien de fois vos informations so
 # Variables:
 #   $total_fixed_exposures_num (number) - Number of fixed exposures
 #   $total_exposures_num (number) - Number of total exposures
-exposure-chart-caption-fixed = Ce graphique affiche le nombre total d’expositions qui sont corrigées ({ $total_fixed_exposures_num } sur { $total_exposures_num })
+exposure-chart-caption-fixed = Ce graphique affiche le nombre total de fuites résolues ({ $total_fixed_exposures_num } sur { $total_exposures_num })
 exposure-chart-returning-user-upgrade-prompt = L’adresse personnelle, les membres de la famille et d’autres données ne sont pas encore inclus.
 exposure-chart-returning-user-upgrade-prompt-cta = Lancer une analyse gratuite
 exposure-chart-scan-in-progress-prompt = <b>Scan en cours :</b> l’adresse, les membres de la famille et d’autres données ne sont pas encore inclus.
@@ -39,8 +39,8 @@ modal-active-number-of-exposures-title = À propos du nombre de fuites actives
 #   $limit (number) - Number of email addresses included in the plan
 modal-active-number-of-exposures-part-one-all =
     { $limit ->
-        [one] Ce graphique comprend le nombre total de fois où nous avons détecté chaque type de données parmi toutes les fuites de données pour l’adresse e-mail { $limit } que vous surveillez.
-       *[other] Ce graphique inclut le nombre de fois où nous avons détecté chaque type de données exposé parmi toutes les fuites de données pour un maximum de { $limit } adresses e-mail que vous surveillez.
+        [one] Ce graphique comprend le nombre total de fois où nous avons détecté chaque type de données parmi toutes les fuites de données pour l’adresse e-mail que vous surveillez.
+       *[other] Ce graphique comprend le nombre total de fois où nous avons détecté chaque type de données parmi toutes les fuites de données pour les { $limit } adresses e-mail que vous surveillez.
     }
 modal-active-number-of-exposures-part-two = Par exemple, si votre numéro de téléphone a fuité 10 fois, cela peut signifier qu’un numéro de téléphone a fuité sur 10 sites différents, ou cela pourrait signifier que 2 numéros de téléphone différents ont fuité sur 5 sites différents.
 modal-active-number-of-exposures-part-three-all = Une fois résolues, elles seront ajoutées à votre nombre total de fuites résolues sur la page Résolues.
