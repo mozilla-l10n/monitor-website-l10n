@@ -43,7 +43,7 @@ modal-active-number-of-exposures-part-one-all =
        *[other] Ce graphique inclut le nombre de fois où nous avons détecté chaque type de données exposé parmi toutes les fuites de données pour un maximum de { $limit } adresses e-mail que vous surveillez.
     }
 modal-active-number-of-exposures-part-two = Par exemple, si votre numéro de téléphone a fuité 10 fois, cela peut signifier qu’un numéro de téléphone a fuité sur 10 sites différents, ou cela pourrait signifier que 2 numéros de téléphone différents ont fuité sur 5 sites différents.
-modal-active-number-of-exposures-part-three-all = Une fois résolus, ils seront ajoutés à votre nombre total de risques corrigés sur la page Corrigés.
+modal-active-number-of-exposures-part-three-all = Une fois résolues, elles seront ajoutées à votre nombre total de fuites résolues sur la page Résolues.
 modal-fixed-number-of-exposures-title = À propos du nombre de fuites résolues
 modal-fixed-number-of-exposures-all = Ce graphique comprend le nombre total de fuites de données qui ont été corrigées pour toutes les adresses e-mail que vous surveillez actuellement. Une fois les fuites marquées comme corrigées, elles seront ajoutées au total ici.
 modal-cta-ok = OK
