@@ -129,7 +129,7 @@ dashboard-top-banner-monitor-more-cta = Surveiller davantage d’adresses e-mail
 
 # About Exposure Statuses Modal
 
-modal-exposure-status-title = À propos des statuts de visibilité
+modal-exposure-status-title = À propos des états des différentes fuites
 modal-exposure-status-description-all = Nous recherchons les expositions dans toutes les fuites de données connues. Vos engagements auront l’un des statuts suivants :
 modal-exposure-status-action-needed = <b>Action nécessaire</b> signifie qu’il est actuellement actif et que vous devez prendre des mesures pour le corriger.
 modal-exposure-status-fixed = <b>Résolu</b> signifie que le problème a été résolu et que vous n’avez aucune action à accomplir.
