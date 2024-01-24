@@ -93,7 +93,7 @@ ssn-modal-ok = Tamam
 
 # PIN Breaches
 
-high-risk-breach-pin-title = PIN’iniz ele geçirilmiş
+high-risk-breach-pin-title = PIN’iniz ele geçirildi
 high-risk-breach-pin-description = En kısa sürede harekete geçmeniz, kayıplarınızı karşılamanıza yardımcı olacak daha fazla hukuki koruma sağlayabilir.
 high-risk-breach-pin-step-one = PIN’inizin ele geçirildiğini hemen bankanıza bildirin.
 high-risk-breach-pin-step-two = Aynı PIN’i kullandığınız her yerde PIN’lerinizi değiştirin.
@@ -172,7 +172,7 @@ leaked-passwords-steps-subtitle = Bunun için hesabınıza erişim gerekiyor, o 
 # $breach_name is the name of the breach where the leaked password was found.
 # $emails_affected are the emails associated with the breach.
 leaked-passwords-step-one = <link_to_breach_site>{ $breach_name }</link_to_breach_site> sitesindeki/uygulamasındaki <b>{ $emails_affected }</b> hesabınızın parolasını değiştirin.
-leaked-passwords-step-two = Kullandığınız her yerde değiştirin.
+leaked-passwords-step-two = Bu parolayı kullandığınız her yerde değiştirin.
 leaked-passwords-mark-as-fixed = Düzeltildi olarak işaretle
 leaked-passwords-skip = Şimdilik geç
 # Variables
@@ -187,7 +187,7 @@ leaked-passwords-estimated-time =
 
 # Leaked Security Questions
 
-leaked-security-questions-title = Güvenlik sorularınız ele geçirilmiş
+leaked-security-questions-title = Güvenlik sorularınız ele geçirildi
 # Variables
 # $breach_name is the name of the breach where the leaked security questions were found.
 # $breach_date is the date when the breach occurred.

@@ -28,6 +28,7 @@ landing-all-faq-title = Sıkça sorulan sorular
 # FAQ is an acronym for Frequently Asked Questions
 landing-all-faq-see-all = Tüm SSS’lere bakın
 landing-all-data-breach-definition-qn = Veri ihlali tam olarak nedir?
+landing-all-data-breach-definition-ans = Kişisel veya özel bilgilerinizin ifşa olmasına, çalınmasına veya sizden izinsiz kopyalanmasına veri ihlali denir. Bu olaylar; kişisel bilgilerin barındırıldığı web sitelerine, uygulamalara ve veritabanlarına yapılan siber saldırılardan kaynaklanabilir. Bazı veri ihlalleri yanlışlıkla da gerçekleşebilir (örn. birine ait hesap bilgilerinin herkese açık bir şekilde paylaşılması).
 landing-all-data-breach-next-steps-qn = Bilgilerimin ele geçirildiğini öğrendim. Ne yapmalıyım?
 landing-all-data-breach-info-qn = Veri ihlallerinde hangi bilgiler açığa çıkar?
 landing-all-data-breach-info-ans = Tüm ihlallerde aynı bilgiler açığa çıkmaz. Sonuç, bilgisayar korsanlarının hangi bilgilere erişebildiğine bağlıdır. Birçok veri ihlalinde e-posta adresleri ve parolalar ele geçirilir. Bazılarında kredi kartı numaraları, PIN numaraları ve kimlik numaraları gibi daha hassas bilgiler de ele geçirilebilir.
