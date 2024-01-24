@@ -17,14 +17,14 @@ guided-resolution-flow-step-navigation-label = Rehberli adımlar
 
 fix-flow-celebration-next-label = Devam edelim
 fix-flow-celebration-next-recommendations-label = Önerilere bak
-fix-flow-celebration-next-dashboard-label = Kontrol panelinize gidin
+fix-flow-celebration-next-dashboard-label = Kontrol paneline git
 
 ## High-risk flow
 
 fix-flow-celebration-high-risk-title = Yüksek riskli ihlallerinizi düzelttiniz!
 fix-flow-celebration-high-risk-description-next-passwords = Şimdi açığa çıkmış parolaları düzeltelim.
 fix-flow-celebration-high-risk-description-next-security-questions = Şimdi açığa çıkmış güvenlik sorularınızı düzeltelim.
-fix-flow-celebration-high-risk-description-next-security-recommendations = Ardından, hangi verilerinizin ele geçirildiğine göre size kişiselleştirilmiş güvenlik önerileri sunacağız.
+fix-flow-celebration-high-risk-description-next-security-recommendations = Şimdi, hangi verilerinizin ele geçirildiğine bağlı olarak size özel güvenlik önerileri sunacağız.
 fix-flow-celebration-high-risk-description-next-dashboard = Adımlarınızın sonuna geldiniz. Kontrol panelinizden istediğiniz işlemi görebilir ve ilerlemenizi takip edebilirsiniz.
 
 ## Leaked passwords and security questions flow
@@ -32,7 +32,7 @@ fix-flow-celebration-high-risk-description-next-dashboard = Adımlarınızın so
 fix-flow-celebration-leaked-passwords-title = Parolalarınız artık koruma altında!
 fix-flow-celebration-security-questions-title = Güvenlik sorularınız koruma altında!
 fix-flow-celebration-leaked-passwords-description-next-security-questions = Şimdi açığa çıkmış güvenlik sorularınızı inceleyip güncelleyelim.
-fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Ardından, hangi verilerinizin ele geçirildiğine göre size kişiselleştirilmiş güvenlik önerileri sunacağız.
+fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Şimdi, hangi verilerinizin ele geçirildiğine bağlı olarak size özel güvenlik önerileri sunacağız.
 fix-flow-celebration-leaked-passwords-description-next-dashboard = Tebrikler! Adımlarınızın sonuna geldiniz. Kontrol panelinizden istediğiniz işlemi görebilir ve ilerlemenizi takip edebilirsiniz.
 
 ## Security recommendations flow
