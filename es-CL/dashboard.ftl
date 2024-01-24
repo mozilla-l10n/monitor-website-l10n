@@ -31,7 +31,9 @@ exposure-chart-returning-user-upgrade-prompt = El domicilio, los miembros de la 
 exposure-chart-returning-user-upgrade-prompt-cta = Iniciar un escaneo gratuito
 exposure-chart-scan-in-progress-prompt = <b> Escaneo en proceso: </b> direcciones, miembros de la familia y otros aún no están incluidos.
 modal-active-number-of-exposures-title = Acerca del número de exposiciones activas
+modal-active-number-of-exposures-part-two = Por ejemplo, si tienes 10 exposiciones de tu número de teléfono, eso podría significar que 1 número de teléfono está expuesto en 10 sitios diferentes o podría significar que 2 números de teléfono diferentes se expusieron en 5 sitios diferentes.
 modal-active-number-of-exposures-part-three-all = Una vez que se resuelvan, se agregarán a tu número total de exposiciones corregidas en la página de Corregidas.
+modal-fixed-number-of-exposures-title = Acerca del número de exposiciones arregladas
 modal-cta-ok = Aceptar
 modal-open-alt = Abrir
 modal-close-alt = Cerrar
@@ -41,6 +43,14 @@ dashboard-tab-label-action-needed = Acción necesaria
 dashboard-tab-label-fixed = Corregida
 dashboard-exposures-all-fixed-label = ¡Todo lo corregido está aquí!
 dashboard-exposures-area-headline = Ver todos los sitios donde se expone tu información
+# Note: this line precedes dashboard-exposures-area-description-all-line2.
+# Variables:
+#   $exposures_unresolved_num (number) - the unresolved number of exposures the user has.
+dashboard-exposures-area-description-all-line1 =
+    { $exposures_unresolved_num ->
+        [one] Encontramos { $exposures_unresolved_num } exposición de tus datos.
+       *[other] Encontramos { $exposures_unresolved_num } exposiciones de tus datos.
+    }
 # Note: this line follows dashboard-exposures-area-description-all-line1.
 # Variables:
 #   $data_breach_unresolved_num (number) - the unresolved number of data breaches the user has.
