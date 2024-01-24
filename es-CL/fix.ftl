@@ -38,6 +38,7 @@ fix-flow-celebration-leaked-passwords-description-next-security-questions = Ahor
 
 # High Risk Data Breaches
 
+high-risk-breach-heading = Esto es lo que debes hacer
 high-risk-breach-mark-as-fixed = Marcar como corregido
 high-risk-breach-skip = Saltar por ahora
 
