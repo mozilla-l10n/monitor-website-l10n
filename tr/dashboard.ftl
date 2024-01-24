@@ -77,6 +77,13 @@ dashboard-top-banner-scan-in-progress-title = Taramanız hâlâ devam ediyor
 dashboard-top-banner-your-data-is-protected-title = Verileriniz korunuyor
 dashboard-top-banner-your-data-is-protected-cta = Nelerin düzeltildiğini görün
 dashboard-top-banner-lets-keep-protecting-title = Verilerinizi korumaya devam edelim
+# Variables:
+# $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
+dashboard-top-banner-lets-keep-protecting-description =
+    { $exposures_unresolved_num ->
+        [one] Hâlâ düzeltmeniz gereken { $exposures_unresolved_num } veri ihlali var. Düzeltmeye devam ederek kendinizi koruyun. Size adım adım rehberlik edeceğiz.
+       *[other] Hâlâ düzeltmeniz gereken { $exposures_unresolved_num } veri ihlali var. Düzeltmeye devam ederek kendinizi koruyun. Size adım adım rehberlik edeceğiz.
+    }
 dashboard-top-banner-lets-keep-protecting-cta = Devam edelim
 dashboard-top-banner-protect-your-data-title = Verilerinizi koruyalım
 dashboard-top-banner-protect-your-data-cta = Hadi düzeltelim

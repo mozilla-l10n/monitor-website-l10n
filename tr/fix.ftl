@@ -85,6 +85,7 @@ high-risk-breach-bank-account-step-three = Hesaplarınızda tanımadığınız �
 # Social Security Number Breaches
 
 high-risk-breach-social-security-title = Sosyal güvenlik numaranız ele geçirildi
+high-risk-breach-social-security-step-two = <link_to_info>Kredi raporunuzda</link_to_info> tanımadığınız hesaplar olup olmadığını kontrol edin.
 
 # Social Security Number Modal
 
@@ -128,6 +129,7 @@ security-recommendation-phone-summary =
     }
 security-recommendation-phone-description = Maalesef bunu geri alamazsınız ama güvende kalmak için atabileceğiniz adımlar var.
 security-recommendation-phone-step-one = Daha fazla gereksiz aramayı önlemek için spam numaraları engelleyebilirsiniz
+security-recommendation-phone-step-two = Tanımadığınız kişilerden gelen mesajlardaki bağlantılara tıklamayın, güvenilir bir kaynaktan geliyormuş gibi görünüyorsa karşı tarafı arayıp onayını alın
 
 # Email security recommendation
 
@@ -139,6 +141,7 @@ security-recommendation-email-summary =
        *[other] E-posta adresiniz { $num_breaches } veri ihlalinde ele geçirildi:
     }
 security-recommendation-email-description = Maalesef bunu düzeltemezsiniz. Ancak kendinizi korumak için atabileceğiniz adımlar var.
+security-recommendation-email-step-one = Tanımadığınız kişilerden gelen e-postalardaki bağlantılara tıklamayın, güvenilir bir kaynaktan geliyormuş gibi görünüyorsa karşı tarafı arayıp onayını alın
 security-recommendation-email-step-two = <link_to_info>Kimlik avı dolandırıcılığına</link_to_info> dikkat edin
 security-recommendation-email-step-three = Şüpheli e-postaları spam olarak işaretleyip göndereni engelleyin
 security-recommendation-email-step-four = E-postalarınızı korumak için <link_to_info>{ -brand-relay } e-posta maskelerini</link_to_info> kullanabilirsiniz
