@@ -41,6 +41,14 @@ dashboard-tab-label-action-needed = Acción necesaria
 dashboard-tab-label-fixed = Corregida
 dashboard-exposures-all-fixed-label = ¡Todo lo corregido está aquí!
 dashboard-exposures-area-headline = Ver todos los sitios donde se expone tu información
+# Note: this line follows dashboard-exposures-area-description-all-line1.
+# Variables:
+#   $data_breach_unresolved_num (number) - the unresolved number of data breaches the user has.
+dashboard-exposures-area-description-all-line2 =
+    { $data_breach_unresolved_num ->
+        [one] Apareció en { $data_breach_unresolved_num } filtración de datos.
+       *[other] Apareció en { $data_breach_unresolved_num } filtraciones de datos.
+    }
 dashboard-fixed-area-headline-all = Ver todas las exposiciones que están corregidas
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Filtro
@@ -65,6 +73,47 @@ dashboard-top-banner-scan-in-progress-title = Tu escaneo aún está en proceso
 dashboard-top-banner-your-data-is-protected-title = Tus datos están protegidos
 dashboard-top-banner-your-data-is-protected-cta = Revisa lo que está corregido
 dashboard-top-banner-lets-keep-protecting-title = Sigamos protegiendo tus datos
+# Variables:
+# $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
+dashboard-top-banner-lets-keep-protecting-description =
+    { $exposures_unresolved_num ->
+        [one] Todavía te queda { $exposures_unresolved_num } exposición por arreglar. Sigue adelante y protégete. Te guiaremos paso a paso.
+       *[other] Todavía te quedan { $exposures_unresolved_num } exposiciones por arreglar. Sigue adelante y protégete. Te guiaremos paso a paso.
+    }
+dashboard-top-banner-lets-keep-protecting-cta = Sigamos adelante
+dashboard-top-banner-protect-your-data-title = Protejamos tus datos
+dashboard-top-banner-protect-your-data-cta = Arreglémoslo
+# Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
+# Variables:
+#   $exposures_unresolved_num (number) - the total number of exposures the user has.
+dashboard-top-banner-non-us-protect-your-data-description-line1 =
+    { $exposures_unresolved_num ->
+        [one] Encontramos { $exposures_unresolved_num } exposición de tus datos.
+       *[other] Encontramos { $exposures_unresolved_num } exposiciones de tus datos.
+    }
+# Note: this line is preceded by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
+# Variables:
+#   $data_breach_unresolved_num (number) - the total number of data breaches the user has.
+dashboard-top-banner-non-us-protect-your-data-description-line2 =
+    { $data_breach_unresolved_num ->
+        [one] Apareció en { $data_breach_unresolved_num } filtración de datos. Te guiaremos paso a paso sobre cómo solucionarlo.
+       *[other] Apareció en { $data_breach_unresolved_num } filtraciones de datos. Te guiaremos paso a paso sobre cómo solucionarlo.
+    }
+dashboard-top-banner-no-exposures-found-title = No se encontraron exposiciones
+dashboard-top-banner-non-us-no-exposures-found-description = ¡Buenas noticias! Buscamos todas las filtraciones de datos conocidas y no encontramos exposiciones. Seguiremos monitoreando tu dirección de correo electrónico y te avisaremos si ocurre una nueva filtración.
+dashboard-no-exposures-label = No se encontraron exposiciones
+# Variables:
+# $exposures_resolved_num is the number of exposures the user has resolved.
+dashboard-top-banner-non-us-your-data-is-protected-description =
+    { $exposures_resolved_num ->
+        [one] ¡Buen trabajo, la exposición de tus datos está corregida! Seguiremos monitoreando y te avisaremos de cualquier nueva exposición.
+       *[other] ¡Buen trabajo, todas las { $exposures_resolved_num } exposiciones de tus datos están corregidas! Seguiremos monitoreando y te avisaremos de cualquier nueva exposición.
+    }
+dashboard-top-banner-monitor-more-cta = Monitorear más correos
 
 # About Exposure Statuses Modal
 
+modal-exposure-status-title = Acerca de los estados de exposición
+modal-exposure-status-description-all = Buscamos exposiciones en todas las filtraciones de datos conocidas. Tus exposiciones tendrán uno de los siguientes estados:
+modal-exposure-status-action-needed = <b>Acción necesaria</b> significa que está activa en este momento y necesitás tomar medidas para solucionarlo.
+modal-exposure-status-fixed = <b>Corregida</b> significa que la exposición se ha resuelto y no hay que hacer nada.
