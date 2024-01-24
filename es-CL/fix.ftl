@@ -29,15 +29,21 @@ fix-flow-celebration-high-risk-description-next-security-questions = Ahora arreg
 
 ## Leaked passwords and security questions flow
 
+fix-flow-celebration-leaked-passwords-title = ¡Tus contraseñas ahora están protegidas!
+fix-flow-celebration-security-questions-title = ¡Tus preguntas de seguridad están protegidas!
+fix-flow-celebration-leaked-passwords-description-next-security-questions = Ahora revisemos y actualicemos tus preguntas de seguridad expuestas.
 
 ## Security recommendations flow
 
 
 # High Risk Data Breaches
 
+high-risk-breach-mark-as-fixed = Marcar como corregido
+high-risk-breach-skip = Saltar por ahora
 
 # Credit Card Breaches
 
+high-risk-breach-credit-card-title = Tu número de tarjeta de crédito fue expuesto
 
 # Bank Account Breaches
 
@@ -47,9 +53,11 @@ fix-flow-celebration-high-risk-description-next-security-questions = Ahora arreg
 
 # Social Security Number Modal
 
+ssn-modal-ok = Aceptar
 
 # PIN Breaches
 
+high-risk-breach-pin-title = Tu PIN fue expuesto
 
 # No high risk breaches found
 
