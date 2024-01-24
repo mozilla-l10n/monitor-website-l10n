@@ -85,6 +85,7 @@ high-risk-breach-bank-account-step-three = Hesaplarınızda tanımadığınız �
 # Social Security Number Breaches
 
 high-risk-breach-social-security-title = Sosyal güvenlik numaranız ele geçirildi
+high-risk-breach-social-security-description = Dolandırıcılar sosyal güvenlik numaranızla kredi başvurusunda bulunabilir veya kredi kartı talep edebilir. Mali zararı önlemek için hemen harekete geçin.
 high-risk-breach-social-security-step-two = <link_to_info>Kredi raporunuzda</link_to_info> tanımadığınız hesaplar olup olmadığını kontrol edin.
 
 # Social Security Number Modal
@@ -166,6 +167,7 @@ leaked-passwords-title = { $breach_name } parolanız ele geçirildi
 # Variables
 # $breach_date is the date when the breach occurred.
 leaked-passwords-summary = { $breach_date } tarihinde meydana gelen bir veri ihlalinde yer alıyor.
+leaked-passwords-description = Dolandırıcılar bu bilgiyi kullanarak hesabınıza erişebilir. Ayrıca, aynı parolayla başka sitelerdeki hesaplarınıza girmeyi de deneyeceklerdir. Kendinizi korumak için bu parolayı kullandığınız her yerde değiştirin.
 leaked-passwords-steps-title = İşte yapmanız gerekenler
 leaked-passwords-steps-subtitle = Bunun için hesabınıza erişim gerekiyor, o yüzden kendiniz düzeltmeniz gerekecek.
 # Variables
@@ -193,7 +195,7 @@ leaked-security-questions-title = Güvenlik sorularınız ele geçirildi
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
 leaked-security-questions-summary = { $breach_date } tarihinde meydana gelen { $breach_name } veri ihlalinde yer alıyorlar.
-leaked-security-questions-description = Dolandırıcılar bunları hesaplarınıza ve aynı güvenlik sorularını kullandığınız diğer sitelere erişmek için kullanabilir. Hesaplarınızı korumak için güvenlik sorularını hemen şimdi güncelleyin.
+leaked-security-questions-description = Dolandırıcılar bu bilgileri kullanarak hesaplarınıza ve aynı güvenlik sorularını kullandığınız diğer sitelere erişebilir. Hesaplarınızı korumak için güvenlik sorularını hemen şimdi güncelleyin.
 leaked-security-questions-steps-title = İşte yapmanız gerekenler
 leaked-security-questions-steps-subtitle = Bunun için hesabınıza erişim gerekiyor, o yüzden kendiniz düzeltmeniz gerekecek.
 # Variables
