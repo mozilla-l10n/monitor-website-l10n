@@ -44,6 +44,8 @@ user-add-duplicate-email = Denne mailadresse er allerede føjet til { -product-n
 #   $preferencesLink (String) - Link to preferences
 #   $userEmail (String) - User email address
 user-add-duplicate-email-part-2 = Besøg { $preferencesLink } for at kontrollere status af { $userEmail }.
+user-add-verification-email-just-sent = En bekræftelsesmail til kan ikke sendes igen så kort tid efter. Prøv igen senere.
+user-add-unknown-error = Der opstod et problem med at tilføje en mailadresse til. Prøv igen senere.
 error-headline = Fejl
 user-verify-token-error = Der kræves et bekræftelses-token.
 user-verify-email-report-subject = Din { -product-name }-rapport
@@ -762,6 +764,9 @@ main-nav-button-expand-label = Åbn menu
 main-nav-button-expand-tooltip = Åbn menu
 main-nav-label = Navigation
 main-nav-link-home-label = Hjem
+main-nav-link-settings-label = Indstillinger
+main-nav-link-faq-label = Ofte stillede spørgsmål
+main-nav-link-faq-tooltip = Ofte stillede spørgsmål
 
 ## User menu
 
@@ -779,6 +784,15 @@ menu-item-settings = Indstillinger
 menu-item-help = Hjælp og support
 # Obsolete
 menu-item-logout = Log ud
+user-menu-trigger-label = Åbn brugermenuen
+user-menu-trigger-tooltip = Profil
+user-menu-manage-fxa-label = Håndter din { -brand-mozilla-account }
+user-menu-settings-label = Indstillinger
+user-menu-settings-tooltip = Opsæt { -brand-mozilla-monitor }
+user-menu-help-label = Hjælp og support
+user-menu-help-tooltip = Få hjælp til { -brand-mozilla-monitor }
+user-menu-signout-label = Log ud
+user-menu-signout-tooltip = Log ud af { -brand-mozilla-monitor }
 
 ## Footer
 
@@ -787,6 +801,8 @@ terms-of-service = Tjenestevilkår
 privacy-notice = Privatlivserklæring
 github = { -brand-github }
 footer-nav-all-breaches = Alle datalæk
+footer-external-link-faq-label = Ofte stillede spørgsmål
+footer-external-link-faq-tooltip = Ofte stillede spørgsmål
 
 ## Error page
 
@@ -822,3 +838,6 @@ floating-banner-dismiss-button-label = Nej tak
 
 ## Firefox Monitor -> Mozilla Monitor rebrand banner
 
+banner-monitor-rebrand-text = <b>{ -brand-mozilla-monitor }</b>: Nyt navn, nyt udseende, og endnu flere måder at <b>beskytte dit privatliv</b>.
+banner-monitor-rebrand-dismiss-button-label = OK
+banner-monitor-rebrand-dismiss-button-tooltip = Afvis
