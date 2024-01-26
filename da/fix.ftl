@@ -35,9 +35,26 @@ fix-flow-celebration-leaked-passwords-description-next-security-recommendations 
 
 ## Security recommendations flow
 
+fix-flow-celebration-security-recommendations-title = Du har gennemført alle dine anbefalinger!
 
 # High Risk Data Breaches
 
+high-risk-breach-heading = Du skal gøre sådan her
+high-risk-breach-subheading = Dette kræver adgang til dine følsomme data, så du er nødt til at løse problemet manuelt.
+# Variables
+# $num_breaches is the number of breaches where the high risk data was found.
+high-risk-breach-summary =
+    { $num_breaches ->
+        [one] De optrådte i { $num_breaches } datalæk:
+       *[other] De optrådte i { $num_breaches } datalæk:
+    }
+# Variables
+# $breach_name is the name of the breach where the high risk data was found.
+# $breach_date is the date when the breach occurred.
+# An example of this string is Twitter on 13/09/18.
+high-risk-breach-name-and-date = { $breach_name } <breach_date>den { $breach_date }</breach_date>
+high-risk-breach-mark-as-fixed = Marker som løst
+high-risk-breach-skip = Hop over indtil videre
 # Variables:
 # $estimated_time is the estimated time it would take for a user to complete breach resolution steps. It not be singular, and the + is meant as "or more".
 # An example of this string is Your estimated time: 15+ minutes.
@@ -49,6 +66,10 @@ high-risk-breach-estimated-time =
 
 # Credit Card Breaches
 
+high-risk-breach-credit-card-description = Alle, som kan få adgang til det, kan udføre uautoriserede køb, som du kan blive ansvarlig for. Handl nu for at undgå økonomiske problemer.
+high-risk-breach-credit-card-step-one = Hvis du stadig har kortet, så kontakt udstederen for at anmelde, at det er blevet stjålet.
+high-risk-breach-credit-card-step-two = Anmod om et kort med et nyt nummer.
+high-risk-breach-credit-card-step-three = Undersøg om dine kontoudtog indeholder uautoriserede transaktioner.
 
 # Bank Account Breaches
 
