@@ -73,30 +73,76 @@ high-risk-breach-credit-card-step-three = Undersøg om dine kontoudtog indeholde
 
 # Bank Account Breaches
 
+high-risk-breach-bank-account-title = Din bankkonto er blevet eksponeret
+high-risk-breach-bank-account-description = Ved at handle hurtigt kan du være bedre beskyttet juridisk og få hjælp til at få eventuelle tabte penge tilbage.
+high-risk-breach-bank-account-step-one = Giv straks din bank besked om, at dit kontonummer er blevet kompromitteret.
+high-risk-breach-bank-account-step-two = Skift dit kontonummer.
+high-risk-breach-bank-account-step-three = Undersøg om dine kontoudtog indeholder uautoriserede transaktioner.
 
 # Social Security Number Breaches
 
 
 # Social Security Number Modal
 
+ssn-modal-ok = OK
 
 # PIN Breaches
 
+high-risk-breach-pin-title = Din pinkode er blevet eksponeret
+high-risk-breach-pin-description = Ved at handle hurtigt kan du være bedre beskyttet juridisk og få hjælp til at få eventuelle tabte penge tilbage.
+high-risk-breach-pin-step-one = Giv straks din bank besked om, at din pinkode er blevet kompromitteret.
+high-risk-breach-pin-step-two = Skift din pinkode alle steder, du bruger den.
+high-risk-breach-pin-step-three = Undersøg om dine kontoudtog indeholder uautoriserede transaktioner.
 
 # No high risk breaches found
 
+high-risk-breach-none-title = Gode nyheder: Vi fandt ingen datalæk med høj risiko
+# Variables
+# $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
+high-risk-breach-none-description = Vi opdager datalæk med udgangspunkt i din mailadresse, og vi fandt ingen datalæk med høj risiko for { $email_list }.
+high-risk-breach-none-sub-description-part-one = Datalæk med høj risiko inkluderer:
+high-risk-breach-none-sub-description-ssn = Personnummer
+high-risk-breach-none-sub-description-bank-account = Oplysninger om bankkonti
+high-risk-breach-none-sub-description-pin = Pinkoder
+high-risk-breach-none-continue = Fortsæt
 
 # Security recommendations
 
+security-recommendation-steps-label = Sikkerhedsanbefalinger
+security-recommendation-steps-title = Her er vores råd:
+security-recommendation-steps-cta-label = Forstået!
 
 # Phone security recommendation
 
+security-recommendation-phone-title = Beskyt dit telefonnummer
+# $num_breaches is the number of breaches where the phone number was found.
+security-recommendation-phone-summary =
+    { $num_breaches ->
+        [one] Dit telefonnummer er blevet eksponeret i { $num_breaches } datalæk:
+       *[other] Dit telefonnummer er blevet eksponeret i { $num_breaches } datalæk:
+    }
+security-recommendation-phone-description = Når dit telefonnummer først er eksponeret, bliver det desværre ved med at være det. Der er dog stadig ting, du kan gøre for at beskytte dig selv.
+security-recommendation-phone-step-one = Bloker spam-numre for at undgå uønskede opkald
+security-recommendation-phone-step-two = Klik aldrig på links i SMS-beskeder fra afsendere, du ikke kender. Hvis en SMS ser ud til at være fra en troværdig afsender, så ring til dem for at få det bekræftet
 
 # Email security recommendation
 
+security-recommendation-email-title = Beskyt din mailadresse
+# $num_breaches is the number of breaches where the email address was found.
+security-recommendation-email-summary =
+    { $num_breaches ->
+        [one] Din mailadresse er blevet eksponeret i { $num_breaches } datalæk:
+       *[other] Din mailadresse er blevet eksponeret i { $num_breaches } datalæk:
+    }
+security-recommendation-email-description = Du kan desværre ikke gøre noget for at løse problemet. Men der findes ting, du kan gøre for at beskytte dig selv.
+security-recommendation-email-step-one = Klik aldrig på links i mails fra afsendere, du ikke kender. Hvis mailen ser ud til at komme fra en troværdig kilde, så ring til dem for at få det bekræftet
+security-recommendation-email-step-two = Vær opmærksom på <link_to_info>forsøg på phishing</link_to_info>
+security-recommendation-email-step-three = Markér mistænkelige mails som spam og bloker afsenderen
+security-recommendation-email-step-four = Brug <link_to_info>mail-masker med { -brand-relay }</link_to_info> for at beskytte din mailadresse i fremtiden
 
 # IP security recommendation
 
+security-recommendation-ip-title = Brug en VPN for bedre beskyttelse af dit privatliv
 
 # Leaked Passwords
 
