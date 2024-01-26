@@ -38,6 +38,14 @@ fix-flow-celebration-leaked-passwords-description-next-security-recommendations 
 
 # High Risk Data Breaches
 
+# Variables:
+# $estimated_time is the estimated time it would take for a user to complete breach resolution steps. It not be singular, and the + is meant as "or more".
+# An example of this string is Your estimated time: 15+ minutes.
+high-risk-breach-estimated-time =
+    { $estimated_time ->
+        [one] Beregnet tidsforbrug: { $estimated_time } minut eller mere
+       *[other] Beregnet tidsforbrug: { $estimated_time } minutter eller mere
+    }
 
 # Credit Card Breaches
 
