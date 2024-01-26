@@ -86,6 +86,7 @@ living-costs = Leveomkostninger
 # This string refers to financial loans.
 loan-information = Oplysninger om lån
 login-histories = Indlognings-historik
+loyalty-program-details = Detaljer om loyalitetsprogrammet
 mac-addresses = MAC-adresser
 marital-statuses = Civilstand
 # Mnemonic phrases are a group of words used to access the content of cryptocurrency wallets.
