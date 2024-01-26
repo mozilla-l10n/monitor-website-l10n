@@ -20,9 +20,18 @@ fix-flow-celebration-next-dashboard-label = Gå til din oversigt
 ## High-risk flow
 
 fix-flow-celebration-high-risk-title = Du har løst dine eksponeringer med høj risiko!
+fix-flow-celebration-high-risk-description-in-progress = Det her virker måske som meget arbejde - men for din sikkerheds skyld er det vigtigt, at du gør det. Fortsæt endelig på samme måde!
+fix-flow-celebration-high-risk-description-done = Det her virker måske som meget arbejde - men for din sikkerheds skyld er det vigtigt, at du gør det.
+fix-flow-celebration-high-risk-description-next-passwords = Lad os nu få styr på dine eksponerede adgangskoder.
+fix-flow-celebration-high-risk-description-next-security-questions = Lad os nu få styr på dine eksponerede sikkerhedsspørgsmål.
+fix-flow-celebration-high-risk-description-next-security-recommendations = Næste skridt er, at vi giver dig nogle sikkerhedsanbefalinger baseret på, hvilke af dine data, som er blevet eksponeret.
 
 ## Leaked passwords and security questions flow
 
+fix-flow-celebration-leaked-passwords-title = Dine adgangskoder er nu beskyttet!
+fix-flow-celebration-security-questions-title = Dine sikkerhedsspørgsmål er beskyttet!
+fix-flow-celebration-leaked-passwords-description-next-security-questions = Lad os nu gennemgå og opdatere dine eksponerede sikkerhedsspørgsmål.
+fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Næste skridt er, at vi giver dig nogle sikkerhedsanbefalinger baseret på, hvilke af dine data, som er blevet eksponeret.
 
 ## Security recommendations flow
 
