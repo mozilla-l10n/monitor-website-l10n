@@ -114,6 +114,7 @@ security-recommendation-steps-cta-label = Selvä!
 # Phone security recommendation
 
 security-recommendation-phone-title = Suojaa puhelinnumerosi
+security-recommendation-phone-step-two = Älä napsauta tuntemattomien lähettäjien tekstiviesteissä olevia linkkejä. Jos viesti vaikuttaa olevan luotettavasta lähteestä, soita lähettäjälle vahvistaaksesi
 
 # Email security recommendation
 
