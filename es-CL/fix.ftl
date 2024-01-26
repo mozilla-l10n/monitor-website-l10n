@@ -108,6 +108,7 @@ security-recommendation-phone-title = Protege tu número de teléfono
 # Email security recommendation
 
 security-recommendation-email-title = Protege tu email
+security-recommendation-email-step-three = Marcar correos electrónicos sospechosos como spam y bloquear al remitente
 
 # IP security recommendation
 
@@ -118,6 +119,9 @@ security-recommendation-ip-title = Utiliza un VPN para mayor privacidad
 # Variables
 # $breach_name is the name of the breach where the leaked password was found.
 leaked-passwords-title = Tu contraseña de { $breach_name } fue expuesta
+# Variables
+# $breach_date is the date when the breach occurred.
+leaked-passwords-summary = Apareció en una filtración de datos el { $breach_date }.
 leaked-passwords-steps-title = Esto es lo que debes hacer
 leaked-passwords-steps-subtitle = Esto requiere acceso a tu cuenta, por lo que deberás solucionarlo manualmente.
 # Variables
