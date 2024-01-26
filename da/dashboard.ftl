@@ -31,6 +31,22 @@ exposure-chart-returning-user-upgrade-prompt = Postadresse, familiemedlemmer med
 exposure-chart-returning-user-upgrade-prompt-cta = Start en gratis skanning
 exposure-chart-scan-in-progress-prompt = <b>Skanning undervejs:</b> Postadresse, familiemedlemmer med mere er ikke inkluderet endnu.
 modal-active-number-of-exposures-title = Om antallet af dine aktive eksponeringer
+# Variables:
+#   $limit (number) - Number of email addresses included in the plan
+modal-active-number-of-exposures-part-one-all =
+    { $limit ->
+        [one] Diagrammet inkluderet det samlede antal gange, vi har fundet hver type af data eksponeret på tværs af alle datalæk for den mailadresse, du aktuelt holder øje med.
+       *[other] Diagrammet inkluderet det samlede antal gange, vi har fundet hver type af data eksponeret på tværs af alle datalæk for op til { $limit } mailadresser, du aktuelt holder øje med.
+    }
+modal-active-number-of-exposures-part-two = Hvis du for eksempel har ti eksponeringer af dit telefonnummer, så kan det betyde, at ét telefonnummer er eksponeret på ti forskellige websteder - eller at to forskellige telefonnumre er eksponeret på fem forskellige websteder.
+modal-active-number-of-exposures-part-three-all = Når de er løst, vil de blive føjet til dit samlede antal løste eksponeringer på siden Løst.
+modal-fixed-number-of-exposures-title = Om dit antal løste eksponeringer
+modal-fixed-number-of-exposures-all = Diagrammet inkluderer det samlede antal datalæk, der er blevet løst for alle mailadresser, du aktuelt holder øje med. Når eksponeringer er løst, bliver de føjet til det samlede antal her.
+modal-cta-ok = OK
+modal-open-alt = Åbn
+modal-close-alt = Luk
+progress-card-heres-what-we-fixed-headline-all = Du har løst følgende
+progress-card-manually-fixed-headline = Løst manuelt
 dashboard-tab-label-action-needed = Handling påkrævet
 dashboard-tab-label-fixed = Løst
 dashboard-exposures-all-fixed-label = Alt er løst!
@@ -63,6 +79,7 @@ dashboard-exposures-filter-status = Status
 dashboard-exposures-filter-status-action-needed = Handling påkrævet
 dashboard-exposures-filter-status-in-progress = I gang
 dashboard-exposures-filter-status-fixed = Løst
+popover-open-filter-settings-alt = Vælg filtre
 dashboard-exposures-filter-show-all = Vis alle
 dashboard-exposures-filter-show-results = Vis resultater
 dashboard-exposures-filter-reset = Nulstil
@@ -94,6 +111,21 @@ dashboard-top-banner-non-us-protect-your-data-description-line1 =
     }
 dashboard-top-banner-no-exposures-found-title = Ingen eksponeringer fundet
 dashboard-top-banner-non-us-no-exposures-found-description = Gode nyheder! Vi har gennemsøgt alle kendte datalæk og fandt ingen eksponeringer. Vi fortsætter med at holde øje med din mailadresse og giver dig besked, hvis et nyt datalæk finder sted.
+dashboard-no-exposures-label = Ingen eksponeringer fundet
+# Variables:
+# $exposures_resolved_num is the number of exposures the user has resolved.
+dashboard-top-banner-non-us-your-data-is-protected-description =
+    { $exposures_resolved_num ->
+        [one] Godt gået, eksponeringen af dine data er løst! Vi fortsætter med at holde øje og giver dig besked, hvis vi opdager nye eksponeringer.
+       *[other] Godt gået, { $exposures_resolved_num } eksponeringer af dine data er løst! Vi fortsætter med at holde øje og giver dig besked, hvis vi opdager nye eksponeringer.
+    }
+dashboard-top-banner-monitor-more-cta = Hold øje med flere mailadresser
 
 # About Exposure Statuses Modal
 
+modal-exposure-status-title = Om status for eksponeringer
+modal-exposure-status-description-all =
+    Vi leder efter eksponeringer i alle kendte datalæk.
+    Dine eksponeringer vil have én af følgende statusser:
+modal-exposure-status-action-needed = <b>Handling påkrævet</b> betyder, at eksponeringen er aktiv, og du behøver at gøre noget for at løse problemet.
+modal-exposure-status-fixed = <b>Løst</b> betyder, at eksponeringen er løst, og du behøver ikke at gøre noget.
