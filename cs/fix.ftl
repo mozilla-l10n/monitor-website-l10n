@@ -178,18 +178,18 @@ security-recommendation-ip-step-one = Použijte VPN (například <link_to_info>{
 
 # Variables
 # $breach_name is the name of the breach where the leaked password was found.
-leaked-passwords-title = Vaše heslo v režimu { $breach_name } bylo prozrazeno
+leaked-passwords-title = Vaše heslo pro { $breach_name } bylo odhaleno
 # Variables
 # $breach_date is the date when the breach occurred.
-leaked-passwords-summary = Objevila se v úniku dat dne { $breach_date }.
+leaked-passwords-summary = Objevilo se při úniku údajů dne { $breach_date }.
 leaked-passwords-description = Podvodníci mají přístup k vašemu účtu a pravděpodobně se ho pokusí použít na jiných účtech, aby zjistili, zda jste nepoužili stejné heslo. Změňte ho všude, kde jste ho použili pro vaši ochranu.
 leaked-passwords-steps-title = Toto je potřeba udělat
-leaked-passwords-steps-subtitle = Tato chyba vyžaduje přístup k vašemu účtu, takže ji budete muset opravit ručně.
+leaked-passwords-steps-subtitle = To vyžaduje přístup k vašemu účtu, takže to budete muset vyřešit ručně.
 # Variables
 # $breach_name is the name of the breach where the leaked password was found.
 # $emails_affected are the emails associated with the breach.
-leaked-passwords-step-one = Změňte si své heslo pro <b>{ $emails_affected }</b> na <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
-leaked-passwords-step-two = Změňte ho všude tam, kde jste ho použili.
+leaked-passwords-step-one = Změňte si heslo pro účet <b>{ $emails_affected }</b> na stránkách<link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-passwords-step-two = Změňte si ho i kdekoliv jinde, kde jste ho používali.
 leaked-passwords-mark-as-fixed = Označit jako vyřešené
 leaked-passwords-skip = Nyní přeskočit
 # Variables
@@ -198,9 +198,9 @@ leaked-passwords-skip = Nyní přeskočit
 # "mins" is shortform for "minutes".
 leaked-passwords-estimated-time =
     { $estimated_time ->
-        [one] Odh. čas do dokončení: { $estimated_time } minut na stránku
-        [few] Odh. čas do dokončení: { $estimated_time } minut na stránku
-       *[other] Odh. čas do dokončení: { $estimated_time } minut na stránku
+        [one] Odhadovaný čas: { $estimated_time } minuta na stránku
+        [few] Odhadovaný čas: { $estimated_time } minuty na stránku
+       *[other] Odhadovaný čas: { $estimated_time } minut na stránku
     }
 
 # Leaked Security Questions
@@ -210,12 +210,12 @@ leaked-security-questions-title = Vaše bezpečnostní otázky byly odhaleny
 # $breach_name is the name of the breach where the leaked security questions were found.
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
-leaked-security-questions-summary = Objevily se v úniku dat z { $breach_name } dne { $breach_date }.
+leaked-security-questions-summary = Objevily se v úniku údajů ze stránky { $breach_name } dne { $breach_date }.
 leaked-security-questions-description = Podvodníci je mohou použít pro přístup k vašim účtům a jakýmkoli dalším stránkám, kde jste použili stejné bezpečnostní otázky. Pro ochranu vašich účtů je aktualizujte.
 leaked-security-questions-steps-title = Zde je návod, jak postupovat
-leaked-security-questions-steps-subtitle = Tato chyba vyžaduje přístup k vašemu účtu, takže ji budete muset opravit ručně.
+leaked-security-questions-steps-subtitle = To vyžaduje přístup k vašemu účtu, takže to budete muset vyřešit ručně.
 # Variables
 # $breach_name is the name of the breach where the security questions were found.
 # $email_affected is the email associated with the breach.
-leaked-security-questions-step-one = Aktualizujte bezpečnostní otázku pro účet <b>{ $email_affected }</b> na <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-security-questions-step-one = Aktualizujte svoje bezpečnostní otázky pro <b>{ $email_affected }</b> na stránce <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
 leaked-security-questions-step-two = Aktualizujte je na jakékoliv jiné stránce, kde používáte stejné bezpečnostní otázky. Ujistěte se, že pro každý účet používáte jiné bezpečnostní otázky.
