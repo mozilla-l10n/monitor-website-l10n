@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 public-nav-name = { -brand-mozilla-monitor }
-landing-all-hero-title = Zjistěte, kde jsou vaše soukromé informace vystaveny - a vezměte si je zpět
-landing-all-hero-lead = Prověřujeme úniky dat a zjišťujeme, zda nedošlo k úniku vašich dat, a nabízíme vám kroky k nápravě.
+landing-all-hero-title = Zjistěte, kde jsou vaše soukromé informace odhalené — a vezměte si je zpět
+landing-all-hero-lead = Prověřujeme úniky údajů a zjišťujeme, zda nedošlo k úniku vašich údajů. Následně vám nabízíme kroky k nápravě.
 landing-all-hero-emailform-input-placeholder = vasejmeno@example.com
-landing-all-hero-emailform-input-label = Zadejte svou e-mailovou adresu a zkontrolujte, zda nedošlo k úniku dat.
+landing-all-hero-emailform-input-label = Zadejte svou e-mailovou adresu a zkontrolujte, zda nedošlo k úniku údajů.
 landing-all-hero-emailform-submit-label = Zkontrolovat
 # This is a label underneath a big number "14" - it's an image that demos Monitor.
 landing-all-hero-image-chart-label = odhalení
