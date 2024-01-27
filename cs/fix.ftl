@@ -40,7 +40,7 @@ fix-flow-celebration-leaked-passwords-description-next-dashboard = Velmi dobré!
 ## Security recommendations flow
 
 fix-flow-celebration-security-recommendations-title = Dokončili jste všechna naše doporučení!
-fix-flow-celebration-security-recommendations-description-next-dashboard = Výborně! Dosáhli jste konce svých kroků. Na nástěnce si můžete zobrazit úkoly a sledovat svůj postup.
+fix-flow-celebration-security-recommendations-description-next-dashboard = Výborně! Dostali jste se na poslední krok. Na nástěnce si můžete zobrazit všechny položky a sledovat svůj postup.
 
 # High Risk Data Breaches
 
