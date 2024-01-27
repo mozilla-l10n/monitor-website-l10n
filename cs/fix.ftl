@@ -21,21 +21,21 @@ fix-flow-celebration-next-dashboard-label = Přejít na svou nástěnku
 
 ## High-risk flow
 
-fix-flow-celebration-high-risk-title = Opravili jste své vysoce rizikové expozice!
-fix-flow-celebration-high-risk-description-in-progress = Tato práce může být náročná, ale je důležitá pro vaši bezpečnost. Pokračujte v dobré práci.
-fix-flow-celebration-high-risk-description-done = Tato práce může být náročná, ale je důležitá pro vaši bezpečnost.
-fix-flow-celebration-high-risk-description-next-passwords = Pojďme opravit vaše vyzrazená hesla.
-fix-flow-celebration-high-risk-description-next-security-questions = Pojďme na opravu odhalených bezpečnostních otázek.
-fix-flow-celebration-high-risk-description-next-security-recommendations = Dále vám dáme osobní bezpečnostní doporučení na základě toho, jaká vaše data byla vyzrazena.
-fix-flow-celebration-high-risk-description-next-dashboard = Dosáhli jste konce svých kroků. Na nástěnce si můžete zobrazit úkoly a sledovat svůj postup.
+fix-flow-celebration-high-risk-title = Vyřešili jste svoje vysoce rizikové úniky!
+fix-flow-celebration-high-risk-description-in-progress = Tato práce se může zdát náročná, ale je důležité ji vykonávat, abyste byli v bezpečí. Pokračujte v dobré práci.
+fix-flow-celebration-high-risk-description-done = Tato práce se může zdát náročná, ale je důležité ji vykonávat, abyste byli v bezpečí.
+fix-flow-celebration-high-risk-description-next-passwords = Nyní pojďme vyřešit vaše odhalená hesla.
+fix-flow-celebration-high-risk-description-next-security-questions = Nyní pojďme vyřešit vaše odhalené bezpečnostní otázky.
+fix-flow-celebration-high-risk-description-next-security-recommendations = Dále vám poskytneme personalizovaná bezpečnostní doporučení na základě toho, jaká vaše data byla odhalena.
+fix-flow-celebration-high-risk-description-next-dashboard = Dostali jste se na poslední krok. Na nástěnce si můžete zobrazit všechny položky, vykonávat akce a sledovat svůj pokrok.
 
 ## Leaked passwords and security questions flow
 
 fix-flow-celebration-leaked-passwords-title = Vaše hesla jsou nyní chráněna!
 fix-flow-celebration-security-questions-title = Vaše bezpečnostní otázky jsou chráněny!
-fix-flow-celebration-leaked-passwords-description-next-security-questions = Nyní zkontrolujeme a aktualizujeme vaše odhalené bezpečnostní otázky.
-fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Dále vám dáme osobní bezpečnostní doporučení na základě toho, jaká vaše data byla vyzrazena.
-fix-flow-celebration-leaked-passwords-description-next-dashboard = Výborně! Dosáhli jste konce svých kroků. Na nástěnce si můžete zobrazit úkoly a sledovat svůj postup.
+fix-flow-celebration-leaked-passwords-description-next-security-questions = Nyní zkontrolujme a aktualizujme vaše odhalené bezpečnostní otázky.
+fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Dále vám poskytneme osobní bezpečnostní doporučení na základě toho, jaká vaše data byla odhalena.
+fix-flow-celebration-leaked-passwords-description-next-dashboard = Velmi dobré! Dostali jste se na poslední krok. Na nástěnce si můžete prohlédnout všechny položky akcí a sledovat svůj pokrok.
 
 ## Security recommendations flow
 
