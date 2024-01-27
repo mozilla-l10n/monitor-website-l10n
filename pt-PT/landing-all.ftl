@@ -28,11 +28,11 @@ landing-all-faq-title = Perguntas frequentes
 # FAQ is an acronym for Frequently Asked Questions
 landing-all-faq-see-all = Ver todas as perguntas frequentes
 landing-all-data-breach-definition-qn = O que é exatamente uma violação de dados?
-landing-all-data-breach-definition-ans = Uma violação de dados ocorre quando a informação pessoal ou privada é exposta, furtada ou copiada sem permissão. Estes Incidentes de Segurança podem resultar de ataques cibernados a sites, aplicações ou qualquer base de dados em que residem as informações pessoais das pessoas. Uma violação de dados também pode acontecer acidentalmente, como se as credenciais de início de sessão de alguém fossem publicadas.
-landing-all-data-breach-next-steps-qn = Acabei de descobrir que estou numa falha de segurança de dados. O que preciso de fazer a seguir?
-landing-all-data-breach-next-steps-ans = Visite a { -brand-mozilla-monitor } para saber o que fazer após uma violação de dados e obter os passos guiados para resolver a exposição da sua informação pessoal. Os hackers confiam que as pessoas reutilizam as palavras-passe, por isso é importante criar palavras-passe fortes e únicas para todas as suas contas. Mantenha as suas palavras-passe num local seguro ao qual apenas você tem acesso; este pode ser o mesmo sítio onde guarda documentos importantes ou um gestor de palavras-passe.
+landing-all-data-breach-definition-ans = Uma violação de dados ocorre quando a informação pessoal ou privada é exposta, roubada ou copiada sem autorização. Estes Incidentes de segurança podem ter origem em ataques cibernéticos a sites, aplicações ou qualquer base de dados onde residam informações pessoais. Uma violação de dados também pode acontecer acidentalmente, por exemplo, se as credenciais de início de sessão de alguém forem publicadas.
+landing-all-data-breach-next-steps-qn = Acabei de descobrir que estou numa violação de dados. O que preciso de fazer a seguir?
+landing-all-data-breach-next-steps-ans = Visite o { -brand-mozilla-monitor } para saber o que fazer após uma violação de dados e obter os passos para resolver a exposição da sua informação pessoal. Os hackers confiam que as pessoas reutilizam as palavras-passe, por isso é importante criar palavras-passe fortes e únicas para todas as suas contas. Mantenha as suas palavras-passe num local seguro ao qual apenas você tenha acesso; este pode ser o mesmo sítio onde guarda documentos importantes ou um gestor de palavras-passe.
 landing-all-data-breach-info-qn = Que informação é exposta em violações de dados?
-landing-all-data-breach-info-ans = Não todas as violações de dados expõem a mesma informação. Depende apenas do que os piratas informáticos podem aceder. Muitas brechas de dados expõem endereços de e-mail e palavras-passe. Outros expõem informação mais sensível, como números de cartão de crédito, números PIN e números da segurança social.
+landing-all-data-breach-info-ans = Nem todas as violações de dados expõem a mesma informação. Depende apenas do que os piratas informáticos podem aceder. Muitas violações de dados expõem endereços de e-mail e palavras-passe. Outros expõem informação mais sensível, tais como números de cartão de crédito, números PIN e números da segurança social.
 landing-all-close-faq-alt = Fechar
 
 # Social proof
@@ -41,25 +41,25 @@ landing-all-close-faq-alt = Fechar
 # $num_users is the number of users in the millions.
 landing-all-social-proof-title =
     { $num_users ->
-        [one] Com a confiança de { $num_users } milhões de pessoas no mundo
+        [one] Com a confiança de { $num_users } milhão de pessoas no mundo
        *[other] Com a confiança de { $num_users } milhões de pessoas no mundo
     }
 # Variables
 # $num_countries is the number of countries available.
 landing-all-social-proof-description =
     { $num_countries ->
-        [one] Desde 2018, ajudamos pessoas em { $num_countries } países a proteger os seus dados quando estes foram expostos.
-       *[other] Desde 2018, ajudamos pessoas em { $num_countries } países a proteger os seus dados quando estes foram expostos.
+        [one] Desde 2018, ajudámos pessoas em { $num_countries } país a proteger os respetivos dados quando os mesmos foram expostos.
+       *[other] Desde 2018, ajudámos pessoas em { $num_countries } países a proteger os respetivos dados quando os mesmos foram expostos.
     }
 landing-all-social-proof-press = Como visto em
 
 # Here's How We Help
 
-landing-all-help-protect-you = Aqui está como ajudamos a protegê-lo
-landing-all-help-protect-you-description = Nós acreditamos no seu direito à privacidade, por isso a proteção contra a monitorização de violações de dados é sempre gratuita.
+landing-all-help-protect-you = Eis como ajudamos na sua proteção
+landing-all-help-protect-you-description = Nós acreditamos no seu direito à privacidade, por isso a proteção de monitorização de violações de dados é sempre gratuita.
 landing-all-help-protect-you-feature-one = Iremos procurar por si em todas as violações de dados conhecidas
-landing-all-help-protect-you-feature-two = Iremos guiar-lhe através dos passos para resolver cada violação de dados
-landing-all-help-protect-you-feature-three = Iremos monitorizar e enviar-lhe alertas continuamente para novas violações de dados
+landing-all-help-protect-you-feature-two = Iremos apoiar através de passos guiados para resolver cada violação de dados
+landing-all-help-protect-you-feature-three = Iremos monitorizar de forma continua e enviar-lhe alertas para novas violações de dados
 landing-all-help-protect-you-cta = Registe-se para alertas de falhas de segurança
-landing-all-get-started = Digitalize o seu email para começar
+landing-all-get-started = Analise o seu e-mail para começar
 landing-all-take-back-data = Retome o controlo dos seus dados
