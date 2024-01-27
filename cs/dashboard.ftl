@@ -52,26 +52,26 @@ progress-card-manually-fixed-headline = Ručně opraveno
 dashboard-tab-label-action-needed = Vyžadována akce
 dashboard-tab-label-fixed = Opraveno
 dashboard-exposures-all-fixed-label = Vše opraveno!
-dashboard-exposures-area-headline = Zobrazit všechny stránky, kde jsou vaše informace zveřejněny
+dashboard-exposures-area-headline = Podívejte se na všechny stránky, na kterých jsou zveřejněny vaše údaje
 # Note: this line precedes dashboard-exposures-area-description-all-line2.
 # Variables:
 #   $exposures_unresolved_num (number) - the unresolved number of exposures the user has.
 dashboard-exposures-area-description-all-line1 =
     { $exposures_unresolved_num ->
-        [one] Zjistili jsme { $exposures_unresolved_num } odhalení vašich dat.
-        [few] Zjistili jsme { $exposures_unresolved_num } odhalení vašich dat.
-       *[other] Zjistili jsme { $exposures_unresolved_num } odhalení vašich dat.
+        [one] Našli jsme { $exposures_unresolved_num } odhalení vašich údajů.
+        [few] Našli jsme { $exposures_unresolved_num } odhalení vašich údajů.
+       *[other] Našli jsme { $exposures_unresolved_num } odhalení vašich údajů.
     }
 # Note: this line follows dashboard-exposures-area-description-all-line1.
 # Variables:
 #   $data_breach_unresolved_num (number) - the unresolved number of data breaches the user has.
 dashboard-exposures-area-description-all-line2 =
     { $data_breach_unresolved_num ->
-        [one] Bylo to součástí { $data_breach_unresolved_num } úniků dat.
-        [few] Objevila se v { $data_breach_unresolved_num } únikech dat.
-       *[other] Objevila se v { $data_breach_unresolved_num } únikech dat.
+        [one] Bylo součástí { $data_breach_unresolved_num } úniků údajů.
+        [few] Bylo součástí { $data_breach_unresolved_num } úniků údajů.
+       *[other] Bylo součástí { $data_breach_unresolved_num } úniků údajů.
     }
-dashboard-fixed-area-headline-all = Zobrazí všechny pevně dané expozice
+dashboard-fixed-area-headline-all = Podívejte se na všechna odhalení, která jsou vyřešena
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Filtrovat
 dashboard-exposures-filter-company = Společnost
@@ -99,9 +99,9 @@ dashboard-top-banner-lets-keep-protecting-title = Pojďme chránit vaše data
 # $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
 dashboard-top-banner-lets-keep-protecting-description =
     { $exposures_unresolved_num ->
-        [one] Stále vám zbývá opravit { $exposures_unresolved_num } odhalení. Pokračujte a chraňte se. Provedeme vás krok za krokem.
-        [few] Stále vám zbývá opravit { $exposures_unresolved_num } úniků. Pokračujte a chraňte se. Provedeme vás krok za krokem.
-       *[other] Stále vám zbývá opravit { $exposures_unresolved_num } úniků. Pokračujte a chraňte se. Provedeme vás krok za krokem.
+        [one] Stále vám zbývá vyřešit { $exposures_unresolved_num } odhalení. Pokračujte a chraňte se. Provedeme vás krok za krokem.
+        [few] Stále vám zbývá vyřešit { $exposures_unresolved_num } odhalení. Pokračujte a chraňte se. Provedeme vás krok za krokem.
+       *[other] Stále vám zbývá vyřešit { $exposures_unresolved_num } odhalení. Pokračujte a chraňte se. Provedeme vás krok za krokem.
     }
 dashboard-top-banner-lets-keep-protecting-cta = Pojďme chránit i nadále
 dashboard-top-banner-protect-your-data-title = Pojďme chránit vaše údaje
@@ -120,12 +120,12 @@ dashboard-top-banner-non-us-protect-your-data-description-line1 =
 #   $data_breach_unresolved_num (number) - the total number of data breaches the user has.
 dashboard-top-banner-non-us-protect-your-data-description-line2 =
     { $data_breach_unresolved_num ->
-        [one] Bylo to součástí { $data_breach_unresolved_num } úniků dat. Ukážeme vám, jak to krok za krokem vyřešit.
-        [few] Objevila se v { $data_breach_unresolved_num } únikech dat. Ukážeme vám, jak to krok za krokem vyřešit.
-       *[other] Objevila se v { $data_breach_unresolved_num } únikech dat. Ukážeme vám, jak to krok za krokem vyřešit.
+        [one] Objevilo se v { $data_breach_unresolved_num } odhalení vašich údajů. Ukážeme vám, jak to krok za krokem vyřešit.
+        [few] Objevilo se v { $data_breach_unresolved_num } odhalení vašich údajů. Ukážeme vám, jak to krok za krokem vyřešit.
+       *[other] Objevilo se v { $data_breach_unresolved_num } odhalení vašich údajů. Ukážeme vám, jak to krok za krokem vyřešit.
     }
 dashboard-top-banner-no-exposures-found-title = Nebyla nalezena žádná odhalení
-dashboard-top-banner-non-us-no-exposures-found-description = Skvělá zpráva! Prohledali jsme všechny známé úniky dat a nenašli jsme žádný kontakt. Vaši e-mailovou adresu budeme průběžně monitorovat a pokud dojde k novému úniku, dáme vám vědět.
+dashboard-top-banner-non-us-no-exposures-found-description = Skvělá zpráva! Prohledali jsme všechny známé úniky údajů a nenašli jsme žádné odhalení. Vaši e-mailovou adresu budeme průběžně monitorovat a pokud dojde k novému úniku, dáme vám vědět.
 dashboard-no-exposures-label = Nebyly nalezeny žádné odhalení
 # Variables:
 # $exposures_resolved_num is the number of exposures the user has resolved.
