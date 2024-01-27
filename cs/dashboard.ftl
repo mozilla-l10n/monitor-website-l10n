@@ -42,7 +42,7 @@ modal-active-number-of-exposures-part-one-all =
     }
 modal-active-number-of-exposures-part-two = Pokud máte například 10 zpřístupnění svého telefonního čísla, může to znamenat, že jedno telefonní číslo je zpřístupněno na 10 různých stránkách, nebo naopak 2 různá telefonní čísla na 5 různých serverech.
 modal-active-number-of-exposures-part-three-all = Jakmile budou vyřešeny, budou přidány k vašemu celkovému počtu pevných expozic na stránce Pevná.
-modal-fixed-number-of-exposures-title = O vašem počtu stálých expozic
+modal-fixed-number-of-exposures-title = O počte vyřešených odhalení
 modal-fixed-number-of-exposures-all = Tento graf obsahuje celkový počet úniků dat, které byly opraveny pro všechny e-mailové adresy, které aktuálně sledujete. Jakmile jsou expozice označeny jako pevné, budou zde přičteny k celkovému součtu.
 modal-cta-ok = OK
 modal-open-alt = Otevřít
@@ -103,8 +103,8 @@ dashboard-top-banner-lets-keep-protecting-description =
         [few] Stále vám zbývá opravit { $exposures_unresolved_num } úniků. Pokračujte a chraňte se. Provedeme vás krok za krokem.
        *[other] Stále vám zbývá opravit { $exposures_unresolved_num } úniků. Pokračujte a chraňte se. Provedeme vás krok za krokem.
     }
-dashboard-top-banner-lets-keep-protecting-cta = Pojďme dál
-dashboard-top-banner-protect-your-data-title = Chraňme vaše data
+dashboard-top-banner-lets-keep-protecting-cta = Pojďme chránit i nadále
+dashboard-top-banner-protect-your-data-title = Pojďme chránit vaše údaje
 dashboard-top-banner-protect-your-data-cta = Pojďme to napravit
 # Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
 # Variables:
@@ -126,7 +126,7 @@ dashboard-top-banner-non-us-protect-your-data-description-line2 =
     }
 dashboard-top-banner-no-exposures-found-title = Nebyla nalezena žádná odhalení
 dashboard-top-banner-non-us-no-exposures-found-description = Skvělá zpráva! Prohledali jsme všechny známé úniky dat a nenašli jsme žádný kontakt. Vaši e-mailovou adresu budeme průběžně monitorovat a pokud dojde k novému úniku, dáme vám vědět.
-dashboard-no-exposures-label = Nebyly nalezeny žádné kontakty
+dashboard-no-exposures-label = Nebyly nalezeny žádné odhalení
 # Variables:
 # $exposures_resolved_num is the number of exposures the user has resolved.
 dashboard-top-banner-non-us-your-data-is-protected-description =
