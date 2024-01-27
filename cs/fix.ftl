@@ -45,14 +45,14 @@ fix-flow-celebration-security-recommendations-description-next-dashboard = Výbo
 # High Risk Data Breaches
 
 high-risk-breach-heading = Zde je návod, jak postupovat
-high-risk-breach-subheading = Tento problém vyžaduje přístup k vašim citlivým údajům, které proto musíte opravit ručně.
+high-risk-breach-subheading = Toto vyžaduje přístup k vašim citlivým informacím, takže to budete muset vyřešit ručně.
 # Variables
 # $num_breaches is the number of breaches where the high risk data was found.
 high-risk-breach-summary =
     { $num_breaches ->
-        [one] Bylo to nalezeno v { $num_breaches } únikech:
-        [few] Vyskytla se v { $num_breaches } únicích dat:
-       *[other] Vyskytla se v { $num_breaches } únicích dat:
+        [one] Údaj se objevil v { $num_breaches } úniku údajů:
+        [few] Údaj se objevil v { $num_breaches } únicích údajů:
+       *[other] Údaj se objevil v { $num_breaches } únicích údajů:
     }
 # Variables
 # $breach_name is the name of the breach where the high risk data was found.
@@ -66,33 +66,33 @@ high-risk-breach-skip = Nyní přeskočit
 # An example of this string is Your estimated time: 15+ minutes.
 high-risk-breach-estimated-time =
     { $estimated_time ->
-        [one] Váš odhadovaný čas: více než { $estimated_time } minut
-        [few] Váš odhadovaný čas: více než { $estimated_time } minut
-       *[other] Váš odhadovaný čas: více než { $estimated_time } minut
+        [one] Odhadovaný čas: více než { $estimated_time } minuta
+        [few] Odhadovaný čas: více než { $estimated_time } minuty
+       *[other] Odhadovaný čas: více než { $estimated_time } minut
     }
 
 # Credit Card Breaches
 
 high-risk-breach-credit-card-title = Číslo vaší platební karty bylo odhaleno
 high-risk-breach-credit-card-description = Každý, kdo ho získá, může provádět neoprávněné nákupy, za které můžete nést odpovědnost. Jednejte hned a vyhněte se finančním škodám.
-high-risk-breach-credit-card-step-one = Pokud tuto kartu stále máte, kontaktujte vydavatele a nahlaste nám, že je karta ukradena.
-high-risk-breach-credit-card-step-two = Požádat o novou kartu s novým číslem.
-high-risk-breach-credit-card-step-three = Zkontrolujte účty za neoprávněné platby.
+high-risk-breach-credit-card-step-one = Pokud tuto kartu stále máte, kontaktujte jejího vydavatele a nahlaste její zcizení.
+high-risk-breach-credit-card-step-two = Požádejte o novou kartu s novým číslem.
+high-risk-breach-credit-card-step-three = Zkontrolujte své účty, zda na nich nemáte neoprávněné pohyby.
 
 # Bank Account Breaches
 
 high-risk-breach-bank-account-title = Číslo vašeho bankovního účtu bylo odhaleno
-high-risk-breach-bank-account-description = Pokud podniknete kroky co nejdříve, můžete získat další právní ochranu, která vám pomůže získat zpět jakékoli ztráty.
-high-risk-breach-bank-account-step-one = Okamžitě informujte svou banku, že číslo vašeho účtu bylo prozrazeno.
+high-risk-breach-bank-account-description = Pokud podniknete kroky co nejdříve, získáte větší právní ochranu, která vám pomůže získat zpět případné ztráty.
+high-risk-breach-bank-account-step-one = Okamžitě oznamte své bance, že bylo zneužito číslo vašeho účtu.
 high-risk-breach-bank-account-step-two = Změňte si číslo svého účtu.
 high-risk-breach-bank-account-step-three = Zkontrolujte, zda na vašich účtech nejsou neoprávněně pohyby.
 
 # Social Security Number Breaches
 
 high-risk-breach-social-security-title = Vaše číslo sociálního zabezpečení bylo odhalené
-high-risk-breach-social-security-description = Podvodníci si mohou otevřít nové půjčky nebo kreditní karty s vaším číslem sociálního zabezpečení. Jednejte rychle, abyste předešli finančním škodám.
+high-risk-breach-social-security-description = Podvodníci si mohou otevřít nové půjčky nebo kreditní karty s vaším číslem sociálního pojištění. Jednejte rychle, abyste předešli finanční újmě.
 high-risk-breach-social-security-step-one = Chraňte se tím, že si <link_to_info>nastavíte upozornění na podvod nebo si nastavíte zmrazení svého kreditu.</link_to_info>
-high-risk-breach-social-security-step-two = <link_to_info>Zkontrolujte stav svého účtu</link_to_info>, jestli neobsahuje nerozpoznané účty.
+high-risk-breach-social-security-step-two = <link_to_info>Zkontrolujte si pohyby na kreditní kartě</link_to_info>, zda se tam nenachází neznámé platby.
 
 # Social Security Number Modal
 
@@ -108,13 +108,13 @@ ssn-modal-ok = OK
 
 high-risk-breach-pin-title = Váš PIN byl prozrazen
 high-risk-breach-pin-description = Pokud podniknete kroky co nejdříve, můžete získat další právní ochranu, která vám pomůže získat zpět jakékoli ztráty.
-high-risk-breach-pin-step-one = Okamžitě informujte svou banku, že byl váš PIN vyzrazen.
-high-risk-breach-pin-step-two = Změňte svůj PIN všude, kde jste použili stejný PIN.
-high-risk-breach-pin-step-three = Zkontrolujte účty za neoprávněné platby.
+high-risk-breach-pin-step-one = Okamžitě oznamte své bance, že byl váš PIN kód prozrazen.
+high-risk-breach-pin-step-two = Změňte si PIN kdekoli, kde jste použili stejný.
+high-risk-breach-pin-step-three = Zkontrolujte, zda na vašich účtech nejsou neoprávněné pohyby.
 
 # No high risk breaches found
 
-high-risk-breach-none-title = Skvělá zpráva, neobjevili jsme žádný vysoce rizikový únik dat
+high-risk-breach-none-title = Skvělá zpráva, neobjevili jsme žádný vysoce rizikový únik údajů
 # Variables
 # $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
 high-risk-breach-none-description = Únik dat zjišťujeme na základě vaší e-mailové adresy a pro { $email_list } jsme nezaznamenali žádný vysoce rizikový únik dat.
