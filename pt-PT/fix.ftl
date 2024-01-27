@@ -25,7 +25,7 @@ fix-flow-celebration-high-risk-title = Corrigiu as suas exposições de alto ris
 fix-flow-celebration-high-risk-description-in-progress = Fazer este trabalho pode parecer demasiado, mas é importante para se manter em segurança. Continue com o bom trabalho.
 fix-flow-celebration-high-risk-description-done = Fazer este trabalho pode parecer demasiado, mas é importante para se manter em segurança.
 fix-flow-celebration-high-risk-description-next-passwords = Vamos corrigir agora as suas palavras-passe expostas.
-fix-flow-celebration-high-risk-description-next-security-questions = Vamos corrigir agora as suas questões de segurança expostas.
+fix-flow-celebration-high-risk-description-next-security-questions = Vamos corrigir agora as suas perguntas de segurança expostas.
 fix-flow-celebration-high-risk-description-next-security-recommendations = De seguida iremos fornecer-lhe recomendações de segurança personalizadas com base nos seus dados que foram expostos.
 fix-flow-celebration-high-risk-description-next-dashboard = Chegou ao fim dos seus passos. Pode ver quaisquer itens de ação e acompanhar o seu progresso no seu painel.
 
@@ -199,7 +199,7 @@ leaked-passwords-estimated-time =
 
 # Leaked Security Questions
 
-leaked-security-questions-title = As suas questões de segurança foram expostas
+leaked-security-questions-title = As suas perguntas de segurança foram expostas
 # Variables
 # $breach_name is the name of the breach where the leaked security questions were found.
 # $breach_date is the date when the breach occurred.
@@ -211,5 +211,5 @@ leaked-security-questions-steps-subtitle = Isto requer acesso à sua conta, pelo
 # Variables
 # $breach_name is the name of the breach where the security questions were found.
 # $email_affected is the email associated with the breach.
-leaked-security-questions-step-one = Atualize as suas questões de segurança para <b>{ $email_affected }</b> em <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-security-questions-step-one = Atualize as suas perguntas de segurança para <b>{ $email_affected }</b> em <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
 leaked-security-questions-step-two = Atualize-as em qualquer outro site em que tenha utilizado as mesmas perguntas de segurança. Certifique-se que utiliza perguntas de segurança diferentes para cada conta.

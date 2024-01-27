@@ -3,24 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 public-nav-name = { -brand-mozilla-monitor }
-landing-all-hero-title = Encontre onde a sua informação privada está exposta — e receba-a de volta
-landing-all-hero-lead = Verificamos violações de dados para ver se os seus dados foram vazados e damos os passos para corrigir os mesmos.
+landing-all-hero-title = Descubra onde a sua informação privada está exposta – e recupere o controlo
+landing-all-hero-lead = Verificamos violações de dados para confirmar se os seus dados foram capturados e indicamos os passos que pode tomar para corrigir as mesmas.
 landing-all-hero-emailform-input-placeholder = oseunome@example.com
-landing-all-hero-emailform-input-label = Insira o seu endereço de e-mail para verificar se existem exposição a violações de dados.
+landing-all-hero-emailform-input-label = Insira o seu endereço de e-mail para verificar se existe exposição a violações de dados.
 landing-all-hero-emailform-submit-label = Obter verificação gratuita
 # This is a label underneath a big number "14" - it's an image that demos Monitor.
-landing-all-hero-image-chart-label = exposição
+landing-all-hero-image-chart-label = exposições
 
 # Value Proposition
 
-landing-all-value-prop-fix-exposures = Iremos ajudar-lhe a corrigir as suas exposição
-landing-all-value-prop-fix-exposures-description = A nossa missão é colocar o controlo dos seus dados pessoais de volta nas suas mãos. Iremos ajudar-lhe a resolver violações de dados e manter as suas informações privadas - e iremos <privacy_link>respeitar a sua privacidade</privacy_link> no processo.
+landing-all-value-prop-fix-exposures = Iremos ajudar a corrigir as suas exposições
+landing-all-value-prop-fix-exposures-description = A nossa missão é colocar o controlo dos seus dados pessoais novamente nas suas mãos. Iremos ajudar a resolver as violações de dados e a manter as suas informações privadas – e iremos <privacy_link>respeitar a sua privacidade</privacy_link> no processo.
 landing-all-value-prop-info-at-risk = Que informação pode estar em risco?
-landing-all-value-prop-info-at-risk-description = Infelizmente, as fugas de dados fazem parte das nossas vidas digitais. As suas palavras-passe, detalhes de contacto, informação financeira e outras informações pessoais podem ser expostas, colocando-o em risco de roubo de identidade.
+landing-all-value-prop-info-at-risk-description = Infelizmente, as fugas de dados fazem parte das nossas vidas digitais. As suas palavras-passe, detalhes de contacto, informação financeira e outras informações pessoais podem ser expostas, conduzindo ao risco de roubo de identidade.
 
 # Quote
 
-landing-all-quote = As <data_breaches> brechas de dados</data_breaches> acontecem a cada 11 minutos, expondo a sua informação privada — mas não se preocupe, nós podemos ajudar.
+landing-all-quote = As <data_breaches>violações de dados</data_breaches> acontecem a cada 11 minutos, expondo a sua informação privada – mas não se preocupe, nós podemos ajudar.
 
 # Non-US FAQ
 
