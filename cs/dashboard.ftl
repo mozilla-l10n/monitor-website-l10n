@@ -41,9 +41,9 @@ modal-active-number-of-exposures-part-one-all =
        *[other] Tento graf obsahuje celkový počet nalezených dat každého typu ve všech únicích dat až pro { $limit } e-mailových adres, které aktuálně monitorujete.
     }
 modal-active-number-of-exposures-part-two = Pokud máte například 10 zpřístupnění svého telefonního čísla, může to znamenat, že jedno telefonní číslo je zpřístupněno na 10 různých stránkách, nebo naopak 2 různá telefonní čísla na 5 různých serverech.
-modal-active-number-of-exposures-part-three-all = Jakmile budou vyřešeny, budou přidány k vašemu celkovému počtu pevných expozic na stránce Pevná.
+modal-active-number-of-exposures-part-three-all = Když budou vyřešeny, budou přidány k vašemu celkovému počtu vyřešených odhalení na podstránce Vyřešené.
 modal-fixed-number-of-exposures-title = O počte vyřešených odhalení
-modal-fixed-number-of-exposures-all = Tento graf obsahuje celkový počet úniků dat, které byly opraveny pro všechny e-mailové adresy, které aktuálně sledujete. Jakmile jsou expozice označeny jako pevné, budou zde přičteny k celkovému součtu.
+modal-fixed-number-of-exposures-all = Tento graf obsahuje celkový počet úniků údajů, které byly vyřešeny pro všechny e-mailové adresy, které aktuálně sledujete. Jakmile jsou odhalení označeny jako vyřešené, připočítají se zde k celkovému součtu.
 modal-cta-ok = OK
 modal-open-alt = Otevřít
 modal-close-alt = Zavřít
