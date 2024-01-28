@@ -97,8 +97,8 @@ high-risk-breach-social-security-step-two = <link_to_info>Zkontrolujte si pohyby
 # Social Security Number Modal
 
 ssn-modal-title = O upozorněních na podvody a zmrazení úvěrů
-ssn-modal-description-fraud-part-one = <b>Upozornění na podvod</b> vyžaduje od firem ověření vaší identity dříve, než bude připsána na vaše jméno další kredit. Je zdarma, trvá jeden rok a nebude negativně ovlivňovat vaše kreditní skóre.
-ssn-modal-description-fraud-part-two = Pro založení kontaktujte kteroukoliv ze tří úvěrových institucí. Nemusíte kontaktovat všechny tři.
+ssn-modal-description-fraud-part-one = <b>Upozornění na podvod</b> vyžaduje od firem ověření vaší identity dříve, než bude připsán na vaše jméno další kredit. Je zdarma, trvá jeden rok a nebude negativně ovlivňovat vaše kreditní skóre.
+ssn-modal-description-fraud-part-two = Chcete-li si ho zřídit, obraťte se na kterýkoli ze tří úvěrových úřadů. Nemusíte kontaktovat všechny tři.
 ssn-modal-description-freeze-credit-part-one = <b>Zmrazení vašeho kreditu</b> zabrání komukoliv otevřít nový účet vedený na vaše jméno. Je zdarma a neovlivní negativně vaše kreditní skóre, ale před otevřením jakéhokoli nového účtu jej musíte rozmrazit.
 ssn-modal-description-freeze-credit-part-two = Pro zmrazení svého kreditu kontaktujte každou ze tří úvěrových institucí — <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> a <transunion_link>TransUnion</transunion_link>.
 ssn-modal-learn-more = Zjistěte více o upozorněních na podvody a zmrazení kreditu

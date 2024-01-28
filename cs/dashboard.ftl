@@ -36,11 +36,11 @@ modal-active-number-of-exposures-title = O počtu aktivních odhalení
 #   $limit (number) - Number of email addresses included in the plan
 modal-active-number-of-exposures-part-one-all =
     { $limit ->
-        [one] Tento graf obsahuje celkový počet nalezených odhalených dat v rámci všech úniků dat z e-mailové adresy { $limit }, kterou aktuálně monitorujete.
-        [few] Tento graf obsahuje celkový počet nalezených dat každého typu ve všech únicích dat až pro { $limit } e-mailových adres, které aktuálně monitorujete.
-       *[other] Tento graf obsahuje celkový počet nalezených dat každého typu ve všech únicích dat až pro { $limit } e-mailových adres, které aktuálně monitorujete.
+        [one] Tento graf obsahuje celkový počet odhalení pro každý typ údajů v rámci všech úniků údajů až pro { $limit } e-mailové adresy, které momentálně monitorujete.
+        [few] Tento graf obsahuje celkový počet odhalení pro každý typ údajů v rámci všech úniků údajů až pro { $limit } e-mailových adres, které momentálně monitorujete.
+       *[other] Tento graf obsahuje celkový počet odhalení pro každý typ údajů v rámci všech úniků údajů až pro { $limit } e-mailových adres, které momentálně monitorujete.
     }
-modal-active-number-of-exposures-part-two = Pokud máte například 10 zpřístupnění svého telefonního čísla, může to znamenat, že jedno telefonní číslo je zpřístupněno na 10 různých stránkách, nebo naopak 2 různá telefonní čísla na 5 různých serverech.
+modal-active-number-of-exposures-part-two = Například, pokud máte 10 odhalení svého telefonního čísla, může to znamenat, že jedno telefonní číslo je zveřejněné na 10 různých stránkách nebo to může znamenat, že na 5 různých stránkách došlo k odhalení 2 různých telefonních čísel.
 modal-active-number-of-exposures-part-three-all = Když budou vyřešeny, budou přidány k vašemu celkovému počtu vyřešených odhalení na podstránce Vyřešené.
 modal-fixed-number-of-exposures-title = O počte vyřešených odhalení
 modal-fixed-number-of-exposures-all = Tento graf obsahuje celkový počet úniků údajů, které byly vyřešeny pro všechny e-mailové adresy, které aktuálně sledujete. Jakmile jsou odhalení označeny jako vyřešené, připočítají se zde k celkovému součtu.
@@ -131,15 +131,15 @@ dashboard-no-exposures-label = Nebyly nalezeny žádné odhalení
 # $exposures_resolved_num is the number of exposures the user has resolved.
 dashboard-top-banner-non-us-your-data-is-protected-description =
     { $exposures_resolved_num ->
-        [one] Skvělá práce, zpřístupnění vašich dat je opravené! Budeme pokračovat v monitorování a na případné nové úniky vás budeme upozorňovat.
-        [few] Skvělá práce, všech { $exposures_resolved_num } úniků vašich dat je opravených! Budeme pokračovat v monitorování a na případné nové úniky vás budeme upozorňovat.
-       *[other] Skvělá práce, všech { $exposures_resolved_num } úniků vašich dat je opravených! Budeme pokračovat v monitorování a na případné nové úniky vás budeme upozorňovat.
+        [one] Skvělá práce, odhalení vašich údajů je vyřešeno! Budeme pokračovat v monitorování a upozorníme vás, když dojde k novému odhalení.
+        [few] Skvělá práce, { $exposures_resolved_num } odhalení vašich údajů je nyní vyřešeno! Budeme pokračovat v monitorování a upozorníme vás, když dojde k novému odhalení.
+       *[other] Skvělá práce, { $exposures_resolved_num } odhalení vašich údajů je nyní vyřešeno! Budeme pokračovat v monitorování a upozorníme vás, když dojde k novému odhalení.
     }
 dashboard-top-banner-monitor-more-cta = Monitorovat více e-mailů
 
 # About Exposure Statuses Modal
 
 modal-exposure-status-title = O stavech odhalení
-modal-exposure-status-description-all = Hledáme úniky dat ve všech známých únicích dat. Váš kontakt bude mít jeden z následujících stavů:
+modal-exposure-status-description-all = Hledáme úniky údajů ve všech známých únicích. Vaše odhalení bude mít jeden z následujících stavů:
 modal-exposure-status-action-needed = <b>Vyžadována akce</b> znamená, že odhalení je momentálně aktivní a musíte podniknout kroky k jeho vyřešení
 modal-exposure-status-fixed = <b>Vyřešené</b> znamená, že odhalení bylo vyřešeno a nemusíte podnikat žádné další kroky.
