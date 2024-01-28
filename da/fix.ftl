@@ -146,6 +146,7 @@ security-recommendation-ip-title = Brug en VPN for bedre beskyttelse af dit priv
 
 # Leaked Passwords
 
+leaked-passwords-steps-title = Du skal gøre sådan her
 
 # Leaked Security Questions
 
