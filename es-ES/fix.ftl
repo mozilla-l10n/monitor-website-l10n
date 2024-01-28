@@ -132,15 +132,71 @@ security-recommendation-steps-cta-label = ¡Entendido!
 # Phone security recommendation
 
 security-recommendation-phone-title = Protege tu número de teléfono
+# $num_breaches is the number of breaches where the phone number was found.
+security-recommendation-phone-summary =
+    { $num_breaches ->
+        [one] Tu número de teléfono fue expuesto en { $num_breaches } filtración de datos:
+       *[other] Tu número de teléfono fue expuesto en { $num_breaches } filtraciones de datos:
+    }
+security-recommendation-phone-description = Lamentablemente no puedes retirarlas. Pero hay medidas que puedes tomar para mantenerte seguro.
+security-recommendation-phone-step-one = Bloquea números spam para evitar más llamadas no deseadas
+security-recommendation-phone-step-two = No hagas clic en enlaces en mensajes de texto de remitentes desconocidos; Si parece ser de una fuente fiable, llama directamente para confirmar.
 
 # Email security recommendation
 
+security-recommendation-email-title = Protege tu dirección de correo electrónico
+# $num_breaches is the number of breaches where the email address was found.
+security-recommendation-email-summary =
+    { $num_breaches ->
+        [one] Tu dirección de correo electrónico fue expuesta en { $num_breaches } filtración de datos:
+       *[other] Tu dirección de correo electrónico fue expuesta en { $num_breaches } filtraciones de datos:
+    }
+security-recommendation-email-description = Lamentablemente, no puedes solucionar este problema. Pero hay medidas que puedes tomar para protegerte.
+security-recommendation-email-step-one = No hagas clic en enlaces en mensajes de correo de remitentes desconocidos; Si parece ser de una fuente fiable, llama directamente para confirmar.
+security-recommendation-email-step-two = Ten cuidado con las <link_to_info>estafas de phishing</link_to_info>
+security-recommendation-email-step-three = Marcar correos electrónicos sospechosos como spam y bloquear al remitente
+security-recommendation-email-step-four = Utiliza <link_to_info>máscaras de correo electrónico de { -brand-relay }</link_to_info> para proteger tu correo electrónico en el futuro
 
 # IP security recommendation
 
+security-recommendation-ip-title = Utiliza una VPN para mayor privacidad
+# $num_breaches is the number of breaches where the IP address was found.
+security-recommendation-ip-summary =
+    { $num_breaches ->
+        [one] Tu dirección IP fue expuesta en { $num_breaches } filtración de datos:
+       *[other] Tu dirección IP fue expuesta en { $num_breaches } filtraciones de datos:
+    }
+security-recommendation-ip-description = Tu dirección IP señala tu ubicación y proveedor de servicios de Internet. Los hackers podrían usar esta información para encontrar tu ubicación o intentar conectarse a tus dispositivos.
+security-recommendation-ip-step-one = Utiliza una VPN (como <link_to_info>{ -brand-mozilla-vpn }</link_to_info>) para ocultar tu dirección IP real y usar Internet de forma privada.
 
 # Leaked Passwords
 
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+leaked-passwords-title = Tu contraseña de { $breach_name } fue expuesta
+# Variables
+# $breach_date is the date when the breach occurred.
+leaked-passwords-summary = Apareció en una filtración de datos el { $breach_date }.
+leaked-passwords-description = Los estafadores pueden acceder a tu cuenta y probablemente intentarán usarla en otras cuentas para ver si reutilizaste la misma contraseña. Cámbiala en cualquier lugar donde la hayas usado para protegerte.
+leaked-passwords-steps-title = Esto es lo que debes hacer
+leaked-passwords-steps-subtitle = Esto requiere acceso a tu cuenta, por lo que deberás solucionarlo manualmente.
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+# $emails_affected are the emails associated with the breach.
+leaked-passwords-step-one = Cambia tu contraseña para <b>{ $emails_affected }</b> en <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-passwords-step-two = Cámbiala en cualquier otro lugar donde la hayas usado.
+leaked-passwords-mark-as-fixed = Marcar como corregida
+leaked-passwords-skip = Saltar por ahora
+# Variables
+# $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
+# "Est." is shortform for "Estimated".
+# "mins" is shortform for "minutes".
+leaked-passwords-estimated-time =
+    { $estimated_time ->
+        [one] Tiempo estimado para completar: { $estimated_time } minuto por sitio
+       *[other] Tiempo estimado para completar: { $estimated_time } minutos por sitio
+    }
 
 # Leaked Security Questions
 
+leaked-security-questions-title = Tus preguntas de seguridad fueron expuestas
