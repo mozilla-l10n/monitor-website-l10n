@@ -143,14 +143,50 @@ security-recommendation-email-step-four = Brug <link_to_info>mail-masker med { -
 # IP security recommendation
 
 security-recommendation-ip-title = Brug en VPN for bedre beskyttelse af dit privatliv
+security-recommendation-ip-description = Din IP-adresse fastslår din placering og din internetudbyder. Hackere kan bruge disse oplysninger til at finde frem til din placering eller forsøge at oprette forbindelse til dine enheder.
+security-recommendation-ip-step-one = Brug en VPN (som fx <link_to_info>{ -brand-mozilla-vpn }</link_to_info>) til at skjule din rigtige IP-adresse og beskytte dit privatliv på nettet.
 
 # Leaked Passwords
 
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+leaked-passwords-title = Din adgangskode til { $breach_name } er blevet eksponeret
+# Variables
+# $breach_date is the date when the breach occurred.
+leaked-passwords-summary = Den optrådte i en datalæk den { $breach_date }.
+leaked-passwords-description = Svindlere kan få adgang til din konto - og vil sandsynligvis se, om du har brugte samme adgangskode til andre konti. Beskyt dig selv ved at skifte adgangskoden alle de steder, du har brugt den.
 leaked-passwords-steps-title = Du skal gøre sådan her
+leaked-passwords-steps-subtitle = Dette kræver adgang til din konto, så du er nødt til at løse problemet manuelt.
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+# $emails_affected are the emails associated with the breach.
+leaked-passwords-step-one = Skift din adgangskode til <b>{ $emails_affected }</b> på <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-passwords-step-two = Skift adgangskoden alle de steder, du har brugt den.
 leaked-passwords-mark-as-fixed = Marker som løst
 leaked-passwords-skip = Hop over indtil videre
+# Variables
+# $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
+# "Est." is shortform for "Estimated".
+# "mins" is shortform for "minutes".
+leaked-passwords-estimated-time =
+    { $estimated_time ->
+        [one] Estimeret tidsforbrug: { $estimated_time } minut per websted
+       *[other] Estimeret tidsforbrug: { $estimated_time } minutter per websted
+    }
 
 # Leaked Security Questions
 
 leaked-security-questions-title = Dine sikkerhedsspørgsmål er blevet eksponeret
+# Variables
+# $breach_name is the name of the breach where the leaked security questions were found.
+# $breach_date is the date when the breach occurred.
+# An example of this string is Twitter on 13/09/18.
+leaked-security-questions-summary = De optrådte i en datalæk for { $breach_name } den { $breach_date }.
+leaked-security-questions-description = Svindlere kan bruge svarene på dine sikkerhedsspørgsmål få adgang til dine konti - og alle andre websteder, hvor du har brugt samme svar. Beskyt dig selv ved at opdatere dine svar på sikkerhedsspørgsmålene alle de steder, du har brugt dem.
 leaked-security-questions-steps-title = Du skal gøre sådan her
+leaked-security-questions-steps-subtitle = Dette kræver adgang til din konto, så du er nødt til at løse problemet manuelt.
+# Variables
+# $breach_name is the name of the breach where the security questions were found.
+# $email_affected is the email associated with the breach.
+leaked-security-questions-step-one = Opdater dine sikkerhedsspørgsmål for <b>{ $email_affected }</b> på <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-security-questions-step-two = Opdater sikkerhedsspørgsmålene på alle websteder, du har brugt dem. Sørg for at bruge forskellige sikkerhedsspørgsmål for hver konto.
