@@ -109,6 +109,14 @@ dashboard-top-banner-non-us-protect-your-data-description-line1 =
         [one] Vi fandt { $exposures_unresolved_num } eksponering af dine data.
        *[other] Vi fandt { $exposures_unresolved_num } eksponeringer af dine data.
     }
+# Note: this line is preceded by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
+# Variables:
+#   $data_breach_unresolved_num (number) - the total number of data breaches the user has.
+dashboard-top-banner-non-us-protect-your-data-description-line2 =
+    { $data_breach_unresolved_num ->
+        [one] De optrådte i { $data_breach_unresolved_num } datalæk. Vi viser dig trin for trin, hvordan du løser problemet.
+       *[other] De optrådte i { $data_breach_unresolved_num } datalæk. Vi viser dig trin for trin, hvordan du løser problemet.
+    }
 dashboard-top-banner-no-exposures-found-title = Ingen eksponeringer fundet
 dashboard-top-banner-non-us-no-exposures-found-description = Gode nyheder! Vi har gennemsøgt alle kendte datalæk og fandt ingen eksponeringer. Vi fortsætter med at holde øje med din mailadresse og giver dig besked, hvis et nyt datalæk finder sted.
 dashboard-no-exposures-label = Ingen eksponeringer fundet
