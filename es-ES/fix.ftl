@@ -200,3 +200,16 @@ leaked-passwords-estimated-time =
 # Leaked Security Questions
 
 leaked-security-questions-title = Tus preguntas de seguridad fueron expuestas
+# Variables
+# $breach_name is the name of the breach where the leaked security questions were found.
+# $breach_date is the date when the breach occurred.
+# An example of this string is Twitter on 13/09/18.
+leaked-security-questions-summary = Aparecieron en una filtración de datos de { $breach_name } el { $breach_date }.
+leaked-security-questions-description = Los estafadores pueden usarlas para acceder a tus cuentas y a cualquier otro sitio donde haya utilizado las mismas preguntas de seguridad. Actualízalas ahora para proteger tus cuentas.
+leaked-security-questions-steps-title = Esto es lo que debes hacer
+leaked-security-questions-steps-subtitle = Esto requiere acceso a tu cuenta, por lo que deberás solucionarlo manualmente.
+# Variables
+# $breach_name is the name of the breach where the security questions were found.
+# $email_affected is the email associated with the breach.
+leaked-security-questions-step-one = Actualiza tus preguntas de seguridad para <b>{ $email_affected }</b> en <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-security-questions-step-two = Actualízalas en cualquier otro sitio donde hayas reutilizado las mismas preguntas de seguridad. Asegúrate de utilizar diferentes preguntas de seguridad para cada cuenta.
