@@ -147,6 +147,10 @@ security-recommendation-ip-title = Brug en VPN for bedre beskyttelse af dit priv
 # Leaked Passwords
 
 leaked-passwords-steps-title = Du skal gøre sådan her
+leaked-passwords-mark-as-fixed = Marker som løst
+leaked-passwords-skip = Hop over indtil videre
 
 # Leaked Security Questions
 
+leaked-security-questions-title = Dine sikkerhedsspørgsmål er blevet eksponeret
+leaked-security-questions-steps-title = Du skal gøre sådan her
