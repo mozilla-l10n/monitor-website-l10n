@@ -146,6 +146,13 @@ breach-checklist-sq-header-text = Güvenlik sorularınızı güncelleyin.
 ## Prompts the user for changes when there is a breach detected of historical password
 
 breach-checklist-hp-header = Aynı parolayı kullandığınız tüm hesaplar için benzersiz, güçlü parolalar oluşturun.
+# Variables:
+#   $passwordManagerLink (string) - a link to the password manager documentation, with { -breach-checklist-link-password-manager } as the label
+breach-checklist-hp-body-2 = { $passwordManagerLink } (Ücretsizdir { -brand-firefox } tarayıcısıyla birlikte gelir.) veya başka bir parola yöneticisi kullanarak tüm parolalarınızı kaydedebilir ve tüm cihazlarınızdan güvenli bir şekilde parolalarınıza erişebilirsiniz.
 
 ## Prompts the user for changes when there is a breach detected of other types
 
+# Variables:
+#   $breachDate (String) - Date of the breach
+#   $companyName (String) - Name of the company where the breach occurred
+breach-checklist-general-header = { $companyName } ile iletişime geçerek onlara bu ihlal hakkında bilgi verin ve ne yapmanız gerektiğini öğrenin.
