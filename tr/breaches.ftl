@@ -74,6 +74,10 @@ breach-checklist-link-mozilla-vpn = { -brand-mozilla-vpn }
 ## Prompts the user for changes when there is a breach detected of password
 
 breach-checklist-pw-header-text = Parolalarınızı güncelleyip iki aşamalı kimlik doğrulamayı (2FA) etkinleştirin.
+# The `breached-company-link` tags will be replaced with link tags or stripped if no link is available.
+# Variables:
+#   $passwordManagerLink (string) - a link to the password manager documentation, with { -breach-checklist-link-password-manager } as the label
+breach-checklist-pw-body-text = Çoğu durumda şirketin web sitesine girip parolanızı değiştirmenizi öneririz. Ancak bazı durumlarda <b>site kapalı olabilir veya kötü amaçlı içerik barındırıyor olabilir</b>. Bu yüzden <breached-company-link>siteyi  ziyaret ederken</breached-company-link> dikkatli olun. Ek bir önlem olarak, tüm hesaplarınızda birbirinden farklı parolalar kullanmalısınız. Böylece, ele geçirilen parolalarınız diğer hesaplarınıza erişmek için kullanılamaz. { $passwordManagerLink }, tüm parolalarınızı güvenli bir şekilde kaydetmenize yardımcı olabilir.
 
 ## Prompts the user for changes when there is a breach detected of email
 
@@ -84,6 +88,9 @@ breach-checklist-email-body = Böylece e-postaları gelen kutunuza yönlendirirk
 
 ## Prompts the user for changes when there is a breach detected of social security number
 
+# Credit reports list your bill payment history, loans, current debt, and other financial information.
+# They show where you work and live and whether you've been sued, arrested, or filed for bankruptcy.
+breach-checklist-ssn-header = Kredi raporunuzda tanımadığınız hesaplar, krediler ve kredi kartları olup olmadığını kontrol edin.
 
 ## Prompts the user for changes when there is a breach detected of credit card
 
