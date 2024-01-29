@@ -101,13 +101,13 @@ ssn-modal-description-fraud-part-one = <b>Upozornění na podvod</b> vyžaduje o
 ssn-modal-description-fraud-part-two = Chcete-li si ho zřídit, obraťte se na kterýkoli ze tří úvěrových úřadů. Nemusíte kontaktovat všechny tři.
 ssn-modal-description-freeze-credit-part-one = <b>Zmrazení vašeho úvěru</b> zabrání komukoli, aby si na vaše jméno otevřel nový účet. Je to zdarma a nemá to negativní vliv na vaše kreditní skóre, ale před otevřením nových účtů ho musíte rozmrazit.
 ssn-modal-description-freeze-credit-part-two = Pro zmrazení svého kreditu kontaktujte každou ze tří úvěrových institucí — <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> a <transunion_link>TransUnion</transunion_link>.
-ssn-modal-learn-more = Zjistěte více o upozorněních na podvody a zmrazení kreditu
+ssn-modal-learn-more = Další informace o upozorněních na podvody a zmrazení úvěrů
 ssn-modal-ok = OK
 
 # PIN Breaches
 
 high-risk-breach-pin-title = Váš PIN byl prozrazen
-high-risk-breach-pin-description = Pokud podniknete kroky co nejdříve, můžete získat další právní ochranu, která vám pomůže získat zpět jakékoli ztráty.
+high-risk-breach-pin-description = Pokud podniknete kroky co nejdříve, získáte větší právní ochranu, která vám pomůže získat zpět případné ztráty.
 high-risk-breach-pin-step-one = Okamžitě oznamte své bance, že byl váš PIN kód prozrazen.
 high-risk-breach-pin-step-two = Změňte si PIN kdekoli, kde jste použili stejný.
 high-risk-breach-pin-step-three = Zkontrolujte, zda na vašich účtech nejsou neoprávněné pohyby.
