@@ -158,7 +158,7 @@ security-recommendation-email-summary =
 security-recommendation-email-description = Bohužel to nelze opravit. Můžete však podniknout určité kroky, abyste se ochránili.
 security-recommendation-email-step-one = Neklikejte na odkazy v e-mailech od neznámých odesílatelů. Pokud se zdá, že pochází z důvěryhodného zdroje, zavolejte mu a ověřte si to.
 security-recommendation-email-step-two = Pozor na <link_to_info>phishingové podvody</link_to_info>
-security-recommendation-email-step-three = Označí podezřelé e-maily jako spam a zablokuje odesílatele
+security-recommendation-email-step-three = Označte podezřelé e-maily jako nevyžádanou poštu a zablokuje odesílatele
 security-recommendation-email-step-four = Používejte <link_to_info>e-mailové masky služby { -brand-relay }</link_to_info> pro budoucí ochranu svých e-mailů
 
 # IP security recommendation
@@ -167,11 +167,11 @@ security-recommendation-ip-title = Pro větší soukromí použijte VPN
 # $num_breaches is the number of breaches where the IP address was found.
 security-recommendation-ip-summary =
     { $num_breaches ->
-        [one] Vaše IP adresa byla vyzrazena při { $num_breaches } úniku dat:
-        [few] Vaše IP adresa byla vyzrazena v { $num_breaches } únikech:
-       *[other] Vaše IP adresa byla vyzrazena v { $num_breaches } únikech:
+        [one] Vaše IP adresa byla vyzrazena při { $num_breaches } úniku údajů:
+        [few] Vaše IP adresa byla vyzrazena v { $num_breaches } únicích údajů:
+       *[other] Vaše IP adresa byla vyzrazena v { $num_breaches } únicích údajů:
     }
-security-recommendation-ip-description = Vaše IP adresa přesně určuje vaši pozici a poskytovatele internetových služeb. Hackeři mohou tyto informace použít k zjištění vaší polohy nebo k pokusu připojit se k vašim zařízením.
+security-recommendation-ip-description = Vaše IP adresa určuje vaši polohu a poskytovatele internetových služeb. Hackeři mohou tyto informace použít k nalezení vaší polohy nebo k pokusu o připojení k vašim zařízením.
 security-recommendation-ip-step-one = Použijte VPN (například <link_to_info>{ -brand-mozilla-vpn }</link_to_info>) ke skrytí své skutečné IP adresy a používejte internet soukromě.
 
 # Leaked Passwords
@@ -182,7 +182,7 @@ leaked-passwords-title = Vaše heslo pro { $breach_name } bylo odhaleno
 # Variables
 # $breach_date is the date when the breach occurred.
 leaked-passwords-summary = Objevilo se při úniku údajů dne { $breach_date }.
-leaked-passwords-description = Podvodníci mají přístup k vašemu účtu a pravděpodobně se ho pokusí použít na jiných účtech, aby zjistili, zda jste nepoužili stejné heslo. Změňte ho všude, kde jste ho použili pro vaši ochranu.
+leaked-passwords-description = Podvodníci mohou získat přístup k vašemu účtu a pravděpodobně se ho pokusí použít na jiných účtech, aby zjistili, zda jste použili stejné heslo. Změňte si ho všude, kde jste ho použili, abyste se ochránili.
 leaked-passwords-steps-title = Toto je potřeba udělat
 leaked-passwords-steps-subtitle = To vyžaduje přístup k vašemu účtu, takže to budete muset vyřešit ručně.
 # Variables
@@ -211,7 +211,7 @@ leaked-security-questions-title = Vaše bezpečnostní otázky byly odhaleny
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
 leaked-security-questions-summary = Objevily se v úniku údajů ze stránky { $breach_name } dne { $breach_date }.
-leaked-security-questions-description = Podvodníci je mohou použít pro přístup k vašim účtům a jakýmkoli dalším stránkám, kde jste použili stejné bezpečnostní otázky. Pro ochranu vašich účtů je aktualizujte.
+leaked-security-questions-description = Podvodníci je mohou použít k přístupu k vašim účtům a k jakémukoli jinému webu, kde jste použili stejné bezpečnostní otázky. Aktualizujte je nyní, abyste ochránili své účty.
 leaked-security-questions-steps-title = Zde je návod, jak postupovat
 leaked-security-questions-steps-subtitle = To vyžaduje přístup k vašemu účtu, takže to budete muset vyřešit ručně.
 # Variables
