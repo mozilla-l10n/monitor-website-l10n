@@ -100,7 +100,7 @@ ssn-modal-title = O upozorněních na podvody a zmrazení úvěrů
 ssn-modal-description-fraud-part-one = <b>Upozornění na podvod</b> vyžaduje od firem ověření vaší identity dříve, než bude připsán na vaše jméno další kredit. Je zdarma, trvá jeden rok a nebude negativně ovlivňovat vaše kreditní skóre.
 ssn-modal-description-fraud-part-two = Chcete-li si ho zřídit, obraťte se na kterýkoli ze tří úvěrových úřadů. Nemusíte kontaktovat všechny tři.
 ssn-modal-description-freeze-credit-part-one = <b>Zmrazení vašeho úvěru</b> zabrání komukoli, aby si na vaše jméno otevřel nový účet. Je to zdarma a nemá to negativní vliv na vaše kreditní skóre, ale před otevřením nových účtů ho musíte rozmrazit.
-ssn-modal-description-freeze-credit-part-two = Pro zmrazení svého kreditu kontaktujte každou ze tří úvěrových institucí — <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> a <transunion_link>TransUnion</transunion_link>.
+ssn-modal-description-freeze-credit-part-two = Pro zmrazení svého úvěru kontaktujte každou ze tří úvěrových institucí — <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> či<transunion_link>TransUnion</transunion_link>.
 ssn-modal-learn-more = Další informace o upozorněních na podvody a zmrazení úvěrů
 ssn-modal-ok = OK
 
@@ -117,7 +117,7 @@ high-risk-breach-pin-step-three = Zkontrolujte, zda na vašich účtech nejsou n
 high-risk-breach-none-title = Skvělá zpráva, neobjevili jsme žádný vysoce rizikový únik údajů
 # Variables
 # $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
-high-risk-breach-none-description = Únik dat zjišťujeme na základě vaší e-mailové adresy a pro { $email_list } jsme nezaznamenali žádný vysoce rizikový únik dat.
+high-risk-breach-none-description = Úniky údajů zjišťujeme na základě vaší e-mailové adresy a pro { $email_list } jsme nenašli žádné vysoce rizikové úniky dat.
 high-risk-breach-none-sub-description-part-one = Mezi vysoce rizikové úniky údajů patří:
 high-risk-breach-none-sub-description-ssn = Číslo sociálního zabezpečení
 high-risk-breach-none-sub-description-bank-account = Informace o bankovním účtu
@@ -143,7 +143,7 @@ security-recommendation-phone-summary =
     }
 security-recommendation-phone-description = Bohužel to nelze vzít zpět. Můžete však podniknout určité kroky, abyste zůstali v bezpečí.
 security-recommendation-phone-step-one = Blokujte nevyžádana čísla, abyste zabránili dalším nevyžádaným hovorům
-security-recommendation-phone-step-two = Neklikejte na odkazy v textech od neznámých odesílatelů; pokud se zdá, že pochází z důvěryhodného zdroje, zavolejte pro potvrzení
+security-recommendation-phone-step-two = Neklikejte na odkazy v textových zprávách od neznámých odesílatelů. Pokud se zdá, že je zpráva z důvěryhodného zdroje, zavolejte přímo a ověřte si to.
 
 # Email security recommendation
 
@@ -151,12 +151,12 @@ security-recommendation-email-title = Chraňte svou e-mailovou adresu
 # $num_breaches is the number of breaches where the email address was found.
 security-recommendation-email-summary =
     { $num_breaches ->
-        [one] Vaše e-mailová adresa byla vyzrazena při { $num_breaches } úniku dat:
-        [few] Vaše e-mailová adresa byla vyzrazena v { $num_breaches } únikech:
-       *[other] Vaše e-mailová adresa byla vyzrazena v { $num_breaches } únikech:
+        [one] Vaše e-mailová adresa byla vyzrazena při { $num_breaches } úniku údajů:
+        [few] Vaše e-mailová adresa byla vyzrazena v { $num_breaches } únicích údajů:
+       *[other] Vaše e-mailová adresa byla vyzrazena v { $num_breaches } únicích údajů:
     }
-security-recommendation-email-description = Toto bohužel nenapravíte. Existují však kroky, které můžete podniknout, abyste se ochránili.
-security-recommendation-email-step-one = Neklikejte na odkazy v e-mailech od neznámých odesílatelů; pokud se zdá, že pochází z důvěryhodného zdroje, zavolejte pro potvrzení
+security-recommendation-email-description = Bohužel to nelze opravit. Můžete však podniknout určité kroky, abyste se ochránili.
+security-recommendation-email-step-one = Neklikejte na odkazy v e-mailech od neznámých odesílatelů. Pokud se zdá, že pochází z důvěryhodného zdroje, zavolejte mu a ověřte si to.
 security-recommendation-email-step-two = Pozor na <link_to_info>phishingové podvody</link_to_info>
 security-recommendation-email-step-three = Označí podezřelé e-maily jako spam a zablokuje odesílatele
 security-recommendation-email-step-four = Používejte <link_to_info>e-mailové masky služby { -brand-relay }</link_to_info> pro budoucí ochranu svých e-mailů
