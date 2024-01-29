@@ -4,6 +4,8 @@
 
 fix-flow-nav-high-risk-data-breaches = Datalæk med høj risiko
 fix-flow-nav-leaked-passwords = Lækkede adgangskoder
+fix-flow-nav-security-recommendations = Sikkerhedsanbefalinger
+guided-resolution-flow-exit = Tilbage til oversigten
 guided-resolution-flow-back-arrow = Gå til foregående trin
 guided-resolution-flow-next-arrow = Gå til næste trin
 guided-resolution-flow-step-navigation-label = Trin i vejledningen
@@ -66,6 +68,7 @@ high-risk-breach-estimated-time =
 
 # Credit Card Breaches
 
+high-risk-breach-credit-card-title = Dit betalingskort-nummer er blevet eksponeret
 high-risk-breach-credit-card-description = Alle, som kan få adgang til det, kan udføre uautoriserede køb, som du kan blive ansvarlig for. Handl nu for at undgå økonomiske problemer.
 high-risk-breach-credit-card-step-one = Hvis du stadig har kortet, så kontakt udstederen for at anmelde, at det er blevet stjålet.
 high-risk-breach-credit-card-step-two = Anmod om et kort med et nyt nummer.
@@ -81,6 +84,7 @@ high-risk-breach-bank-account-step-three = Undersøg om dine kontoudtog indehold
 
 # Social Security Number Breaches
 
+high-risk-breach-social-security-title = Dit personnummer er blevet eksponeret
 
 # Social Security Number Modal
 
@@ -103,6 +107,7 @@ high-risk-breach-none-description = Vi opdager datalæk med udgangspunkt i din m
 high-risk-breach-none-sub-description-part-one = Datalæk med høj risiko inkluderer:
 high-risk-breach-none-sub-description-ssn = Personnummer
 high-risk-breach-none-sub-description-bank-account = Oplysninger om bankkonti
+high-risk-breach-none-sub-description-cc-number = Betalingskort-numre
 high-risk-breach-none-sub-description-pin = Pinkoder
 high-risk-breach-none-continue = Fortsæt
 
@@ -143,6 +148,12 @@ security-recommendation-email-step-four = Brug <link_to_info>mail-masker med { -
 # IP security recommendation
 
 security-recommendation-ip-title = Brug en VPN for bedre beskyttelse af dit privatliv
+# $num_breaches is the number of breaches where the IP address was found.
+security-recommendation-ip-summary =
+    { $num_breaches ->
+        [one] Din IP-adresse er blevet eksponeret i { $num_breaches } datalæk:
+       *[other] Din IP-adresse er blevet eksponeret i { $num_breaches } datalæk:
+    }
 security-recommendation-ip-description = Din IP-adresse fastslår din placering og din internetudbyder. Hackere kan bruge disse oplysninger til at finde frem til din placering eller forsøge at oprette forbindelse til dine enheder.
 security-recommendation-ip-step-one = Brug en VPN (som fx <link_to_info>{ -brand-mozilla-vpn }</link_to_info>) til at skjule din rigtige IP-adresse og beskytte dit privatliv på nettet.
 

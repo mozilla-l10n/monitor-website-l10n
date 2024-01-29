@@ -13,12 +13,14 @@ landing-all-hero-image-chart-label = eksponeringer
 
 # Value Proposition
 
+landing-all-value-prop-fix-exposures = Vi hjælper dig med at løse dine eksponeringer
 landing-all-value-prop-fix-exposures-description = Vores mission er at give dig kontrollen over dine private data tilbage. Vi hjælper dig med at løse datalæk og holde dine data beskyttet - og vi <privacy_link>respekterer din ret til privatliv</privacy_link> undervejs.
 landing-all-value-prop-info-at-risk = Hvilke oplysninger kan være i fare?
 landing-all-value-prop-info-at-risk-description = Datalæk er en beklagelig del af vores digitale liv. Dine adgangskoder og kontaktoplysninger, information om din økonomi og andre personlige oplysninger kan være eksponeret og udsætte dig for risiko for identitetstyveri.
 
 # Quote
 
+landing-all-quote = Hver 11. minut sker en nyt <data_breaches>datalæk</data_breaches>, der kan eksponere dine personlige oplysninger. Men bare rolig, vi hjælper dig.
 
 # Non-US FAQ
 
