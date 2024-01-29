@@ -52,6 +52,7 @@ landing-all-social-proof-press = Kendt fra
 # Here's How We Help
 
 landing-all-help-protect-you = Se hvordan, vi hjælper med at beskytte dig
+landing-all-help-protect-you-description = Vi mener, at retten til privatliv er grundlæggende - derfor er beskyttelse i form af overvågning af datalæk altid gratis.
 landing-all-help-protect-you-feature-one = Vi søger efter dine oplysninger i alle kendte datalæk
 landing-all-help-protect-you-feature-two = Vi guider dig trin for trin til at løse hver datalæk
 landing-all-help-protect-you-feature-three = Vi holder løbende øje med dine oplysninger og giver dig besked, hvis de optræder i en ny datalæk
