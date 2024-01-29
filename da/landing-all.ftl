@@ -44,11 +44,7 @@ landing-all-social-proof-title =
     }
 # Variables
 # $num_countries is the number of countries available.
-landing-all-social-proof-description =
-    { $num_countries ->
-        [one] { "" }
-       *[other] Siden 2018 har vi hjulpet mennesker i { $num_countries } lande med at beskytte deres eksponerede data.
-    }
+landing-all-social-proof-description = Siden 2018 har vi hjulpet mennesker i { $num_countries } lande med at beskytte deres eksponerede data.
 landing-all-social-proof-press = Kendt fra
 
 # Here's How We Help
