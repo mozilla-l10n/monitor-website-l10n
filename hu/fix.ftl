@@ -205,11 +205,11 @@ leaked-security-questions-title = A biztonsági kérdései nyilvánosságra ker�
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
 leaked-security-questions-summary = Ebben az adatvédelmi incidensben jelentek meg: { $breach_name }, ekkor: { $breach_date }.
-leaked-security-questions-description = A csalók ezeket használhatják, hogy hozzáférjenek a fiókjaihoz, és minden olyan webhelyhez, ahol ugyanazokat a biztonsági kérdéseket használta. Frissítse őket most, hogy megvédje a fiókjait.
-leaked-security-questions-steps-title = Itt van a teendő
-leaked-security-questions-steps-subtitle = Ez hozzáférést igényel a fiókjához, így kézileg kell javítania.
+leaked-security-questions-description = A csalók ezeket arra használhatják, hogy hozzáférjenek a fiókjaihoz, és minden olyan webhelyhez, ahol ugyanazokat a biztonsági kérdéseket használta. Frissítse őket most, hogy megvédje a fiókjait.
+leaked-security-questions-steps-title = Ezeket kellene tennie
+leaked-security-questions-steps-subtitle = Ehhez hozzá kell férnie a fiókjához, ezért kézileg kell kijavítania.
 # Variables
 # $breach_name is the name of the breach where the security questions were found.
 # $email_affected is the email associated with the breach.
-leaked-security-questions-step-one = Frissítse a(z) <b>{ $email_affected }</b> biztonsági kérdéseit itt: <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-security-questions-step-one = Frissítse a(z) <b>{ $emails_affected }</b> biztonsági kérdéseit itt: <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
 leaked-security-questions-step-two = Frissítse azokat minden olyan oldalon, ahol ugyanazokat a biztonsági kérdéseket használta. Győződjön meg róla, hogy különböző biztonsági kérdéseket használ minden fiókhoz.
