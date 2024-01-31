@@ -212,4 +212,4 @@ leaked-security-questions-steps-subtitle = Ehhez hozzá kell férnie a fiókjáh
 # $breach_name is the name of the breach where the security questions were found.
 # $email_affected is the email associated with the breach.
 leaked-security-questions-step-one = Frissítse a(z) <b>{ $emails_affected }</b> biztonsági kérdéseit itt: <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
-leaked-security-questions-step-two = Frissítse azokat minden olyan oldalon, ahol ugyanazokat a biztonsági kérdéseket használta. Győződjön meg róla, hogy különböző biztonsági kérdéseket használ minden fiókhoz.
+leaked-security-questions-step-two = Frissítse minden olyan oldalon, ahol ugyanazokat a biztonsági kérdéseket használta. Győződjön meg róla, hogy különböző biztonsági kérdéseket használ minden fiókhoz.
