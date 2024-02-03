@@ -22,7 +22,7 @@ exposure-chart-legend-heading-nr = Sayı
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
-exposure-chart-caption = Bu tablo, bilgilerinizin kaç kez ele geçirildiğini gösterir.
+exposure-chart-caption = Bu grafik, bilgilerinizin kaç kez ele geçirildiğini gösterir.
 # Variables:
 #   $total_fixed_exposures_num (number) - Number of fixed exposures
 #   $total_exposures_num (number) - Number of total exposures
@@ -31,6 +31,7 @@ exposure-chart-returning-user-upgrade-prompt = Ev adresi, aile üyeleri ve diğe
 exposure-chart-returning-user-upgrade-prompt-cta = Ücretsiz tarama başlatın
 exposure-chart-scan-in-progress-prompt = <b>Tarama devam ediyor:</b> Adres, aile üyeleri ve diğer bilgiler henüz dahil edilmedi.
 modal-active-number-of-exposures-title = Aktif veri ihlali sayınız hakkında
+modal-active-number-of-exposures-part-three-all = Çözülen ihlaller, Düzeltildi sayfasındaki toplan düzeltilen ihlal sayısına eklenecektir.
 modal-fixed-number-of-exposures-title = Düzeltilmiş veri ihlali sayınız hakkında
 modal-cta-ok = Tamam
 modal-open-alt = Aç

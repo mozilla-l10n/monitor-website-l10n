@@ -168,7 +168,7 @@ security-recommendation-ip-step-one = Gerçek IP adresinizi gizlemek ve internet
 leaked-passwords-title = { $breach_name } parolanız ele geçirildi
 # Variables
 # $breach_date is the date when the breach occurred.
-leaked-passwords-summary = { $breach_date } tarihinde meydana gelen bir veri ihlalinde yer alıyor.
+leaked-passwords-summary = Bilgileriniz { $breach_date } tarihinde meydana gelen bir veri ihlalinde yer alıyor.
 leaked-passwords-description = Dolandırıcılar bu bilgiyi kullanarak hesabınıza erişebilir. Ayrıca, aynı parolayla başka sitelerdeki hesaplarınıza girmeyi de deneyeceklerdir. Kendinizi korumak için bu parolayı kullandığınız her yerde değiştirin.
 leaked-passwords-steps-title = İşte yapmanız gerekenler
 leaked-passwords-steps-subtitle = Bunun için hesabınıza erişim gerekiyor, o yüzden kendiniz düzeltmeniz gerekecek.
