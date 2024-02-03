@@ -110,8 +110,20 @@ dashboard-top-banner-non-us-protect-your-data-description-line2 =
 dashboard-top-banner-no-exposures-found-title = Hiç veri ihlali bulunamadı
 dashboard-top-banner-non-us-no-exposures-found-description = Haberler güzel! Bilinen tüm veri ihlallerini araştırdık ve hiçbir ihlal bulamadık. E-posta adresinizi izlemeye devam edeceğiz ve yeni bir ihlal olursa sizi uyaracağız.
 dashboard-no-exposures-label = Hiç veri ihlali bulunamadı
+# Variables:
+# $exposures_resolved_num is the number of exposures the user has resolved.
+dashboard-top-banner-non-us-your-data-is-protected-description =
+    { $exposures_resolved_num ->
+        [one] İyi iş çıkardınız! Veri ihlaliniz düzeltildi. İhalleri izlemeye devam edeceğiz ve yeni bir ihlal yaşanırsa sizi uyaracağız.
+       *[other] İyi iş çıkardınız! { $exposures_resolved_num } veri ihlalinizin hepsi düzeltildi. İhalleri izlemeye devam edeceğiz ve yeni bir ihlal yaşanırsa sizi uyaracağız.
+    }
 dashboard-top-banner-monitor-more-cta = Daha fazla e-postayı izleyin
 
 # About Exposure Statuses Modal
 
 modal-exposure-status-title = Veri ihlali durumları hakkında
+modal-exposure-status-description-all =
+    Bilinen tüm veri ihlallerindeki riskleri araştırıyoruz.
+    Riskleriniz aşağıdaki durumlardan birine sahip olacaktır:
+modal-exposure-status-action-needed = <b>İşlem gerekiyor</b> demek, ihlal şu anda aktif durumda ve sorunu gidermek için önlem almanız gerekiyor demektir.
+modal-exposure-status-fixed = <b>Düzeltildi</b> demek, ihlal çözülmüş ve herhangi bir işlem yapmanız gerekmiyor demektir.

@@ -90,6 +90,8 @@ high-risk-breach-social-security-step-two = <link_to_info>Kredi raporunuzda</lin
 
 # Social Security Number Modal
 
+ssn-modal-title = Dolandırıcılık uyarıları ve kredi dondurmaları hakkında
+ssn-modal-learn-more = Dolandırıcılık uyarıları ve kredi dondurmaları hakkında bilgi alın
 ssn-modal-ok = Tamam
 
 # PIN Breaches
@@ -202,3 +204,4 @@ leaked-security-questions-steps-subtitle = Bunun için hesabınıza erişim gere
 # $breach_name is the name of the breach where the security questions were found.
 # $email_affected is the email associated with the breach.
 leaked-security-questions-step-one = <link_to_breach_site>{ $breach_name }</link_to_breach_site> sitesindeki/uygulamasındaki <b>{ $email_affected }</b> hesabınızın güvenlik sorularını güncelleyin.
+leaked-security-questions-step-two = Aynı güvenlik sorularını kullandığınız başka siteler varsa o güvenlik sorularını da güncelleyin. Her hesap için farklı güvenlik soruları kullanmaya özen gösterin.
