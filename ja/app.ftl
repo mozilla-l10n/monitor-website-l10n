@@ -44,6 +44,7 @@ user-add-duplicate-email = このメールは既に { -product-name } に追加�
 #   $preferencesLink (String) - Link to preferences
 #   $userEmail (String) - User email address
 user-add-duplicate-email-part-2 = { $preferencesLink } にアクセスして、{ $userEmail } のステータスを確認してください。
+user-add-verification-email-just-sent = メールをすぐに再送信することはできません。後でもう一度試してください。
 user-add-unknown-error = 別のメールアドレスを追加する際に問題が発生しました。後でもう一度試してください。
 error-headline = エラー
 user-verify-token-error = 検証トークンが必要です。
