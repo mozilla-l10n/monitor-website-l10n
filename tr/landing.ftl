@@ -27,12 +27,15 @@ how-it-works = Nasıl mı çalışıyor?
 check-for-breaches = İhlalleri kontrol edin
 check-for-breaches-we-search = Bilgilerinizin ele geçirilip geçirilmediğini görmek için 2007’den bu yana bilinen tüm veri ihlallerini araştıracağız.
 protect-accounts = Hesaplarınızı koruyun
+protect-accounts-clear-steps = Bilgilerinizin ele geçirildiği veri ihlallerinde bir sonraki adımda ne yapmanız gerektiğini paylaşacağız.
 alerts-for-breaches = Yeni ihlallerden haberdar olun
 alerts-for-breaches-monitor-new = Sürekli olarak yeni veri ihlallerini izleyeceğiz ve etkilenip etkilenmediğinizi size bildireceğiz.
 
 ## Your privacy is safe with us
 
 safe-with-us = Gizliliğiniz bizimle güvende
+parent-company = { -brand-firefox } ve { -brand-fx-monitor }’ün yapımcısı { -brand-Mozilla } olarak, bireylerin internetteki güvenlik ve gizliliğinin esas olduğuna, bunlar isteğe bağlıymış gibi muamele yapılmaması gerektiğine inanıyoruz.
+our-mission = Misyonumuz, insanların kendi deneyimlerini şekillendirebileceği, kendilerini güçlü hissedebileceği ve güvende kalabileceği daha iyi bir internet inşa etmek. Bireysel yararı ve kamu yararını paradan üstün tutan, kâr amacı gütmeyen { -brand-mozilla-foundation }nın alt kuruluşuyuz.
 learn-more-mission = Misyonumuz hakkında bilgi alın
 
 ## Top questions about Firefox Monitor

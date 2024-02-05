@@ -93,6 +93,8 @@ high-risk-breach-social-security-step-two = <link_to_info>Kredi raporunuzda</lin
 
 ssn-modal-title = Dolandırıcılık uyarıları ve kredi dondurmaları hakkında
 ssn-modal-description-fraud-part-one = <b>Dolandırıcılık uyarısını</b> açarsanız işletmelerin adınıza kredi kullanmak için kimliğinizi doğrulaması gerekir. Ücretsizdir, bir yıl sürer ve kredi puanınızı olumsuz etkilemez.
+ssn-modal-description-fraud-part-two = Süreci başlatmak için ABD'deki üç kredi ofisinden biriyle iletişime geçin. Üçüyle birden iletişime geçmeniz gerekmiyor.
+ssn-modal-description-freeze-credit-part-two = Kredinizi dondurmak için üç kredi ofisinden biriyle iletişime geçin: <quifax_link>Equifax</quifax_link>, <experian_link>Experian</experian_link> ve <transunion_link>TransUnion</transunion_link>.
 ssn-modal-learn-more = Dolandırıcılık uyarıları ve kredi dondurmaları hakkında bilgi alın
 ssn-modal-ok = Tamam
 
