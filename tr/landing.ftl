@@ -47,6 +47,7 @@ what-is-breach = Veri ihlali tam olarak nedir?
 when-info-exposed = Kişisel veya özel bilgilerinizin ifşa olmasına, çalınmasına veya sizden izinsiz kopyalanmasına veri ihlali denir. Bu olaylar; kişisel bilgilerin barındırıldığı web sitelerine, uygulamalara ve veritabanlarına yapılan siber saldırılardan kaynaklanabilir. Bazı veri ihlalleri yanlışlıkla da gerçekleşebilir (örn. birine ait hesap bilgilerinin yanlışlıkla herkese açık bir şekilde paylaşılması).
 # question and answer
 what-do-i-do = Bilgilerimin ele geçirildiğini öğrendim. Ne yapmalıyım?
+visit-monitor-to-learn = Veri ihlalinin ardından ne yapacağınızı öğrenmek ve kişisel bilgilerinizin ele geçirilmesini düzeltmek için { -brand-fx-monitor }’ü ziyaret edin. Hacker’lar aynı parolaları başka yerlerde de kullandığınızı varsayar. Bu nedenle tüm hesaplarınız için güçlü ve benzersiz parolalar oluşturmanız önemlidir. Parolalarınızı yalnızca sizin erişebileceğiniz güvenli bir yerde saklayın. Burası önemli belgelerinizi sakladığınız yer veya bir parola yöneticisi olabilir.
 # question and answer
 what-gets-exposed = Veri ihlallerinde hangi bilgiler açığa çıkar?
 depends-on-hackers = Tüm ihlallerde aynı bilgiler açığa çıkmaz. Sonuç, bilgisayar korsanlarının hangi bilgilere erişebildiğine bağlıdır. Birçok veri ihlalinde e-posta adresleri ve parolalar ele geçirilir. Bazılarında kredi kartı numaraları, pasaport numaraları ve sosyal güvenlik numaraları gibi daha hassas bilgiler de ele geçirilebilir.
