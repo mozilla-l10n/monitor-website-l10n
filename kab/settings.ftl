@@ -29,6 +29,7 @@ settings-remove-email-button-label = Kkes
 
 ## Deactivate account
 
+settings-deactivate-account-title = Kkes amiḍan
 settings-fxa-link-label-3 = Ddu ɣer iɣewwaṛen n { -brand-mozilla-account }
 
 ## Add email dialog
@@ -39,3 +40,4 @@ settings-send-email-verification-button = Azen n useɣwen n usentem
 
 ## Unsubscribe Dialog Survey
 
+settings-unsubscribe-dialog-continue = Kemmel tukksa
