@@ -704,6 +704,7 @@ user-menu-settings-tooltip = Sbadu { -brand-mozilla-monitor }
 user-menu-help-label = Tallalt
 user-menu-help-tooltip = Awi tallalt i useqdec n { -brand-mozilla-monitor }
 user-menu-signout-label = Ffeɣ
+user-menu-signout-tooltip = Ffeɣ deg { -brand-mozilla-monitor }
 
 ## Footer
 
