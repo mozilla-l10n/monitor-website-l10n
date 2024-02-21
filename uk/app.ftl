@@ -877,6 +877,7 @@ terms-of-service = Умови надання послуг
 privacy-notice = Положення про приватність
 github = { -brand-github }
 footer-nav-all-breaches = Усі витоки
+footer-external-link-faq-label = Поширені запитання
 footer-external-link-faq-tooltip = Поширені запитання
 
 ## Error page
@@ -914,5 +915,6 @@ floating-banner-dismiss-button-label = Ні, дякую
 ## Firefox Monitor -> Mozilla Monitor rebrand banner
 
 banner-monitor-rebrand-text = <b>{ -brand-mozilla-monitor }</b>: нова назва, зовнішній вигляд і ще більше способів <b>відновити вашу приватність</b>.
+banner-monitor-rebrand-dismiss-button-label = OK
 banner-monitor-rebrand-dismiss-button-tooltip = Відхилити
 loading-accessibility = Завантаження
