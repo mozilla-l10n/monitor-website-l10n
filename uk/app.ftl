@@ -864,6 +864,11 @@ user-menu-trigger-label = Відкрити меню користувача
 user-menu-trigger-tooltip = Профіль
 user-menu-manage-fxa-label = Керуйте своїм { -brand-mozilla-account }
 user-menu-settings-label = Налаштування
+user-menu-settings-tooltip = Сконфігурувати { -brand-mozilla-monitor }
+user-menu-help-label = Довідка та підтримка
+user-menu-help-tooltip = Отримати довідку про користування { -brand-mozilla-monitor }
+user-menu-signout-label = Вийти
+user-menu-signout-tooltip = Вийти з { -brand-mozilla-monitor }
 
 ## Footer
 
@@ -872,6 +877,7 @@ terms-of-service = Умови надання послуг
 privacy-notice = Положення про приватність
 github = { -brand-github }
 footer-nav-all-breaches = Усі витоки
+footer-external-link-faq-tooltip = Поширені запитання
 
 ## Error page
 
