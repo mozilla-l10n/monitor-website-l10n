@@ -913,3 +913,6 @@ floating-banner-dismiss-button-label = Ні, дякую
 
 ## Firefox Monitor -> Mozilla Monitor rebrand banner
 
+banner-monitor-rebrand-text = <b>{ -brand-mozilla-monitor }</b>: нова назва, зовнішній вигляд і ще більше способів <b>відновити вашу приватність</b>.
+banner-monitor-rebrand-dismiss-button-tooltip = Відхилити
+loading-accessibility = Завантаження
