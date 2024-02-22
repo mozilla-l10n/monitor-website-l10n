@@ -35,7 +35,7 @@ error-to-finish-verifying = { -product-name } için bu e-postayı onaylamak üze
 home-title = { -product-name }
 home-not-found = Sayfa bulunamadı.
 oauth-invalid-session = Geçersiz oturum
-scan-title = { -product-name }: Tarama Sonuçları
+scan-title = { -product-name } : Tarama Sonuçları
 user-add-invalid-email = Geçersiz e-posta
 user-add-too-many-emails = Azami sayıda e-posta adresini gözlemliyorsunuz.
 user-add-email-verify-subject = { -product-name } aboneliğinizi doğrulayın.
@@ -46,6 +46,7 @@ user-add-duplicate-email = Bu e-posta zaten { -product-name }'e eklenmiş.
 user-add-duplicate-email-part-2 = { $userEmail } adresinin durumunu kontrol etmek için { $preferencesLink }inizi ziyaret edin.
 user-add-verification-email-just-sent = Bu kadar sıra sürede başka doğrulama e-postası gönderemiyoruz. Lütfen daha sonra yeniden deneyin.
 user-add-unknown-error = Başka bir e-posta adresi eklenirken bir sorun oluştu. Lütfen daha sonra yeniden deneyin.
+user-delete-unknown-error = Bir e-posta adresi kaldırılırken bir sorun oluştu. Lütfen daha sonra yeniden deneyin.
 error-headline = Hata
 user-verify-token-error = Doğrulama jetonu gerekli.
 user-verify-email-report-subject = { -product-name } raporunuz
@@ -158,7 +159,10 @@ fxm-warns-you = E-posta adresiniz çevrimiçi bir veri ihlalinde yer alırsa { -
 # How Firefox Monitor works
 how-fxm-works = { -product-name } nasıl çalışır?
 how-fxm-1-headline = Temel sorgulama yap
-how-fxm-1-blurb = Bilgileriniz 2007'den beri gerçeklemiş veri ihlallerinde arayın. Temel sorgulama çoğu veri ihlalini tarar ancak hassas kişisel veri içerenleri hariç tutar.
+how-fxm-1-blurb =
+    Bilgilerinizi 2007’den beri gerçeklemiş veri ihlallerinde arayın.
+    Temel sorgulama çoğu veri ihlalini tarar
+    fakat hassas kişisel veri içerenleri hariç tutar.
 how-fxm-2-headline = İhlal takibi için kaydolun
 how-fxm-2-blurb = Yeni ihlallerden haberdar olmak için { -brand-fxa } açın. E-postanızı doğruladıktan sonra hassas ihlaller de dahil olmak üzere geçmiş veri ihlallerini içeren tam raporunuzu göndereceğiz.
 how-fxm-3-headline = Tarayıcınızdan bildirim alın
