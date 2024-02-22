@@ -59,7 +59,7 @@ rec-ip-subhead-2 = VPN kullanarak IP adresinizi gizleyin
 # Recommendation subhead
 rec-moz-vpn-cta = { -brand-mozilla-vpn }’i deneyin
 rec-moz-vpn-update-2 =
-    IP adresiniz konumunuzu ve internet servis sağlayıcısınızı açığa çıkarır.
+    IP adresiniz konumunuzu ve internet servis sağlayıcınızı açığa çıkarır.
     { -brand-mozilla-vpn } gibi bir hizmeti kullanarak
     IP adresinizi maskeleyip konumunuzu gizleyebilirsiniz.
 rec-hist-pw-subhead = Aynı parolayı başka yerlerde kullanmayın
