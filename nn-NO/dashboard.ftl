@@ -26,13 +26,17 @@ exposure-chart-returning-user-upgrade-prompt-cta = Start ei gratis skanning
 modal-cta-ok = OK
 modal-open-alt = Opne
 modal-close-alt = Lat att
+progress-card-manually-fixed-headline = Manuelt løyst
 dashboard-tab-label-action-needed = Handling påkravd
 dashboard-tab-label-fixed = Løyst
+dashboard-exposures-all-fixed-label = Alt løyst her!
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Filter
 dashboard-exposures-filter-company = Firma
+dashboard-exposures-filter-date-found = Dato for oppdaginga
 dashboard-exposures-filter-date-found-last-seven-days = Siste 7 dagar
 dashboard-exposures-filter-date-found-last-thirty-days = Siste 30 dagar
+dashboard-exposures-filter-date-found-last-year = Førre år
 dashboard-exposures-filter-status = Status
 dashboard-exposures-filter-status-action-needed = Handling påkravd
 dashboard-exposures-filter-status-in-progress = I framdrift
