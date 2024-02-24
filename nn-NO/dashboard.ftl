@@ -48,9 +48,11 @@ dashboard-exposures-filter-reset = Tilbakestill
 
 ## Top banner on the dashboard
 
+dashboard-top-banner-section-label = Oversynsoppsummering
 dashboard-top-banner-scan-in-progress-title = Skanninga held framleis på
 dashboard-top-banner-your-data-is-protected-title = DIne data er verna
 dashboard-top-banner-your-data-is-protected-cta = Sjå kva som er løyst
+dashboard-top-banner-lets-keep-protecting-title = La oss halde fram med å verne dataa dine
 dashboard-top-banner-monitor-more-cta = Overvak fleire e-postadresser
 
 # About Exposure Statuses Modal
