@@ -25,7 +25,7 @@ jobs:
           rsync -av --progress --exclude="en/*" --exclude="*.md"  --exclude="LICENSE" --exclude=".*" l10n_repo/ code_repo/locales/
       - name: Get the current date for PR title
         run: echo "current_date=$(date +"%Y-%m-%d")" >> $GITHUB_ENV
-      - uses: peter-evans/create-pull-request@v5
+      - uses: peter-evans/create-pull-request@v6
         with:
           path: code_repo
           token: ${{ secrets.MONITOR_L10N_TOKEN }}

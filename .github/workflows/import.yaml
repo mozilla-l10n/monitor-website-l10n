@@ -23,7 +23,7 @@ jobs:
           cp code_repo/locales/en/*.ftl l10n_repo/en/
       - name: Get the current date for PR title
         run: echo "current_date=$(date +"%Y-%m-%d")" >> $GITHUB_ENV
-      - uses: peter-evans/create-pull-request@v4
+      - uses: peter-evans/create-pull-request@v6
         with:
           path: l10n_repo
           author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
