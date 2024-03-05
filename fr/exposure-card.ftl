@@ -26,7 +26,7 @@ exposure-card-other = Autre
 # Variables:
 # $data_breach_company is the company associated with the data breach.
 # $data_breach_date is the date of the data breach.
-exposure-card-description-data-breach-action-needed = Vos informations ont été exposées dans la fuite de données <data_breach_link>{ $data_breach_company } le { $data_breach_date }.</data_breach_link> Nous vous guiderons à travers les étapes pour résoudre ce problème.
+exposure-card-description-data-breach-action-needed = Vos informations font partie de la fuite de données <data_breach_link>{ $data_breach_company } du { $data_breach_date }.</data_breach_link> Nous vous guiderons pas à pas pour résoudre ce problème.
 exposure-card-description-data-breach-fixed = Vous avez pris les mesures nécessaires pour corriger <data_breach_link>cette fuite</data_breach_link>. Nous surveillerons en permanence les fuites de données et vous informerons de toute nouvelle vulnérabilité.
 exposure-card-your-exposed-info = Vos informations qui ont fuité :
 exposure-card-exposure-type-data-broker = Informations à vendre

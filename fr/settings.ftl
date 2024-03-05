@@ -63,7 +63,7 @@ settings-delete-monitor-free-account-title = Supprimer le compte { -brand-monito
 settings-delete-monitor-free-account-description = Cette action supprimera définitivement votre compte { -brand-monitor } et désactivera toutes les notifications.
 settings-delete-monitor-free-account-cta-label = Supprimer mon compte
 settings-delete-monitor-free-account-dialog-title = Votre compte { -brand-monitor } sera supprimé définitivement
-settings-delete-monitor-free-account-dialog-lead = Toutes les informations de votre compte { -brand-monitor } seront supprimées et nous ne surveillerons plus aucune nouvelle fuite de données. Cela ne supprimera pas votre compte { -brand-mozilla }.
+settings-delete-monitor-free-account-dialog-lead = Toutes les informations de votre compte { -brand-monitor } seront supprimées et nous ne surveillerons plus aucune nouvelle fuite de données. Cette action ne supprimera pas votre compte { -brand-mozilla }.
 settings-delete-monitor-free-account-dialog-cta-label = Supprimer mon compte
 settings-delete-monitor-free-account-dialog-cancel-button-label = J’ai changé d’avis, revenir en arrière
 settings-delete-monitor-plus-account-title = Supprimer le compte { -brand-monitor }
@@ -75,7 +75,7 @@ settings-delete-monitor-plus-account-dialog-lead-p2 = Votre abonnement payant se
 settings-delete-monitor-plus-account-dialog-cta-label = Supprimer mon compte
 settings-delete-monitor-plus-account-dialog-cancel-button-label = J’ai changé d’avis, revenir en arrière
 settings-delete-monitor-account-confirmation-toast-label = Votre compte { -brand-monitor } est désormais supprimé définitivement.
-settings-delete-monitor-account-confirmation-toast-dismiss-label = Ignorer
+settings-delete-monitor-account-confirmation-toast-dismiss-label = Fermer
 
 ## Add email dialog
 
