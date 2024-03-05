@@ -73,6 +73,9 @@ settings-delete-monitor-plus-account-dialog-title = Llogaria juaj { -brand-monit
 settings-delete-monitor-plus-account-dialog-lead-p1 = Krejt informacioni i llogarisë tuaj { -brand-monitor } do të fshihet dhe s’do të mbikëqyrim më për cenime të reja të dhënash, apo ekspozime në tregtues të dhënash. Kjo s’do të fshijë llogarinë tuaj { -brand-mozilla }.
 settings-delete-monitor-plus-account-dialog-lead-p2 = Pajtimi juaj me pagesë do të përfundojë sot dhe s’do të jeni t’ju faturohet <em>pro rata</em> për pjesën e mbetur të pajtimit tuaj.
 settings-delete-monitor-plus-account-dialog-cta-label = Fshije llogarinë
+settings-delete-monitor-plus-account-dialog-cancel-button-label = S’prish punë, kthemëni
+settings-delete-monitor-account-confirmation-toast-label = Llogaria juaj { -brand-monitor } tani është fshirë përgjithnjë.
+settings-delete-monitor-account-confirmation-toast-dismiss-label = Hidhe tej
 
 ## Add email dialog
 
