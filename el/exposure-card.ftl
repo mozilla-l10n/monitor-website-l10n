@@ -26,8 +26,8 @@ exposure-card-other = Άλλο
 # Variables:
 # $data_breach_company is the company associated with the data breach.
 # $data_breach_date is the date of the data breach.
-exposure-card-description-data-breach-action-needed = Οι πληροφορίες σας εκτέθηκαν στην παραβίαση δεδομένων <data_breach_link>{ $data_breach_company } στις { $data_breach_date }.</data_breach_link> Θα σας καθοδηγήσουμε με τα βήματα για τη διόρθωσή τους.
-exposure-card-description-data-breach-fixed = Έχετε λάβει τα απαραίτητα μέτρα για τη διόρθωση <data_breach_link>αυτής της παραβίασης</data_breach_link>. Θα εποπτεύουμε συνεχώς για παραβιάσεις δεδομένων και θα σας ειδοποιούμε για τυχόν νέα έκθεση.
+exposure-card-description-data-breach-action-needed = Οι πληροφορίες σας εκτέθηκαν στην <data_breach_link>παραβίαση δεδομένων της { $data_breach_company } στις { $data_breach_date }</data_breach_link>. Θα σας παρέχουμε βήματα για τη διόρθωση της έκθεσης.
+exposure-card-description-data-breach-fixed = Έχετε λάβει τα απαραίτητα μέτρα για τη διόρθωση <data_breach_link>αυτής της παραβίασης</data_breach_link>. Θα εποπτεύουμε συνεχώς για παραβιάσεις δεδομένων και θα σας ειδοποιούμε για τυχόν νέες εκθέσεις.
 exposure-card-your-exposed-info = Οι εκτεθειμένες πληροφορίες σας:
 exposure-card-exposure-type-data-broker = Πληροφορίες προς πώληση
 exposure-card-exposure-type-data-breach = Παραβίαση δεδομένων
