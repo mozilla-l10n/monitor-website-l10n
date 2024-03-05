@@ -75,11 +75,11 @@ settings-delete-monitor-plus-account-description = Это навсегда уд�
 settings-delete-monitor-plus-account-cta-label = Удалить аккаунт
 settings-delete-monitor-plus-account-dialog-title = Ваш аккаунт { -brand-monitor } будет удалён навсегда
 settings-delete-monitor-plus-account-dialog-lead-p1 = Вся информация вашего аккаунта { -brand-monitor } будет удалена, и мы больше не будем отслеживать новые утечки данных или уязвимости брокеров данных. Это действие не приведет к удалению вашего аккаунта { -brand-mozilla }.
-settings-delete-monitor-plus-account-dialog-lead-p2 = Ваша платная подписка заканчивается сегодня, и вы не будете получать пропорциональное вознаграждение за оставшуюся часть подписки.
+settings-delete-monitor-plus-account-dialog-lead-p2 = Ваша платная подписка заканчивается сегодня, и вы не получите пропорциональное вознаграждение за оставшуюся часть подписки.
 settings-delete-monitor-plus-account-dialog-cta-label = Удалить аккаунт
 settings-delete-monitor-plus-account-dialog-cancel-button-label = Не важно, верните меня обратно
 settings-delete-monitor-account-confirmation-toast-label = Ваш аккаунт { -brand-monitor } удалён навсегда.
-settings-delete-monitor-account-confirmation-toast-dismiss-label = Убрать
+settings-delete-monitor-account-confirmation-toast-dismiss-label = Закрыть
 
 ## Add email dialog
 
