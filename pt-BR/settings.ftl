@@ -61,6 +61,9 @@ settings-fxa-link-label-3 = Ir para as configurações da { -brand-mozilla-accou
 
 settings-delete-monitor-free-account-title = Excluir conta do { -brand-monitor }
 settings-delete-monitor-free-account-cta-label = Excluir conta
+settings-delete-monitor-free-account-dialog-cta-label = Excluir conta
+settings-delete-monitor-free-account-dialog-cancel-button-label = Mudei de ideia, voltar
+settings-delete-monitor-plus-account-title = Excluir conta do { -brand-monitor }
 
 ## Add email dialog
 
