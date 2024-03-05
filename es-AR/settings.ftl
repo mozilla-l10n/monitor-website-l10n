@@ -61,7 +61,7 @@ settings-fxa-link-label-3 = Ir a ajustes de la { -brand-mozilla-account }
 
 ## Delete Monitor account
 
-settings-delete-monitor-free-account-title = Borrar la cuenta de { -brand-monitor }
+settings-delete-monitor-free-account-title = Eliminar la cuenta de { -brand-monitor }
 settings-delete-monitor-free-account-description = Esto eliminará permanentemente su cuenta de { -brand-monitor } y desactivará todas las notificaciones.
 settings-delete-monitor-free-account-cta-label = Eliminar cuenta
 settings-delete-monitor-free-account-dialog-title = Su cuenta de { -brand-monitor } se eliminará permanentemente
