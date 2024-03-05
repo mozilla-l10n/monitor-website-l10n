@@ -64,6 +64,9 @@ settings-delete-monitor-free-account-cta-label = Excluir conta
 settings-delete-monitor-free-account-dialog-cta-label = Excluir conta
 settings-delete-monitor-free-account-dialog-cancel-button-label = Mudei de ideia, voltar
 settings-delete-monitor-plus-account-title = Excluir conta do { -brand-monitor }
+settings-delete-monitor-plus-account-cta-label = Excluir conta
+settings-delete-monitor-plus-account-dialog-cta-label = Excluir conta
+settings-delete-monitor-plus-account-dialog-cancel-button-label = Mudei de ideia, voltar
 
 ## Add email dialog
 
