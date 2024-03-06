@@ -59,7 +59,7 @@ settings-fxa-link-label-3 = Ugrás a { -brand-mozilla-account } beállításaiho
 
 ## Delete Monitor account
 
-settings-delete-monitor-free-account-title = A { -brand-monitor } fiók törlése
+settings-delete-monitor-free-account-title = A { -brand-monitor }-fiók törlése
 settings-delete-monitor-free-account-description = Ez véglegesen törli a { -brand-monitor }-fiókját, és kikapcsolja az összes értesítést.
 settings-delete-monitor-free-account-cta-label = Fiók törlése
 settings-delete-monitor-free-account-dialog-title = A { -brand-monitor }-fiókja véglegesen törölve lesz
