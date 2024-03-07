@@ -69,6 +69,12 @@ settings-delete-monitor-free-account-dialog-cta-label = Emboguete mba’ete
 settings-delete-monitor-free-account-dialog-cancel-button-label = Marave ndoikói, jajevyjey
 settings-delete-monitor-plus-account-title = Embogue { -brand-monitor } mba’ete
 settings-delete-monitor-plus-account-description = Kóva omboguepáta ne mba’ete { -brand-monitor } pegua ha ojeipáta ne ñemboheraguapy tepyme’ẽgua { -brand-monitor-plus } pegua.
+settings-delete-monitor-plus-account-cta-label = Emboguete mba’ete
+settings-delete-monitor-plus-account-dialog-title = Ne mba’ete { -brand-monitor } pegua oñemboguetétama
+settings-delete-monitor-plus-account-dialog-cta-label = Emboguete mba’ete
+settings-delete-monitor-plus-account-dialog-cancel-button-label = Marave ndoikói, jajevyjey
+settings-delete-monitor-account-confirmation-toast-label = Ne mba’ete { -brand-monitor } pegua oñemboguetéma
+settings-delete-monitor-account-confirmation-toast-dismiss-label = Mboyke
 
 ## Add email dialog
 
