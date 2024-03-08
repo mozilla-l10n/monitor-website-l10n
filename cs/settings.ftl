@@ -63,11 +63,11 @@ settings-fxa-link-label-3 = Přejít do nastavení { -brand-mozilla-account(case
 
 ## Delete Monitor account
 
-settings-delete-monitor-free-account-title = Smazat účet { -brand-monitor }
-settings-delete-monitor-free-account-description = Tímto trvale smažete svůj účet { -brand-monitor } a vypnete všechna oznámení.
+settings-delete-monitor-free-account-title = Smazání účtu { -brand-monitor }
+settings-delete-monitor-free-account-description = Tímto trvale smažete svůj účet u služby { -brand-monitor } a vypnete všechna oznámení.
 settings-delete-monitor-free-account-cta-label = Smazat účet
-settings-delete-monitor-free-account-dialog-title = Váš účet { -brand-monitor } bude trvale smazán
-settings-delete-monitor-free-account-dialog-lead = Všechny informace o vašem účtu { -brand-monitor } budou smazány a my už nebudeme nadále sledovat nové úniky dat. Tímto nesmažete svůj účet { -brand-mozilla }.
+settings-delete-monitor-free-account-dialog-title = Váš účet u služby { -brand-monitor } bude trvale smazán
+settings-delete-monitor-free-account-dialog-lead = Všechny informace o vašem účtu { -brand-monitor } budou smazány a my už nebudeme nadále sledovat nové úniky údajů. Tímto nesmažete svůj účet { -brand-mozilla }.
 settings-delete-monitor-free-account-dialog-cta-label = Smazat účet
 settings-delete-monitor-free-account-dialog-cancel-button-label = Rozmyslel(a) jsem si to
 settings-delete-monitor-plus-account-title = Smazat účet { -brand-monitor }
