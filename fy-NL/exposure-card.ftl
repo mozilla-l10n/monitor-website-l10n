@@ -23,13 +23,10 @@ exposure-card-credit-card = Creditcard
 exposure-card-password = Wachtwurd
 exposure-card-ip-address = IP-adres
 exposure-card-other = Oars
-exposure-card-description-info-for-sale-part-one = Dizze website ferkeapet en publisearret <data_broker_link>gegevens oer jo.</data_broker_link>
-exposure-card-description-info-for-sale-part-two = Dit profyl fuortsmite om jo privacy te beskermjen.
 # Variables:
 # $data_breach_company is the company associated with the data breach.
 # $data_breach_date is the date of the data breach.
-exposure-card-description-data-breach-part-one = Jo gegevens binne lekt yn it <data_breach_link>{ $data_breach_company }-datalek op { $data_breach_date }.</data_breach_link>
-exposure-card-description-data-breach-part-two = Wy liede jo troch de stappen om dit te ferhelpen.
+exposure-card-description-data-breach-action-needed = Jo gegevens binne lekt yn it <data_breach_link>{ $data_breach_company }-datalek op { $data_breach_date }.</data_breach_link> Wy liede jo troch de stappen om dit op te lossen.
 exposure-card-your-exposed-info = Jo lekte gegevens:
 exposure-card-exposure-type-data-broker = Ynfo te keap
 exposure-card-exposure-type-data-breach = Datalek
