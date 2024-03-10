@@ -59,6 +59,7 @@ settings-fxa-link-label-3 = Gå til indstillingerne for { -brand-mozilla-account
 
 ## Delete Monitor account
 
+settings-delete-monitor-free-account-title = Slet { -brand-monitor }-konto
 settings-delete-monitor-free-account-description = Dette vil permanent slette din { -brand-monitor }-konto og slå alle advarsler fra.
 settings-delete-monitor-free-account-cta-label = Slet konto
 settings-delete-monitor-free-account-dialog-title = Din { -brand-monitor }-konto vil blive slettet permanent
