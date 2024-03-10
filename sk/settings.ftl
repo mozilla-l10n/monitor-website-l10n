@@ -61,6 +61,13 @@ settings-deactivate-account-title = Deaktivovať účet
 settings-deactivate-account-info-2 = { -product-short-name } môžete deaktivovať odstránením svojho { -brand-mozilla-account(case: "gen", capitalization: "lower") }.
 settings-fxa-link-label-3 = Prejsť do Nastavení { -brand-mozilla-account(case: "gen", capitalization: "lowe") }
 
+## Delete Monitor account
+
+settings-delete-monitor-plus-account-dialog-cta-label = Odstrániť účet
+settings-delete-monitor-plus-account-dialog-cancel-button-label = Rozmyslel som si to
+settings-delete-monitor-account-confirmation-toast-label = Váš účet služby { -brand-monitor } je teraz natrvalo odstránený.
+settings-delete-monitor-account-confirmation-toast-dismiss-label = Zavrieť
+
 ## Add email dialog
 
 settings-email-dialog-title = Pridanie ďalšej e‑mailovej adresy
