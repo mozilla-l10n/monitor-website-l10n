@@ -34,10 +34,12 @@ fix-flow-celebration-leaked-passwords-title = ¡Ne ñe’ẽñemi ko’ág̃a o�
 fix-flow-celebration-security-questions-title = ¡Ne porandu tekorosãrãva oñemo’ãma!
 fix-flow-celebration-leaked-passwords-description-next-security-questions = Ko’ág̃a jahecha ha ñambohekopyahúta umi porandu tekorosãrã ivaikuaáva.
 fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Ko’ág̃a guive, rome’ẽta ndéve tekorosãrã rape rohecha rire ne mba’ekuaarã oñembyaikuaahague.
+fix-flow-celebration-leaked-passwords-description-next-dashboard = ¡Ejapo porã! Eg̃uahẽma hu’ãitépe. Ikatu ehecha oimeraẽva mba’eporu tembiaporã ha ehapykueho nde jeku’e techamemeha rupápe.
 
 ## Security recommendations flow
 
 fix-flow-celebration-security-recommendations-title = ¡Emyanyhẽmapa opaite ne ñemoñe’ẽporã!
+fix-flow-celebration-security-recommendations-description-next-dashboard = ¡Ejapo porã! Eg̃uahẽma hu’ãitépe. Ikatu ehecha oimeraẽva mba’eporu tembiaporã ha ehapykueho nde jeku’e techamemeha rupápe.
 
 # High Risk Data Breaches
 
