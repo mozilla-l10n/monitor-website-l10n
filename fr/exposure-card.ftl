@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-chevron-alt = Détails de l'exposition
+chevron-alt = Détails de la fuite
 exposure-card-exposure-type = Type de fuite
 exposure-card-date-found = Date de la fuite
 
