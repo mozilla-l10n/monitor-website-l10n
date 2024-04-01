@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 # Strings for the main app
 
 ## The following messages are brand and should be kept entirely in English
@@ -15,16 +19,10 @@
 
 ##
 
-GitHub-link-title = GitHub
-
-home-title = { -product-name }
-
 show-all = K'uch Kaajayil
 
 # Link title
 frequently-asked-questions = Unq'a vee' pal chit ich'otile'
-
-about-firefox-monitor = Ti' u { -product-name }
 
 # Link title
 preferences = Uve' ni chit asa'
@@ -32,11 +30,7 @@ preferences = Uve' ni chit asa'
 # Link title
 home = Ixe´te'ba'l
 
-fxa-account = { -brand-fxa }
-
 website-breach = Itxaap unq'a atinb'ale' tu web
-
-about-fxm-headline = Ti' u { -product-name }
 
 ## What to do after data breach tips
 
@@ -50,21 +44,23 @@ about-fxm-headline = Ti' u { -product-name }
 ## Variables:
 ##   $breachName (String) - Number of the breach
 
+## These are part of a confirmation page that appears after a user has verified
+## an additional email to Firefox Monitor.
+
+
 ##
 
 
 ## Updated error messages
 
 
-# Title appearing on the Preferences dashboard. 
-monitor-preferences = { -product-short-name } Uve' ni chit asa'
+# Monitor V2
 
-# Link title
-learn-more-link = Ootzi ka'te.
+## The following messages are brands and should be kept entirely in English
 
-## These are part of a confirmation page that appears after a user has verified
-## an additional email to Firefox Monitor.
+-brand-mozilla-vpn = Mozilla VPN
 
+##
 
 ##
 
@@ -85,14 +81,6 @@ learn-more-link = Ootzi ka'te.
 
 ## Relay and VPN educational/ad units
 
-# Monitor V2
-
-## The following messages are brands and should be kept entirely in English
-
--brand-mozilla-vpn = Mozilla VPN
-
-##
-
 ## Search Engine Optimization
 
 ## Header
@@ -110,4 +98,6 @@ learn-more-link = Ootzi ka'te.
 ## Public breach detail page
 
 ## Floating banner
+
+## Firefox Monitor -> Mozilla Monitor rebrand banner
 

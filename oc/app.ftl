@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 # Strings for the main app
 
 ## The following messages are brand and should be kept entirely in English
@@ -17,28 +21,10 @@
 
 ##
 
-GitHub-link-title = GitHub
-
-home-title = { -product-name }
-home-not-found = Pagina pas trobada.
-
-error-headline = Error
-
-download-firefox-banner-button = Telecargar { -brand-name }
-
-# Appears after Firefox Monitor has sent a verification email to a new user. 
-signup-modal-sent = Mandat !
-
-sign-up = S’inscriure
-
-unsub-button = Se desinscriure
-
 sign-out = Se desconnectar
 
 # Manage Firefox Account, link to page where account holders can change their account settings.
 manage-fxa = Gerir lo { -brand-fxa }
-
-about-firefox-monitor = A prepaus de { -product-name }
 
 # Link title
 preferences = Preferéncias
@@ -49,17 +35,7 @@ home = Acuèlh
 # Link title
 security-tips = Conseilhs de seguretat
 
-fxa-account = { -brand-fxa }
-
-about-fxm-headline = A prepaus de { -product-name }
-
-# How Firefox Monitor works
-how-fxm-works = Cossí { -product-name } fonciona
-
 ## What to do after data breach tips
-
-change-pw = Cambiatz vòstre senhal
-change-pw-site = Cambiatz vòstre senhal per aqueste site
 
 ## Variables:
 ##   $userName (String) - Username
@@ -70,21 +46,24 @@ change-pw-site = Cambiatz vòstre senhal per aqueste site
 ## Variables:
 ##   $breachName (String) - Number of the breach
 
+# Title that appears in the mobile menu bar and opens the mobile menu when clicked.
+menu = Menú
+
+## These are part of a confirmation page that appears after a user has verified
+## an additional email to Firefox Monitor.
+
+
 ##
 
 
 ## Updated error messages
 
 
-# Title that appears in the mobile menu bar and opens the mobile menu when clicked.
-menu = Menú
+# Monitor V2
 
-# Link title
-learn-more-link = Ne saber mai.
+## The following messages are brands and should be kept entirely in English
 
-## These are part of a confirmation page that appears after a user has verified
-## an additional email to Firefox Monitor.
-
+##
 
 ##
 
@@ -105,12 +84,6 @@ learn-more-link = Ne saber mai.
 
 ## Relay and VPN educational/ad units
 
-# Monitor V2
-
-## The following messages are brands and should be kept entirely in English
-
-##
-
 ## Search Engine Optimization
 
 ## Header
@@ -130,4 +103,6 @@ sign-in = Se connectar
 ## Public breach detail page
 
 ## Floating banner
+
+## Firefox Monitor -> Mozilla Monitor rebrand banner
 
