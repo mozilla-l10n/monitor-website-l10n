@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 # Strings for the main app
 
 ## The following messages are brand and should be kept entirely in English
@@ -16,12 +20,6 @@
 
 ##
 
-GitHub-link-title = GitHub
-
-home-title = { -product-name }
-
-fxa-account = { -brand-fxa }
-
 ## What to do after data breach tips
 
 
@@ -34,16 +32,22 @@ fxa-account = { -brand-fxa }
 ## Variables:
 ##   $breachName (String) - Number of the breach
 
-##
-
-## Updated error messages
-
-
 ## These are part of a confirmation page that appears after a user has verified
 ## an additional email to Firefox Monitor.
 
 
 
+
+##
+
+## Updated error messages
+
+
+# Monitor V2
+
+## The following messages are brands and should be kept entirely in English
+
+##
 
 ##
 
@@ -62,12 +66,6 @@ fxa-account = { -brand-fxa }
 
 ## Relay and VPN educational/ad units
 
-# Monitor V2
-
-## The following messages are brands and should be kept entirely in English
-
-##
-
 ## Search Engine Optimization
 
 ## Header
@@ -85,4 +83,6 @@ fxa-account = { -brand-fxa }
 ## Public breach detail page
 
 ## Floating banner
+
+## Firefox Monitor -> Mozilla Monitor rebrand banner
 

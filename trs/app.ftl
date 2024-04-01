@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 # Strings for the main app
 
 ## The following messages are brand and should be kept entirely in English
@@ -18,23 +22,10 @@
 
 ##
 
-GitHub-link-title = GitHub
-
-error-scan-page-token = Ûta nìko yì'nïn' direksiûn korrêo ganatsít dòj nï' diû. Yi'ì dan nu a'nïnj ñûnj ganatsít doj ngà'. Ga'ue ganatsít man nanâ doj.
 error-could-not-add-email = Nu ga'ue na'nïn si direksiûn korrêo riña mà nej nuguàn'àn nìko.
 error-not-subscribed = Nitāj si tàj direksiûn korrêo na riña { -product-name }.
 error-hibp-throttled = Ûta nìko koneksiûn hua guendâ { -brand-HIBP }.
 error-hibp-connect = Na'ue gātu riña { -brand-HIBP }.
-error-hibp-load-breaches = Nu ga'ue nadigânj nej sa giran' sañū.
-error-must-be-signed-in = Da'uît gayi'ìt sesiûn riña si { -brand-fxa }.
-error-to-finish-verifying = Da' dunahuít sun natsít direksiûn nan ngà { -product-name }, da'uît gatūt ngà si korreôt yitïnj doj.
-
-home-title = { -product-name }
-home-not-found = Nu narì'ij pâjina.
-
-oauth-invalid-session = Nitāj si huā hue'ê sesiûn nan
-
-scan-title = { -product-name } : Nej sa nari'ij ngà natsi
 
 user-add-invalid-email = Nitāj si ni'ñānj korreô nan
 
@@ -50,16 +41,22 @@ user-add-invalid-email = Nitāj si ni'ñānj korreô nan
 ## Variables:
 ##   $breachName (String) - Number of the breach
 
-##
-
-## Updated error messages
-
-
 ## These are part of a confirmation page that appears after a user has verified
 ## an additional email to Firefox Monitor.
 
 
 
+
+##
+
+## Updated error messages
+
+
+# Monitor V2
+
+## The following messages are brands and should be kept entirely in English
+
+##
 
 ##
 
@@ -78,12 +75,6 @@ user-add-invalid-email = Nitāj si ni'ñānj korreô nan
 
 ## Relay and VPN educational/ad units
 
-# Monitor V2
-
-## The following messages are brands and should be kept entirely in English
-
-##
-
 ## Search Engine Optimization
 
 ## Header
@@ -101,4 +92,6 @@ user-add-invalid-email = Nitāj si ni'ñānj korreô nan
 ## Public breach detail page
 
 ## Floating banner
+
+## Firefox Monitor -> Mozilla Monitor rebrand banner
 

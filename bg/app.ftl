@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 # Strings for the main app
 
 ## The following messages are brand and should be kept entirely in English
@@ -14,39 +18,10 @@
 
 ##
 
-GitHub-link-title = GitHub
-
-home-not-found = Страницата не е намерена.
-
-oauth-invalid-session = Невалидна сесия
-
-scan-title = { -product-name }: Резултати от сканиране
-
 user-add-invalid-email = Грешен имейл
-
-error-headline = Грешка
-user-verify-email-report-subject = Вашият отчет { -product-name }
-
-scan-placeholder = Въведете имейл адрес
-scan-submit = Проверете вашата електронна поща
-scan-error = Трябва да е валиден имейл.
-
-download-firefox-banner-button = Изтеглете { -brand-name }
-
-# Appears after Firefox Monitor has sent a verification email to a new user. 
-signup-modal-sent = Изпратено!
-
-sign-up = Регистриране
-form-signup-error = Адресът за е-поща трябва да е действителен
-
-# breach-date = the calendar date a particular data theft occurred. 
-breach-date = Дата на взломяване:
 
 # compromised-data = the kind of user data exposed to hackers in data breach.
 compromised-data = Компрометирани данни:
-
-unsub-headline = Отпишете се от { -product-name-nowrap }
-unsub-button = Отписване
 
 # Breach data provided by Have I Been Pwned.
 hibp-attribution = Данни за взломяването са предоставени от { $hibp-link }
@@ -63,18 +38,21 @@ hibp-attribution = Данни за взломяването са предост�
 ## Variables:
 ##   $breachName (String) - Number of the breach
 
+## These are part of a confirmation page that appears after a user has verified
+## an additional email to Firefox Monitor.
+
+
 ##
 
 
 ## Updated error messages
 
 
-# Link title
-learn-more-link = Научете повече.
+# Monitor V2
 
-## These are part of a confirmation page that appears after a user has verified
-## an additional email to Firefox Monitor.
+## The following messages are brands and should be kept entirely in English
 
+##
 
 ##
 
@@ -91,17 +69,9 @@ learn-more-link = Научете повече.
 
 ##
 
-ecosystem-promo-body = Всички продукти на { -brand-name } спазват обещанието ни за лични данни: Събираме малко. Пазим го. Нищо не скриваме от вас.
-
 ## VPN promotional banner.  HTML tags should not be translated, e.g. `<em>`
 
 ## Relay and VPN educational/ad units
-
-# Monitor V2
-
-## The following messages are brands and should be kept entirely in English
-
-##
 
 ## Search Engine Optimization
 
@@ -120,4 +90,6 @@ ecosystem-promo-body = Всички продукти на { -brand-name } спа
 ## Public breach detail page
 
 ## Floating banner
+
+## Firefox Monitor -> Mozilla Monitor rebrand banner
 
