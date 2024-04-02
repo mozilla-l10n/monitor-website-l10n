@@ -20,7 +20,7 @@ jobs:
           path: code_repo
       - name: Copy source files
         run: |
-          cp code_repo/locales/en/*.ftl l10n_repo/en/
+          rsync -avh code_repo/locales/en/ l10n_repo/en/ --delete
       - name: Get the current date for PR title
         run: echo "current_date=$(date +"%Y-%m-%d")" >> $GITHUB_ENV
       - uses: peter-evans/create-pull-request@v6

@@ -22,7 +22,7 @@ jobs:
         run: |
           # Use rsync to sync the content of the "locales" folder
           # Exclude hidden files, the "en" folder, markdown files, license.
-          rsync -av --progress --exclude="en/*" --exclude="*.md"  --exclude="LICENSE" --exclude=".*" l10n_repo/ code_repo/locales/
+          rsync -av --progress --exclude="en/*" --exclude="*.md"  --exclude="LICENSE" --exclude=".*" l10n_repo/ code_repo/locales/ --delete
       - name: Get the current date for PR title
         run: echo "current_date=$(date +"%Y-%m-%d")" >> $GITHUB_ENV
       - uses: peter-evans/create-pull-request@v6
