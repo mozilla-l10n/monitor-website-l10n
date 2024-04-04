@@ -22,6 +22,9 @@ settings-email-verification-callout = Stadfesting av e-post påkravd
 settings-resend-email-verification-link = Send stadfestings e-posten på nytt
 settings-add-email-button = Legg til e-postadresse
 settings-remove-email-button-label = Fjern
+# Variables:
+#   $emailAddress (string) - The email address to remove, e.g. `billnye@example.com`
+settings-remove-email-button-tooltip = Slutt å overvake { $emailAddress }
 
 ## Deactivate account
 
@@ -30,5 +33,8 @@ settings-fxa-link-label-3 = Gå til { -brand-mozilla-account }-innstillingane
 
 ## Delete Monitor account
 
+settings-delete-monitor-free-account-title = Slett { -brand-monitor }-kontoen
+settings-delete-monitor-free-account-cta-label = Slett kontoen
 settings-delete-monitor-free-account-dialog-cta-label = Slett kontoen
+settings-delete-monitor-account-confirmation-toast-label-2 = { -brand-monitor }-kontoen din er no sletta.
 settings-delete-monitor-account-confirmation-toast-dismiss-label = Ignorer
