@@ -15,22 +15,20 @@ settings-alert-preferences-option-two = Send alle åtvaringar om datalekkasjar t
 
 ## Monitored email addresses
 
+# Variables:
+#   $email (string) - Email address
 settings-email-list-title = Overvaka e-postadresser
 settings-email-verification-callout = Stadfesting av e-post påkravd
 settings-resend-email-verification-link = Send stadfestings e-posten på nytt
 settings-add-email-button = Legg til e-postadresse
 settings-remove-email-button-label = Fjern
 
-## Cancel Premium subscription
-
 ## Deactivate account
 
 settings-deactivate-account-title = Deaktiver kontoen
 settings-fxa-link-label-3 = Gå til { -brand-mozilla-account }-innstillingane
 
-## Add email dialog
-
-## Unsubscribe Dialog Survey
-
 ## Delete Monitor account
 
+settings-delete-monitor-free-account-dialog-cta-label = Slett kontoen
+settings-delete-monitor-account-confirmation-toast-dismiss-label = Ignorer
