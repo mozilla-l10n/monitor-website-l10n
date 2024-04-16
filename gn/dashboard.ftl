@@ -36,6 +36,7 @@ modal-fixed-number-of-exposures-title = Mboyjeýmapa ipapapy jehechauka opytáva
 modal-cta-ok = MONEĨ
 open-modal-alt = Embojuruja modal
 close-modal-alt = Emboty modal
+open-tooltip-alt = Embojuruja marandu
 progress-card-heres-what-we-fixed-headline-all = Kóva pe emoĩporãva
 progress-card-manually-fixed-headline = Pópe ñembojáva
 dashboard-tab-label-action-needed = Tekotevẽva ojejapo
