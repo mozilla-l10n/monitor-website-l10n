@@ -54,6 +54,25 @@ dashboard-tab-label-action-needed = Потрібна дія
 dashboard-tab-label-fixed = Усунуто
 dashboard-exposures-all-fixed-label = Тут все виправлено!
 dashboard-exposures-area-headline = Переглянути всі сайти, з яких викрадено вашу інформацію
+# Note: this line precedes dashboard-exposures-area-description-all-line2.
+# Variables:
+#   $exposures_unresolved_num (number) - the unresolved number of exposures the user has.
+dashboard-exposures-area-description-all-line1 =
+    { $exposures_unresolved_num ->
+        [one] Ми виявили { $exposures_unresolved_num } розкриття ваших даних.
+        [few] Ми виявили { $exposures_unresolved_num } розкриття ваших даних.
+       *[many] Ми виявили { $exposures_unresolved_num } розкриттів ваших даних.
+    }
+# Note: this line follows dashboard-exposures-area-description-all-line1.
+# Variables:
+#   $data_breach_unresolved_num (number) - the unresolved number of data breaches the user has.
+dashboard-exposures-area-description-all-line2 =
+    { $data_breach_unresolved_num ->
+        [one] Виявлено в { $data_breach_unresolved_num } витоці даних.
+        [few] Виявлено в { $data_breach_unresolved_num } витоках даних.
+       *[many] Виявлено в { $data_breach_unresolved_num } витоках даних.
+    }
+dashboard-fixed-area-headline-all = Переглянути всі усунуті розкриття
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Фільтр
 dashboard-exposures-filter-company = Компанія
@@ -62,9 +81,63 @@ dashboard-exposures-filter-date-found-last-seven-days = Останні 7 дні�
 dashboard-exposures-filter-date-found-last-thirty-days = Останні 30 днів
 dashboard-exposures-filter-date-found-last-year = Минулого року
 dashboard-exposures-filter-status = Стан
+popover-open-filter-settings-alt = Вибрати фільтри
+dashboard-exposures-filter-show-all = Показати все
+dashboard-exposures-filter-show-results = Показати результати
+dashboard-exposures-filter-reset = Скинути
 
 ## Top banner on the dashboard
 
+dashboard-top-banner-scan-in-progress-title = Ваше сканування ще триває
+dashboard-top-banner-your-data-is-protected-title = Ваші дані захищені
+dashboard-top-banner-your-data-is-protected-cta = Перегляньте, що усунуто
+dashboard-top-banner-lets-keep-protecting-title = Продовжимо захищати ваші дані
+# Variables:
+# $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
+dashboard-top-banner-lets-keep-protecting-description =
+    { $exposures_unresolved_num ->
+        [one] Лишилося ще { $exposures_unresolved_num } розкриття даних, яке потрібно усунути. Продовжте і захистіть себе. Ми допоможемо вам крок за кроком.
+        [few] Лишилося ще { $exposures_unresolved_num } розкриття даних, які потрібно усунути. Продовжте і захистіть себе. Ми допоможемо вам крок за кроком.
+       *[many] Лишилося ще { $exposures_unresolved_num } розкриттів даних, які потрібно усунути. Продовжте і захистіть себе. Ми допоможемо вам крок за кроком.
+    }
+dashboard-top-banner-protect-your-data-title = Захистімо ваші дані
+dashboard-top-banner-protect-your-data-cta = Усуньмо це
+# Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
+# Variables:
+#   $exposures_unresolved_num (number) - the total number of exposures the user has.
+dashboard-top-banner-non-us-protect-your-data-description-line1 =
+    { $exposures_unresolved_num ->
+        [one] Ми виявили { $exposures_unresolved_num } розкриття ваших даних.
+        [few] Ми виявили { $exposures_unresolved_num } розкриття ваших даних.
+       *[many] Ми виявили { $exposures_unresolved_num } розкриттів ваших даних.
+    }
+# Note: this line is preceded by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
+# Variables:
+#   $data_breach_unresolved_num (number) - the total number of data breaches the user has.
+dashboard-top-banner-non-us-protect-your-data-description-line2 =
+    { $data_breach_unresolved_num ->
+        [one] Виявлено в { $data_breach_unresolved_num } витоці даних. Ми крок за кроком розповімо вам, як це виправити.
+        [few] Виявлено в { $data_breach_unresolved_num } витоках даних. Ми крок за кроком розповімо вам, як це виправити.
+       *[many] Виявлено в { $data_breach_unresolved_num } витоках даних. Ми крок за кроком розповімо вам, як це виправити.
+    }
+dashboard-top-banner-no-exposures-found-title = Розкриттів не знайдено
+dashboard-top-banner-non-us-no-exposures-found-description = Чудові новини! Ми перевірили всі відомі витоки даних і не виявили жодного розкриття. Ми продовжуватимемо моніторинг вашої адреси електронної пошти та повідомимо вас, якщо станеться новий витік.
+dashboard-no-exposures-label = Розкриттів не знайдено
+# Variables:
+# $exposures_resolved_num is the number of exposures the user has resolved.
+dashboard-top-banner-non-us-your-data-is-protected-description =
+    { $exposures_resolved_num ->
+        [one] Чудова робота, розкриття ваших даних усунуто! Ми продовжуватимемо моніторинг і повідомлятимемо вас про усі нові випадки розкриття.
+        [few] Чудова робота, усі { $exposures_resolved_num } розкриття ваших даних усунуто! Ми продовжуватимемо моніторинг і повідомлятимемо вас про усі нові випадки розкриття.
+       *[many] Чудова робота, усі { $exposures_resolved_num } розкриттів ваших даних усунуто! Ми продовжуватимемо моніторинг і повідомлятимемо вас про усі нові випадки розкриття.
+    }
+dashboard-top-banner-monitor-more-cta = Відстежуйте більше електронних адрес
 
 # About Exposure Statuses Modal
 
+modal-exposure-status-title = Про стани розкриття
+modal-exposure-status-description-all =
+    Ми шукаємо розкриття в усіх відомих витоках даних.
+    Ваші розкриття матимуть один із цих станів:
+modal-exposure-status-action-needed = <b>Потрібна дія</b> означає, що воно наразі активне і вам потрібно вжити заходів, щоб його усунути.
+modal-exposure-status-fixed = <b>Усунуто</b> означає, що розкриття усунуто, і вам не потрібно нічого робити.
