@@ -54,7 +54,7 @@ progress-card-manually-fixed-headline = Виправлено вручну
 dashboard-tab-label-action-needed = Потрібна дія
 dashboard-tab-label-fixed = Усунуто
 dashboard-exposures-all-fixed-label = Тут все виправлено!
-dashboard-exposures-area-headline = Переглянути всі сайти, з яких викрадено вашу інформацію
+dashboard-exposures-area-headline = Переглянути всі сайти, на яких розкрито вашу інформацію
 # Note: this line precedes dashboard-exposures-area-description-all-line2.
 # Variables:
 #   $exposures_unresolved_num (number) - the unresolved number of exposures the user has.
@@ -89,6 +89,7 @@ dashboard-exposures-filter-reset = Скинути
 
 ## Top banner on the dashboard
 
+dashboard-top-banner-section-label = Панель підсумку
 dashboard-top-banner-scan-in-progress-title = Ваше сканування ще триває
 dashboard-top-banner-your-data-is-protected-title = Ваші дані захищені
 dashboard-top-banner-your-data-is-protected-cta = Перегляньте, що усунуто
@@ -101,6 +102,7 @@ dashboard-top-banner-lets-keep-protecting-description =
         [few] Лишилося ще { $exposures_unresolved_num } розкриття даних, які потрібно усунути. Продовжте і захистіть себе. Ми допоможемо вам крок за кроком.
        *[many] Лишилося ще { $exposures_unresolved_num } розкриттів даних, які потрібно усунути. Продовжте і захистіть себе. Ми допоможемо вам крок за кроком.
     }
+dashboard-top-banner-lets-keep-protecting-cta = Продовжити
 dashboard-top-banner-protect-your-data-title = Захистімо ваші дані
 dashboard-top-banner-protect-your-data-cta = Усуньмо це
 # Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
