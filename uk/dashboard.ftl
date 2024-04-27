@@ -54,7 +54,7 @@ progress-card-manually-fixed-headline = Виправлено вручну
 dashboard-tab-label-action-needed = Потрібна дія
 dashboard-tab-label-fixed = Усунуто
 dashboard-exposures-all-fixed-label = Тут все виправлено!
-dashboard-exposures-area-headline = Переглянути всі сайти, на яких розкрито вашу інформацію
+dashboard-exposures-area-headline = Перегляньте всі сайти, на яких розкрито вашу інформацію
 # Note: this line precedes dashboard-exposures-area-description-all-line2.
 # Variables:
 #   $exposures_unresolved_num (number) - the unresolved number of exposures the user has.
