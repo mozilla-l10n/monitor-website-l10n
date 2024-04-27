@@ -99,7 +99,7 @@ net-worths = Фінансовий стан
 nicknames = Псевдоніми
 # no data classes found
 none-data-class = Немає
-occupations = Заняття
+occupations = Професії
 # various data classes grouped together
 other-data-class = Інше
 parenting-plans = Планування батьківства
