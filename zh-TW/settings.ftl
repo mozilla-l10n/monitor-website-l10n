@@ -16,7 +16,7 @@ settings-alert-preferences-allow-breach-alerts-subtitle = 偵測到資料外洩�
 settings-alert-preferences-option-one = 傳送資料外洩警報到受影響的電子郵件信箱
 settings-alert-preferences-option-two = 傳送資料外洩警報到主要電子郵件信箱
 settings-alert-preferences-allow-monthly-monitor-report-title = { -brand-monitor } 月報
-settings-alert-preferences-allow-monthly-monitor-report-subtitle = 每月更新新鮮事、已修正的問題、以及哪些問題需要您注意。
+settings-alert-preferences-allow-monthly-monitor-report-subtitle = 每月通知您有哪些新的外洩事件、修正了哪些問題，以及哪些問題需要您注意。
 
 ## Monitored email addresses
 
