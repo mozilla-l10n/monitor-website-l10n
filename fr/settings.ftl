@@ -10,8 +10,8 @@ settings-page-title = Paramètres de { -product-short-name }
 ## Breach alert preferences
 
 settings-alert-email-preferences-title = Préférences de courrier électronique
-settings-alert-email-preferences-subtitle = Dites-nous quels courriels vous souhaitez recevoir.
-settings-alert-preferences-allow-breach-alerts-title = Alertes instantanées de fuite de données
+settings-alert-email-preferences-subtitle = Dites-nous quels e-mails vous souhaitez recevoir.
+settings-alert-preferences-allow-breach-alerts-title = Alertes instantanées de fuites de données
 settings-alert-preferences-allow-breach-alerts-subtitle = Ces alertes sont envoyées immédiatement dès qu’une fuite de données est détectée
 settings-alert-preferences-option-one = Envoyer les alertes à l’adresse e-mail concernée
 settings-alert-preferences-option-two = Envoyer toutes les alertes de fuites de données à l’adresse e-mail principale
