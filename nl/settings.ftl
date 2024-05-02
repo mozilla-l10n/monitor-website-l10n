@@ -16,7 +16,7 @@ settings-alert-preferences-allow-breach-alerts-subtitle = Deze waarschuwingen wo
 settings-alert-preferences-option-one = Waarschuwingen over datalekken naar het getroffen e-mailadres sturen
 settings-alert-preferences-option-two = Alle waarschuwingen over datalekken naar het primaire e-mailadres sturen
 settings-alert-preferences-allow-monthly-monitor-report-title = Maandelijks { -brand-monitor }-rapport
-settings-alert-preferences-allow-monthly-monitor-report-subtitle = Een maandelijkse update van nieuwe blootstellingen, wat is opgelost en wat uw aandacht nodig heeft.
+settings-alert-preferences-allow-monthly-monitor-report-subtitle = Een maandelijkse update van nieuwe lekken, wat is opgelost en wat uw aandacht nodig heeft.
 
 ## Monitored email addresses
 
