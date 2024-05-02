@@ -11,8 +11,8 @@ settings-page-title = Impostazioni di { -product-short-name }
 
 settings-alert-email-preferences-title = Preferenze email
 settings-alert-email-preferences-subtitle = Facci sapere quali email vuoi ricevere.
-settings-alert-preferences-allow-breach-alerts-title = Avvisi di violazione istantanei
-settings-alert-preferences-allow-breach-alerts-subtitle = Questi avvisi vengono inviati immediatamente non appena viene rilevata una violazione di dati
+settings-alert-preferences-allow-breach-alerts-title = Avvisi per violazioni immediati
+settings-alert-preferences-allow-breach-alerts-subtitle = Questi avvisi vengono inviati non appena viene rilevata una violazione di dati
 settings-alert-preferences-option-one = Invia avvisi relativi alle violazioni all’indirizzo email coinvolto
 settings-alert-preferences-option-two = Invia tutti gli avvisi di violazione all’indirizzo email principale
 settings-alert-preferences-allow-monthly-monitor-report-title = Rapporto mensile di { -brand-monitor }
