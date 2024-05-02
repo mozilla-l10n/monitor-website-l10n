@@ -10,9 +10,9 @@ settings-page-title = Gosodiadau { -product-short-name }
 ## Breach alert preferences
 
 settings-alert-email-preferences-title = Dewisiadau e-bost
-settings-alert-email-preferences-subtitle = Dywedwch wrthym pa negeseuon e-bost yr hoffech eu derbyn.
-settings-alert-preferences-allow-breach-alerts-title = Rhybuddion torri ar unwaith
-settings-alert-preferences-allow-breach-alerts-subtitle = Anfonir y rhybuddion hyn ar unwaith unwaith y canfyddir toriad data
+settings-alert-email-preferences-subtitle = Dywedwch wrthym pa negeseuon e-bost yr hoffech chi eu derbyn.
+settings-alert-preferences-allow-breach-alerts-title = Rhybuddion tor-data byw
+settings-alert-preferences-allow-breach-alerts-subtitle = Bydd y rhybuddion hyn yn cael eu hanfon yn syth ar ôl canfod tor-data
 settings-alert-preferences-option-one = Anfon rhybuddion tor-data at y cyfeiriadau e-bost sydd wedi'u heffeithio
 settings-alert-preferences-option-two = Anfon yr holl rybuddion tor-data at fy mhrif gyfeiriad e-bost.
 settings-alert-preferences-allow-monthly-monitor-report-title = Adroddiad misol { -brand-monitor }
