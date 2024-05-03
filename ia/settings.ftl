@@ -15,6 +15,8 @@ settings-alert-preferences-allow-breach-alerts-title = Alertas de violation inst
 settings-alert-preferences-allow-breach-alerts-subtitle = Iste alertas es inviate instantaneemente un vice que un violation de datos es revelate
 settings-alert-preferences-option-one = Inviar avisos de violation al adresse de email afficite
 settings-alert-preferences-option-two = Inviar tote le avisos de violation al adresse email primari
+settings-alert-preferences-allow-monthly-monitor-report-title = Reporto de { -brand-monitor } mensual
+settings-alert-preferences-allow-monthly-monitor-report-subtitle = Un actualisation mensual de nove expositiones, que ha essite remediate, e que besonia de tu attention.
 
 ## Monitored email addresses
 
