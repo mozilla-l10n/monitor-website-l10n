@@ -5,23 +5,18 @@
 
 # Settings page
 
+settings-page-title = { -product-short-name } 設定
 
 ## Breach alert preferences
 
+settings-alert-email-preferences-title = メール設定
 
 ## Monitored email addresses
-
-
-## Cancel Premium subscription
 
 
 ## Deactivate account
 
 settings-deactivate-account-title = アカウントを無効化
-
-## Add email dialog
-
-## Unsubscribe Dialog Survey
 
 ## Delete Monitor account
 
