@@ -16,6 +16,7 @@ settings-alert-preferences-allow-breach-alerts-subtitle = Estas alertas se enví
 settings-alert-preferences-option-one = Enviar alertas de filtraciones a las direcciones de correo afectadas
 settings-alert-preferences-option-two = Enviar todas las alertas de filtraciones al correo electrónico principal.
 settings-alert-preferences-allow-monthly-monitor-report-title = Informe mensual de { -brand-monitor }
+settings-alert-preferences-allow-monthly-monitor-report-subtitle = Una actualización mensual de nuevas exposiciones, lo que se ha corregido y lo que necesita tu atención.
 
 ## Monitored email addresses
 
