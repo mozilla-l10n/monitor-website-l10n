@@ -31,6 +31,10 @@ dashboard-exposures-filter-reset = リセット
 
 ## Top banner on the dashboard
 
+dashboard-top-banner-your-data-is-protected-title = あなたのデータは保護されています
+dashboard-top-banner-your-data-is-protected-cta = 修復されたものを確認する
+dashboard-top-banner-no-exposures-found-title = 侵害は見つかりませんでした
+dashboard-no-exposures-label = 侵害は見つかりませんでした
 
 # About Exposure Statuses Modal
 
