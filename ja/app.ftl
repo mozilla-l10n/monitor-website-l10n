@@ -20,6 +20,7 @@
 -brand-monitor = Monitor
 -brand-fx-monitor = Mozilla Monitor
 -brand-mozilla = Mozilla
+-brand-mozilla-foundation = Mozilla Foundation
 -brand-github = GitHub
 -brand-mozilla-vpn = Mozilla VPN
 -brand-relay = Firefox Relay
@@ -170,6 +171,7 @@ footer-external-link-faq-tooltip = よくある質問
 # Variables:
 #   $errorCode (number) - "404"
 error-page-error-404-title = { $errorCode } ページが見つかりません
+error-page-error-404-copy = 申し訳ございませんが、お探しのページは存在しません。
 error-page-error-404-cta-button = 戻る
 
 ## Breach overview page
