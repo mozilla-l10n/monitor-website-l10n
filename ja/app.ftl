@@ -153,16 +153,24 @@ main-nav-link-faq-tooltip = よくある質問
 ## User menu
 
 user-menu-trigger-tooltip = プロフィール
+user-menu-manage-fxa-label = { -brand-mozilla-account } を管理する
 user-menu-settings-label = 設定
 user-menu-help-label = ヘルプとサポート
 user-menu-signout-label = ログアウト
+user-menu-signout-tooltip = { -brand-mozilla-monitor } からログアウトする
 
 ## Footer
 
+mozilla = { -brand-mozilla }
 footer-external-link-faq-label = FAQ
+footer-external-link-faq-tooltip = よくある質問
 
 ## Error page
 
+# Variables:
+#   $errorCode (number) - "404"
+error-page-error-404-title = { $errorCode } ページが見つかりません
+error-page-error-404-cta-button = 戻る
 
 ## Breach overview page
 
