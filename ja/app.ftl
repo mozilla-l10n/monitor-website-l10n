@@ -24,6 +24,7 @@
 -brand-mozilla-vpn = Mozilla VPN
 -brand-relay = Firefox Relay
 -brand-mozilla-monitor = Mozilla Monitor
+-brand-monitor-plus = Monitor Plus
 
 ##
 
@@ -125,6 +126,9 @@ rec-section-subhead = あなたの個人情報を安全に保ち、デジタル 
 
 ##
 
+# “account” can be localized, “Mozilla” must be treated as a brand,
+# and kept in English.
+-brand-mozilla-account = Mozilla アカウント
 
 ## Search Engine Optimization
 
@@ -132,15 +136,23 @@ rec-section-subhead = あなたの個人情報を安全に保ち、デジタル 
 ## Header
 
 sign-in = ログイン
+brand-mozilla-monitor = { -brand-fx-monitor }
 
 ## Site navigation
 
+main-nav-button-collapse-label = メニューを閉じる
+main-nav-button-collapse-tooltip = メニューを閉じる
+main-nav-button-expand-label = メニューを開く
+main-nav-button-expand-tooltip = メニューを開く
+main-nav-link-home-label = ホーム
 main-nav-link-dashboard-label = ダッシュボード
 main-nav-link-settings-label = 設定
 main-nav-link-faq-label = FAQ
+main-nav-link-faq-tooltip = よくある質問
 
 ## User menu
 
+user-menu-trigger-tooltip = プロフィール
 user-menu-settings-label = 設定
 user-menu-help-label = ヘルプとサポート
 user-menu-signout-label = ログアウト
@@ -155,6 +167,8 @@ footer-external-link-faq-label = FAQ
 ## Breach overview page
 
 search-breaches = データ侵害を検索
+# the kind of user data exposed to hackers in data breach.
+exposed-data = 侵害されたデータ:
 
 ## Public breach detail page
 
