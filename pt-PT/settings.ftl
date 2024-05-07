@@ -16,7 +16,7 @@ settings-alert-preferences-allow-breach-alerts-subtitle = Estes alertas são env
 settings-alert-preferences-option-one = Enviar alertas de falhas de segurança para o endereço de e-mail afetado
 settings-alert-preferences-option-two = Enviar todos alertas de violações de dados para o endereço de e-mail primário
 settings-alert-preferences-allow-monthly-monitor-report-title = Relatório mensal do { -brand-monitor }
-settings-alert-preferences-allow-monthly-monitor-report-subtitle = Uma atualização mensal das novas exposição, o que foi corrigido e o que precisa da sua atenção.
+settings-alert-preferences-allow-monthly-monitor-report-subtitle = Uma atualização mensal das novas exposições, o que foi corrigido e o que necessita da sua atenção.
 
 ## Monitored email addresses
 
