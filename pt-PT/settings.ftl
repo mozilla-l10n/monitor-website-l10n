@@ -9,7 +9,7 @@ settings-page-title = Definições do { -product-short-name }
 
 ## Breach alert preferences
 
-settings-alert-email-preferences-title = Preferências de email
+settings-alert-email-preferences-title = Preferências de e-mail
 settings-alert-email-preferences-subtitle = Diga-nos que e-mails gostaria de receber.
 settings-alert-preferences-allow-breach-alerts-title = Alertas instantâneos de violações de dados
 settings-alert-preferences-allow-breach-alerts-subtitle = Estes alertas são enviados imediatamente assim que uma violação de dados é detetada
@@ -59,7 +59,6 @@ settings-delete-monitor-free-account-title = Eliminar a conta do { -brand-monito
 settings-delete-monitor-free-account-description = Isto irá eliminar permanentemente a sua conta { -brand-monitor } e desativar todas as notificações.
 settings-delete-monitor-free-account-cta-label = Eliminar conta
 settings-delete-monitor-free-account-dialog-title = A sua conta { -brand-monitor } será permanentemente eliminada
-settings-delete-monitor-free-account-dialog-lead = Toda a informação da sua conta { -brand-monitor } será eliminada e nós deixaremos de monitorizar para novas violações de dados. Isto não irá eliminar a sua conta { -brand-mozilla }.
 settings-delete-monitor-free-account-dialog-cta-label = Eliminar conta
 settings-delete-monitor-free-account-dialog-cancel-button-label = Não importa, eu quero voltar
 settings-delete-monitor-account-confirmation-toast-dismiss-label = Ignorar
