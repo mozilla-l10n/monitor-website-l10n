@@ -108,6 +108,9 @@ high-risk-breach-pin-step-three = Ehechajey ne mba’ete oĩre tepyme’ẽrã n
 # No high risk breaches found
 
 high-risk-breach-none-title = Marandu iporãva, ndorojuhúi mba’ekuaarã ñembogua ivaikuaáva
+# Variables
+# $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
+high-risk-breach-none-description = Rohecha mba’ekuaarã ñembogua ne ñanduti veve rehegua, ha ndorojuhúi mba’ekuaarã ñembogua ivaikuaáva { $email_list }-pe g̃uarã.
 high-risk-breach-none-sub-description-part-one = Mba’ekuaarã ñembyai oikokuaávape oĩ:
 high-risk-breach-none-sub-description-ssn = Seguro social papapy
 high-risk-breach-none-sub-description-bank-account = Marandu mba’ete banco pegua
