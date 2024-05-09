@@ -71,6 +71,7 @@ high-risk-breach-estimated-time =
 # Credit Card Breaches
 
 high-risk-breach-credit-card-title = Nde kuatia’atã papapy ojehechakuaa
+high-risk-breach-credit-card-description = Oimeraẽva ohupytýva ojoguakuaa oñemoneĩ’ỹva ikatúva oñemboja nde rehe. Eku’e ko’ág̃a ehenonde’ã hag̃ua mba’evai viru reheguáva.
 high-risk-breach-credit-card-step-one = Erekóramo gueteri ko kuatia’atã, emombe’u ime’ẽhárape oñemondaha.
 high-risk-breach-credit-card-step-two = Ejerure kuatia’atã papapy pyahu reheve.
 high-risk-breach-credit-card-step-three = Ehechajey ne mba’ete oĩre tepyme’ẽrã nemba’e’ỹva.
