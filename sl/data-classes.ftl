@@ -30,6 +30,7 @@ career-levels = karierne ravni
 cellular-network-names = imena mobilnih omrežij
 charitable-donations = dobrodelne donacije
 chat-logs = dnevniki klepeta
+citizenship-statuses = stanja državljanstva
 clothing-sizes = Velikosti oblačil
 credit-card-cvv = kode CVV kreditnih kartic
 credit-cards = kreditne kartice
