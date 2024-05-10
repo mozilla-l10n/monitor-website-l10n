@@ -9,8 +9,11 @@ settings-page-title = { -product-short-name } 设置
 
 ## Breach alert preferences
 
-settings-alert-preferences-option-one = 向受影响的邮箱地址发送数据泄漏警报
-settings-alert-preferences-option-two = 向所有受影响的邮箱地址发送数据泄漏警报
+settings-alert-email-preferences-title = 邮件偏好
+settings-alert-email-preferences-subtitle = 选择您希望接收邮件的邮箱。
+settings-alert-preferences-allow-breach-alerts-title = 外泄事件即时警报
+settings-alert-preferences-option-one = 向受影响的邮箱地址发送数据外泄警报
+settings-alert-preferences-option-two = 向主邮箱地址发送所有数据外泄警报
 settings-alert-preferences-allow-monthly-monitor-report-title = { -brand-monitor } 月报
 
 ## Monitored email addresses
