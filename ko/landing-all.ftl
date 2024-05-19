@@ -3,9 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 public-nav-name = { -brand-mozilla-monitor }
-
 landing-all-hero-title = 내 개인 정보가 어디에 유출됐는지 찾아 보세요. — 그리고 다시 돌려받으세요.
-
 landing-all-hero-emailform-input-placeholder = yourname@example.com
 
 # Value Proposition
@@ -27,3 +25,4 @@ landing-all-close-faq-alt = 닫기
 
 # Here's How We Help
 
+landing-all-help-protect-you = 우리는 이렇게 사용자를 보호합니다.
