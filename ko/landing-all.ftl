@@ -26,3 +26,6 @@ landing-all-close-faq-alt = 닫기
 # Here's How We Help
 
 landing-all-help-protect-you = 우리는 이렇게 사용자를 보호합니다.
+landing-all-help-protect-you-cta = 정보 유출 알림에 가입하세요.
+landing-all-get-started = 시작하려면 이메일을 스캔하세요.
+landing-all-take-back-data = 데이터에 대한 통제권을 되찾으세요.
