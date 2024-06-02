@@ -26,6 +26,7 @@ exposure-chart-returning-user-upgrade-prompt-cta = Start ei gratis skanning
 modal-cta-ok = OK
 open-modal-alt = Opne modal
 close-modal-alt = Lat att modal
+open-tooltip-alt = Opne verktøytips
 progress-card-heres-what-we-fixed-headline-all = Du har løyst følgjande
 progress-card-manually-fixed-headline = Manuelt løyst
 dashboard-tab-label-action-needed = Handling påkravd

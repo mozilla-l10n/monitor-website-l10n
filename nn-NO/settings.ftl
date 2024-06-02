@@ -33,5 +33,6 @@ settings-remove-email-button-tooltip = Slutt å overvake { $emailAddress }
 settings-delete-monitor-free-account-title = Slett { -brand-monitor }-kontoen
 settings-delete-monitor-free-account-cta-label = Slett kontoen
 settings-delete-monitor-free-account-dialog-cta-label = Slett kontoen
+settings-delete-monitor-free-account-dialog-cancel-button-label = Gløym det, ta meg tillbake
 settings-delete-monitor-account-confirmation-toast-label-2 = { -brand-monitor }-kontoen din er no sletta.
 settings-delete-monitor-account-confirmation-toast-dismiss-label = Ignorer
