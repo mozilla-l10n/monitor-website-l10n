@@ -133,6 +133,6 @@ dashboard-top-banner-monitor-more-cta = Meer e-mailadressen monitoren
 modal-exposure-status-description-all =
     We zoeken naar lekken in alle bekende datalekken.
     Uw lekken zullen een van de volgende statussen hebben:
-modal-exposure-indicator-title = Blootstellingsstatussen
-modal-exposure-indicator-action-needed = U hebt geavanceerde of handmatige actie nodig om een actie te voltooien.
-modal-exposure-indicator-fixed = De blootstelling is verholpen en u kunt geen actie ondernemen.
+modal-exposure-indicator-title = Lekstatussen
+modal-exposure-indicator-action-needed = U dient een geavanceerde of handmatige actie uit te voeren om een actie te voltooien.
+modal-exposure-indicator-fixed = Het lek is verholpen en u hoeft geen actie te ondernemen.
