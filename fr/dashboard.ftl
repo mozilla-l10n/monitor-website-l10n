@@ -128,5 +128,3 @@ dashboard-top-banner-monitor-more-cta = Surveiller davantage d’adresses e-mail
 
 modal-exposure-status-description-all = Nous recherchons la présence de vos données dans toutes les fuites de données connues. Vos fuites auront l’un des états suivants :
 modal-exposure-indicator-title = statuts d’exposition
-modal-exposure-indicator-action-needed = Une action avancée ou manuelle est nécessaire de votre part pour terminer une action.
-modal-exposure-indicator-fixed = Le bug a été résolu et vous n’avez aucune action à accomplir.
