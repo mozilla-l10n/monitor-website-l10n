@@ -122,6 +122,6 @@ dashboard-top-banner-monitor-more-cta = 監控更多電子郵件地址
 # About Exposure Indicators Modal
 
 modal-exposure-status-description-all = 我們會在所有已知的資料外洩事件中搜尋曝光的資料。您的資料曝光事件會有下列任一種狀態：
-modal-exposure-indicator-title = 接觸狀態
-modal-exposure-indicator-action-needed = 您需要進階或手動操作才能完成某些動作。
-modal-exposure-indicator-fixed = 已處理過暴露問題您不需要採取任何措施。
+modal-exposure-indicator-title = 資料曝光類型
+modal-exposure-indicator-action-needed = 需要您進行進階或手動處理，才能完成某些動作。
+modal-exposure-indicator-fixed = 此資料外洩事件已處理完成，無需再採取任何行動。
