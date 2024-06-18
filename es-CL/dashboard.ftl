@@ -132,3 +132,5 @@ dashboard-top-banner-monitor-more-cta = Monitorear más correos
 
 modal-exposure-status-description-all = Buscamos exposiciones en todas las filtraciones de datos conocidas. Tus exposiciones tendrán uno de los siguientes estados:
 modal-exposure-indicator-title = Estados de exposición
+modal-exposure-indicator-action-needed = Se necesita una acción avanzada o manual de tu parte para completar una acción.
+modal-exposure-indicator-fixed = La exposición ha sido resuelta y no tienes que tomar ninguna medida.
