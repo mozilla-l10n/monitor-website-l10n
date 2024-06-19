@@ -127,11 +127,10 @@ dashboard-top-banner-non-us-your-data-is-protected-description =
     }
 dashboard-top-banner-monitor-more-cta = Surveliar plus emails
 
-# About Exposure Statuses Modal
+# About Exposure Indicators Modal
 
-modal-exposure-status-title = Re le statos de exposition
 modal-exposure-status-description-all =
     Nos cerca pro expositiones in tote le violationes de datos note.
     Tu expositiones habera uno del sequente statos:
-modal-exposure-status-action-needed = <b>Action necessari</b> significa que illo es currentemente active e tu debe prender mesuras pro corriger lo.
-modal-exposure-status-fixed = <b>Remediate</b> significa que le exposition ha essite remediate e il ha nulle action a prender pro te.
+modal-exposure-indicator-title = Statos de exposition
+modal-exposure-indicator-fixed = Le exposition ha essite remediate e il non ha alcun action a prender pro te.
