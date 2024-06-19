@@ -43,6 +43,7 @@ modal-active-number-of-exposures-part-three-all = Un vice que illos es resolvite
 modal-fixed-number-of-exposures-title = Circa tu numero de expositiones corrigite
 modal-fixed-number-of-exposures-all = Iste diagramma include le numero total de violationes de datos que ha essite corrigite pro tote le adresses email que tu actualmente survelia. Un vice que le expositiones es marcate como corrigite, illes sera addite al total ci.
 modal-cta-ok = OK
+modal-cta-got-it = OK
 open-modal-alt = Aperir fenestra de dialogo
 close-modal-alt = Clauder fenestra de dialogo
 open-tooltip-alt = Aperir suggestion
