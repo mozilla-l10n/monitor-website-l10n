@@ -118,11 +118,9 @@ dashboard-top-banner-non-us-your-data-is-protected-description =
     }
 dashboard-top-banner-monitor-more-cta = Daha fazla e-postayı izleyin
 
-# About Exposure Statuses Modal
+# About Exposure Indicators Modal
 
-modal-exposure-status-title = Veri ihlali durumları hakkında
 modal-exposure-status-description-all =
     Bilinen tüm veri ihlallerindeki riskleri araştırıyoruz.
     Riskleriniz aşağıdaki durumlardan birine sahip olacaktır:
-modal-exposure-status-action-needed = <b>İşlem gerekiyor</b> demek, ihlal şu anda aktif durumda ve sorunu gidermek için önlem almanız gerekiyor demektir.
-modal-exposure-status-fixed = <b>Düzeltildi</b> demek, ihlal çözülmüş ve herhangi bir işlem yapmanız gerekmiyor demektir.
+modal-exposure-indicator-fixed = İhlal çözüldüğü için herhangi bir işlem yapmanız gerekmiyor.
