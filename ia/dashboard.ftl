@@ -134,4 +134,5 @@ modal-exposure-status-description-all =
     Nos cerca pro expositiones in tote le violationes de datos note.
     Tu expositiones habera uno del sequente statos:
 modal-exposure-indicator-title = Statos de exposition
+modal-exposure-indicator-action-needed = Un action avantiate o manual es necessari per te pro completar un action.
 modal-exposure-indicator-fixed = Le exposition ha essite remediate e il non ha alcun action a prender pro te.
