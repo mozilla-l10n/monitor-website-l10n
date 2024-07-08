@@ -20,6 +20,10 @@ landing-all-value-prop-info-at-risk = Kva for type informasjon kan vere i fare?
 
 # Non-US FAQ
 
+landing-all-faq-title = Vanlege spørsmål
+# FAQ is an acronym for Frequently Asked Questions
+landing-all-faq-see-all = Vis alle vanlege spørsmål
+landing-all-data-breach-definition-qn = Kva er eigentleg ein datalekkasje?
 landing-all-close-faq-alt = Lat att
 
 # Social proof
