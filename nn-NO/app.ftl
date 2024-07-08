@@ -39,6 +39,8 @@ user-add-invalid-email = Ugyldig e-postadresse
 user-add-too-many-emails = Du overvakar maksimalt antal e-postadresser.
 user-add-duplicate-email = Denne e-postadressa er allereie lagt til i { -product-name }.
 user-add-verification-email-just-sent = Ein ny stadfestings e-post kan ikkje sendast etter så kort tid. Prøv igjen seinare.
+user-add-unknown-error = Noko gjekk gale når ytterlegare ei e-postadresse skulle leggjast til. Prøv igjen seinare.
+user-delete-unknown-error = Noko gjekk gale når ei e-postadresse skulle fjernast. Prøv igjen seinare.
 user-verify-token-error = Stadfestings-token er påkravd.
 user-unsubscribe-token-error = Avmelding krev eit token.
 user-unsubscribe-token-email-error = Avmelding krev eit token og eit emailHash.
@@ -161,6 +163,7 @@ open-in-new-tab-alt = Opne lenke i ei ny fane
 
 ## Search Engine Optimization
 
+meta-desc-2 = FInn ut om du har vore del av ein datalekkasje med { -brand-fx-monitor }. Vi rettleiar deg i kva du skal gjere, og overvakar heile tider nettstadar for eventuelle nye datalekkasjar.
 
 ## Header
 
@@ -219,6 +222,7 @@ error-page-error-other-title = { $errorCode } Noko gjekk gale
 ## Breach overview page
 
 all-breaches-headline-2 = Alle datalekkasjar oppdaga av { -brand-fx-monitor }
+all-breaches-lead = Vi overvakar heile tida kjende datalekkasjar for å finne ut om din personelege informasjon er komprommitert. Her er ei fullstendig liste over alle datalekkasjar som er rapporterte sidan 2007.
 search-breaches = Søk etter datalekkasjar
 # the kind of user data exposed to hackers in data breach.
 exposed-data = Eksponerte data:
