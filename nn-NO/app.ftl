@@ -10,16 +10,24 @@
 ## unless otherwise indicated.
 
 -product-name = Mozilla Monitor
--product-name-nowrap = <span class="nowrap">{ -product-name }</span>
 -product-short-name = Monitor
 -brand-name = Firefox
--brand-Mozilla = Mozilla
 -brand-HIBP = Have I Been Pwned
 -brand-fxa = Firefox-konto
 -brand-pocket = Pocket
 -brand-lockwise = Firefox Lockwise
--brand-send = Firefox Send
--brand-fpn = Firefox Private Network
+-brand-firefox = Firefox
+-brand-monitor = Monitor
+-brand-fx-monitor = Mozilla Monitor
+-brand-mozilla = Mozilla
+-brand-premium = Premium
+-brand-monitor-premium = Monitor Premium
+-brand-mozilla-foundation = Mozilla Foundation
+-brand-github = GitHub
+-brand-mozilla-vpn = Mozilla VPN
+-brand-relay = Firefox Relay
+-brand-mozilla-monitor = Mozilla Monitor
+-brand-monitor-plus = Monitor Plus
 
 ##
 
@@ -30,6 +38,7 @@ error-hibp-connect = Klarte ikkje å kople til { -brand-HIBP }.
 user-add-invalid-email = Ugyldig e-postadresse
 user-add-too-many-emails = Du overvakar maksimalt antal e-postadresser.
 user-add-duplicate-email = Denne e-postadressa er allereie lagt til i { -product-name }.
+user-add-verification-email-just-sent = Ein ny stadfestings e-post kan ikkje sendast etter så kort tid. Prøv igjen seinare.
 user-verify-token-error = Stadfestings-token er påkravd.
 user-unsubscribe-token-error = Avmelding krev eit token.
 user-unsubscribe-token-email-error = Avmelding krev eit token og eit emailHash.
@@ -143,24 +152,6 @@ rec-section-subhead-no-pw = Sjølv om passord ikkje vart lekne i denne datalekka
 # A status indicator that appears in the top right corner of new breach cards
 new-breach = Ny
 
-# Monitor V2
-
-
-## The following messages are brands and should be kept entirely in English
-
--brand-firefox = Firefox
--brand-monitor = Monitor
--brand-fx-monitor = Mozilla Monitor
--brand-mozilla = Mozilla
--brand-premium = Premium
--brand-monitor-premium = Monitor Premium
--brand-mozilla-foundation = Mozilla Foundation
--brand-github = GitHub
--brand-mozilla-vpn = Mozilla VPN
--brand-relay = Firefox Relay
--brand-mozilla-monitor = Mozilla Monitor
--brand-monitor-plus = Monitor Plus
-
 ##
 
 # “account” can be localized, “Mozilla” must be treated as a brand,
@@ -234,10 +225,12 @@ exposed-data = Eksponerte data:
 
 ## Public breach detail page
 
+find-out-if-2 = Finn ut om du har vore involvert i denne datalekkasjen
 breach-detail-cta-signup = Sjå etter datalekkasjar
 
 ## Firefox Monitor -> Mozilla Monitor rebrand banner
 
+banner-monitor-rebrand-text = <b>{ -brand-mozilla-monitor }</b>: Nytt namn, ny utsjånad og til og med fleire måtar å <b>ta tilbake personvernet ditt</b>.
 banner-monitor-rebrand-dismiss-button-label = OK
 banner-monitor-rebrand-dismiss-button-tooltip = Ignorer
 loading-accessibility = Lastar
