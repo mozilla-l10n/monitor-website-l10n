@@ -32,6 +32,7 @@ landing-all-data-breach-definition-ans = EIn datalekkasje skjer når personleg e
 landing-all-data-breach-next-steps-qn = Eg fann nettopp ut at eg er omfatta av ein datalekkasje. Kva gjer eg no?
 landing-all-data-breach-next-steps-ans = Besøk { -brand-mozilla-monitor } for å lære deg kva du ska gjere etter ein datalekkasje og få guida steg for å løyse eksponeringar av den personlege informasjonen din. Hackarar stolar på at folk brukar passord om igjen, so det er viktigt å lage sterke, unike passord for alle kontane dine. Oppbevar passorda dine på ein trygg plass som berre du har tilgang til; det kan vere på same plass som du lagrar viktige dokument eller ein passordhandsamar.
 landing-all-data-breach-info-qn = Kva for informasjon vert avslørt i datalekkasjar?
+landing-all-data-breach-info-ans = Ikkje alle datealekkasjar avslører same informasjon. Det er avhengig av kva hackarane kan få tilgang til. Mange datalekkasjar avslørar e-postadresser og passord. Andre avslørar meir sensitiv informasjon som bankkortnummer, PIN-kodar og personnummer.
 landing-all-close-faq-alt = Lat att
 
 # Social proof
