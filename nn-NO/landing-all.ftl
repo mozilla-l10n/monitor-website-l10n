@@ -18,6 +18,7 @@ landing-all-value-prop-info-at-risk = Kva for type informasjon kan vere i fare?
 
 # Quote
 
+landing-all-quote = <data_breaches>Datalekkasjar</data_breaches> skjer kvart 11. minutt og avslører din privata informasjon — men ta det med ro, vi kan hjelpe deg.
 
 # Non-US FAQ
 
@@ -25,6 +26,7 @@ landing-all-faq-title = Vanlege spørsmål
 # FAQ is an acronym for Frequently Asked Questions
 landing-all-faq-see-all = Vis alle vanlege spørsmål
 landing-all-data-breach-definition-qn = Kva er eigentleg ein datalekkasje?
+landing-all-data-breach-next-steps-qn = Eg fann nettopp ut at eg er omfatta av ein datalekkasje. Kva gjer eg no?
 landing-all-close-faq-alt = Lat att
 
 # Social proof
