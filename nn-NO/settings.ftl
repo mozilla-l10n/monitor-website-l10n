@@ -21,6 +21,13 @@ settings-alert-preferences-allow-monthly-monitor-report-subtitle = Ei månadleg 
 # Variables:
 #   $email (string) - Email address
 settings-email-list-title = Overvaka e-postadresser
+# Variables:
+#   $limit (number) - Number of email addresses included in the plan
+settings-email-limit-info =
+    { $limit ->
+        [one] Kontoen din inkluderer overvaking av opptil { $limit } e-postadresse.
+       *[other] Kontoen din inkluderer overvaking av opptil { $limit } e-postadresser.
+    }
 settings-email-verification-callout = Stadfesting av e-post påkravd
 settings-resend-email-verification-link = Send stadfestings e-posten på nytt
 settings-add-email-button = Legg til e-postadresse
