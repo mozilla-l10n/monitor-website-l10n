@@ -43,6 +43,8 @@ breach-checklist-email-header-2 = Vern e-posten din med ei e-postmaskeringstenes
 
 ## Prompts the user for changes when there is a breach detected of physical address
 
+breach-checklist-address-header = Endre alle passord eller PIN-kodar som inneheld ein del av adressa di.
+breach-checklist-address-body = Det er lett å finne adresser i offentlege register - og dét gjer det lett å gjette passord og PIN-kodar, som inneheld adressa di.
 
 ## Prompts the user for changes when there is a breach detected of date of birth
 
