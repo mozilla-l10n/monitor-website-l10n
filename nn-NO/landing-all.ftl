@@ -14,6 +14,7 @@ landing-all-hero-image-chart-label = eksponeringar
 # Value Proposition
 
 landing-all-value-prop-fix-exposures = Vi hjelper deg med å løyse eksponeringane dine
+landing-all-value-prop-fix-exposures-description = Oppdraget vårt er å gje deg tilbake kontrollen over personopplysningane dine. Vi hjelper deg med å løyse datalekkasjar og halde informsjonen din privat — og vi kjem til å <privacy_link>respektere personvernet ditt</privacy_link> i prosessen.
 landing-all-value-prop-info-at-risk = Kva for type informasjon kan vere i fare?
 
 # Quote
@@ -52,6 +53,8 @@ landing-all-social-proof-press = Kjent frå
 landing-all-help-protect-you = Sjå korleis vi hjelper deg med å beskytte deg
 landing-all-help-protect-you-description = Vi trur på din rett til personvern, og difor er overvaking av datlekkasjar alltid gratis.
 landing-all-help-protect-you-feature-one = Vi søkjer etter dine oplysningar i alle kjende datalekkasjar
+landing-all-help-protect-you-feature-two = Vi gaidar deg gjenom stega for å løyse kvar datalekkasje
+landing-all-help-protect-you-feature-three = Vi vil kontinuerleg overvake, og sende deg åtvaringar om nye datalekkasjar
 landing-all-help-protect-you-cta = Registrer deg for datalekkasjevarsel
 landing-all-get-started = Skann e-posten din for å kome i gang
 landing-all-take-back-data = Ta tilbake kontrollen over din data
