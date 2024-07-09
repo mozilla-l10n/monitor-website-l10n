@@ -27,10 +27,18 @@ landing-all-faq-title = Vanlege spørsmål
 landing-all-faq-see-all = Vis alle vanlege spørsmål
 landing-all-data-breach-definition-qn = Kva er eigentleg ein datalekkasje?
 landing-all-data-breach-next-steps-qn = Eg fann nettopp ut at eg er omfatta av ein datalekkasje. Kva gjer eg no?
+landing-all-data-breach-info-qn = Kva for informasjon vert avslørt i datalekkasjar?
 landing-all-close-faq-alt = Lat att
 
 # Social proof
 
+# Variables
+# $num_users is the number of users in the millions.
+landing-all-social-proof-title =
+    { $num_users ->
+        [one] Stolt på av { $num_users } million menneske verda over
+       *[other] Stolt på av { $num_users } millionar menneske verda over
+    }
 landing-all-social-proof-press = Kjent frå
 
 # Here's How We Help
