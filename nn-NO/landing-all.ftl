@@ -39,11 +39,19 @@ landing-all-social-proof-title =
         [one] Stolt på av { $num_users } million menneske verda over
        *[other] Stolt på av { $num_users } millionar menneske verda over
     }
+# Variables
+# $num_countries is the number of countries available.
+landing-all-social-proof-description =
+    { $num_countries ->
+       *[other] Sidan 2018 ha vil hjelpt folk i { $num_countries } land med å verne dataa deira når dei har blitt eksponert.
+    }
 landing-all-social-proof-press = Kjent frå
 
 # Here's How We Help
 
 landing-all-help-protect-you = Sjå korleis vi hjelper deg med å beskytte deg
+landing-all-help-protect-you-description = Vi trur på din rett til personvern, og difor er overvaking av datlekkasjar alltid gratis.
+landing-all-help-protect-you-feature-one = Vi søkjer etter dine oplysningar i alle kjende datalekkasjar
 landing-all-help-protect-you-cta = Registrer deg for datalekkasjevarsel
 landing-all-get-started = Skann e-posten din for å kome i gang
 landing-all-take-back-data = Ta tilbake kontrollen over din data
