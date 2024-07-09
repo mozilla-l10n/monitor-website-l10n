@@ -16,6 +16,7 @@ landing-all-hero-image-chart-label = eksponeringar
 landing-all-value-prop-fix-exposures = Vi hjelper deg med å løyse eksponeringane dine
 landing-all-value-prop-fix-exposures-description = Oppdraget vårt er å gje deg tilbake kontrollen over personopplysningane dine. Vi hjelper deg med å løyse datalekkasjar og halde informsjonen din privat — og vi kjem til å <privacy_link>respektere personvernet ditt</privacy_link> i prosessen.
 landing-all-value-prop-info-at-risk = Kva for type informasjon kan vere i fare?
+landing-all-value-prop-info-at-risk-description = Datalekkasjar er diverre ein del av våre digitale liv. Passord, kontaktopplysningar, økonomisk informasjon og annan personleg informasjon kan bli avslørt, og utsette deg for risiko for identitetstjuveri.
 
 # Quote
 
