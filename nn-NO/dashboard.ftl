@@ -22,6 +22,7 @@ exposure-chart-legend-heading-nr = Antal
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
+exposure-chart-caption = Dette diagrammet viser kor mange gongar informasjonen din er aktivt eksponert.
 exposure-chart-returning-user-upgrade-prompt-cta = Start ei gratis skanning
 modal-cta-ok = OK
 open-modal-alt = Opne modal
