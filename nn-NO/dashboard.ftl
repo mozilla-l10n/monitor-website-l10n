@@ -25,6 +25,7 @@ exposure-chart-legend-value-nr = { $nr }×
 exposure-chart-caption = Dette diagrammet viser kor mange gongar informasjonen din er aktivt eksponert.
 exposure-chart-returning-user-upgrade-prompt-cta = Start ei gratis skanning
 modal-cta-ok = OK
+modal-cta-got-it = Eg forstår
 open-modal-alt = Opne modal
 close-modal-alt = Lat att modal
 open-tooltip-alt = Opne verktøytips
