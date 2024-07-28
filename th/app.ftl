@@ -154,6 +154,7 @@ open-in-new-tab-alt = เปิดลิงก์ในแท็บใหม่
 
 ## Search Engine Optimization
 
+meta-desc-2 = ค้นพบว่าคุณเป็นส่วนหนึ่งในการรั่วไหลของข้อมูลหรือไม่โดยใช้ { -brand-fx-monitor } เราจะช่วยให้คุณเข้าใจว่าต้องทำอย่างไรต่อ และจะคอยเฝ้าสังเกตการรั่วไหลครั้งใหม่ๆ อย่างต่อเนื่อง
 
 ## Header
 
@@ -203,17 +204,29 @@ footer-external-link-faq-tooltip = คำถามที่พบบ่อย
 # Variables:
 #   $errorCode (number) - "404"
 error-page-error-404-title = { $errorCode } ไม่พบหน้า
+error-page-error-404-copy = ขออภัย หน้าที่คุณกำลังค้นหานั้นไม่มีอยู่อีกต่อไปแล้ว
+error-page-error-404-cta-button = ย้อนกลับ
+# Variables:
+#   $errorCode (number) - the status code of the error, e.g. 403
+error-page-error-other-title = { $errorCode } มีบางอย่างผิดพลาด
 
 ## Breach overview page
 
+all-breaches-headline-2 = การรั่วไหลทั้งหมดที่ { -brand-fx-monitor } ตรวจพบ
+all-breaches-lead = เราเฝ้าสังเกตการรั่วไหลของข้อมูลที่ทราบทั้งหมดเพื่อค้นพบว่าข้อมูลส่วนตัวของคุณถูกบุกรุกหรือไม่ นี่คือรายการการรั่วไหลทั้งหมดที่มีการรายงานไว้ตั้งแต่ปี 2007
 search-breaches = ค้นหาการรั่วไหล
+# the kind of user data exposed to hackers in data breach.
+exposed-data = ข้อมูลที่ถูกเปิดเผย:
 
 ## Public breach detail page
 
+find-out-if-2 = ค้นพบว่าคุณมีส่วนเกี่ยวข้องกับการรั่วไหลในครั้งนี้หรือไม่
+find-out-if-description = เราจะช่วยให้คุณทราบได้อย่างรวดเร็วว่าที่อยู่อีเมลของคุณถูกเปิดเผยจากการรั่วไหลในครั้งนี้หรือไม่ และทำความเข้าใจว่าต้องทำอย่างไรต่อ
 breach-detail-cta-signup = ตรวจสอบการรั่วไหล
 
 ## Firefox Monitor -> Mozilla Monitor rebrand banner
 
+banner-monitor-rebrand-text = <b>{ -brand-mozilla-monitor }</b>: ชื่อใหม่ รูปลักษณ์ใหม่ และวิธีอื่นๆ อีกมากมายในการ<b>ทวงคืนความเป็นส่วนตัวของคุณ</b>
 banner-monitor-rebrand-dismiss-button-label = ตกลง
 banner-monitor-rebrand-dismiss-button-tooltip = ปิด
 loading-accessibility = กำลังโหลด
