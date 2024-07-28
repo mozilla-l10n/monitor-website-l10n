@@ -16,6 +16,13 @@
 -brand-fxa = บัญชี Firefox
 -brand-pocket = Pocket
 -brand-lockwise = Firefox Lockwise
+-brand-firefox = Firefox
+-brand-monitor = Monitor
+-brand-fx-monitor = Mozilla Monitor
+-brand-mozilla = Mozilla
+-brand-premium = Premium
+-brand-monitor-premium = Monitor Premium
+-brand-mozilla-foundation = Mozilla Foundation
 -brand-github = GitHub
 -brand-mozilla-vpn = Mozilla VPN
 -brand-relay = Firefox Relay
@@ -140,29 +147,62 @@ new-breach = ใหม่
 
 ##
 
+# “account” can be localized, “Mozilla” must be treated as a brand,
+# and kept in English.
+-brand-mozilla-account = บัญชี Mozilla
+open-in-new-tab-alt = เปิดลิงก์ในแท็บใหม่
 
 ## Search Engine Optimization
 
 
 ## Header
 
+# Deprecated
+brand-fx-monitor = { -brand-fx-monitor }
 sign-in = ลงชื่อเข้า
+brand-mozilla-monitor = { -brand-fx-monitor }
 
 ## Site navigation
 
+mobile-menu-label = เมนูหลัก
+main-nav-button-collapse-label = ยุบเมนู
+main-nav-button-collapse-tooltip = ยุบเมนู
+main-nav-button-expand-label = ขยายเมนู
+main-nav-button-expand-tooltip = ขยายเมนู
+main-nav-label = การนำทาง
+main-nav-link-home-label = หน้าแรก
+main-nav-link-dashboard-label = หน้าปัด
+main-nav-link-settings-label = การตั้งค่า
+main-nav-link-faq-label = คำถามที่พบบ่อย
+main-nav-link-faq-tooltip = คำถามที่พบบ่อย
 
 ## User menu
 
+user-menu-trigger-label = เปิดเมนูผู้ใช้
+user-menu-trigger-tooltip = โปรไฟล์
+user-menu-manage-fxa-label = จัดการ{ -brand-mozilla-account } ของคุณ
+user-menu-settings-label = การตั้งค่า
+user-menu-settings-tooltip = กำหนดค่า { -brand-mozilla-monitor }
+user-menu-help-label = ความช่วยเหลือและการสนับสนุน
+user-menu-help-tooltip = รับความช่วยเหลือในการใช้ { -brand-mozilla-monitor }
+user-menu-signout-label = ลงชื่อออก
+user-menu-signout-tooltip = ลงชื่อออกจาก { -brand-mozilla-monitor }
 
 ## Footer
 
+mozilla = { -brand-mozilla }
+terms-of-service = เงื่อนไขการให้บริการ
 privacy-notice = ประกาศความเป็นส่วนตัว
 github = { -brand-github }
 footer-nav-all-breaches = การรั่วไหลทั้งหมด
 footer-external-link-faq-label = คำถามที่พบบ่อย
+footer-external-link-faq-tooltip = คำถามที่พบบ่อย
 
 ## Error page
 
+# Variables:
+#   $errorCode (number) - "404"
+error-page-error-404-title = { $errorCode } ไม่พบหน้า
 
 ## Breach overview page
 
