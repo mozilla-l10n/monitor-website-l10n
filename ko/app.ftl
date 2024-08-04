@@ -199,6 +199,7 @@ mozilla = { -brand-mozilla }
 terms-of-service = 이용 약관
 privacy-notice = 개인정보 보호정책
 github = { -brand-github }
+footer-nav-all-breaches = 모든 유출
 footer-external-link-faq-label = FAQ
 footer-external-link-faq-tooltip = 자주 묻는 질문
 
