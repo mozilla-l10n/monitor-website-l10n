@@ -81,7 +81,7 @@ email-breach-summary = Hier is uw samenvatting van uw datalek
 email-breach-detected = Zoekresultaten voor uw account { $email-address } hebben gedetecteerd dat uw e-mailadres mogelijk is gelekt. We raden u aan nu actie te ondernemen om dit datalek op te lossen.
 # Variables:
 #   $email-address (string) - Email address
-email-breach-detected-2 = Zoekresultaten voor uw <b>{ $email-address }</b>-account hebben gedetecteerd dat uw e-mail mogelijk is gelekt. We raden u aan nu actie te ondernemen om dit lek op te lossen.
+email-breach-detected-2 = Zoekresultaten voor uw account <b>{ $email-address }</b> hebben gedetecteerd dat uw e-mailadres mogelijk is gelekt. We raden u aan nu actie te ondernemen om dit datalek op te lossen.
 email-dashboard-cta = Naar het dashboard
 
 ## Breach alert
