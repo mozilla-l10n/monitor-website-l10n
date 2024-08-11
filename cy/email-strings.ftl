@@ -56,7 +56,7 @@ email-breach-summary = Dyma eich crynodeb tor-data
 email-breach-detected = Mae canlyniadau chwilio eich cyfrif { $email-address } wedi canfod y gallai eich e-bost fod wedi'i ddatgelu. Rydym yn argymell eich bod yn gweithredu nawr i ddatrys y tor-data hwn.
 # Variables:
 #   $email-address (string) - Email address
-email-breach-detected-2 = Mae canlyniadau chwilio eich cyfrif <b>{ $email-address } wedi canfod y gallai eich e-bost fod wedi'i ddatgelu. Rydym yn argymell eich bod yn gweithredu nawr i ddatrys y tor-data hwn.
+email-breach-detected-2 = Mae canlyniadau chwilio eich cyfrif <b> { $email-address } wedi canfod y gallai eich e-bost fod wedi'i ddatgelu. Rydym yn argymell eich bod yn gweithredu nawr i ddatrys y tor-data hwn.
 email-dashboard-cta = Mynd i'r Bwrdd Gwaith
 
 ## Breach alert
