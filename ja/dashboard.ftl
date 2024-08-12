@@ -17,6 +17,8 @@ exposure-chart-caption = このグラフは、あなたの個人情報がいく�
 #   $total_exposures_num (number) - Number of total exposures
 exposure-chart-caption-fixed = このグラフは、修復された侵害の合計数を表しています ({ $total_exposures_num } / { $total_fixed_exposures_num })
 modal-cta-ok = OK
+dashboard-tab-label-action-needed = 対処が必要
+dashboard-tab-label-fixed = 修正済み
 dashboard-exposures-all-fixed-label = すべて修復済みです！
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = 絞り込み
@@ -36,5 +38,5 @@ dashboard-top-banner-your-data-is-protected-cta = 修復されたものを確認
 dashboard-top-banner-no-exposures-found-title = 侵害は見つかりませんでした
 dashboard-no-exposures-label = 侵害は見つかりませんでした
 
-# About Exposure Statuses Modal
+# About Exposure Indicators Modal
 

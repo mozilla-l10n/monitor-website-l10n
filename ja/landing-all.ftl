@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 public-nav-name = { -brand-mozilla-monitor }
+landing-all-hero-title = 個人情報が漏えいした場所を発見する — そして取り戻す
+landing-all-hero-lead = データ侵害を検索して、データが漏えいしていないかを確認し、修復する手順を案内します。
 landing-all-hero-emailform-input-placeholder = yourname@example.com
 landing-all-hero-emailform-input-label = データ侵害の有無を確認したいメールアドレスを入力してください
 landing-all-hero-emailform-submit-label = 無料でスキャン
