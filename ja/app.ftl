@@ -29,7 +29,6 @@
 
 ##
 
-error-could-not-add-email = メールアドレスをデータベースに追加できませんでした。
 error-not-subscribed = このメールアドレスは { -product-name } に登録されていません。
 error-hibp-throttled = { -brand-HIBP } への接続数が多すぎます。
 error-hibp-connect = { -brand-HIBP } への接続でエラーが発生しました。
@@ -182,6 +181,7 @@ exposed-data = 侵害されたデータ:
 
 ## Public breach detail page
 
+breach-detail-cta-signup = データ侵害を確認する
 
 ## Firefox Monitor -> Mozilla Monitor rebrand banner
 
