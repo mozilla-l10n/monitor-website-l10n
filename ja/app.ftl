@@ -193,3 +193,4 @@ breach-detail-cta-signup = データ侵害を確認する
 
 ## Firefox Monitor -> Mozilla Monitor rebrand banner
 
+banner-monitor-rebrand-dismiss-button-label = OK

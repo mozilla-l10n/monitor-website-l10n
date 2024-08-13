@@ -32,6 +32,7 @@ dashboard-exposures-filter-date-found-last-thirty-days = 最近 30 日間
 dashboard-exposures-filter-date-found-last-year = 昨年
 dashboard-exposures-filter-status = ステータス
 dashboard-exposures-filter-show-all = すべて表示
+dashboard-exposures-filter-show-results = 結果を表示
 dashboard-exposures-filter-reset = リセット
 
 ## Top banner on the dashboard
