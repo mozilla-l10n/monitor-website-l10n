@@ -4,8 +4,10 @@
 
 fix-flow-nav-high-risk-data-breaches = Datalekkasje med høg risiko
 fix-flow-nav-leaked-passwords = Lekne passord
+fix-flow-nav-security-recommendations = Tryggingstilrådingar
 guided-resolution-flow-exit = Tilbake til oversyn
 guided-resolution-flow-next-arrow = Gå til neste steg
+guided-resolution-flow-step-navigation-label = Guida steg
 
 # Celebration screens
 
@@ -16,9 +18,11 @@ fix-flow-celebration-next-dashboard-label = Gå til ditt oversyn
 
 ## High-risk flow
 
+fix-flow-celebration-high-risk-description-next-security-questions = La oss no fikse dei eksponerte tryggingsspørsmåla dine.
 
 ## Leaked passwords and security questions flow
 
+fix-flow-celebration-security-questions-title = Tryggingsspørsmåla dine er verna!
 
 ## Security recommendations flow
 
