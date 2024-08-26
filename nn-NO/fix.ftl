@@ -23,9 +23,13 @@ fix-flow-celebration-high-risk-description-next-security-questions = La oss no f
 ## Leaked passwords and security questions flow
 
 fix-flow-celebration-security-questions-title = Tryggingsspørsmåla dine er verna!
+fix-flow-celebration-leaked-passwords-description-next-security-questions = La oss no gå gjennom og oppdatere dei eksponerte tryggingsspørsmåla dine.
+fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Deretter vil vi gi deg personlege tryggingstilrådingar basert på kva data som er eksponerte.
 
 ## Security recommendations flow
 
+fix-flow-celebration-security-recommendations-title = Du har fullført alle tilrådingane dine!
+fix-flow-celebration-security-recommendations-description-next-dashboard = Bra gjort! Du har nådd slutten av stega dine. Du kan sjå alle handlingselement og spore framgangen din på dashbordet.
 
 # High Risk Data Breaches
 
@@ -44,6 +48,7 @@ high-risk-breach-bank-account-step-two = Endre kontonummeret ditt.
 
 # Social Security Number Breaches
 
+high-risk-breach-social-security-title = Personnummeret ditt vart avslørt
 
 # Social Security Number Modal
 
