@@ -59,6 +59,7 @@ ssn-modal-ok = OK
 
 # No high risk breaches found
 
+high-risk-breach-none-sub-description-ssn = Personnummer
 high-risk-breach-none-sub-description-bank-account = Bankkontoinformasjon
 high-risk-breach-none-sub-description-cc-number = Nummer på betalingskort
 high-risk-breach-none-sub-description-pin = PIN-kodar
@@ -66,6 +67,7 @@ high-risk-breach-none-continue = Hald fram
 
 # Security recommendations
 
+security-recommendation-steps-label = Tryggingstilrådingar
 security-recommendation-steps-title = Her er våre råd:
 security-recommendation-steps-cta-label = Skjønar!
 
@@ -76,6 +78,7 @@ security-recommendation-phone-title = Vern telefonnummeret ditt
 # Email security recommendation
 
 security-recommendation-email-title = Vern e-postadressa di
+security-recommendation-email-step-three = Merk mistenkjelege e-postar som spam og blokker avsendaren
 
 # IP security recommendation
 
@@ -89,4 +92,5 @@ leaked-passwords-skip = Hopp over no
 
 # Leaked Security Questions
 
+leaked-security-questions-title = Tryggingsspørsmåla dine vart avslørte
 leaked-security-questions-steps-title = Dette er det du skal gjere
