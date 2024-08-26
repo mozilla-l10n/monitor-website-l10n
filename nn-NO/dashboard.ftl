@@ -31,6 +31,7 @@ exposure-chart-returning-user-upgrade-prompt = Heimeadresse, familiemedlemmar, m
 exposure-chart-returning-user-upgrade-prompt-cta = Start ei gratis skanning
 exposure-chart-scan-in-progress-prompt = <b>Skanning i gang:</b> adresse, familiemedlemmar, og meir, er ikkje inkludert enno.
 modal-active-number-of-exposures-title = Om antal aktive eksponeringar
+modal-fixed-number-of-exposures-title = Om talet på dine løyste eksponeringar
 modal-cta-ok = OK
 modal-cta-got-it = Eg forstår
 open-modal-alt = Opne modal
