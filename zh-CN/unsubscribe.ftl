@@ -6,6 +6,7 @@
 # Confirm Unsubscription State
 
 unsubscribe-from-monthly-report-header = 确定要退订此类邮件吗？
+unsubscribe-from-monthly-report-body = 您将不会再收到 { -brand-monitor } 月度报告，即无法再通过该途径得知您每月遭遇的暴露数以及已获处理的数量。
 unsubscribe-cta = 退订
 
 # Success Unsubscription State
