@@ -11,6 +11,9 @@ unsubscribe-cta = Отписаться
 
 # Success Unsubscription State
 
+unsubscribe-success-from-monthly-report-header = Вы отписались
+unsubscribe-success-from-monthly-report-body = Вы можете повторно подписаться или обновить свои настройки электронной почты в любой момент в настройках { -brand-monitor }.
 
 # Error warning
 
+unsubscription-failed = Отписка не удалась. <try_again_link>Попробуйте снова.</try_again_link>
