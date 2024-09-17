@@ -11,6 +11,8 @@ unsubscribe-cta = Remover le subscription
 # Success Unsubscription State
 
 unsubscribe-success-from-monthly-report-header = Tu abonamento ha essite annullate
+unsubscribe-success-from-monthly-report-body = Tu pote resubscriber te o actualisar tu preferentias de email quandocunque ab tu parametros de { -brand-monitor }.
 
 # Error warning
 
+unsubscription-failed = Cancellation del subscription fallite. <try_again_link>Retenta.</try_again_link>
