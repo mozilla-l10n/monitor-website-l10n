@@ -6,6 +6,7 @@
 # Confirm Unsubscription State
 
 unsubscribe-from-monthly-report-header = Remover le subscription de iste emails
+unsubscribe-from-monthly-report-body = Tu non plus recipera le reporto mensual de { -brand-monitor }, que te dice quante nove expositiones tu ha habite cata mense e quante es remediate.
 unsubscribe-cta = Remover le subscription
 
 # Success Unsubscription State
