@@ -41,7 +41,7 @@ progress-card-heres-what-we-fixed-headline-all = Du har løyst følgjande
 progress-card-manually-fixed-headline = Manuelt løyst
 dashboard-tab-label-action-needed = Handling påkravd
 dashboard-tab-label-fixed = Løyst
-dashboard-exposures-all-fixed-label = Alt løyst her!
+dashboard-exposures-all-fixed-label = Alt er løyst!
 dashboard-exposures-area-headline = Sjå alle nettstadar der informasjonen din er eksponert
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Filter
