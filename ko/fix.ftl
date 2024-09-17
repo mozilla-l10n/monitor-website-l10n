@@ -54,9 +54,14 @@ high-risk-breach-summary = 이는 { $num_breaches }건의 데이터 유출에서
 # An example of this string is Twitter on 13/09/18.
 high-risk-breach-name-and-date = { $breach_name } <breach_date>의 { $breach_date }</breach_date>
 high-risk-breach-mark-as-fixed = 수정됨으로 표시
+# Variables:
+# $estimated_time is the estimated time it would take for a user to complete breach resolution steps. It not be singular, and the + is meant as "or more".
+# An example of this string is Your estimated time: 15+ minutes.
+high-risk-breach-estimated-time = 예상 소요 시간: { $estimated_time }분 이상
 
 # Credit Card Breaches
 
+high-risk-breach-credit-card-title = 신용카드 번호가 노출되었습니다.
 
 # Bank Account Breaches
 
