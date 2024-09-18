@@ -5,6 +5,7 @@
 
 # Confirm Unsubscription State
 
+unsubscribe-from-monthly-report-header = ¿Eipe’a ne reraguapy ko ñanduti vevégui?
 unsubscribe-cta = Eheja ñemboheraguapy
 
 # Success Unsubscription State
