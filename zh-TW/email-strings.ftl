@@ -72,11 +72,11 @@ email-spotted-new-breach = 我們發現新的資料外洩事件
 
 email-breach-alert-all-subject = 偵測到新的資料外洩事件
 email-breach-alert-all-preview = 我們將帶您逐步處理此問題。
-email-breach-alert-all-hero-heading = 您已身處新的資料外洩事件
-email-breach-alert-all-hero-subheading = 別擔心我們可以幫助您解決這個問題
-email-breach-alert-all-lead = { -brand-mozilla-monitor } 發現了下列包含您的個人資訊的資料外洩事件:
-email-breach-alert-all-source-title = 資料外洩來源:
-email-breach-alert-all-data-points-title = 您已洩漏的資料:
-email-breach-alert-all-next-steps-lead = 我們將帶您逐步指導您如何解決這個資料外洩事件。
+email-breach-alert-all-hero-heading = 您身處於新的資料外洩事件
+email-breach-alert-all-hero-subheading = 別擔心，我們會幫助您解決這個問題
+email-breach-alert-all-lead = { -brand-mozilla-monitor } 發現下列資料外洩事件當中，包含您的個人資訊：
+email-breach-alert-all-source-title = 資料外洩來源：
+email-breach-alert-all-data-points-title = 您曝光的資料：
+email-breach-alert-all-next-steps-lead = 我們將帶您逐步向您講解，如何解決這場資料外洩事件。
 email-breach-alert-all-next-steps-cta-label = 開始使用
 email-breach-alert-all-next-steps-button-dashboard = 前往儀錶板
