@@ -5,10 +5,17 @@
 
 ## Email headers
 
+email-header-logo-alt = { -brand-mozilla-monitor }
+email-header-button-sign-in = 登录
 
 ## Email footers
 
+email-footer-support-heading = 对 { -brand-mozilla-monitor } 有疑问？
+email-footer-support-content = 访问我们的<support-link>支持中心</support-link>可获取帮助
+email-footer-trigger-transactional = 您是 { -brand-mozilla-monitor } 的订阅用户，因此收到此邮件。
 email-footer-source-hibp = 外泄事件数据由 <hibp-link>{ -brand-HIBP }</hibp-link> 提供
+email-footer-logo-mozilla-alt = { -brand-mozilla }
+email-footer-meta-privacy-notice = 隐私
 # Firefox Relay is a product name and should not be translated.
 -product-name-relay = Firefox Relay
 # Mozilla VPN is a product name and should not be translated.
@@ -63,3 +70,13 @@ email-spotted-new-breach = 我们发现新的数据外泄事件
 
 ## Redesigned breach alert email
 
+email-breach-alert-all-subject = 检测到新的数据外泄事件
+email-breach-alert-all-preview = 我们将指导您采取措施，逐项解决此问题。
+email-breach-alert-all-hero-heading = 您正受新发生的数据外泄事件影响
+email-breach-alert-all-hero-subheading = 不必担心，我们可以帮助您解决此次暴露问题
+email-breach-alert-all-lead = { -brand-mozilla-monitor } 发现以下数据外泄事件，当中涉及到您的个人信息：
+email-breach-alert-all-source-title = 外泄事件来源：
+email-breach-alert-all-data-points-title = 暴露日期：
+email-breach-alert-all-next-steps-lead = 我们会一步步指导您处理此次数据外泄事件。
+email-breach-alert-all-next-steps-cta-label = 开始处理
+email-breach-alert-all-next-steps-button-dashboard = 前往面板
