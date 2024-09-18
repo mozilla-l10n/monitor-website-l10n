@@ -71,6 +71,9 @@ email-spotted-new-breach = Rohecha oĩha mba’ekuaarã ñembogua pyahu
 
 ## Redesigned breach alert email
 
+email-breach-alert-all-subject = Ojejuhu mba’ekuaarã ñembyai pyahu
+email-breach-alert-all-preview = Rombohapéta emoĩporãkuaa hag̃uáicha.
+email-breach-alert-all-hero-heading = Ehecha eimépara’e mba’ekuaarã ñembyaípe
 email-breach-alert-all-source-title = Ñembyai ñepyrũha:
 email-breach-alert-all-data-points-title = Ne mba’ekuaarã imarãkuaa:
 email-breach-alert-all-next-steps-cta-label = Ñañepyrũkatu
