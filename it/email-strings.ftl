@@ -12,7 +12,7 @@ email-header-button-sign-in = Accedi
 
 email-footer-support-heading = Hai domande su { -brand-mozilla-monitor }?
 email-footer-support-content = Visita il nostro <support-link>Centro di supporto</support-link> per ricevere assistenza
-email-footer-trigger-transactional = Hai ricevuto questa email in qualità di abbonato a { -brand-mozilla-monitor }.
+email-footer-trigger-transactional = Hai ricevuto questa email in quanto sei abbonato a { -brand-mozilla-monitor }.
 email-footer-source-hibp = Dati sulle violazioni forniti da <hibp-link>{ -brand-HIBP }</hibp-link>
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = Privacy
@@ -71,12 +71,12 @@ email-spotted-new-breach = Abbiamo individuato una nuova violazione di dati
 ## Redesigned breach alert email
 
 email-breach-alert-all-subject = Rilevata nuova violazione di dati
-email-breach-alert-all-preview = Ti guideremo attraverso i passaggi per risolverlo.
+email-breach-alert-all-preview = Ti guideremo attraverso i passaggi per risolverla.
 email-breach-alert-all-hero-heading = Sei stato coinvolto in una nuova violazione di dati
 email-breach-alert-all-hero-subheading = Non preoccuparti, possiamo aiutarti a risolvere questo problema
 email-breach-alert-all-lead = { -brand-mozilla-monitor } ha rilevato la seguente violazione di dati che include informazioni personali:
 email-breach-alert-all-source-title = Sorgente della violazione:
-email-breach-alert-all-data-points-title = I tuoi dati esposti:
+email-breach-alert-all-data-points-title = Le tue informazioni esposte:
 email-breach-alert-all-next-steps-lead = Ti guideremo passo dopo passo su come risolvere questa violazione di dati.
 email-breach-alert-all-next-steps-cta-label = Cominciamo
 email-breach-alert-all-next-steps-button-dashboard = Vai al pannello utente
