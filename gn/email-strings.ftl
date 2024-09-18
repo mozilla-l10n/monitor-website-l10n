@@ -6,9 +6,16 @@
 ## Email headers
 
 email-header-logo-alt = { -brand-mozilla-monitor }
+email-header-button-sign-in = Eñemboheraguapy
 
 ## Email footers
 
+email-footer-support-heading = ¿Eporanduse { -brand-mozilla-monitor } rehegua?
+email-footer-support-content = Eike ore <support-link>Ñepytyvõha rendápe</support-link> eñepytyvõkuaa hag̃ua
+email-footer-trigger-transactional = Og̃uahẽ ko ñanduti veve eñemboheraguapýre { -brand-mozilla-monitor } ndive.
+email-footer-source-hibp = Mba’ekuaarã ñembyai ome’ẽva <hibp-link>{ -brand-HIBP }</hibp-link>
+email-footer-logo-mozilla-alt = { -brand-mozilla }
+email-footer-meta-privacy-notice = Ñemigua
 # Firefox Relay is a product name and should not be translated.
 -product-name-relay = Firefox Relay
 # Mozilla VPN is a product name and should not be translated.
@@ -64,3 +71,4 @@ email-spotted-new-breach = Rohecha oĩha mba’ekuaarã ñembogua pyahu
 
 ## Redesigned breach alert email
 
+email-breach-alert-all-source-title = Ñembyai ñepyrũha:
