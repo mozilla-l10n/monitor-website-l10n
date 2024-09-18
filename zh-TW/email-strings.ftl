@@ -10,9 +10,9 @@ email-header-button-sign-in = 登入
 
 ## Email footers
 
-email-footer-support-heading = 有關於 { -brand-mozilla-monitor } 的問題
-email-footer-support-content = 若需說明請前往我們的<support-link>技術支援中心</support-link>
-email-footer-trigger-transactional = 您將會收到這封郵件是因為您是 { -brand-mozilla-monitor } 的訂閱者。
+email-footer-support-heading = 有關於 { -brand-mozilla-monitor } 的問題嗎？
+email-footer-support-content = 若需協助，請前往我們的<support-link>技術支援中心</support-link>
+email-footer-trigger-transactional = 您會收到這封郵件，是因為您訂閱了 { -brand-mozilla-monitor }。
 email-footer-source-hibp = 資料外洩事件資訊是由 <hibp-link>{ -brand-HIBP }</hibp-link> 提供
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = 隱私權
@@ -71,7 +71,7 @@ email-spotted-new-breach = 我們發現新的資料外洩事件
 ## Redesigned breach alert email
 
 email-breach-alert-all-subject = 偵測到新的資料外洩事件
-email-breach-alert-all-preview = 我們將帶領您逐步解決問題。
+email-breach-alert-all-preview = 我們將帶您逐步處理此問題。
 email-breach-alert-all-hero-heading = 您已身處新的資料外洩事件
 email-breach-alert-all-hero-subheading = 別擔心我們可以幫助您解決這個問題
 email-breach-alert-all-lead = { -brand-mozilla-monitor } 發現了下列包含您的個人資訊的資料外洩事件:
