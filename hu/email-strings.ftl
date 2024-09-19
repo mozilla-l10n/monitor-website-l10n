@@ -12,7 +12,7 @@ email-header-button-sign-in = Bejelentkezés
 
 email-footer-support-heading = Kérdése van a { -brand-mozilla-monitor }ral kapcsolatban?
 email-footer-support-content = Segítségért keresse fel a <support-link>Támogatói központunkat</support-link>
-email-footer-trigger-transactional = Ezt az e-mailt a { -brand-mozilla-monitor } előfizetőjeként kapja.
+email-footer-trigger-transactional = Ezt az e-mailt a { -brand-mozilla-monitor } feliratkozójaként kapja.
 email-footer-source-hibp = Az adatvédelmi incidensek adatait a <hibp-link>{ -brand-HIBP }</hibp-link> szolgáltatta
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = Adatvédelem
@@ -74,7 +74,7 @@ email-spotted-new-breach = Új adatvédelmi incidenst észleltünk
 
 ## Redesigned breach alert email
 
-email-breach-alert-all-subject = Új adatsértés észlelve
+email-breach-alert-all-subject = Új adatvédelmi incidens észlelve
 email-breach-alert-all-preview = Végigvezetjük a megoldás lépésein.
 email-breach-alert-all-hero-heading = Új adatvédelmi incidensben volt érintett
 email-breach-alert-all-hero-subheading = Ne aggódjon, segíthetünk megoldani ezt a kitettséget
