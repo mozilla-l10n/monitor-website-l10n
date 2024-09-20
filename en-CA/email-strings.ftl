@@ -11,6 +11,11 @@ email-header-button-sign-in = Sign in
 ## Email footers
 
 email-footer-support-heading = Questions about { -brand-mozilla-monitor }?
+email-footer-support-content = Visit our <support-link>Support Centre</support-link> for help
+email-footer-trigger-transactional = You’re receiving this email as a subscriber of { -brand-mozilla-monitor }.
+email-footer-source-hibp = Breach data provided by <hibp-link>{ -brand-HIBP }</hibp-link>
+email-footer-logo-mozilla-alt = { -brand-mozilla }
+email-footer-meta-privacy-notice = Privacy
 # Firefox Relay is a product name and should not be translated.
 -product-name-relay = Firefox Relay
 # Mozilla VPN is a product name and should not be translated.
@@ -69,3 +74,13 @@ email-spotted-new-breach = We’ve spotted a new data breach
 
 ## Redesigned breach alert email
 
+email-breach-alert-all-subject = New data breach detected
+email-breach-alert-all-preview = We’ll guide you through the steps to resolve it.
+email-breach-alert-all-hero-heading = You’ve been in a new data breach
+email-breach-alert-all-hero-subheading = Don’t worry, we can help you resolve this exposure
+email-breach-alert-all-lead = { -brand-mozilla-monitor } discovered the following data breach that includes your personal information:
+email-breach-alert-all-source-title = Breach source:
+email-breach-alert-all-data-points-title = Your exposed data:
+email-breach-alert-all-next-steps-lead = We’ll guide you step-by-step on how to resolve this data breach.
+email-breach-alert-all-next-steps-cta-label = Let’s get started
+email-breach-alert-all-next-steps-button-dashboard = Go to Dashboard
