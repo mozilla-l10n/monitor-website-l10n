@@ -75,9 +75,9 @@ email-spotted-new-breach = Új adatvédelmi incidenst észleltünk
 ## Redesigned breach alert email
 
 email-breach-alert-all-subject = Új adatvédelmi incidens észlelve
-email-breach-alert-all-preview = Végigvezetjük a megoldás lépésein.
-email-breach-alert-all-hero-heading = Új adatvédelmi incidensben volt érintett
-email-breach-alert-all-hero-subheading = Ne aggódjon, segíthetünk megoldani ezt a kitettséget
+email-breach-alert-all-preview = Végigvezetjük a megoldási lépéseken.
+email-breach-alert-all-hero-heading = Egy adatvédelmi incidensben volt érintett
+email-breach-alert-all-hero-subheading = Ne aggódjon, segíthetünk megoldani ezt az adatkikerülést
 email-breach-alert-all-lead = A { -brand-mozilla-monitor } felfedezte a következő adatvédelmi incidenst, amely az Ön személyes információit is tartalmazza:
 email-breach-alert-all-source-title = Adatvédelmi incidens forrása:
 email-breach-alert-all-data-points-title = A kikerült adatai:
