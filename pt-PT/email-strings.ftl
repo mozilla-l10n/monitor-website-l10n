@@ -61,6 +61,10 @@ email-breach-summary = Eis o resumo da sua violação de dados
 # Variables:
 #   $email-address (string) - Email address, bolded
 email-breach-detected = Os resultados da pesquisa para a sua conta { $email-address } detetaram que o seu e-mail pode ter sido exposto. Recomendamos que atue imediatamente para resolver esta violação de dados.
+# Deprecated after the redesigned breach alert email is launched
+# Variables:
+#   $email-address (string) - Email address
+email-breach-detected-2 = Os resultados da pesquisa para a sua conta <b>{ $email-address }</b> detetaram que o seu e-mail pode ter sido exposto. Nós recomendamos que atue imediatamente para resolver esta violação.
 email-dashboard-cta = Ir para o painel
 
 ## Breach alert
