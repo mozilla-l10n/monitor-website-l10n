@@ -75,12 +75,12 @@ email-spotted-new-breach = Detetámos uma nova violação de dados
 ## Redesigned breach alert email
 
 email-breach-alert-all-subject = Nova violação de dados detetada
-email-breach-alert-all-preview = Iremos apoiar através de passos guiados para a resolver
+email-breach-alert-all-preview = Iremos apoiar, passo a passo, na resolução da mesma.
 email-breach-alert-all-hero-heading = Esteve numa nova violação de dados
 email-breach-alert-all-hero-subheading = Não se preocupe, nós podemos ajudar a resolver esta exposição
 email-breach-alert-all-lead = O { -brand-mozilla-monitor } descobriu a seguinte violação de dados que inclui a sua informação pessoal:
 email-breach-alert-all-source-title = Fonte da violação de dados
 email-breach-alert-all-data-points-title = Os seus dados expostos:
-email-breach-alert-all-next-steps-lead = Iremos guiar-lhe passo a passo acerca de como resolver esta brecha de dados.
+email-breach-alert-all-next-steps-lead = Iremos apoiar, passo a passo, na forma para resolver esta violação de dados.
 email-breach-alert-all-next-steps-cta-label = Vamos começar
 email-breach-alert-all-next-steps-button-dashboard = Ir para o painel
