@@ -12,6 +12,7 @@ email-header-button-sign-in = Увійти
 
 email-footer-support-heading = Запитання про { -brand-mozilla-monitor }?
 email-footer-support-content = Щоб отримати допомогу, відвідайте наш <support-link>Центр підтримки</support-link>
+email-footer-trigger-transactional = Ви отримали цей електронний лист, оскільки підписалися на { -brand-mozilla-monitor }.
 email-footer-source-hibp = Інформацію про витоки даних надає <hibp-link>{ -brand-HIBP }</hibp-link>
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = Приватність
@@ -74,8 +75,12 @@ email-spotted-new-breach = Ми помітили новий витік дани�
 ## Redesigned breach alert email
 
 email-breach-alert-all-subject = Виявлено новий витік даних
+email-breach-alert-all-preview = Ми допоможемо вам це виправити.
+email-breach-alert-all-hero-heading = Ваші дані потрапили до нового витоку
 email-breach-alert-all-hero-subheading = Не хвилюйтеся, ми можемо допомогти вам вирішити цю проблему
+email-breach-alert-all-lead = { -brand-mozilla-monitor } виявив витік даних, що містить вашу особисту інформацію:
 email-breach-alert-all-source-title = Джерело витоку:
 email-breach-alert-all-data-points-title = Ваші розкриті дані:
+email-breach-alert-all-next-steps-lead = Ми допоможемо вам покроково усунути наслідки цього витоку даних.
 email-breach-alert-all-next-steps-cta-label = Розпочнімо
 email-breach-alert-all-next-steps-button-dashboard = Перейти до панелі стану
