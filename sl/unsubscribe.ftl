@@ -12,6 +12,7 @@ unsubscribe-cta = Odjava
 # Success Unsubscription State
 
 unsubscribe-success-from-monthly-report-header = Zdaj ste odjavljeni
+unsubscribe-success-from-monthly-report-body = Kadarkoli se lahko ponovno naročite v nastavitvah { -brand-monitor }.
 unsubscribe-success-cta = Prijava v { -brand-monitor }
 
 # Error warning
