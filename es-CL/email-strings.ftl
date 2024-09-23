@@ -70,3 +70,5 @@ email-spotted-new-breach = Hemos detectado una nueva filtración de datos
 
 ## Redesigned breach alert email
 
+email-breach-alert-all-source-title = Fuente de la filtración:
+email-breach-alert-all-data-points-title = Tus datos expuestos:
