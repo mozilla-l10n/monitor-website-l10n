@@ -6,6 +6,7 @@
 # Confirm Unsubscription State
 
 unsubscribe-from-monthly-report-header = Želite odjaviti to e-pošto?
+unsubscribe-from-monthly-report-body = Ne boste več prejemali mesečnega poročila { -brand-monitor }, ki vam pove, koliko novih izpostavljenosti ste imeli vsak mesec in koliko je bilo odpravljenih.
 unsubscribe-cta = Odjava
 
 # Success Unsubscription State
