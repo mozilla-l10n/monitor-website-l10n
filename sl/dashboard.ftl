@@ -147,3 +147,5 @@ dashboard-top-banner-monitor-more-cta = Spremljaj več naslovov
 # About Exposure Indicators Modal
 
 modal-exposure-status-description-all = Izpostavljenosti iščemo v vseh znanih krajah podatkov. Vaša izpostavljenost bo imela eno od naslednjih stanj:
+modal-exposure-indicator-title = Stanja izpostavljenosti
+modal-exposure-indicator-action-needed = Za dokončanje dejanja potrebujete napredno ali ročno dejanje.
