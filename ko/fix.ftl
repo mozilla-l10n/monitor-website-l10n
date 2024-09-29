@@ -125,9 +125,16 @@ security-recommendation-steps-cta-label = 알겠습니다!
 security-recommendation-phone-title = 전화번호를 보호하세요.
 # $num_breaches is the number of breaches where the phone number was found.
 security-recommendation-phone-summary = 사용자의 전화번호가 { $num_breaches }개의 데이터 유출에서 노출되었습니다.
+security-recommendation-phone-description = 안타깝게도 되돌릴 수는 없지만 안전을 위해 취할 수 있는 조치가 있습니다.
+security-recommendation-phone-step-one = 스팸 전화가 더 많이 오지 않도록 스팸 번호를 차단하세요.
+security-recommendation-phone-step-two = 알 수 없는 사람이 보낸 문자 메시지에 포함된 링크를 클릭하지 마세요. 신뢰할 수 있는 출처인 것 같다면 직접 통화하여 확인하세요.
 
 # Email security recommendation
 
+security-recommendation-email-title = 이메일 주소를 보호하세요.
+# $num_breaches is the number of breaches where the email address was found.
+security-recommendation-email-summary = 사용자의 이메일 주소가 { $num_breaches }개의 데이터 유출에서 노출되었습니다.
+security-recommendation-email-description = 안타깝게도 해결할 수는 없지만 사용자를 보호하기 위해 취할 수 있는 조치가 있습니다.
 
 # IP security recommendation
 
