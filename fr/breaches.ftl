@@ -7,7 +7,7 @@ breach-all-meta-social-title = Toutes les fuites de données détectées par { -
 breach-all-meta-social-description = Parcourez la liste complète des fuites de données connues détectées par { -brand-fx-monitor }, puis découvrez si vos informations ont été compromises.
 # Variables:
 #   $company (String) - Name of the company that was breached, e.g. "PHP Freaks"
-breach-detail-meta-page-title = Fuite de données chez { $company } – { -brand-fx-monitor }
+breach-detail-meta-page-title = Fuite de données { $company } – { -brand-fx-monitor }
 # Variables:
 #   $company (String) - Name of the company that was breached, e.g. "PHP Freaks"
 breach-detail-meta-social-title = La fuite de données de { $company } vous concerne-t-elle ?
