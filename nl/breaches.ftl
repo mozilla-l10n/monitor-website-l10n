@@ -7,7 +7,7 @@ breach-all-meta-social-title = Alle door { -brand-fx-monitor } gedetecteerde dat
 breach-all-meta-social-description = Blader door de volledige lijst met bekende datalekken die zijn gedetecteerd door { -brand-fx-monitor } en zoek vervolgens uit of uw informatie is gelekt.
 # Variables:
 #   $company (String) - Name of the company that was breached, e.g. "PHP Freaks"
-breach-detail-meta-page-title = { $company } Datalek – { -brand-fx-monitor }
+breach-detail-meta-page-title = { $company }-datalek – { -brand-fx-monitor }
 # Variables:
 #   $company (String) - Name of the company that was breached, e.g. "PHP Freaks"
 breach-detail-meta-social-title = Bent u getroffen door het datalek van { $company }?
