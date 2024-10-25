@@ -7,7 +7,7 @@ breach-all-meta-social-title = Tutte le violazioni rilevate da { -brand-fx-monit
 breach-all-meta-social-description = Sfoglia l’elenco completo delle violazioni note rilevate da { -brand-fx-monitor }, quindi scopri se le tue informazioni sono state esposte.
 # Variables:
 #   $company (String) - Name of the company that was breached, e.g. "PHP Freaks"
-breach-detail-meta-page-title = Violazione di dati di { $company } – { -brand-fx-monitor }
+breach-detail-meta-page-title = Violazione di dati per { $company } – { -brand-fx-monitor }
 # Variables:
 #   $company (String) - Name of the company that was breached, e.g. "PHP Freaks"
 breach-detail-meta-social-title = Sei stato coinvolto nella violazione di dati per { $company }?
