@@ -23,6 +23,11 @@ settings-remove-email-button-label = הסרה
 
 settings-delete-monitor-free-account-cta-label = מחיקת חשבון
 settings-delete-monitor-free-account-dialog-title = חשבון ה־{ -brand-monitor } שלך יימחק לצמיתות
+settings-delete-monitor-free-account-dialog-cta-label = מחיקת חשבון
+settings-delete-monitor-free-account-dialog-cancel-button-label = לא משנה, קחו אותי בחזרה
+settings-delete-monitor-account-confirmation-toast-label-2 = חשבון ה־{ -brand-monitor } שלך נמחק כעת.
 
 ## Monthly Monitor Report
 
+settings-alert-preferences-allow-monthly-monitor-report-title = הדו״ח החודשי של { -brand-monitor }
+settings-alert-preferences-allow-monthly-monitor-report-subtitle = עדכון חודשי על חשיפות חדשות, מה תוקן ומה צריך את תשומת לבך.
