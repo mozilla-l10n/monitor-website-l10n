@@ -38,8 +38,8 @@ user-add-invalid-email = דוא״ל שגוי
 user-add-too-many-emails = הינך במעקב אחר המספר המירבי של כתובות דוא״ל.
 user-add-duplicate-email = דוא״ל זה כבר נוסף אל { -product-name }.
 user-add-verification-email-just-sent = לא ניתן לשלוח הודעת דוא״ל לאימות נוספת במהירות כזו. נא לנסות שוב מאוחר יותר.
-user-add-unknown-error = משהו השתמש בעת הוספת כתובת דוא״ל נוספת. נא לנסות שוב מאוחר יותר.
-user-delete-unknown-error = משהו השתמש בעת הסרת כתובת דוא״ל. נא לנסות שוב מאוחר יותר.
+user-add-unknown-error = משהו השתבש בעת הוספת כתובת דוא״ל נוספת. נא לנסות שוב מאוחר יותר.
+user-delete-unknown-error = משהו השתבש בעת הסרת כתובת דוא״ל. נא לנסות שוב מאוחר יותר.
 user-verify-token-error = נדרש אסימון אימות.
 # compromised-data = the kind of user data exposed to hackers in data breach.
 compromised-data = מידע שנחשף:
@@ -167,6 +167,10 @@ footer-external-link-faq-tooltip = תשובות לשאלות נפוצות
 #   $errorCode (number) - "404"
 error-page-error-404-title = { $errorCode } הדף לא נמצא
 error-page-error-404-copy = הדף שחיפשת כבר לא קיים, עמך הסליחה.
+error-page-error-404-cta-button = חזרה אחורה
+# Variables:
+#   $errorCode (number) - the status code of the error, e.g. 403
+error-page-error-other-title = { $errorCode } משהו השתבש
 
 ## Breach overview page
 
@@ -177,3 +181,6 @@ search-breaches = חיפוש בדליפות
 
 ## Firefox Monitor -> Mozilla Monitor rebrand banner
 
+banner-monitor-rebrand-dismiss-button-label = אישור
+banner-monitor-rebrand-dismiss-button-tooltip = סגירה
+loading-accessibility = בטעינה
