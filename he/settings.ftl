@@ -25,10 +25,11 @@ settings-email-list-title = כתובות דוא״ל מנוטרות
 #   $limit (number) - Number of email addresses included in the plan
 settings-email-limit-info =
     { $limit ->
-        [one] החשבון שלך כולל ניטור של עד כתובת דוא״ל אחת.
+        [one] החשבון שלך כולל ניטור של כתובת דוא״ל אחת.
        *[other] החשבון שלך כולל ניטור של עד { $limit } כתובות דוא״ל.
     }
 settings-email-verification-callout = דרוש אימות דוא״ל
+settings-resend-email-verification-link = שליחת דוא״ל לאימות מחדש
 settings-add-email-button = הוספת כתובת דוא״ל
 settings-remove-email-button-label = הסרה
 # Variables:
