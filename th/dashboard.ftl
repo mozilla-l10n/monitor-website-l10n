@@ -5,14 +5,29 @@
 
 # Chart summarizing total exposures
 
+# The number inside <nr> will be displayed in a large font,
+# the label inside <label> will be shown underneath, in a smaller font.
+# Variables:
+#   $nr (number) - Number of unresolved exposures for the user
+exposure-chart-heading = <label>มีการเปิดเผย</label> <nr>{ $nr } จุด</nr>
 # Variables:
 #   $nr (number) - Number of fixed exposures found for the user
-exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>ได้รับการแก้ไขแล้ว</label>
+exposure-chart-heading-fixed = <label>แก้ไขแล้ว</label> <nr>{ $nr } จุด</nr>
+exposure-chart-legend-heading-type = การเปิดเผย
 exposure-chart-legend-heading-nr = ตัวเลข
+# Variables:
+#   $nr (number) - Number of a particular type of exposure found for the user
+exposure-chart-legend-value-nr = { $nr }×
 exposure-chart-caption = แผนภูมินี้แสดงจำนวนครั้งที่ข้อมูลของคุณถูกเปิดเผยอย่างเป็นปัจจุบัน
+# Variables:
+#   $total_fixed_exposures_num (number) - Number of fixed exposures
+#   $total_exposures_num (number) - Number of total exposures
+exposure-chart-caption-fixed = แผนภูมินี้แสดงจำนวนการเปิดเผยที่ได้รับการแก้ไขแล้ว ({ $total_fixed_exposures_num } จุดจากทั้งหมด { $total_exposures_num } จุด)
 exposure-chart-returning-user-upgrade-prompt = ไม่รวมที่อยู่บ้าน สมาชิกในครอบครัว และอื่นๆ
 exposure-chart-returning-user-upgrade-prompt-cta = เริ่มการสแกนฟรี
 exposure-chart-scan-in-progress-prompt = <b>กำลังสแกนอยู่</b>: ยังไม่รวมที่อยู่ สมาชิกในครอบครัว และอื่นๆ
+modal-cta-ok = ตกลง
+modal-cta-got-it = เข้าใจแล้ว
 progress-card-manually-fixed-headline = แก้ไขด้วยตนเอง
 dashboard-exposures-filter-date-found-last-year = เมื่อปีที่แล้ว
 dashboard-exposures-filter-status = สถานะ
