@@ -54,6 +54,33 @@ dashboard-top-banner-scan-in-progress-title = การสแกนของค�
 dashboard-top-banner-your-data-is-protected-title = ข้อมูลของคุณได้รับการปกป้องแล้ว
 dashboard-top-banner-your-data-is-protected-cta = ดูสิ่งที่ได้รับการแก้ไขแล้ว
 dashboard-top-banner-lets-keep-protecting-title = เรามาปกป้องข้อมูลของคุณกันต่อไป
+# Variables:
+# $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
+dashboard-top-banner-lets-keep-protecting-description = คุณยังเหลือการเปิดเผยอีก { $exposures_unresolved_num } จุดที่ต้องได้รับการแก้ไข มาจัดการกันต่อและปกป้องตัวคุณเอง เราจะแนะนำคุณทีละขั้นตอน
+dashboard-top-banner-lets-keep-protecting-cta = มาจัดการกันต่อเลย
+dashboard-top-banner-protect-your-data-title = มาปกป้องข้อมูลของคุณกันเลย
+dashboard-top-banner-protect-your-data-cta = มาแก้ไขกันเลย
+# Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
+# Variables:
+#   $exposures_unresolved_num (number) - the total number of exposures the user has.
+dashboard-top-banner-non-us-protect-your-data-description-line1 = เราพบการเปิดเผย { $exposures_unresolved_num } จุดสำหรับข้อมูลของคุณ
+# Note: this line is preceded by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
+# Variables:
+#   $data_breach_unresolved_num (number) - the total number of data breaches the user has.
+dashboard-top-banner-non-us-protect-your-data-description-line2 = พบการปรากฏในข้อมูลที่รั่วไหล { $data_breach_unresolved_num } รายการ เราจะแนะนำวิธีการแก้ไขให้คุณทีละขั้นตอน
+dashboard-top-banner-no-exposures-found-title = ไม่พบการเปิดเผย
+dashboard-top-banner-non-us-no-exposures-found-description = ยินดีด้วย! เราค้นหาข้อมูลที่รั่วไหลเท่าที่ทราบทั้งหมดและไม่พบการเปิดเผยใด เราจะคอยเฝ้าดูที่อยู่อีเมลของคุณและจะเตือนคุณหากมีการรั่วไหลเกิดขึ้น
+dashboard-no-exposures-label = ไม่พบการเปิดเผย
+# Variables:
+# $exposures_resolved_num is the number of exposures the user has resolved.
+dashboard-top-banner-non-us-your-data-is-protected-description = ยอดเยี่ยมเลย การเปิดเผยทั้งหมด { $exposures_resolved_num } จุดสำหรับข้อมูลของคุณได้รับการแก้ไขแล้ว! เราจะคอยเฝ้าดูและจะเตือนคุณหากมีการเปิดเผยใหม่
+dashboard-top-banner-monitor-more-cta = เฝ้าดูอีเมลเพิ่มเติม
 
 # About Exposure Indicators Modal
 
+modal-exposure-status-description-all =
+    เราค้นหาการเปิดเผยในข้อมูลที่รั่วไหลเท่าที่ทราบทั้งหมดแล้ว
+    การเปิดเผยของคุณจะมีสถานะใดสถานะหนึ่งต่อไปนี้:
+modal-exposure-indicator-title = สถานะการเปิดเผย
+modal-exposure-indicator-action-needed = คุณต้องดำเนินการแบบขั้นสูงหรือด้วยตนเองเพื่อเสร็จสิ้นการกระทำ
+modal-exposure-indicator-fixed = การเปิดเผยได้รับการแก้ไขแล้วและคุณไม่จำเป็นต้องดำเนินการใด
