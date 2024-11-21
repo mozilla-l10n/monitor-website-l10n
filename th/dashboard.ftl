@@ -33,6 +33,13 @@ progress-card-manually-fixed-headline = แก้ไขด้วยตนเอ�
 dashboard-tab-label-action-needed = ต้องดำเนินการบางอย่าง
 dashboard-tab-label-fixed = แก้ไขแล้ว
 dashboard-exposures-all-fixed-label = แก้ไขหมดเรียบร้อยแล้ว!
+dashboard-fixed-area-headline-all = ดูการเปิดเผยทั้งหมดที่ได้รับการแก้ไขแล้ว
+# This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
+dashboard-exposures-filter = ตัวกรอง
+dashboard-exposures-filter-company = บริษัท
+dashboard-exposures-filter-date-found = วันที่พบ
+dashboard-exposures-filter-date-found-last-seven-days = 7 วันที่ผ่านมา
+dashboard-exposures-filter-date-found-last-thirty-days = 30 วันที่ผ่านมา
 dashboard-exposures-filter-date-found-last-year = เมื่อปีที่แล้ว
 dashboard-exposures-filter-status = สถานะ
 popover-open-filter-settings-alt = เลือกตัวกรอง
