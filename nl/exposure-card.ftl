@@ -31,7 +31,7 @@ exposure-card-your-exposed-info = Uw gelekte gegevens:
 exposure-card-found-the-following-data = { -brand-monitor } heeft de volgende gelekte gegevens gevonden:
 exposure-card-exposure-type-data-broker = Info te koop
 exposure-card-exposure-type-data-breach = Datalek
-exposure-card-resolve-exposures-cta = Blootstellingen oplossen
+exposure-card-resolve-exposures-cta = Datalekken oplossen
 exposure-card-label-company-logo = Bedrijfslogo
 exposure-card-label-company = Bedrijf
 # Status of the exposure card, could be In Progress, Fixed or Action Needed
@@ -40,4 +40,4 @@ exposure-card-label-status = Status
 # $category_label is the data breach exposure type that was leaked. Eg. Email, IP Address.
 # $count is the number of times that the data type was leaked.
 exposure-card-label-and-count = { $category_label }: { $count }
-exposure-card-manual-resolution-praise = <b>Goed werk!</b> U hebt dit probleem verholpen.
+exposure-card-manual-resolution-praise = <b>Goed werk!</b> U hebt dit datalek verholpen.
