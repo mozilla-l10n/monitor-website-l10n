@@ -40,4 +40,4 @@ exposure-card-label-status = Stato
 # $category_label is the data breach exposure type that was leaked. Eg. Email, IP Address.
 # $count is the number of times that the data type was leaked.
 exposure-card-label-and-count = { $category_label }: { $count }
-exposure-card-manual-resolution-praise = <b>Ottimo lavoro!</b> Hai risolto questo problema.
+exposure-card-manual-resolution-praise = <b>Ottimo lavoro!</b> Hai risolto questa esposizione.
