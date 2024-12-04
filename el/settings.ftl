@@ -69,5 +69,5 @@ settings-tab-label-notifications = Ορισμός ειδοποιήσεων
 settings-tab-label-manage-account = Διαχείριση λογαριασμού
 settings-tab-subtitle-manage-account = Διαχειριστείτε τον λογαριασμό { -product-name } σας.
 settings-tab-notifications-marketing-title = Επικοινωνία μάρκετινγκ
-settings-tab-notifications-marketing-text = Περιοδικές ενημερώσεις σχετικά με τα { -brand-monitor }, { -brand-mozilla } και τα άλλα προϊόντα ασφαλείας μας.
+settings-tab-notifications-marketing-text = Περιοδικές ενημερώσεις σχετικά με το { -brand-monitor }, τη { -brand-mozilla } και τα άλλα προϊόντα ασφαλείας μας.
 settings-tab-notifications-marketing-link-label = Μεταβείτε στις ρυθμίσεις email της { -brand-mozilla }
