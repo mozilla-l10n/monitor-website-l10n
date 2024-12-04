@@ -69,5 +69,5 @@ settings-tab-label-notifications = Configurer les notifications
 settings-tab-label-manage-account = Gérer le compte
 settings-tab-subtitle-manage-account = Gérez votre compte { -product-name }.
 settings-tab-notifications-marketing-title = Communications marketing
-settings-tab-notifications-marketing-text = Des mises à jour régulières sur { -brand-monitor }, { -brand-mozilla } et nos autres logiciels de sécurité.
-settings-tab-notifications-marketing-link-label = Afficher les paramètres de messagerie de { -brand-mozilla }
+settings-tab-notifications-marketing-text = Des informations régulières sur { -brand-monitor }, { -brand-mozilla } et nos autres logiciels de sécurité.
+settings-tab-notifications-marketing-link-label = Afficher les paramètres de communication de { -brand-mozilla }
