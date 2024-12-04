@@ -65,7 +65,7 @@ settings-alert-preferences-allow-monthly-monitor-report-subtitle = Havi hírlev�
 ## Settings page redesign
 
 settings-tab-label-edit-info = Szerkessze az adatait
-settings-tab-label-notifications = Értesítések beállítása elemre
+settings-tab-label-notifications = Értesítések beállítása
 settings-tab-label-manage-account = Fiók kezelése
 settings-tab-subtitle-manage-account = A { -product-name }-fiókja kezelése.
 settings-tab-notifications-marketing-title = Marketing kommunikáció
