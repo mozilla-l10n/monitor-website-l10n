@@ -60,6 +60,6 @@ settings-tab-label-edit-info = 編輯您的資訊
 settings-tab-label-notifications = 設定通知
 settings-tab-label-manage-account = 管理帳號
 settings-tab-subtitle-manage-account = 管理您的 { -product-name } 帳號。
-settings-tab-notifications-marketing-title = 行銷傳訊
+settings-tab-notifications-marketing-title = 行銷訊息
 settings-tab-notifications-marketing-text = { -brand-monitor }、{ -brand-mozilla } 以及我們其他安全性產品的定期更新資訊。
 settings-tab-notifications-marketing-link-label = 前往 { -brand-mozilla } 電子郵件設定
