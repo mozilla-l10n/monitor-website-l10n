@@ -64,4 +64,5 @@ settings-alert-preferences-allow-monthly-monitor-report-subtitle = Yeni riskler,
 
 ## Settings page redesign
 
+settings-tab-label-notifications = Bildirimleri ayarla
 settings-tab-notifications-marketing-title = Pazarlama iletişimi
