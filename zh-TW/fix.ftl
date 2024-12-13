@@ -7,7 +7,7 @@ fix-flow-nav-leaked-passwords = 洩漏的密碼
 fix-flow-nav-security-recommendations = 安全性建議
 guided-resolution-flow-exit = 回到儀錶板
 guided-resolution-flow-next-arrow = 前往下一步
-guided-resolution-flow-next-arrow-sub-step = 跳到下一個結果
+guided-resolution-flow-next-arrow-sub-step = 跳到下一筆結果
 guided-resolution-flow-step-navigation-label = 步驟指南
 
 # Celebration screens
