@@ -31,6 +31,7 @@ exposure-card-your-exposed-info = Ваша розкрита інформація
 exposure-card-found-the-following-data = { -brand-monitor } знайшов такі розкриті дані:
 exposure-card-exposure-type-data-broker = Продаж інформації
 exposure-card-exposure-type-data-breach = Витік даних
+exposure-card-resolve-exposures-cta = Усунути витоки даних
 exposure-card-label-company-logo = Логотип компанії
 exposure-card-label-company = Компанія
 # Status of the exposure card, could be In Progress, Fixed or Action Needed
