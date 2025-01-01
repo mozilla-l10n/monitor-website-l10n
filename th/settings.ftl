@@ -43,3 +43,7 @@ settings-email-number-of-breaches-info = ปรากฏในการละเ
 
 ## Settings page redesign
 
+settings-tab-label-edit-info = แก้ไขข้อมูลของคุณ
+settings-tab-label-notifications = ตั้งค่าการแจ้งเตือน
+settings-tab-label-manage-account = จัดการบัญชี
+settings-tab-notifications-marketing-title = การสื่อสารทางการตลาด

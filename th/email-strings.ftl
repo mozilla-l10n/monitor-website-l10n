@@ -5,9 +5,13 @@
 
 ## Email headers
 
+email-header-logo-alt = { -brand-mozilla-monitor }
+email-header-button-sign-in = เข้าสู่ระบบ
 
 ## Email footers
 
+email-footer-support-heading = มีคำถามเกี่ยวกับ { -brand-mozilla-monitor }
+email-footer-meta-privacy-notice = ความเป็นส่วนตัว
 # Firefox Relay is a product name and should not be translated.
 -product-name-relay = Firefox Relay
 # Mozilla VPN is a product name and should not be translated.

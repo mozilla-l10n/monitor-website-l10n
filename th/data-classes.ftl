@@ -2,12 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-## Breach Data Classes
+
+# Breach Data Classes
 
 account-balances = ยอดคงเหลือในบัญชี
 address-book-contacts = ผู้ติดต่อของสมุดรายชื่อ
 age-groups = กลุ่มอายุ
 ages = อายุ
+# Refers to medical appointments.
+appointments = การนัดหมาย
 apps-installed-on-devices = แอปที่ติดตั้งในอุปกรณ์
 astrological-signs = สัญลักษณ์ทางโหราศาสตร์
 audio-recordings = การอัดเสียง
@@ -16,7 +19,7 @@ avatars = อวตาร
 bank-account-numbers = หมายเลขบัญชีธนาคาร
 beauty-ratings = การจัดอันดับความงาม
 biometric-data = ข้อมูลชีวมาตร
-# This string is the shortened version of "Biographies", and 
+# This string is the shortened version of "Biographies", and
 # refers to biographical data about a user.
 bios = ชีวประวัติ
 browser-user-agent-details = รายละเอียดตัวแทนผู้ใช้เบราว์เซอร์
@@ -27,6 +30,8 @@ career-levels = ระดับอาชีพ
 cellular-network-names = ชื่อเครือข่ายเซลลูลาร์
 charitable-donations = การบริจาคเพื่อการกุศล
 chat-logs = บันทึกการแชท
+citizenship-statuses = สถานะการเป็นพลเมือง
+clothing-sizes = ขนาดเสื้อผ้า
 credit-card-cvv = CVV บัตรเครดิต
 credit-cards = บัตรเครดิต
 credit-status-information = ข้อมูลสถานะเครดิต
@@ -38,6 +43,7 @@ deceased-statuses = สถานะการเสียชีวิต
 device-information = ข้อมูลอุปกรณ์
 device-usage-tracking-data = ข้อมูลการติดตามการใช้อุปกรณ์
 drinking-habits = นิสัยการดื่ม
+driver-s-licenses = ใบอนุญาตขับขี่
 drug-habits = นิสัยการเสพยา
 eating-habits = นิสัยการกิน
 education-levels = ระดับการศึกษา
@@ -66,18 +72,29 @@ imsi-numbers = หมายเลข IMSI
 income-levels = ระดับรายได้
 instant-messenger-identities = ข้อมูลประจำตัวโปรแกรมส่งข้อความแบบทันที
 ip-addresses = ที่อยู่ IP
+job-applications = การสมัครงาน
 job-titles = ตำแหน่งงาน
+# This string refers to vehicle license plates.
+licence-plates = ป้ายทะเบียนรถ
+# This string refers to financial loans.
+loan-information = ข้อมูลการกู้ยืม
+login-histories = ประวัติการเข้าสู่ระบบ
 mac-addresses = ที่อยู่ MAC
 marital-statuses = สถานะการสมรส
+mothers-maiden-names = นามสกุลเดิมของแม่
 names = ชื่อ
 nationalities = สัญชาติ
 net-worths = รายได้สุทธิ
 nicknames = ชื่อเล่น
 occupations = อาชีพ
+# various data classes grouped together
+other-data-class = อื่นๆ
 parenting-plans = แผนการเลี้ยงดูบุตร
 partial-credit-card-data = ข้อมูลบัตรเครดิตบางส่วน
+partial-phone-numbers = หมายเลขโทรศัพท์บางส่วน
 passport-numbers = หมายเลขหนังสือเดินทาง
 password-hints = คำใบ้รหัสผ่าน
+password-strengths = ความแข็งแกร่งของรหัสผ่าน
 passwords = รหัสผ่าน
 payment-histories = ประวัติการชำระเงิน
 payment-methods = วิธีการชำระเงิน
@@ -89,6 +106,7 @@ photos = รูปภาพ
 physical-addresses = ที่อยู่จริง
 physical-attributes = คุณสมบัติทางกายภาพ
 pins = PIN
+places-of-birth = สถานที่เกิด
 political-donations = การบริจาคทางการเมือง
 political-views = มุมมองทางการเมือง
 private-messages = ข้อความส่วนตัว
@@ -109,6 +127,7 @@ social-connections = การเชื่อมต่อสังคม
 social-media-profiles = โปรไฟล์สื่อสังคม
 social-security-numbers = หมายเลขประกันสังคม
 spoken-languages = ภาษาที่พูด
+spouses-names = ชื่อคู่สมรส
 survey-results = ผลแบบสำรวจ
 taxation-records = บันทึกภาษี
 time-zones = เขตเวลา
