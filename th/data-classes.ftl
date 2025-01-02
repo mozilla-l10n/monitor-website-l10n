@@ -35,12 +35,17 @@ clothing-sizes = ขนาดเสื้อผ้า
 credit-card-cvv = CVV บัตรเครดิต
 credit-cards = บัตรเครดิต
 credit-status-information = ข้อมูลสถานะเครดิต
+cryptocurrency-wallet-hashes = แฮชกระเป๋าเงินสกุลเงินดิจิทัล
 customer-feedback = ความคิดเห็นของลูกค้า
 customer-interactions = ปฏิสัมพันธ์ของลูกค้า
 dates-of-birth = วันเดือนปีเกิด
 deceased-date = วันที่เสียชีวิต
 deceased-statuses = สถานะการเสียชีวิต
+# Instructions that you can set up in online shopping services to get your orders
+# delivered (e.g. deliver to a specific neighbor, entrance location, etc.).
+delivery-instructions = คำแนะนำการจัดส่ง
 device-information = ข้อมูลอุปกรณ์
+device-serial-numbers = หมายเลขซีเรียลของอุปกรณ์
 device-usage-tracking-data = ข้อมูลการติดตามการใช้อุปกรณ์
 drinking-habits = นิสัยการดื่ม
 driver-s-licenses = ใบอนุญาตขับขี่
@@ -59,11 +64,13 @@ family-structure = โครงสร้างครอบครัว
 financial-investments = การลงทุนทางการเงิน
 financial-transactions = ธุรกรรมทางการเงิน
 fitness-levels = ระดับความแข็งแรงของสุขภาพ
+flights-taken = เที่ยวบินที่โดยสาร
 genders = เพศ
 geographic-locations = ตำแหน่งที่ตั้งทางภูมิศาสตร์
 government-issued-ids = บัตรประชาชนที่ออกให้โดยรัฐบาล
 health-insurance-information = ข้อมูลประกันสุขภาพ
 historical-passwords = รหัสผ่านที่เคยใช้ก่อนหน้านี้
+hiv-statuses = สถานะการติดเชื้อ HIV
 home-loan-information = ข้อมูลสินเชื่อบ้าน
 home-ownership-statuses = สถานะความเป็นเจ้าของบ้าน
 homepage-urls = URL หน้าแรก
@@ -76,21 +83,28 @@ job-applications = การสมัครงาน
 job-titles = ตำแหน่งงาน
 # This string refers to vehicle license plates.
 licence-plates = ป้ายทะเบียนรถ
+living-costs = ค่าครองชีพ
 # This string refers to financial loans.
 loan-information = ข้อมูลการกู้ยืม
 login-histories = ประวัติการเข้าสู่ระบบ
+loyalty-program-details = รายละเอียดโปรแกรมความภักดี
 mac-addresses = ที่อยู่ MAC
 marital-statuses = สถานะการสมรส
+# Mnemonic phrases are a group of words used to access the content of cryptocurrency wallets.
+mnemonic-phrases = วลีช่วยจำ
 mothers-maiden-names = นามสกุลเดิมของแม่
 names = ชื่อ
 nationalities = สัญชาติ
 net-worths = รายได้สุทธิ
 nicknames = ชื่อเล่น
+# no data classes found
+none-data-class = ไม่มี
 occupations = อาชีพ
 # various data classes grouped together
 other-data-class = อื่นๆ
 parenting-plans = แผนการเลี้ยงดูบุตร
 partial-credit-card-data = ข้อมูลบัตรเครดิตบางส่วน
+partial-dates-of-birth = วันเกิดบางส่วน
 partial-phone-numbers = หมายเลขโทรศัพท์บางส่วน
 passport-numbers = หมายเลขหนังสือเดินทาง
 password-hints = คำใบ้รหัสผ่าน
@@ -118,9 +132,12 @@ races = กลุ่มชน
 recovery-email-addresses = ที่อยู่อีเมลการกู้คืน
 relationship-statuses = สถานะความสัมพันธ์
 religions = ศาสนา
+reward-program-balances = ยอดคงเหลือจากโปรแกรมรางวัล
 salutations = การทักทาย
 school-grades-class-levels = ระดับชั้นในโรงเรียน
 security-questions-and-answers = คำถามและคำตอบความปลอดภัย
+sexual-fetishes = สิ่งเฉพาะที่กระตุ้นอารมณ์เพศ
+sexual-orientations = รสนิยมทางเพศ
 smoking-habits = นิสัยการสูบบุหรี่
 sms-messages = ข้อความ SMS
 social-connections = การเชื่อมต่อสังคม

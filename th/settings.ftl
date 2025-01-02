@@ -35,7 +35,7 @@ settings-remove-email-button-tooltip = หยุดตรวจสอบ { $emai
 # how many known breaches that email address was found in.
 # Variables:
 #   $breachCount (number) - Number of breaches
-settings-email-number-of-breaches-info = ปรากฏในการละเมิดที่ทราบ { $breachCount } แห่ง
+settings-email-number-of-breaches-info = ปรากฏในการละเมิดที่ทราบ { $breachCount } ครั้ง
 
 ## Delete Monitor account
 
