@@ -221,4 +221,7 @@ breach-detail-cta-signup = Consulta las filtraciones
 
 ## Firefox Monitor -> Mozilla Monitor rebrand banner
 
+banner-monitor-rebrand-text = <b>{ -brand-mozilla-monitor }</b>: nuevo nombre, apariencia e incluso más formas de <b>recuperar tu privacidad</b>.
+banner-monitor-rebrand-dismiss-button-label = Aceptar
+banner-monitor-rebrand-dismiss-button-tooltip = Descartar
 loading-accessibility = Cargando
