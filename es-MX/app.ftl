@@ -31,16 +31,14 @@
 
 ##
 
-error-could-not-add-email = No se pudo agregar la dirección de correo electrónico a la base de datos.
 error-not-subscribed = Esta dirección de correo electrónico no está suscrita a { -product-name }.
 error-hibp-throttled = Demasiadas conexiones para { -brand-HIBP }.
 error-hibp-connect = Error conectándose a { -brand-HIBP }.
 user-add-invalid-email = Correo electrónico inválido
 user-add-too-many-emails = Estás monitoreando el número máximo de direcciones de correo.
 user-add-duplicate-email = Este correo ya se ha añadido a { -product-name }.
+user-add-verification-email-just-sent = No se puede enviar otro correo electrónico de verificación tan rápido. Por favor, inténtalo de nuevo más tarde.
 user-verify-token-error = Se requiere el token de verificación.
-user-unsubscribe-token-error = Eliminar suscripción quiere un token.
-user-unsubscribe-token-email-error = Eliminar suscripción requiere un token y con correo electrónico.
 # compromised-data = the kind of user data exposed to hackers in data breach.
 compromised-data = Datos comprometidos:
 # Breach data provided by Have I Been Pwned.
@@ -51,8 +49,6 @@ show-all = Mostrar todo
 sign-out = Salir de la sesión
 # Manage Firefox Account, link to page where account holders can change their account settings.
 manage-fxa = Administrar { -brand-fxa }
-# Link title
-frequently-asked-questions = Preguntas frecuentemente hechas
 # Link title
 preferences = Preferencias
 # Link title
@@ -171,7 +167,6 @@ user-menu-settings-label = Ajustes
 
 mozilla = { -brand-mozilla }
 github = { -brand-github }
-footer-nav-all-breaches = Todas las filtraciones
 
 ## Error page
 
@@ -186,7 +181,6 @@ error-page-error-other-title = { $errorCode } Algo salió mal
 
 ## Breach overview page
 
-all-breaches-headline-2 = Todas las filtraciones detectadas por { -brand-fx-monitor }
 search-breaches = Buscar filtraciones
 # the kind of user data exposed to hackers in data breach.
 exposed-data = Datos expuestos:
