@@ -74,3 +74,13 @@ email-spotted-new-breach = Hemos detectado una nueva filtración de datos
 
 ## Redesigned breach alert email
 
+email-breach-alert-all-subject = Nueva filtración de datos detectada
+email-breach-alert-all-preview = Te guiaremos paso a paso para resolverlo.
+email-breach-alert-all-hero-heading = Tus datos han sido filtrados recientemente
+email-breach-alert-all-hero-subheading = No te preocupes, podemos ayudarte con esta filtración
+email-breach-alert-all-lead = { -brand-mozilla-monitor } descubrió la siguiente filtración de datos que incluye tu información personal:
+email-breach-alert-all-source-title = Fuente de la filtración:
+email-breach-alert-all-data-points-title = Datos expuestos:
+email-breach-alert-all-next-steps-lead = Te guiaremos paso a paso sobre cómo resolver esta filtración de datos.
+email-breach-alert-all-next-steps-cta-label = Comencemos
+email-breach-alert-all-next-steps-button-dashboard = Ir al panel de control
