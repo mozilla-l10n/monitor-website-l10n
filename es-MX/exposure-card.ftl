@@ -19,6 +19,10 @@ exposure-card-email = Correo electrónico
 exposure-card-phone-number = Número de teléfono
 exposure-card-address = Dirección
 exposure-card-credit-card = Tarjeta de crédito
+exposure-card-password = Contraseña
+exposure-card-ip-address = Dirección IP
+exposure-card-other = Otros
+exposure-card-label-company = Empresa
 # Status of the exposure card, could be In Progress, Fixed or Action Needed
 exposure-card-label-status = Estado
 # Variables:

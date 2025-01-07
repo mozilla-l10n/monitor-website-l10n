@@ -9,16 +9,22 @@ exposure-chart-legend-heading-nr = Número
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
+modal-cta-ok = Aceptar
+modal-cta-got-it = Entendido
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Filtro
 dashboard-exposures-filter-company = Compañía
 dashboard-exposures-filter-date-found-last-seven-days = Últimos 7 días
 dashboard-exposures-filter-date-found-last-thirty-days = Últimos 30 días
+dashboard-exposures-filter-date-found-last-year = El año pasado
 dashboard-exposures-filter-status = Estado
 popover-open-filter-settings-alt = Seleccionar filtros
+dashboard-exposures-filter-show-all = Mostrar todo
+dashboard-exposures-filter-show-results = Mostrar resultados
 
 ## Top banner on the dashboard
 
+dashboard-top-banner-your-data-is-protected-title = Tus datos están protegidos
 dashboard-top-banner-lets-keep-protecting-title = Sigamos protegiendo tus datos
 # Variables:
 # $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
