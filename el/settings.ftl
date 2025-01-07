@@ -12,8 +12,8 @@ settings-page-title = Ρυθμίσεις { -product-short-name }
 settings-alert-email-preferences-title = Προτιμήσεις email
 settings-alert-email-preferences-subtitle = Πείτε μας ποια email θέλετε να λαμβάνετε.
 settings-alert-preferences-allow-breach-alerts-title = Άμεσες ειδοποιήσεις παραβιάσεων
-settings-alert-preferences-allow-breach-alerts-subtitle = Αυτές οι ειδοποιήσεις αποστέλλονται αμέσως μόλις ανιχνευθεί παραβίαση δεδομένων
-settings-alert-preferences-option-one = Αποστολή ειδοποιήσεων παραβίασης στην επηρεασμένη διεύθυνση email
+settings-alert-preferences-allow-breach-alerts-subtitle = Αποστέλλονται αμέσως μόλις ανιχνευθεί παραβίαση δεδομένων
+settings-alert-preferences-option-one = Αποστολή ειδοποιήσεων παραβιάσεων στην επηρεασμένη διεύθυνση email
 settings-alert-preferences-option-two = Αποστολή όλων των ειδοποιήσεων παραβιάσεων στην κύρια διεύθυνση email
 
 ## Monitored email addresses
