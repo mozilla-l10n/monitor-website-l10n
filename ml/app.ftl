@@ -14,6 +14,7 @@
 -brand-name = ഫയർഫോക്സ്
 -brand-HIBP = ഹാവ് ഐ ബീൻ പൗൺഡ്
 -brand-fxa = ഫയർഫോക്സ് അക്കൗണ്ട്
+-brand-pocket = Pocket
 
 ##
 
@@ -22,6 +23,8 @@ error-hibp-throttled = { -brand-HIBP } ലേക്ക് ഒരുപാട് 
 error-hibp-connect = { -brand-HIBP } നോട് ബന്ധപ്പെടുന്നതിന് പിഴവ് സംഭവിച്ചു.
 user-add-invalid-email = ഇമെയിൽ അസാധുവാണ്
 user-verify-token-error = വെരിഫിക്കേഷൻ ടോക്കൺ ആവശ്യമാണ്.
+# compromised-data = the kind of user data exposed to hackers in data breach.
+compromised-data = അപഹരിക്കപ്പെട്ട വിവരങ്ങള്‍:
 show-all = എല്ലാം കാണിക്കുക
 sign-out = പുറത്തിറങ്ങുക
 # Manage Firefox Account, link to page where account holders can change their account settings.
