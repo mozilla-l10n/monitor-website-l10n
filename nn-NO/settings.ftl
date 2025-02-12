@@ -65,3 +65,6 @@ settings-alert-preferences-allow-monthly-monitor-report-subtitle = Ei månadleg 
 ## Settings page redesign
 
 settings-tab-label-edit-info = Rediger opplysningane dine
+settings-tab-label-notifications = Still inn varsel
+settings-tab-subtitle-manage-account = Handsam { -product-name }-kontoen din.
+settings-tab-notifications-marketing-link-label = Gå til e-postinnstillingar for { -brand-mozilla }
