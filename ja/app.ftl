@@ -161,8 +161,6 @@ user-menu-signout-tooltip = { -brand-mozilla-monitor } からログアウトす�
 ## Footer
 
 mozilla = { -brand-mozilla }
-terms-of-service = 利用規約
-privacy-notice = プライバシー通知
 github = { -brand-github }
 footer-external-link-faq-label = FAQ
 footer-external-link-faq-tooltip = よくある質問
