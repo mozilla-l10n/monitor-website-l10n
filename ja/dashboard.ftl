@@ -40,10 +40,12 @@ dashboard-exposures-filter-reset = リセット
 dashboard-top-banner-your-data-is-protected-title = あなたのデータは保護されています
 dashboard-top-banner-your-data-is-protected-cta = 修復されたものを確認する
 dashboard-top-banner-no-exposures-found-title = 侵害は見つかりませんでした
+dashboard-top-banner-non-us-no-exposures-found-description = よいお知らせです！既知のデータ侵害をすべて検索しましたが、漏えいは確認できませんでした。あなたのメールアドレスを引き続き監視し、新たな侵害があればお知らせします。
 dashboard-no-exposures-label = 侵害は見つかりませんでした
 # Variables:
 # $exposures_resolved_num is the number of exposures the user has resolved.
 dashboard-top-banner-non-us-your-data-is-protected-description = 素晴らしい！{ $exposures_resolved_num } 件すべてのデータ漏えいが修復されました。引き続き監視し、新たな漏えいがあればお知らせします。
+dashboard-top-banner-monitor-more-cta = 監視するメールアドレスを追加
 
 # About Exposure Indicators Modal
 
