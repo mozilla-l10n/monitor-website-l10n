@@ -22,6 +22,7 @@ settings-email-list-title = 監視中のメールアドレス
 # Variables:
 #   $limit (number) - Number of email addresses included in the plan
 settings-email-limit-info = 最大 { $limit } 件のメールを監視できます。
+settings-remove-email-button-label = 削除
 
 ## Delete Monitor account
 
