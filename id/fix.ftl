@@ -92,7 +92,7 @@ high-risk-breach-social-security-step-two = <link_to_info>Periksa laporan kredit
 # Social Security Number Modal
 
 ssn-modal-title = Tentang peringatan penipuan dan pembekuan kredit
-ssn-modal-description-fraud-part-one = <b>Peringatan penipuan</b> mengharuskan bisnis untuk memverifikasi identitas Anda sebelum mengeluarkan kredit baru atas nama Anda. Gratis, bertahan satu tahun, dan tidak akan berdampak negatif pada nilai kredit Anda.
+ssn-modal-description-fraud-part-one = <b>Peringatan penipuan</b> mengharuskan bisnis untuk memverifikasi identitas Anda sebelum mengeluarkan kredit baru atas nama Anda. Gratis, berlaku satu tahun, dan tidak akan berdampak negatif pada nilai kredit Anda.
 ssn-modal-description-fraud-part-two = Untuk menyiapkannya, hubungi salah satu dari tiga biro kredit. Anda tidak perlu menghubungi ketiganya.
 ssn-modal-description-freeze-credit-part-one = <b>Membekukan kredit Anda</b> mencegah siapa pun membuka akun baru atas nama Anda. Ini gratis dan tidak akan berdampak negatif pada skor kredit Anda, tetapi Anda harus mencairkannya sebelum membuka akun baru.
 ssn-modal-description-freeze-credit-part-two = Untuk membekukan kredit Anda, hubungi masing-masing dari tiga biro kredit — <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link>, dan <transunion_link>TransUnion</transunion_link>.
@@ -101,9 +101,9 @@ ssn-modal-ok = Oke
 
 # PIN Breaches
 
-high-risk-breach-pin-title = PIN Anda terekspos
+high-risk-breach-pin-title = PIN Anda terungkap
 high-risk-breach-pin-description = Mengambil tindakan sesegera mungkin dapat memberi Anda lebih banyak perlindungan hukum untuk membantu Anda memulihkan kerugian apa pun.
-high-risk-breach-pin-step-one = Segera beri tahu bank Anda bahwa PIN Anda telah dibobol.
+high-risk-breach-pin-step-one = Segera beri tahu bank Anda bahwa PIN Anda telah terkompromi.
 high-risk-breach-pin-step-two = Ubah PIN Anda di mana pun Anda menggunakan PIN yang sama.
 high-risk-breach-pin-step-three = Periksa akun Anda untuk tagihan yang tidak sah.
 
