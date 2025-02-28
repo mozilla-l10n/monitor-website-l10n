@@ -57,8 +57,7 @@ high-risk-breach-summary =
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
 high-risk-breach-name-and-date = { $breach_name } <breach_date>pada { $breach_date }</breach_date>
-high-risk-breach-mark-as-fixed = Tandai sebagai diperbaiki
-high-risk-breach-skip = Lewatkan untuk sekarang
+high-risk-breach-skip = Lewatkan sekarang
 # Variables:
 # $estimated_time is the estimated time it would take for a user to complete breach resolution steps. It not be singular, and the + is meant as "or more".
 # An example of this string is Your estimated time: 15+ minutes.
@@ -77,9 +76,9 @@ high-risk-breach-credit-card-step-three = Periksa akun Anda untuk tagihan yang t
 
 # Bank Account Breaches
 
-high-risk-breach-bank-account-title = Rekening bank Anda terekspos
+high-risk-breach-bank-account-title = Rekening bank Anda terungkap
 high-risk-breach-bank-account-description = Mengambil tindakan sesegera mungkin dapat memberi Anda lebih banyak perlindungan hukum untuk membantu Anda memulihkan kerugian apa pun.
-high-risk-breach-bank-account-step-one = Segera beri tahu bank Anda bahwa nomor rekening Anda telah disusupi.
+high-risk-breach-bank-account-step-one = Segera beri tahu bank Anda bahwa nomor rekening Anda telah terkompromi.
 high-risk-breach-bank-account-step-two = Ubah nomor akun Anda.
 high-risk-breach-bank-account-step-three = Periksa akun Anda untuk tagihan yang tidak sah.
 
