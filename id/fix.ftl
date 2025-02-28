@@ -24,8 +24,8 @@ fix-flow-celebration-next-dashboard-label = Buka Dasbor Anda
 fix-flow-celebration-high-risk-title = Anda telah memperbaiki eksposur risiko tinggi Anda!
 fix-flow-celebration-high-risk-description-in-progress = Melakukan pekerjaan ini bisa terasa sangat melelahkan, tetapi penting untuk dilakukan agar Anda tetap aman. Teruskan bekerja dengan baik.
 fix-flow-celebration-high-risk-description-done = Melakukan pekerjaan ini bisa terasa sangat melelahkan, tetapi penting untuk dilakukan agar Anda tetap aman.
-fix-flow-celebration-high-risk-description-next-passwords = Sekarang mari perbaiki kata sandi Anda yang terbuka.
-fix-flow-celebration-high-risk-description-next-security-questions = Sekarang mari kita perbaiki pertanyaan keamanan Anda yang terbuka.
+fix-flow-celebration-high-risk-description-next-passwords = Sekarang mari perbaiki kata sandi Anda yang terpapar.
+fix-flow-celebration-high-risk-description-next-security-questions = Sekarang mari kita perbaiki pertanyaan keamanan Anda yang terpapar.
 fix-flow-celebration-high-risk-description-next-security-recommendations = Selanjutnya, kami akan memberi Anda rekomendasi keamanan yang dipersonalisasi berdasarkan data Anda yang telah diekspos.
 fix-flow-celebration-high-risk-description-next-dashboard = Anda telah mencapai akhir langkah Anda. Anda dapat melihat item tindakan apa pun dan melacak kemajuan Anda di dasbor Anda.
 
