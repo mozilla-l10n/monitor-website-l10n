@@ -7,7 +7,7 @@
 
 # Variables:
 #   $nr (number) - Number of fixed exposures found for the user
-exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>Tetap</label>
+exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>Diperbaiki</label>
 exposure-chart-legend-heading-type = Eksposur
 exposure-chart-legend-heading-nr = Angka
 # Variables:
@@ -67,14 +67,14 @@ dashboard-exposures-filter-date-found-last-thirty-days = 30 hari terakhir
 dashboard-exposures-filter-date-found-last-year = Tahun lalu
 dashboard-exposures-filter-status = Status
 popover-open-filter-settings-alt = Pilih filter
-dashboard-exposures-filter-show-all = Tampilkan Semua
+dashboard-exposures-filter-show-all = Tampilkan semua
 dashboard-exposures-filter-show-results = Tampilkan hasil
 dashboard-exposures-filter-reset = Setel Ulang
 
 ## Top banner on the dashboard
 
 dashboard-top-banner-section-label = Ringkasan dasbor
-dashboard-top-banner-scan-in-progress-title = Pemindaian Anda masih dalam proses
+dashboard-top-banner-scan-in-progress-title = Pemindaian Anda masih berlangsung
 dashboard-top-banner-your-data-is-protected-title = Data Anda terlindungi
 dashboard-top-banner-your-data-is-protected-cta = Lihat apa yang diperbaiki
 dashboard-top-banner-lets-keep-protecting-title = Mari terus melindungi data Anda
