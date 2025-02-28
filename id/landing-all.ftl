@@ -5,10 +5,10 @@
 public-nav-name = { -brand-mozilla-monitor }
 landing-all-hero-title = Temukan di mana info pribadi Anda terbuka — dan ambil kembali
 landing-all-hero-lead = Kami memindai kebocoran data untuk melihat apakah data Anda telah bocor dan memberi Anda langkah-langkah untuk memperbaikinya.
-landing-all-hero-emailform-input-placeholder = namaanda@example.com
-landing-all-hero-emailform-input-label = Masukkan alamat surel Anda untuk memeriksa eksposur pelanggaran data.
+landing-all-hero-emailform-input-placeholder = namaanda@contoh.com
+landing-all-hero-emailform-input-label = Masukkan alamat surel Anda untuk memeriksa terpaparnya data bocor.
 landing-all-hero-emailform-submit-label = Dapatkan pemindaian gratis
-landing-all-hero-emailform-submit-sign-up-label = Daftar untuk mendapatkan pemindaian gratis
+landing-all-hero-emailform-submit-sign-up-label = Mendaftarlah untuk mendapatkan pemindaian gratis
 # This is a label underneath a big number "14" - it's an image that demos Monitor.
 landing-all-hero-image-chart-label = eksposur
 
