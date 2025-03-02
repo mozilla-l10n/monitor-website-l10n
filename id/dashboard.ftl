@@ -26,12 +26,12 @@ modal-active-number-of-exposures-title = Tentang jumlah eksposur aktif Anda
 #   $limit (number) - Number of email addresses included in the plan
 modal-active-number-of-exposures-part-one-all =
     { $limit ->
-       *[other] Bagan ini mencakup berapa kali kami menemukan setiap jenis data yang terekspos di semua kebocoran data hingga { $limit } alamat surel yang sedang Anda pantau.
+       *[other] Bagan ini mencakup berapa kali kami menemukan setiap jenis data yang terpapar di semua kebocoran data hingga { $limit } alamat surel yang sedang Anda pantau.
     }
-modal-active-number-of-exposures-part-two = Misalnya, jika Anda memiliki 10 eksposur nomor telepon Anda, itu mungkin berarti satu nomor telepon terpapar di 10 situs berbeda, atau bisa berarti 2 nomor telepon berbeda terpapar di 5 situs berbeda.
-modal-active-number-of-exposures-part-three-all = Setelah mereka diselesaikan, mereka akan ditambahkan ke jumlah total eksposur tetap Anda pada halaman Tetap.
-modal-fixed-number-of-exposures-title = Tentang jumlah eksposur tetap Anda
-modal-fixed-number-of-exposures-all = Bagan ini mencakup jumlah kebocoran data yang telah diperbaiki untuk semua alamat surel yang sedang Anda pantau. Setelah eksposur ditandai sebagai tetap, mereka akan ditambahkan ke total di sini.
+modal-active-number-of-exposures-part-two = Misalnya, jika Anda memiliki 10 keterpaparan nomor telepon Anda, itu mungkin berarti satu nomor telepon terpapar di 10 situs berbeda, atau bisa berarti 2 nomor telepon berbeda terpapar di 5 situs berbeda.
+modal-active-number-of-exposures-part-three-all = Setelah mereka diselesaikan, mereka akan ditambahkan ke jumlah total keterpaparan tetap Anda pada halaman Diperbaiki.
+modal-fixed-number-of-exposures-title = Tentang jumlah keterpaparan Anda yang diperbaiki
+modal-fixed-number-of-exposures-all = Bagan ini mencakup jumlah kebocoran data yang telah diperbaiki untuk semua alamat surel yang sedang Anda pantau. Setelah keterpaparan ditandai sebagai diperbaiki, mereka akan ditambahkan ke total di sini.
 modal-cta-ok = Oke
 modal-cta-got-it = Paham
 open-modal-alt = Buka modal
@@ -48,7 +48,7 @@ dashboard-exposures-area-headline = Lihat semua situs tempat info Anda terekspos
 #   $exposures_unresolved_num (number) - the unresolved number of exposures the user has.
 dashboard-exposures-area-description-all-line1 =
     { $exposures_unresolved_num ->
-       *[other] Kami menemukan { $exposures_unresolved_num } eksposur data Anda.
+       *[other] Kami menemukan { $exposures_unresolved_num } keterpaparan data Anda.
     }
 # Note: this line follows dashboard-exposures-area-description-all-line1.
 # Variables:
