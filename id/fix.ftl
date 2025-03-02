@@ -180,15 +180,7 @@ leaked-passwords-steps-subtitle = Ini memerlukan akses ke akun Anda, jadi Anda h
 leaked-passwords-step-one = Ubah sandi Anda untuk <b>{ $emails_affected }</b> di <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
 leaked-passwords-step-two = Ubah di mana pun Anda pernah menggunakannya.
 leaked-passwords-mark-as-fixed = Tandai sebagai diperbaiki
-leaked-passwords-skip = Lewatkan untuk sekarang
-# Variables
-# $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
-# "Est." is shortform for "Estimated".
-# "mins" is shortform for "minutes".
-leaked-passwords-estimated-time =
-    { $estimated_time ->
-       *[other] Taks. waktu untuk menyelesaikan: { $estimated_time } menit per situs
-    }
+leaked-passwords-skip = Lewatkan sekarang
 
 # Leaked Security Questions
 
@@ -198,7 +190,6 @@ leaked-security-questions-title = Pertanyaan keamanan Anda terungkap
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
 leaked-security-questions-summary = Mereka muncul dalam pembobolan data pada { $breach_name } pada { $breach_date }.
-leaked-security-questions-description = Scammers dapat menggunakan ini untuk mengakses akun Anda, dan situs lain di mana Anda telah menggunakan pertanyaan keamanan yang sama. Perbarui sekarang untuk melindungi akun Anda.
 leaked-security-questions-steps-title = Inilah yang harus dilakukan
 leaked-security-questions-steps-subtitle = Ini memerlukan akses ke akun Anda, jadi Anda harus memperbaikinya secara manual.
 # Variables

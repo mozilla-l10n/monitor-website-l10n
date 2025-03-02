@@ -8,7 +8,7 @@ exposure-card-date-found = Tanggal pemaparan
 
 # Status Pill
 
-status-pill-action-needed = Tindakan diperlukan
+status-pill-action-needed = Diperlukan tindakan
 status-pill-progress = Dalam proses
 status-pill-fixed = Diperbaiki
 
