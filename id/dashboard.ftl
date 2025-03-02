@@ -57,7 +57,7 @@ dashboard-exposures-area-description-all-line2 =
     { $data_breach_unresolved_num ->
        *[other] Itu muncul di { $data_breach_unresolved_num } kebocoran data.
     }
-dashboard-fixed-area-headline-all = Lihat semua eksposur yang diperbaiki
+dashboard-fixed-area-headline-all = Lihat semua keterpaparan yang diperbaiki
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Filter
 dashboard-exposures-filter-company = Perusahaan
