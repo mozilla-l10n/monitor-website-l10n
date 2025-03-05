@@ -158,7 +158,7 @@ security-recommendation-ip-title = Gunakan VPN untuk privasi tambahan
 # $num_breaches is the number of breaches where the IP address was found.
 security-recommendation-ip-summary =
     { $num_breaches ->
-       *[other] Alamat IP Anda terekspos dalam { $num_breaches } kebocoran data:
+       *[other] Alamat IP Anda terpapar dalam { $num_breaches } kebocoran data:
     }
 security-recommendation-ip-description = Alamat IP Anda menunjukkan lokasi dan penyedia layanan internet Anda. Peretas dapat menggunakan informasi ini untuk menemukan lokasi Anda atau mencoba menyambung ke perangkat Anda.
 security-recommendation-ip-step-one = Gunakan VPN (seperti <link_to_info>{ -brand-mozilla-vpn }</link_to_info>) untuk menyembunyikan alamat IP asli Anda dan menggunakan internet secara pribadi.
