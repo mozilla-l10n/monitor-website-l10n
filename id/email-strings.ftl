@@ -74,4 +74,4 @@ email-breach-alert-all-source-title = Sumber pembobolan:
 email-breach-alert-all-data-points-title = Data Anda yang terpapar:
 email-breach-alert-all-next-steps-lead = Kami akan memandu Anda langkah demi langkah tentang cara mengatasi kebocoran data ini.
 email-breach-alert-all-next-steps-cta-label = Mari kita mulai
-email-breach-alert-all-next-steps-button-dashboard = Buka Dasbor
+email-breach-alert-all-next-steps-button-dashboard = Ke Dasbor

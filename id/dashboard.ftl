@@ -82,7 +82,7 @@ dashboard-top-banner-lets-keep-protecting-title = Mari terus melindungi data And
 # $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
 dashboard-top-banner-lets-keep-protecting-description =
     { $exposures_unresolved_num ->
-       *[other] Anda masih memiliki { $exposures_unresolved_num } eksposur yang tersisa untuk diperbaiki. Lanjutkan dan lindungi diri Anda. Kami akan memandu Anda langkah demi langkah.
+       *[other] Anda masih memiliki { $exposures_unresolved_num } keterpaparan yang tersisa untuk diperbaiki. Lanjutkan dan lindungi diri Anda. Kami akan memandu Anda langkah demi langkah.
     }
 dashboard-top-banner-lets-keep-protecting-cta = Ayo lanjutkan
 dashboard-top-banner-protect-your-data-title = Mari lindungi data Anda
@@ -101,20 +101,20 @@ dashboard-top-banner-non-us-protect-your-data-description-line2 =
     { $data_breach_unresolved_num ->
        *[other] Itu muncul di { $data_breach_unresolved_num } kebocoran data. Kami akan memandu Anda langkah demi langkah tentang cara memperbaikinya.
     }
-dashboard-top-banner-no-exposures-found-title = Tidak ada eksposur ditemukan
-dashboard-top-banner-non-us-no-exposures-found-description = Berita bagus! Kami mencari semua pembobolan data yang diketahui dan tidak menemukan eksposur. Kami akan terus memantau alamat surel Anda dan akan mengingatkan Anda jika terjadi pembobolan baru.
-dashboard-no-exposures-label = Tidak ada eksposur ditemukan
+dashboard-top-banner-no-exposures-found-title = Tidak ada keterpaparan ditemukan
+dashboard-top-banner-non-us-no-exposures-found-description = Berita bagus! Kami mencari semua kebocoran data yang diketahui dan tidak menemukan keterpaparan. Kami akan terus memantau alamat surel Anda dan akan mengingatkan Anda jika terjadi kebocoran baru.
+dashboard-no-exposures-label = Tidak ada keterpaparan ditemukan
 # Variables:
 # $exposures_resolved_num is the number of exposures the user has resolved.
 dashboard-top-banner-non-us-your-data-is-protected-description =
     { $exposures_resolved_num ->
-       *[other] Kerja bagus, semua { $exposures_resolved_num } eksposur data Anda telah diperbaiki! Kami akan terus memantau dan akan mengingatkan Anda tentang eksposur baru.
+       *[other] Kerja bagus, semua { $exposures_resolved_num } keterpaparn data Anda telah diperbaiki! Kami akan terus memantau dan akan mengingatkan Anda tentang keterpaparan baru.
     }
 dashboard-top-banner-monitor-more-cta = Pantau lebih banyak surel
 
 # About Exposure Indicators Modal
 
-modal-exposure-status-description-all = Kami mencari eksposur di semua pembobolan data yang diketahui. Eksposur Anda akan memiliki salah satu status berikut:
-modal-exposure-indicator-title = Status paparan
+modal-exposure-status-description-all = Kami mencari keterpaparan di semua kebocoran data yang diketahui. Keterpaparan Anda akan memiliki salah satu status berikut:
+modal-exposure-indicator-title = Status keterpaparan
 modal-exposure-indicator-action-needed = Tindakan lanjutan atau manual diperlukan oleh Anda untuk menyelesaikan suatu tindakan.
-modal-exposure-indicator-fixed = Eksposur telah teratasi dan tidak ada tindakan yang dapat Anda lakukan.
+modal-exposure-indicator-fixed = Keterpaparan telah teratasi dan tidak ada tindakan yang dapat Anda lakukan.

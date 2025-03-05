@@ -17,7 +17,7 @@ guided-resolution-flow-step-navigation-label = Langkah-langkah terpandu
 
 fix-flow-celebration-next-label = Ayo lanjutkan
 fix-flow-celebration-next-recommendations-label = Lihat rekomendasi
-fix-flow-celebration-next-dashboard-label = Buka Dasbor Anda
+fix-flow-celebration-next-dashboard-label = Ke Dasbor Anda
 
 ## High-risk flow
 
@@ -26,15 +26,15 @@ fix-flow-celebration-high-risk-description-in-progress = Melakukan pekerjaan ini
 fix-flow-celebration-high-risk-description-done = Melakukan pekerjaan ini bisa terasa sangat melelahkan, tetapi penting untuk dilakukan agar Anda tetap aman.
 fix-flow-celebration-high-risk-description-next-passwords = Sekarang mari perbaiki kata sandi Anda yang terpapar.
 fix-flow-celebration-high-risk-description-next-security-questions = Sekarang mari kita perbaiki pertanyaan keamanan Anda yang terpapar.
-fix-flow-celebration-high-risk-description-next-security-recommendations = Selanjutnya, kami akan memberi Anda rekomendasi keamanan yang dipersonalisasi berdasarkan data Anda yang telah diekspos.
+fix-flow-celebration-high-risk-description-next-security-recommendations = Selanjutnya, kami akan memberi Anda rekomendasi keamanan yang dipersonalisasi berdasarkan data Anda yang telah terpapar.
 fix-flow-celebration-high-risk-description-next-dashboard = Anda telah mencapai akhir langkah Anda. Anda dapat melihat item tindakan apa pun dan melacak kemajuan Anda di dasbor Anda.
 
 ## Leaked passwords and security questions flow
 
 fix-flow-celebration-leaked-passwords-title = Sandi Anda sekarang dilindungi!
 fix-flow-celebration-security-questions-title = Pertanyaan keamanan Anda dilindungi!
-fix-flow-celebration-leaked-passwords-description-next-security-questions = Sekarang mari kita tinjau dan perbarui pertanyaan keamanan Anda yang terbuka.
-fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Selanjutnya, kami akan memberi Anda rekomendasi keamanan yang dipersonalisasi berdasarkan data Anda yang telah diekspos.
+fix-flow-celebration-leaked-passwords-description-next-security-questions = Sekarang mari kita tinjau dan perbarui pertanyaan keamanan Anda yang terpapar.
+fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Selanjutnya, kami akan memberi Anda rekomendasi keamanan yang dipersonalisasi berdasarkan data Anda yang telah terpapar.
 fix-flow-celebration-leaked-passwords-description-next-dashboard = Bagus! Anda telah mencapai akhir langkah Anda. Anda dapat melihat item tindakan apa pun dan melacak kemajuan Anda di dasbor Anda.
 
 ## Security recommendations flow
@@ -132,7 +132,7 @@ security-recommendation-phone-title = Lindungi nomor telepon Anda
 # $num_breaches is the number of breaches where the phone number was found.
 security-recommendation-phone-summary =
     { $num_breaches ->
-       *[other] Nomor telepon Anda terekspos dalam { $num_breaches } pembobolan data:
+       *[other] Nomor telepon Anda terpapar dalam { $num_breaches } kebocoran data:
     }
 security-recommendation-phone-description = Sayangnya Anda tidak dapat mengambilnya kembali. Tetapi ada beberapa langkah yang dapat Anda ambil untuk memastikan Anda tetap aman.
 security-recommendation-phone-step-one = Blokir nomor spam untuk mencegah lebih banyak panggilan sampah
@@ -140,7 +140,7 @@ security-recommendation-phone-step-two = Jangan mengklik tautan dalam teks dari 
 
 # Email security recommendation
 
-security-recommendation-email-title = Lindungi alamat email Anda
+security-recommendation-email-title = Lindungi alamat surel Anda
 # $num_breaches is the number of breaches where the email address was found.
 security-recommendation-email-summary =
     { $num_breaches ->
