@@ -55,7 +55,7 @@ landing-all-social-proof-press = Tampil di
 # Here's How We Help
 
 landing-all-help-protect-you = Inilah cara kami membantu melindungi Anda
-landing-all-help-protect-you-description = Kami percaya pada hak privasi Anda, jadi perlindungan pemantauan kebocoran data selalu gratis.
+landing-all-help-protect-you-description = Kami percaya pada hak privasi Anda, jadi perlindungan pemantauan kebocoran data selalu bebas.
 landing-all-help-protect-you-feature-one = Kami akan mencari Anda di semua pembobolan data yang diketahui
 landing-all-help-protect-you-feature-two = Kami akan memandu Anda melalui langkah-langkah untuk menyelesaikan setiap pelanggaran
 landing-all-help-protect-you-feature-three = Kami akan terus memantau dan mengirimi Anda peringatan untuk setiap pelanggaran baru
