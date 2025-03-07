@@ -25,7 +25,7 @@ settings-email-list-title = Alamat surel yang dipantau
 #   $limit (number) - Number of email addresses included in the plan
 settings-email-limit-info =
     { $limit ->
-       *[other] Akun Anda mencakup pemantauan hingga { $limit } surel.
+       *[other] Akun Anda termasuk pemantauan hingga { $limit } surel.
     }
 settings-email-verification-callout = Verifikasi surel diperlukan
 settings-resend-email-verification-link = Kirim ulang surel verifikasi
