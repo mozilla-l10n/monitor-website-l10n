@@ -9,7 +9,7 @@ settings-page-title = Pengaturan { -product-short-name }
 
 ## Breach alert preferences
 
-settings-alert-email-preferences-title = Pengaturan email
+settings-alert-email-preferences-title = Preferensi surel
 settings-alert-email-preferences-subtitle = Beri tahu kami surel mana yang ingin Anda terima.
 settings-alert-preferences-allow-breach-alerts-title = Peringatan pembobolan instan
 settings-alert-preferences-allow-breach-alerts-subtitle = Peringatan ini dikirim segera setelah pembobolan data terdeteksi
