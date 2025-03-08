@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 public-nav-name = { -brand-mozilla-monitor }
-landing-all-hero-title = Temukan di mana info pribadi Anda terbuka — dan ambil kembali
+landing-all-hero-title = Temukan di mana info pribadi Anda terbuka — dan ambil alih kembali
 landing-all-hero-lead = Kami memindai kebocoran data untuk melihat apakah data Anda telah bocor dan memberi Anda langkah-langkah untuk memperbaikinya.
 landing-all-hero-emailform-input-placeholder = namaanda@contoh.com
 landing-all-hero-emailform-input-label = Masukkan alamat surel Anda untuk memeriksa terpaparnya data bocor.
@@ -25,7 +25,7 @@ landing-all-quote = <data_breaches>Kebocoran data</data_breaches> terjadi setiap
 
 # Non-US FAQ
 
-landing-all-faq-title = Tanya-Jawab
+landing-all-faq-title = Pertanyaan yang sering diajukan
 # FAQ is an acronym for Frequently Asked Questions
 landing-all-faq-see-all = Lihat semua Tanya Jawab
 landing-all-data-breach-definition-qn = Apa sebenarnya pembobolan data?

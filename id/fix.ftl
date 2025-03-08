@@ -171,7 +171,7 @@ leaked-passwords-title = Sandi { $breach_name } Anda terekspos
 # Variables
 # $breach_date is the date when the breach occurred.
 leaked-passwords-summary = Itu muncul dalam kebocoran data pada { $breach_date }.
-leaked-passwords-description = Penipu dapat mengakses akun Anda dan kemungkinan akan mencoba menggunakannya di akun lain untuk melihat apakah Anda menggunakan kata sandi yang sama. Ubah di mana pun Anda menggunakannya untuk melindungi diri sendiri.
+leaked-passwords-description = Penipu dapat mengakses akun Anda dan kemungkinan akan mencoba menggunakannya di akun lain untuk melihat apakah Anda menggunakan kata sandi yang sama. Ubah kata sandi tersebut di mana pun Anda menggunakannya untuk melindungi diri sendiri.
 leaked-passwords-steps-title = Inilah yang harus dilakukan
 leaked-passwords-steps-subtitle = Ini memerlukan akses ke akun Anda, jadi Anda harus memperbaikinya secara manual.
 # Variables
