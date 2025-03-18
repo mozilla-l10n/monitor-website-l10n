@@ -11,6 +11,7 @@ settings-page-title = { -product-short-name } ക്രമീകരണങ്ങ�
 
 settings-alert-email-preferences-title = ഇതപാൽ മുൻഗണനകൾ
 settings-alert-email-preferences-subtitle = താങ്ങൾക്കു് ഏതൊക്കെ ഇതപാലുകൾ വേണമെന്നു് ഞങ്ങളോടു് പറയുവിൻ
+settings-alert-preferences-allow-breach-alerts-title = ഉടൻ ഇ-കയ്യേറ്റ അറിയിപ്പുകൾ
 
 ## Monitored email addresses
 
