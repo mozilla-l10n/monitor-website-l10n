@@ -15,6 +15,19 @@
 -brand-HIBP = ഹാവ് ഐ ബീൻ പൗൺഡ്
 -brand-fxa = ഫയർഫോക്സ് അക്കൗണ്ട്
 -brand-pocket = Pocket
+-brand-lockwise = Firefox Lockwise
+-brand-firefox = Firefox
+-brand-monitor = Monitor
+-brand-fx-monitor = Mozilla Monitor
+-brand-mozilla = Mozilla
+-brand-premium = Premium
+-brand-monitor-premium = Monitor Premium
+-brand-mozilla-foundation = Mozilla Foundation
+-brand-github = GitHub
+-brand-mozilla-vpn = Mozilla VPN
+-brand-relay = Firefox Relay
+-brand-mozilla-monitor = Mozilla Monitor
+-brand-monitor-plus = Monitor Plus
 
 ##
 
