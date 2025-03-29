@@ -97,6 +97,9 @@ ssn-modal-ok = ตกลง
 # PIN Breaches
 
 high-risk-breach-pin-title = PIN ของคุณถูกเปิดเผย
+high-risk-breach-pin-description = การดำเนินการโดยเร็วที่สุดอาจทำให้คุณได้รับความคุ้มครองทางกฎหมายเพิ่มมากขึ้น เพื่อช่วยให้คุณฟื้นตัวจากความสูญเสียใดๆได้
+high-risk-breach-pin-step-one = แจ้งธนาคารของคุณทันทีว่ารหัส PIN ของคุณถูกรุกล้ำ
+high-risk-breach-pin-step-two = เปลี่ยน PIN ของคุณในทุกที่ที่คุณใช้รหัสเดียวกัน
 
 # No high risk breaches found
 
@@ -129,3 +132,10 @@ security-recommendation-email-title = ปกป้องที่อยู่อ
 
 # Leaked Security Questions
 
+leaked-security-questions-steps-title = นี่คือสิ่งที่ต้องทำ
+leaked-security-questions-steps-subtitle = การกระทำนี้จำเป็นต้องเข้าถึงบัญชีของคุณ ดังนั้นคุณจะต้องแก้ไขด้วยตนเอง
+# Variables
+# $breach_name is the name of the breach where the security questions were found.
+# $email_affected is the email associated with the breach.
+leaked-security-questions-step-one = อัปเดตคำถามด้านความปลอดภัยของคุณสำหรับ <b>{ $email_affected }</b> บน <link_to_breach_site>{ $breach_name }</link_to_breach_site>
+leaked-security-questions-step-two = อัปเดตข้อมูลดังกล่าวในเว็บไซต์อื่นที่คุณใช้คำถามด้านความปลอดภัยเดียวกัน โปรดใช้คำถามด้านความปลอดภัยที่แตกต่างกันสำหรับแต่ละบัญชี
