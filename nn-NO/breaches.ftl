@@ -74,6 +74,7 @@ breach-checklist-sq-header-text = Oppdater sikkerheitsspørsmåla dine.
 
 ## Prompts the user for changes when there is a breach detected of historical password
 
+breach-checklist-hp-header = Lag unike, sterke passord for alle kontoar der du har gjenbrukt passord.
 
 ## Prompts the user for changes when there is a breach detected of other types
 

@@ -98,3 +98,5 @@ dashboard-top-banner-monitor-more-cta = Overvak fleire e-postadresser
 # About Exposure Indicators Modal
 
 modal-exposure-indicator-title = Status for eksponeringar
+modal-exposure-indicator-action-needed = Avansert eller manuell handling er nødvendig for å fullføre ei handling.
+modal-exposure-indicator-fixed = Eksponeringa er løyst, og du treng ikkje å gjere noko.
