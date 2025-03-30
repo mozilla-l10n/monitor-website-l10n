@@ -69,11 +69,13 @@ high-risk-breach-social-security-title = Personnummeret ditt vart avslørt
 
 # Social Security Number Modal
 
+ssn-modal-title = Om svindelvarsel og frosne kredittar
 ssn-modal-learn-more = Lær meir om svindelvarsel og frosne kredittar
 ssn-modal-ok = OK
 
 # PIN Breaches
 
+high-risk-breach-pin-title = PIN-koden din er eksponert
 high-risk-breach-pin-step-one = Informer banken din omgåande om at PIN-koden din er kompromittert.
 
 # No high risk breaches found
