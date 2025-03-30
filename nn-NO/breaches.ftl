@@ -46,6 +46,7 @@ breach-checklist-bank-header = Informer banken din omgåande om at kontonummeret
 
 ## Prompts the user for changes when there is a breach detected of pin
 
+breach-checklist-pin-header = Informér kortutskrivaren din og endre PIN-koden din med ein gong.
 
 ## Prompts the user for changes when there is a breach detected of IP address
 

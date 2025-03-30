@@ -47,6 +47,7 @@ high-risk-breach-credit-card-step-two = Be om eit nytt kort med eit nytt nummer.
 
 # Bank Account Breaches
 
+high-risk-breach-bank-account-step-one = Informer banken din omgåande om at kontonummeret ditt er kompromittert.
 high-risk-breach-bank-account-step-two = Endre kontonummeret ditt.
 
 # Social Security Number Breaches
@@ -59,6 +60,7 @@ ssn-modal-ok = OK
 
 # PIN Breaches
 
+high-risk-breach-pin-step-one = Informer banken din omgåande om at PIN-koden din er kompromittert.
 
 # No high risk breaches found
 
