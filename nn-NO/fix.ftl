@@ -21,6 +21,7 @@ fix-flow-celebration-next-dashboard-label = Gå til ditt oversyn
 
 ## High-risk flow
 
+fix-flow-celebration-high-risk-title = Du har løyst eksponeringane dine med høg risiko!
 fix-flow-celebration-high-risk-description-next-passwords = La oss no fikse dei eksponerte passorda dine.
 fix-flow-celebration-high-risk-description-next-security-questions = La oss no fikse dei eksponerte tryggingsspørsmåla dine.
 fix-flow-celebration-high-risk-description-next-security-recommendations = Deretter vil vi gi deg personlege tryggingstilrådingar basert på kva data som er eksponerte.
@@ -68,6 +69,7 @@ high-risk-breach-social-security-title = Personnummeret ditt vart avslørt
 
 # Social Security Number Modal
 
+ssn-modal-learn-more = Lær meir om svindelvarsel og frosne kredittar
 ssn-modal-ok = OK
 
 # PIN Breaches

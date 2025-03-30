@@ -31,6 +31,7 @@ exposure-chart-returning-user-upgrade-prompt = Heimeadresse, familiemedlemmar, m
 exposure-chart-returning-user-upgrade-prompt-cta = Start ei gratis skanning
 exposure-chart-scan-in-progress-prompt = <b>Skanning i gang:</b> adresse, familiemedlemmar, og meir, er ikkje inkludert enno.
 modal-active-number-of-exposures-title = Om antal aktive eksponeringar
+modal-active-number-of-exposures-part-three-all = Når dei er løyste, vil dei bli lagt til det samla talet faste eksponeringar på Løyst-sida.
 modal-fixed-number-of-exposures-title = Om talet på dine løyste eksponeringar
 modal-fixed-number-of-exposures-all = Dette diagrammet inkluderer det samla talet datalekkasjar som er løyst for alle e-postadresser du overvaker akkurat no. Når eksponeringar er merkte som løyste, blir dei lagt til i totalen her.
 modal-cta-ok = OK

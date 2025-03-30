@@ -75,6 +75,9 @@ breach-checklist-sq-header-text = Oppdater sikkerheitsspørsmåla dine.
 ## Prompts the user for changes when there is a breach detected of historical password
 
 breach-checklist-hp-header = Lag unike, sterke passord for alle kontoar der du har gjenbrukt passord.
+# Variables:
+#   $passwordManagerLink (string) - a link to the password manager documentation, with { -breach-checklist-link-password-manager } as the label
+breach-checklist-hp-body-2 = Ein passordhandsamar som { $passwordManagerLink } (som er gratis og innebygd i nettlesaren { -brand-firefox }) kan hjelpe deg med å halde styr på alle passorda dine og få sikker tilgang til dei frå alle einingane dine.
 
 ## Prompts the user for changes when there is a breach detected of other types
 
