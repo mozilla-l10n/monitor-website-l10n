@@ -54,6 +54,7 @@ breach-checklist-pin-body = Sørg for at den nye PIN-koden din, eller ein annan 
 # Variables:
 #   $mozillaVpnLink (string) - a link to the Mozilla VPN website, with { -breach-checklist-link-mozilla-vpn } as the label
 breach-checklist-ip-header-2 = Bruk internett privat med eit VPN, til dømes { $mozillaVpnLink }.
+breach-checklist-ip-body = IP-adressa di (Internet Protocol address) viser plasseringa di og internettleverandøren din. Eit VPN kan skjule den verkelege IP-adressa di, slik at du kan bruke internett privat.
 
 ## Prompts the user for changes when there is a breach detected of physical address
 
@@ -67,6 +68,9 @@ breach-checklist-dob-body = Fødselsdatoar er lette å finne i offentlege regist
 
 ## Prompts the user for changes when there is a breach detected of phone number
 
+# Variables:
+#   $firefoxRelayLink (string) - a link to Firefox Relay, with { -breach-checklist-link-firefox-relay } as the label
+breach-checklist-phone-header-2 = Vern telefonnummeret ditt med ei maskeringsteneste som { $firefoxRelayLink }, som skjuler det verkelege telefonnummeret ditt.
 
 ## Prompts the user for changes when there is a breach detected of security questions
 
