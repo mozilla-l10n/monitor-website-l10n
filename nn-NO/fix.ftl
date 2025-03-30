@@ -53,11 +53,14 @@ high-risk-breach-skip = Hopp over no
 
 high-risk-breach-credit-card-title = Betalingskortnummeret ditt er eksponert
 high-risk-breach-credit-card-step-two = Be om eit nytt kort med eit nytt nummer.
+high-risk-breach-credit-card-step-three = Sjekk kontoane dine for uautoriserte belastningar.
 
 # Bank Account Breaches
 
+high-risk-breach-bank-account-title = Bankkontoen din har blitt eksponert
 high-risk-breach-bank-account-step-one = Informer banken din omgåande om at kontonummeret ditt er kompromittert.
 high-risk-breach-bank-account-step-two = Endre kontonummeret ditt.
+high-risk-breach-bank-account-step-three = Sjekk kontoane dine for uautoriserte belastningar.
 
 # Social Security Number Breaches
 

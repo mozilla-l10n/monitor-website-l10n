@@ -44,6 +44,14 @@ dashboard-tab-label-action-needed = Handling påkravd
 dashboard-tab-label-fixed = Løyst
 dashboard-exposures-all-fixed-label = Alt er løyst!
 dashboard-exposures-area-headline = Sjå alle nettstadar der informasjonen din er eksponert
+# Note: this line precedes dashboard-exposures-area-description-all-line2.
+# Variables:
+#   $exposures_unresolved_num (number) - the unresolved number of exposures the user has.
+dashboard-exposures-area-description-all-line1 =
+    { $exposures_unresolved_num ->
+        [one] Vi fann { $exposures_unresolved_num } eksponering av dataa dine.
+       *[other] Vi fann { $exposures_unresolved_num } eksponeringar av dataa dine.
+    }
 dashboard-fixed-area-headline-all = Vis alle eksponeringar som er løyste
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Filter
@@ -89,3 +97,4 @@ dashboard-top-banner-monitor-more-cta = Overvak fleire e-postadresser
 
 # About Exposure Indicators Modal
 
+modal-exposure-indicator-title = Status for eksponeringar
