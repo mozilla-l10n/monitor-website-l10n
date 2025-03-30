@@ -72,5 +72,6 @@ email-breach-alert-all-hero-subheading = Ikkje bekymre deg, vi kan hjelpe deg me
 email-breach-alert-all-lead = { -brand-mozilla-monitor } oppdaga følgjande datalekkasje som inkluderer personlege informasjon om deg:
 email-breach-alert-all-source-title = Lekkasjekjelde:
 email-breach-alert-all-data-points-title = Dine eksponerte data:
+email-breach-alert-all-next-steps-lead = Vi guidar deg steg for steg om korleis du løyser denne datalekkasjen.
 email-breach-alert-all-next-steps-cta-label = La oss kome i gang
 email-breach-alert-all-next-steps-button-dashboard = Gå til oversynet

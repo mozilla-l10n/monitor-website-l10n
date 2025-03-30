@@ -47,9 +47,13 @@ breach-checklist-bank-header = Informer banken din omgåande om at kontonummeret
 ## Prompts the user for changes when there is a breach detected of pin
 
 breach-checklist-pin-header = Informér kortutskrivaren din og endre PIN-koden din med ein gong.
+breach-checklist-pin-body = Sørg for at den nye PIN-koden din, eller ein annan PIN-kode, ikkje inkluderer tal som er lett å gjette, til dømes fødselsdato eller adresse.
 
 ## Prompts the user for changes when there is a breach detected of IP address
 
+# Variables:
+#   $mozillaVpnLink (string) - a link to the Mozilla VPN website, with { -breach-checklist-link-mozilla-vpn } as the label
+breach-checklist-ip-header-2 = Bruk internett privat med eit VPN, til dømes { $mozillaVpnLink }.
 
 ## Prompts the user for changes when there is a breach detected of physical address
 
