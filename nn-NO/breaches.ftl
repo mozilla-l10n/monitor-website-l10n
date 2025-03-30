@@ -31,12 +31,18 @@ breach-checklist-email-header-2 = Vern e-posten din med ei e-postmaskeringstenes
 
 ## Prompts the user for changes when there is a breach detected of social security number
 
+# Credit reports list your bill payment history, loans, current debt, and other financial information.
+# They show where you work and live and whether you've been sued, arrested, or filed for bankruptcy.
+breach-checklist-ssn-header = Overvak kredittrapporten din for kontoar, lån eller kredittkort du ikkje kjenner igjen.
 
 ## Prompts the user for changes when there is a breach detected of credit card
 
+breach-checklist-cc-header = Rapporter dette brotet til kredittkortutskrivaren din og be om eit nytt kort med eit nytt nummer.
+breach-checklist-cc-body = Du bør òg sjå gjennom kredittkortutskriftene dine for ukjende belastningar.
 
 ## Prompts the user for changes when there is a breach detected of bank account
 
+breach-checklist-bank-header = Informer banken din omgåande om at kontonummeret ditt er kompromittert.
 
 ## Prompts the user for changes when there is a breach detected of pin
 
