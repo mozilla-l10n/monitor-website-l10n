@@ -21,13 +21,17 @@ fix-flow-celebration-next-dashboard-label = Gå til ditt oversyn
 
 ## High-risk flow
 
+fix-flow-celebration-high-risk-description-next-passwords = La oss no fikse dei eksponerte passorda dine.
 fix-flow-celebration-high-risk-description-next-security-questions = La oss no fikse dei eksponerte tryggingsspørsmåla dine.
+fix-flow-celebration-high-risk-description-next-security-recommendations = Deretter vil vi gi deg personlege tryggingstilrådingar basert på kva data som er eksponerte.
 
 ## Leaked passwords and security questions flow
 
+fix-flow-celebration-leaked-passwords-title = Passorda dine er no verna!
 fix-flow-celebration-security-questions-title = Tryggingsspørsmåla dine er verna!
 fix-flow-celebration-leaked-passwords-description-next-security-questions = La oss no gå gjennom og oppdatere dei eksponerte tryggingsspørsmåla dine.
 fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Deretter vil vi gi deg personlege tryggingstilrådingar basert på kva data som er eksponerte.
+fix-flow-celebration-leaked-passwords-description-next-dashboard = Bra gjort! Du har nådd slutten av stega dine. Du kan sjå alle handlingselement og spore framgangen din på dashbordet.
 
 ## Security recommendations flow
 
@@ -37,6 +41,11 @@ fix-flow-celebration-security-recommendations-description-next-dashboard = Bra g
 # High Risk Data Breaches
 
 high-risk-breach-heading = Dette er det du skal gjere
+# Variables
+# $breach_name is the name of the breach where the high risk data was found.
+# $breach_date is the date when the breach occurred.
+# An example of this string is Twitter on 13/09/18.
+high-risk-breach-name-and-date = { $breach_name } <breach_date>den { $breach_date }</breach_date>
 high-risk-breach-mark-as-fixed = Merk som løyst
 high-risk-breach-skip = Hopp over no
 

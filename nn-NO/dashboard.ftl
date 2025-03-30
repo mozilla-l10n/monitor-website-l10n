@@ -66,7 +66,16 @@ dashboard-top-banner-your-data-is-protected-title = Dine data er verna
 dashboard-top-banner-your-data-is-protected-cta = Sjå kva som er løyst
 dashboard-top-banner-lets-keep-protecting-title = La oss halde fram med å verne dataa dine
 dashboard-top-banner-lets-keep-protecting-cta = La oss halde fram
+dashboard-top-banner-protect-your-data-title = La oss verne dataa dine
 dashboard-top-banner-protect-your-data-cta = La oss løyse det
+# Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
+# Variables:
+#   $exposures_unresolved_num (number) - the total number of exposures the user has.
+dashboard-top-banner-non-us-protect-your-data-description-line1 =
+    { $exposures_unresolved_num ->
+        [one] Vi fann { $exposures_unresolved_num } eksponering av dataa dine.
+       *[other] Vi fann { $exposures_unresolved_num } eksponeringar av dataa dine.
+    }
 dashboard-top-banner-no-exposures-found-title = Fann ingen eksponeringar
 dashboard-no-exposures-label = Fann ingen eksponeringar
 # Variables:
