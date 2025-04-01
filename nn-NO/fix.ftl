@@ -34,12 +34,12 @@ fix-flow-celebration-leaked-passwords-title = Passorda dine er no verna!
 fix-flow-celebration-security-questions-title = Tryggingsspørsmåla dine er verna!
 fix-flow-celebration-leaked-passwords-description-next-security-questions = La oss no gå gjennom og oppdatere dei eksponerte tryggingsspørsmåla dine.
 fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Deretter vil vi gi deg personlege tryggingstilrådingar basert på kva data som er eksponerte.
-fix-flow-celebration-leaked-passwords-description-next-dashboard = Bra gjort! Du har nådd slutten av stega dine. Du kan sjå alle handlingselement og spore framgangen din på dashbordet.
+fix-flow-celebration-leaked-passwords-description-next-dashboard = Bra gjort! Du har nådd slutten av stega dine. Du kan sjå alle handlingselement og følgje framgangen din i oversynet.
 
 ## Security recommendations flow
 
 fix-flow-celebration-security-recommendations-title = Du har fullført alle tilrådingane dine!
-fix-flow-celebration-security-recommendations-description-next-dashboard = Bra gjort! Du har nådd slutten av stega dine. Du kan sjå alle handlingselement og spore framgangen din på dashbordet.
+fix-flow-celebration-security-recommendations-description-next-dashboard = Bra gjort! Du har nådd slutten av stega dine. Du kan sjå alle handlingselement og følgje framgangen din i oversynet.
 
 # High Risk Data Breaches
 
@@ -55,6 +55,7 @@ high-risk-breach-skip = Hopp over no
 # Credit Card Breaches
 
 high-risk-breach-credit-card-title = Betalingskortnummeret ditt er eksponert
+high-risk-breach-credit-card-step-one = Om du frameis har dette kortet, kontakt utskrivaren for å rapportere det stole.
 high-risk-breach-credit-card-step-two = Be om eit nytt kort med eit nytt nummer.
 high-risk-breach-credit-card-step-three = Sjekk kontoane dine for uautoriserte belastningar.
 
@@ -117,3 +118,7 @@ leaked-passwords-skip = Hopp over no
 
 leaked-security-questions-title = Tryggingsspørsmåla dine vart avslørte
 leaked-security-questions-steps-title = Dette er det du skal gjere
+# Variables
+# $breach_name is the name of the breach where the security questions were found.
+# $email_affected is the email associated with the breach.
+leaked-security-questions-step-one = Oppdater tryggingsspørsmåla dine for <b>{ $email_affected }</b> on <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
