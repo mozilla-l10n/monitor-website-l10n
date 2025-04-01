@@ -85,3 +85,7 @@ breach-checklist-hp-body-2 = Ein passordhandsamar som { $passwordManagerLink } (
 
 ## Prompts the user for changes when there is a breach detected of other types
 
+# Variables:
+#   $breachDate (String) - Date of the breach
+#   $companyName (String) - Name of the company where the breach occurred
+breach-checklist-general-header = Ta kontakt med { $companyName } for å informere dei om dette brotet og be om spesifikke tiltak du kan ta.
