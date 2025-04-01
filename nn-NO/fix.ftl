@@ -44,6 +44,7 @@ fix-flow-celebration-security-recommendations-description-next-dashboard = Bra g
 # High Risk Data Breaches
 
 high-risk-breach-heading = Dette er det du skal gjere
+high-risk-breach-subheading = Dette krev tilgang til den sensitive informasjonen din, så du må fikse det manuelt.
 # Variables
 # $breach_name is the name of the breach where the high risk data was found.
 # $breach_date is the date when the breach occurred.
@@ -122,3 +123,4 @@ leaked-security-questions-steps-title = Dette er det du skal gjere
 # $breach_name is the name of the breach where the security questions were found.
 # $email_affected is the email associated with the breach.
 leaked-security-questions-step-one = Oppdater tryggingsspørsmåla dine for <b>{ $email_affected }</b> on <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-security-questions-step-two = Oppdater dei på alle nettstadar der du brukte dei same tryggingsspørsmåla. Sørg for å bruke ulike tryggingsspørsmål for kvar konto.
