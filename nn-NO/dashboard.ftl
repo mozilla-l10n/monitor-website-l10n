@@ -87,6 +87,7 @@ dashboard-top-banner-non-us-protect-your-data-description-line1 =
        *[other] Vi fann { $exposures_unresolved_num } eksponeringar av dataa dine.
     }
 dashboard-top-banner-no-exposures-found-title = Fann ingen eksponeringar
+dashboard-top-banner-non-us-no-exposures-found-description = Gode ​​nyheiter! Vi søkte i alle kjende datalekkasjar og fann ingen eksponeringar. Vi vil halde fram med å overvake e-postadressa di og varsle deg viss ein ny datalekkasje førekjem.
 dashboard-no-exposures-label = Fann ingen eksponeringar
 # Variables:
 # $exposures_resolved_num is the number of exposures the user has resolved.
