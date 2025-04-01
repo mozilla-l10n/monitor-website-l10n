@@ -100,6 +100,9 @@ dashboard-top-banner-monitor-more-cta = Overvak fleire e-postadresser
 
 # About Exposure Indicators Modal
 
+modal-exposure-status-description-all =
+    Vi søkjer etter eksponeringar i alle kjende datalekkasjar.
+    Eksponeringane dine vil ha ein av følgjande statusar:
 modal-exposure-indicator-title = Status for eksponeringar
 modal-exposure-indicator-action-needed = Avansert eller manuell handling er nødvendig for å fullføre ei handling.
 modal-exposure-indicator-fixed = Eksponeringa er løyst, og du treng ikkje å gjere noko.
