@@ -54,6 +54,14 @@ dashboard-exposures-area-description-all-line1 =
         [one] Vi fann { $exposures_unresolved_num } eksponering av dataa dine.
        *[other] Vi fann { $exposures_unresolved_num } eksponeringar av dataa dine.
     }
+# Note: this line follows dashboard-exposures-area-description-all-line1.
+# Variables:
+#   $data_breach_unresolved_num (number) - the unresolved number of data breaches the user has.
+dashboard-exposures-area-description-all-line2 =
+    { $data_breach_unresolved_num ->
+        [one] Han førekom i { $data_breach_unresolved_num } datalekkasje.
+       *[other] Han førekom i { $data_breach_unresolved_num } datalekkasjar.
+    }
 dashboard-fixed-area-headline-all = Vis alle eksponeringar som er løyste
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
 dashboard-exposures-filter = Filter
@@ -75,6 +83,13 @@ dashboard-top-banner-scan-in-progress-title = Skanninga held framleis på
 dashboard-top-banner-your-data-is-protected-title = Dine data er verna
 dashboard-top-banner-your-data-is-protected-cta = Sjå kva som er løyst
 dashboard-top-banner-lets-keep-protecting-title = La oss halde fram med å verne dataa dine
+# Variables:
+# $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
+dashboard-top-banner-lets-keep-protecting-description =
+    { $exposures_unresolved_num ->
+        [one] Du har framleis { $exposures_unresolved_num } eksponering att å løyse. Fortset med å verne deg sjølv. Vi gaidar deg steg-for-steg.
+       *[other] Du har framleis { $exposures_unresolved_num } eksponeringar att å løyse. Fortset med å verne deg sjølv. Vi gaidar deg steg-for-steg.
+    }
 dashboard-top-banner-lets-keep-protecting-cta = La oss halde fram
 dashboard-top-banner-protect-your-data-title = La oss verne dataa dine
 dashboard-top-banner-protect-your-data-cta = La oss løyse det
@@ -85,6 +100,14 @@ dashboard-top-banner-non-us-protect-your-data-description-line1 =
     { $exposures_unresolved_num ->
         [one] Vi fann { $exposures_unresolved_num } eksponering av dataa dine.
        *[other] Vi fann { $exposures_unresolved_num } eksponeringar av dataa dine.
+    }
+# Note: this line is preceded by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
+# Variables:
+#   $data_breach_unresolved_num (number) - the total number of data breaches the user has.
+dashboard-top-banner-non-us-protect-your-data-description-line2 =
+    { $data_breach_unresolved_num ->
+        [one] Han førekom i { $data_breach_unresolved_num } datalekkasje. Vi gaidar deg steg-for-steg om korleis du løyser det.
+       *[other] Han førekom i { $data_breach_unresolved_num } datalekkasjar. Vi gaidar deg steg-for-steg om korleis du løyser det.
     }
 dashboard-top-banner-no-exposures-found-title = Fann ingen eksponeringar
 dashboard-top-banner-non-us-no-exposures-found-description = Gode ​​nyheiter! Vi søkte i alle kjende datalekkasjar og fann ingen eksponeringar. Vi vil halde fram med å overvake e-postadressa di og varsle deg viss ein ny datalekkasje førekjem.
