@@ -31,6 +31,13 @@ exposure-chart-returning-user-upgrade-prompt = Heimeadresse, familiemedlemmar, m
 exposure-chart-returning-user-upgrade-prompt-cta = Start ei gratis skanning
 exposure-chart-scan-in-progress-prompt = <b>Skanning i gang:</b> adresse, familiemedlemmar, og meir, er ikkje inkludert enno.
 modal-active-number-of-exposures-title = Om antal aktive eksponeringar
+# Variables:
+#   $limit (number) - Number of email addresses included in the plan
+modal-active-number-of-exposures-part-one-all =
+    { $limit ->
+        [one] Dette diagrammet viser det totale antalet gongar vi fann kvar type av data eksponert i datalekkasjar for { $limit } e-postadresse som du no overvakar.
+       *[other] Dette diagrammet viser det totale antalet gongar vi fann kvar type av data eksponert i datalekkasjar for opp til { $limit } e-postadresser som du no overvakar.
+    }
 modal-active-number-of-exposures-part-two = Viss du til dømes har 10 eksponeringar av telefonnummeret ditt, kan det bety at eitt telefonnummer er eksponert på 10 ulike nettstadar, eller det kan bety at 2 ulike telefonnummer vart eksponerte på 5 ulike nettstadar.
 modal-active-number-of-exposures-part-three-all = Når dei er løyste, vil dei bli lagt til det samla talet faste eksponeringar på Løyst-sida.
 modal-fixed-number-of-exposures-title = Om talet på dine løyste eksponeringar
