@@ -118,10 +118,18 @@ security-recommendation-steps-cta-label = Skjønar!
 
 security-recommendation-phone-title = Vern telefonnummeret ditt
 security-recommendation-phone-step-one = Blokker spamnummer for å unngå uønskte samtalar
+security-recommendation-phone-step-two = Ikkje klikk på lenker i SMS-meldingar frå ukjende avsendarar; viss det ser ut til å vere frå ei påliteleg kjelde, ring direkte for å stadfeste
 
 # Email security recommendation
 
 security-recommendation-email-title = Vern e-postadressa di
+# $num_breaches is the number of breaches where the email address was found.
+security-recommendation-email-summary =
+    { $num_breaches ->
+        [one] E-postadressa di vart eksponert i { $num_breaches } datalekkasje:
+       *[other] E-postadressa di vart eksponert i { $num_breaches } datalekkasjar:
+    }
+security-recommendation-email-step-one = Ikkje klikk på lenker i e-postar frå ukjende avsendarar; viss det ser ut til å vere frå ei påliteleg kjelde, ring direkte for å stadfeste
 security-recommendation-email-step-two = Ver merksam på <link_to_info>phishing-svindel</link_to_info>
 security-recommendation-email-step-three = Merk mistenkjelege e-postar som spam og blokker avsendaren
 security-recommendation-email-step-four = Bruk <link_to_info>{ -brand-relay } e-postalias</link_to_info> for å verne e-postadressa di i framtida
@@ -129,6 +137,13 @@ security-recommendation-email-step-four = Bruk <link_to_info>{ -brand-relay } e-
 # IP security recommendation
 
 security-recommendation-ip-title = Bruk eit VPN for ekstra personvern
+# $num_breaches is the number of breaches where the IP address was found.
+security-recommendation-ip-summary =
+    { $num_breaches ->
+        [one] IP-adressa di vart eksponert i { $num_breaches } datalekkasje:
+       *[other] IP-adressa di vart eksponert i { $num_breaches } datalekkasjar:
+    }
+security-recommendation-ip-description = IP-adressa di identifiserer plasseringa di og internettleverandøren din. Hackarar kan bruke denne informasjonen til å finne posisjonen din eller prøve å kople til einingane dine.
 security-recommendation-ip-step-one = Bruk eit VPN (som <link_to_info>{ -brand-mozilla-vpn }</link_to_info>) for å skjule den verkelege IP-adressa di og bruke internett privat.
 
 # Leaked Passwords
