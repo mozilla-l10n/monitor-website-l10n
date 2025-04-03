@@ -75,16 +75,22 @@ high-risk-breach-bank-account-step-three = Sjekk kontoane dine for uautoriserte 
 high-risk-breach-social-security-title = Personnummeret ditt vart avslørt
 high-risk-breach-social-security-description = Svindlarar kan bruke personnummeret ditt til å ta opp nye lån eller bestille kredittkort med personnummeret ditt. Set i verk tiltak raskt for å unngå økonomiske problem.
 high-risk-breach-social-security-step-one = Vern deg sjølv ved å <link_to_info>konfigurere eit svindelvarsel eller fryse kreditten din.</link_to_info>
+high-risk-breach-social-security-step-two = <link_to_info>Sjekk kredittopplysningane dine</link_to_info> for ukjende kontoar.
 
 # Social Security Number Modal
 
 ssn-modal-title = Om svindelvarsel og frosne kredittar
+ssn-modal-description-fraud-part-one = <b>Eit svindelvarsel</b> krev at bedrifter stadfestar identiteten din før dei skriv ut ny kreditt i ditt namn. Det er gratis, varer eitt år og vil ikkje påverke kredittpoenga dine negativt.
+ssn-modal-description-fraud-part-two = For å opprette ein, kontakt ein av dei tre kredittinstitusjonane. Du treng ikkje kontakte alle tre.
+ssn-modal-description-freeze-credit-part-one = <b>Frysing av kreditten din</b> hindrar nokon i å opne nye kontoar i ditt namn. Det er gratis og påverkar ikkje kredittverdigheita di, men du må reversere handlinga for å opne nye kontoar.
+ssn-modal-description-freeze-credit-part-two = For å fryse kreditten din, kontakt kvart av dei tre kredittbyråa – <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> og <transunion_link>Transunion</transunion_link>.
 ssn-modal-learn-more = Lær meir om svindelvarsel og frosne kredittar
 ssn-modal-ok = OK
 
 # PIN Breaches
 
 high-risk-breach-pin-title = PIN-koden din er eksponert
+high-risk-breach-pin-description = Å setje i verk tiltak så snart som mogleg kan gi deg meir juridisk vern for å hjelpe deg med å rette opp igjen eventuelle tap.
 high-risk-breach-pin-step-one = Informer banken din omgåande om at PIN-koden din er kompromittert.
 
 # No high risk breaches found
