@@ -27,6 +27,7 @@ fix-flow-celebration-high-risk-description-done = Å gjere dette arbeidet kan kj
 fix-flow-celebration-high-risk-description-next-passwords = La oss no fikse dei eksponerte passorda dine.
 fix-flow-celebration-high-risk-description-next-security-questions = La oss no fikse dei eksponerte tryggingsspørsmåla dine.
 fix-flow-celebration-high-risk-description-next-security-recommendations = Deretter vil vi gi deg personlege tryggingstilrådingar basert på kva data som er eksponerte.
+fix-flow-celebration-high-risk-description-next-dashboard = Du har fullført det siste trinnet. Du kan sjå eventuelle nødvendige handlingar og dessutan framdrifta di i oversynet.
 
 ## Leaked passwords and security questions flow
 
@@ -56,6 +57,7 @@ high-risk-breach-skip = Hopp over no
 # Credit Card Breaches
 
 high-risk-breach-credit-card-title = Betalingskortnummeret ditt er eksponert
+high-risk-breach-credit-card-description = Alle som har tilgang til han kan gjennomføre uautoriserte kjøp, som du kan bli halden ansvarleg for. Set i verk tiltak no for å unngå økonomiske problem.
 high-risk-breach-credit-card-step-one = Om du frameis har dette kortet, kontakt utskrivaren for å rapportere det stole.
 high-risk-breach-credit-card-step-two = Be om eit nytt kort med eit nytt nummer.
 high-risk-breach-credit-card-step-three = Sjekk kontoane dine for uautoriserte belastningar.
@@ -63,6 +65,7 @@ high-risk-breach-credit-card-step-three = Sjekk kontoane dine for uautoriserte b
 # Bank Account Breaches
 
 high-risk-breach-bank-account-title = Bankkontoen din har blitt eksponert
+high-risk-breach-bank-account-description = Å setje i verk tiltak så snart som mogleg kan gi deg meir juridisk vern for å hjelpe deg med å rette opp igjen eventuelle tap.
 high-risk-breach-bank-account-step-one = Informer banken din omgåande om at kontonummeret ditt er kompromittert.
 high-risk-breach-bank-account-step-two = Endre kontonummeret ditt.
 high-risk-breach-bank-account-step-three = Sjekk kontoane dine for uautoriserte belastningar.
@@ -70,6 +73,8 @@ high-risk-breach-bank-account-step-three = Sjekk kontoane dine for uautoriserte 
 # Social Security Number Breaches
 
 high-risk-breach-social-security-title = Personnummeret ditt vart avslørt
+high-risk-breach-social-security-description = Svindlarar kan bruke personnummeret ditt til å ta opp nye lån eller bestille kredittkort med personnummeret ditt. Set i verk tiltak raskt for å unngå økonomiske problem.
+high-risk-breach-social-security-step-one = Vern deg sjølv ved å <link_to_info>konfigurere eit svindelvarsel eller fryse kreditten din.</link_to_info>
 
 # Social Security Number Modal
 
