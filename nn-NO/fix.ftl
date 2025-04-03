@@ -47,12 +47,27 @@ fix-flow-celebration-security-recommendations-description-next-dashboard = Bra g
 high-risk-breach-heading = Dette er det du skal gjere
 high-risk-breach-subheading = Dette krev tilgang til den sensitive informasjonen din, så du må fikse det manuelt.
 # Variables
+# $num_breaches is the number of breaches where the high risk data was found.
+high-risk-breach-summary =
+    { $num_breaches ->
+        [one] Han førekom i { $num_breaches } datalekkasje:
+       *[other] Han førekom i { $num_breaches } datalekkasjar:
+    }
+# Variables
 # $breach_name is the name of the breach where the high risk data was found.
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
 high-risk-breach-name-and-date = { $breach_name } <breach_date>den { $breach_date }</breach_date>
 high-risk-breach-mark-as-fixed = Merk som løyst
 high-risk-breach-skip = Hopp over no
+# Variables:
+# $estimated_time is the estimated time it would take for a user to complete breach resolution steps. It not be singular, and the + is meant as "or more".
+# An example of this string is Your estimated time: 15+ minutes.
+high-risk-breach-estimated-time =
+    { $estimated_time ->
+        [one] Estimert tidsbruk: { $estimated_time } minutt eller meir
+       *[other] Estimert tidsbruk: { $estimated_time } minutt eller meir
+    }
 
 # Credit Card Breaches
 
@@ -123,6 +138,7 @@ security-recommendation-phone-summary =
         [one] Telefonnummeret ditt vart eksponert i { $num_breaches } datalekkasje:
        *[other] Telefonnummeret ditt vart eksponert i { $num_breaches } datalekkasjar:
     }
+security-recommendation-phone-description = Dessverre kan du ikkje ta det tilbake. Men det finst ting du kan gjere for å verne deg sjølv.
 security-recommendation-phone-step-one = Blokker spamnummer for å unngå uønskte samtalar
 security-recommendation-phone-step-two = Ikkje klikk på lenker i SMS-meldingar frå ukjende avsendarar; viss det ser ut til å vere frå ei påliteleg kjelde, ring direkte for å stadfeste
 
@@ -158,6 +174,9 @@ security-recommendation-ip-step-one = Bruk eit VPN (som <link_to_info>{ -brand-m
 # Variables
 # $breach_name is the name of the breach where the leaked password was found.
 leaked-passwords-title = Passordet ditt for { $breach_name } er eksponert
+# Variables
+# $breach_date is the date when the breach occurred.
+leaked-passwords-summary = Det førekom i ein datalekkasje den { $breach_date }.
 leaked-passwords-description = Svindlarar kan få tilgang til kontoen din og vil sannsynlegvis prøve å bruke han på andre kontoar for å sjå om du har brukt det same passordet. Endre det på alle stadar du har brukt det for å verne deg sjølv.
 leaked-passwords-steps-title = Dette er det du skal gjere
 leaked-passwords-steps-subtitle = Dette krev tilgang til kontoen din, så du må fikse det manuelt.
@@ -181,6 +200,11 @@ leaked-passwords-estimated-time =
 # Leaked Security Questions
 
 leaked-security-questions-title = Tryggingsspørsmåla dine vart avslørte
+# Variables
+# $breach_name is the name of the breach where the leaked security questions were found.
+# $breach_date is the date when the breach occurred.
+# An example of this string is Twitter on 13/09/18.
+leaked-security-questions-summary = Dei førekom i ein datalekkasje på { $breach_name } den { $breach_date }.
 leaked-security-questions-description = Svindlarar kan bruke desse for å få tilgang til kontoane dine og alle andre nettstadar der du har brukt dei same tryggingsspørsmåla. Oppdater dei no for å verne kontoane dine.
 leaked-security-questions-steps-title = Dette er det du skal gjere
 leaked-security-questions-steps-subtitle = Dette krev tilgang til kontoen din, så du må fikse det manuelt.
