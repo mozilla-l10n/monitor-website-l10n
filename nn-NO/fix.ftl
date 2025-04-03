@@ -124,14 +124,21 @@ security-recommendation-phone-step-one = Blokker spamnummer for å unngå uønsk
 security-recommendation-email-title = Vern e-postadressa di
 security-recommendation-email-step-two = Ver merksam på <link_to_info>phishing-svindel</link_to_info>
 security-recommendation-email-step-three = Merk mistenkjelege e-postar som spam og blokker avsendaren
+security-recommendation-email-step-four = Bruk <link_to_info>{ -brand-relay } e-postalias</link_to_info> for å verne e-postadressa di i framtida
 
 # IP security recommendation
 
 security-recommendation-ip-title = Bruk eit VPN for ekstra personvern
+security-recommendation-ip-step-one = Bruk eit VPN (som <link_to_info>{ -brand-mozilla-vpn }</link_to_info>) for å skjule den verkelege IP-adressa di og bruke internett privat.
 
 # Leaked Passwords
 
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+leaked-passwords-title = Passordet ditt for { $breach_name } er eksponert
+leaked-passwords-description = Svindlarar kan få tilgang til kontoen din og vil sannsynlegvis prøve å bruke han på andre kontoar for å sjå om du har brukt det same passordet. Endre det på alle stadar du har brukt det for å verne deg sjølv.
 leaked-passwords-steps-title = Dette er det du skal gjere
+leaked-passwords-steps-subtitle = Dette krev tilgang til kontoen din, så du må fikse det manuelt.
 leaked-passwords-step-two = Endre det på alle stadar du har brukt det.
 leaked-passwords-mark-as-fixed = Merk som løyst
 leaked-passwords-skip = Hopp over no
@@ -139,7 +146,9 @@ leaked-passwords-skip = Hopp over no
 # Leaked Security Questions
 
 leaked-security-questions-title = Tryggingsspørsmåla dine vart avslørte
+leaked-security-questions-description = Svindlarar kan bruke desse for å få tilgang til kontoane dine og alle andre nettstadar der du har brukt dei same tryggingsspørsmåla. Oppdater dei no for å verne kontoane dine.
 leaked-security-questions-steps-title = Dette er det du skal gjere
+leaked-security-questions-steps-subtitle = Dette krev tilgang til kontoen din, så du må fikse det manuelt.
 # Variables
 # $breach_name is the name of the breach where the security questions were found.
 # $email_affected is the email associated with the breach.
