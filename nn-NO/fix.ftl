@@ -117,6 +117,12 @@ security-recommendation-steps-cta-label = Skjønar!
 # Phone security recommendation
 
 security-recommendation-phone-title = Vern telefonnummeret ditt
+# $num_breaches is the number of breaches where the phone number was found.
+security-recommendation-phone-summary =
+    { $num_breaches ->
+        [one] Telefonnummeret ditt vart eksponert i { $num_breaches } datalekkasje:
+       *[other] Telefonnummeret ditt vart eksponert i { $num_breaches } datalekkasjar:
+    }
 security-recommendation-phone-step-one = Blokker spamnummer for å unngå uønskte samtalar
 security-recommendation-phone-step-two = Ikkje klikk på lenker i SMS-meldingar frå ukjende avsendarar; viss det ser ut til å vere frå ei påliteleg kjelde, ring direkte for å stadfeste
 
@@ -129,6 +135,7 @@ security-recommendation-email-summary =
         [one] E-postadressa di vart eksponert i { $num_breaches } datalekkasje:
        *[other] E-postadressa di vart eksponert i { $num_breaches } datalekkasjar:
     }
+security-recommendation-email-description = Dessverre kan du ikkje løyse dette. Men det finst ting du kan gjere for å verne deg sjølv.
 security-recommendation-email-step-one = Ikkje klikk på lenker i e-postar frå ukjende avsendarar; viss det ser ut til å vere frå ei påliteleg kjelde, ring direkte for å stadfeste
 security-recommendation-email-step-two = Ver merksam på <link_to_info>phishing-svindel</link_to_info>
 security-recommendation-email-step-three = Merk mistenkjelege e-postar som spam og blokker avsendaren
@@ -154,9 +161,22 @@ leaked-passwords-title = Passordet ditt for { $breach_name } er eksponert
 leaked-passwords-description = Svindlarar kan få tilgang til kontoen din og vil sannsynlegvis prøve å bruke han på andre kontoar for å sjå om du har brukt det same passordet. Endre det på alle stadar du har brukt det for å verne deg sjølv.
 leaked-passwords-steps-title = Dette er det du skal gjere
 leaked-passwords-steps-subtitle = Dette krev tilgang til kontoen din, så du må fikse det manuelt.
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+# $emails_affected are the emails associated with the breach.
+leaked-passwords-step-one = Endre passordet ditt for <b>{ $emails_affected }</b> på <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
 leaked-passwords-step-two = Endre det på alle stadar du har brukt det.
 leaked-passwords-mark-as-fixed = Merk som løyst
 leaked-passwords-skip = Hopp over no
+# Variables
+# $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
+# "Est." is shortform for "Estimated".
+# "mins" is shortform for "minutes".
+leaked-passwords-estimated-time =
+    { $estimated_time ->
+        [one] Estimert tidsforbruk: { $estimated_time } minutt per nettstad
+       *[other] Estimert tidsforbruk: { $estimated_time } minutt per nettstad
+    }
 
 # Leaked Security Questions
 
