@@ -92,9 +92,16 @@ ssn-modal-ok = OK
 high-risk-breach-pin-title = PIN-koden din er eksponert
 high-risk-breach-pin-description = Å setje i verk tiltak så snart som mogleg kan gi deg meir juridisk vern for å hjelpe deg med å rette opp igjen eventuelle tap.
 high-risk-breach-pin-step-one = Informer banken din omgåande om at PIN-koden din er kompromittert.
+high-risk-breach-pin-step-two = Endre PIN-koden din overalt der du brukar han.
+high-risk-breach-pin-step-three = Sjekk kontoane dine for uautoriserte belastningar.
 
 # No high risk breaches found
 
+high-risk-breach-none-title = Gode ​​nyheiter: Vi fann ingen datalekkasjar med høg risiko
+# Variables
+# $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
+high-risk-breach-none-description = Vi oppdagar datalekkasjar basert på e-postadressa di, og vi fann ingen datalekkasjar med høg risiko for { $e-post_list }.
+high-risk-breach-none-sub-description-part-one = Datalekkasjar med høg risiko inkluderer:
 high-risk-breach-none-sub-description-ssn = Personnummer
 high-risk-breach-none-sub-description-bank-account = Bankkontoinformasjon
 high-risk-breach-none-sub-description-cc-number = Nummer på betalingskort
@@ -110,10 +117,12 @@ security-recommendation-steps-cta-label = Skjønar!
 # Phone security recommendation
 
 security-recommendation-phone-title = Vern telefonnummeret ditt
+security-recommendation-phone-step-one = Blokker spamnummer for å unngå uønskte samtalar
 
 # Email security recommendation
 
 security-recommendation-email-title = Vern e-postadressa di
+security-recommendation-email-step-two = Ver merksam på <link_to_info>phishing-svindel</link_to_info>
 security-recommendation-email-step-three = Merk mistenkjelege e-postar som spam og blokker avsendaren
 
 # IP security recommendation
@@ -123,6 +132,7 @@ security-recommendation-ip-title = Bruk eit VPN for ekstra personvern
 # Leaked Passwords
 
 leaked-passwords-steps-title = Dette er det du skal gjere
+leaked-passwords-step-two = Endre det på alle stadar du har brukt det.
 leaked-passwords-mark-as-fixed = Merk som løyst
 leaked-passwords-skip = Hopp over no
 
