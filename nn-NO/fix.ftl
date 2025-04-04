@@ -115,7 +115,7 @@ high-risk-breach-pin-step-three = Sjekk kontoane dine for uautoriserte belastnin
 high-risk-breach-none-title = Gode ​​nyheiter: Vi fann ingen datalekkasjar med høg risiko
 # Variables
 # $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
-high-risk-breach-none-description = Vi oppdagar datalekkasjar basert på e-postadressa di, og vi fann ingen datalekkasjar med høg risiko for { $e-post_list }.
+high-risk-breach-none-description = Vi oppdagar datalekkasjar basert på e-postadressa di, og vi fann ingen datalekkasjar med høg risiko for { $email_list }.
 high-risk-breach-none-sub-description-part-one = Datalekkasjar med høg risiko inkluderer:
 high-risk-breach-none-sub-description-ssn = Personnummer
 high-risk-breach-none-sub-description-bank-account = Bankkontoinformasjon
