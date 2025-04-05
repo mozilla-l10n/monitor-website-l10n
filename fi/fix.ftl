@@ -123,6 +123,7 @@ security-recommendation-phone-summary =
         [one] Puhelinnumerosi paljastui { $num_breaches } tietovuodossa:
        *[other] Puhelinnumerosi paljastui { $num_breaches } tietovuodossa:
     }
+security-recommendation-phone-description = Valitettavasti tätä asiaa ei voi muuttaa. On olemassa toimenpiteitä, joiden avulla voit varmistaa, että pysyt turvassa.
 security-recommendation-phone-step-two = Älä napsauta tuntemattomien lähettäjien tekstiviesteissä olevia linkkejä. Jos viesti vaikuttaa olevan luotettavasta lähteestä, soita lähettäjälle vahvistaaksesi
 
 # Email security recommendation
