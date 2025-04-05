@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 chevron-alt = Altistumisen tiedot
-
 exposure-card-exposure-type = Altistuksen tyyppi
 exposure-card-date-found = Altistumispäivä
 
@@ -26,7 +25,6 @@ exposure-card-other = Muu
 exposure-card-your-exposed-info = Altistuneet tietosi:
 exposure-card-exposure-type-data-broker = Tiedot myynnissä
 exposure-card-exposure-type-data-breach = Tietovuoto
-exposure-card-cta = Korjaa kaikki altistumiset
 exposure-card-label-company-logo = Yrityksen logo
 exposure-card-label-company = Yritys
 # Status of the exposure card, could be In Progress, Fixed or Action Needed
@@ -35,3 +33,4 @@ exposure-card-label-status = Tila
 # $category_label is the data breach exposure type that was leaked. Eg. Email, IP Address.
 # $count is the number of times that the data type was leaked.
 exposure-card-label-and-count = { $category_label }: { $count }
+exposure-card-manual-resolution-praise = <b>Hyvin tehty!</b> Ratkaisit tämän altistumisen.

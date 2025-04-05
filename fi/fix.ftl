@@ -7,6 +7,7 @@ fix-flow-nav-leaked-passwords = Vuotaneet salasanat
 fix-flow-nav-security-recommendations = Turvallisuussuositukset
 guided-resolution-flow-exit = Palaa hallintapaneeliin
 guided-resolution-flow-next-arrow = Siirry seuraavaan vaiheeseen
+guided-resolution-flow-next-arrow-sub-step = Siirry seuraavaan tulokseen
 guided-resolution-flow-step-navigation-label = Ohjatut vaiheet
 
 # Celebration screens
