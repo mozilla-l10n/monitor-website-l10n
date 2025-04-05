@@ -91,7 +91,16 @@ dashboard-top-banner-non-us-protect-your-data-description-line1 =
         [one] Havaitsimme { $exposures_unresolved_num } tietojesi altistumisen.
        *[other] Havaitsimme { $exposures_unresolved_num } tietojesi altistumista.
     }
+# Note: this line is preceded by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
+# Variables:
+#   $data_breach_unresolved_num (number) - the total number of data breaches the user has.
+dashboard-top-banner-non-us-protect-your-data-description-line2 =
+    { $data_breach_unresolved_num ->
+        [one] Se esiintyy { $data_breach_unresolved_num } tietovuodossa. Opastamme sinua vaihe vaiheelta, kuinka korjata asia.
+       *[other] Se esiintyy { $data_breach_unresolved_num } tietovuodossa. Opastamme sinua vaihe vaiheelta, kuinka korjata asia.
+    }
 dashboard-top-banner-no-exposures-found-title = Vuotoja ei löytynyt
+dashboard-top-banner-non-us-no-exposures-found-description = Hyviä uutisia! Etsimme kaikki tunnetut tietovuodot, emmekä löytäneet altistumista. Seuraamme edelleen sähköpostiosoitettasi ja ilmoitamme sinulle, jos uusi tietovuoto ilmenee.
 dashboard-no-exposures-label = Vuotoja ei löytynyt
 dashboard-top-banner-monitor-more-cta = Tarkkaile useampia sähköpostiosoitteita
 

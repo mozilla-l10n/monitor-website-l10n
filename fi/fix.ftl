@@ -124,6 +124,7 @@ security-recommendation-phone-summary =
        *[other] Puhelinnumerosi paljastui { $num_breaches } tietovuodossa:
     }
 security-recommendation-phone-description = Valitettavasti tätä asiaa ei voi muuttaa. On olemassa toimenpiteitä, joiden avulla voit varmistaa, että pysyt turvassa.
+security-recommendation-phone-step-one = Estä ns. spamminumerot estääksesi mahdolliset roskapuhelut
 security-recommendation-phone-step-two = Älä napsauta tuntemattomien lähettäjien tekstiviesteissä olevia linkkejä. Jos viesti vaikuttaa olevan luotettavasta lähteestä, soita lähettäjälle vahvistaaksesi
 
 # Email security recommendation
@@ -183,6 +184,12 @@ leaked-passwords-estimated-time =
 # Leaked Security Questions
 
 leaked-security-questions-title = Turvakysymyksesi paljastettiin
+# Variables
+# $breach_name is the name of the breach where the leaked security questions were found.
+# $breach_date is the date when the breach occurred.
+# An example of this string is Twitter on 13/09/18.
+leaked-security-questions-summary = Ne paljastuivat tietovuodossa { $breach_name } { $breach_date }.
+leaked-security-questions-description = Huijarit voivat käyttää näitä päästäkseen tileillesi ja muille sivustoille, joilla olet käyttänyt samoja turvakysymyksiä. Päivitä kysymykset välittömästi suojataksesi tilisi.
 leaked-security-questions-steps-title = Tämän kaiken voit tehdä
 leaked-security-questions-steps-subtitle = Tämä vaatii pääsyn tiliisi, joten sinun on korjattava se manuaalisesti.
 # Variables
