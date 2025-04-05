@@ -72,6 +72,7 @@ dashboard-exposures-filter-show-results = Näytä tulokset
 dashboard-top-banner-section-label = Hallintapaneelin yhteenveto
 dashboard-top-banner-scan-in-progress-title = Tarkistus on edelleen kesken
 dashboard-top-banner-your-data-is-protected-title = Tietosi on suojattu
+dashboard-top-banner-your-data-is-protected-cta = Näytä ratkaistut
 dashboard-top-banner-lets-keep-protecting-title = Jatketaan tietojesi suojaamista
 # Variables:
 # $exposures_unresolved_num is the remaining number of exposures the user has to resolve.
@@ -106,4 +107,8 @@ dashboard-top-banner-monitor-more-cta = Tarkkaile useampia sähköpostiosoitteit
 
 # About Exposure Indicators Modal
 
+modal-exposure-status-description-all =
+    Etsimme altistumisia kaikista tunnetuista tietovuodoista.
+    Altistumisilla on jokin seuraavista tiloista:
+modal-exposure-indicator-title = Altistumistilat
 modal-exposure-indicator-fixed = Altistuminen on ratkaistu, eikä sinun tarvitse tehdä mitään.
