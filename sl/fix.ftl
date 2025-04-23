@@ -33,7 +33,7 @@ fix-flow-celebration-high-risk-description-next-dashboard = Prišli ste do konca
 
 fix-flow-celebration-leaked-passwords-title = Vaša gesla so zdaj zaščitena!
 fix-flow-celebration-security-questions-title = Vaša varnostna vprašanja so zaščitena!
-fix-flow-celebration-leaked-passwords-description-next-security-questions = Zdaj pa preglejmo in posodobimo vaša izpostavljena varnostna vprašanja.
+fix-flow-celebration-leaked-passwords-description-next-security-questions = Zdaj pa preglejmo in spremenimo vaša varnostna vprašanja, ki so bila izpostavljena.
 fix-flow-celebration-leaked-passwords-description-next-security-recommendations = Nato vam bomo dali prilagojena varnostna priporočila glede na to, kateri vaši podatki so bili izpostavljeni.
 fix-flow-celebration-leaked-passwords-description-next-dashboard = Bravo! Prišli ste do konca svojih korakov. Na nadzorni plošči si lahko ogledate poljubne elemente dejanj in spremljate napredek.
 
