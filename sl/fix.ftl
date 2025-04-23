@@ -121,9 +121,9 @@ high-risk-breach-none-title = Odlična novica, odkrili nismo nobene visoko tvega
 # $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
 high-risk-breach-none-description = Na podlagi vašega e-poštnega naslova zaznavamo kraje podatkov z visokim tveganjem za { $email_list }.
 high-risk-breach-none-sub-description-part-one = Visoko tvegane kraje podatkov vključujejo:
-high-risk-breach-none-sub-description-ssn = Številka socialnega zavarovanja
-high-risk-breach-none-sub-description-bank-account = Podatki o bančnem računu
-high-risk-breach-none-sub-description-cc-number = Številke kreditnih kartic
+high-risk-breach-none-sub-description-ssn = številko socialnega zavarovanja
+high-risk-breach-none-sub-description-bank-account = podatke o bančnem računu
+high-risk-breach-none-sub-description-cc-number = številke kreditnih kartic
 high-risk-breach-none-sub-description-pin = kode PIN
 high-risk-breach-none-continue = Nadaljuj
 
