@@ -37,6 +37,8 @@ dashboard-exposures-filter-reset = איפוס
 
 ## Top banner on the dashboard
 
+dashboard-no-exposures-label = לא נמצאו חשיפות
+dashboard-top-banner-monitor-more-cta = ניטור כתובות דוא״ל נוספות
 
 # About Exposure Indicators Modal
 
