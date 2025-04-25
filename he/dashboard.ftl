@@ -21,6 +21,7 @@ exposure-chart-legend-heading-type = חשיפה
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
+exposure-chart-caption = תרשים זה מציג כמה פעמים המידע שלך נחשף כרגע.
 # Variables:
 #   $total_fixed_exposures_num (number) - Number of fixed exposures
 #   $total_exposures_num (number) - Number of total exposures
