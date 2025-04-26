@@ -16,7 +16,7 @@ exposure-chart-heading =
     }
 # Variables:
 #   $nr (number) - Number of fixed exposures found for the user
-exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label><label>טופלו</label>
+exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>טופלו</label>
 exposure-chart-legend-heading-type = חשיפה
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
