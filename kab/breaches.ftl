@@ -7,6 +7,9 @@ breach-all-meta-social-title = Akk tirewliwin ttwafent-d s { -brand-fx-monitor }
 # Variables:
 #   $company (String) - Name of the company that was breached, e.g. "PHP Freaks"
 breach-detail-meta-page-title = Tarewla n yisefka { $company } – { -brand-fx-monitor }
+# Variables:
+#   $company (String) - Name of the company that was breached, e.g. "PHP Freaks"
+breach-detail-meta-social-title = Tarewla n yisefka n { $company } teɛna-k?
 
 ## Links that we might refer to when prompting the user to make changes after a breach
 
