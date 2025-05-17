@@ -12,6 +12,7 @@ exposure-chart-legend-value-nr = { $nr } ×
 exposure-chart-returning-user-upgrade-prompt = മേൽവിലാസവും ചാൎച്ചക്കാരും കൂടുതൽ ഉൾപ്പെടുത്തിയിട്ടില്ല.
 modal-cta-ok = ശരി
 modal-cta-got-it = പിടിക്കിട്ടി
+progress-card-manually-fixed-headline = കായികമായി നന്നാക്കി
 dashboard-tab-label-action-needed = നടപടി ആവിശ്യം
 dashboard-tab-label-fixed = നന്നാക്കി
 # This is the label on a button that opens a popover menu, which shows a menu to adjust filters for the listed exposures.
