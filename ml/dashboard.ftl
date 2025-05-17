@@ -12,6 +12,7 @@ exposure-chart-legend-value-nr = { $nr } ×
 exposure-chart-returning-user-upgrade-prompt = മേൽവിലാസവും ചാൎച്ചക്കാരും കൂടുതൽ ഉൾപ്പെടുത്തിയിട്ടില്ല.
 modal-cta-ok = ശരി
 modal-cta-got-it = പിടിക്കിട്ടി
+progress-card-heres-what-we-fixed-headline-all = ഇതെല്ലാത്തിനെയാണു് താങ്ങൾ നന്നാക്കിയതു്
 progress-card-manually-fixed-headline = കായികമായി നന്നാക്കി
 dashboard-tab-label-action-needed = നടപടി ആവിശ്യം
 dashboard-tab-label-fixed = നന്നാക്കി
@@ -29,6 +30,7 @@ dashboard-exposures-filter-show-results = ഫലങ്ങള്‍ കാണി�
 
 ## Top banner on the dashboard
 
+dashboard-top-banner-lets-keep-protecting-cta = തുടരുകൊണ്ടിരിക്കാം
 dashboard-top-banner-protect-your-data-cta = നമ്മൾക്കു് അതു് നന്നാക്കാം
 
 # About Exposure Indicators Modal
