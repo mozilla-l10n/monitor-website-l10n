@@ -39,6 +39,7 @@ high-risk-breach-skip = Suref akka tura
 
 # Credit Card Breaches
 
+high-risk-breach-credit-card-step-two = Assuter n tkarḍa tamaynut s wuṭṭun amaynut.
 
 # Bank Account Breaches
 

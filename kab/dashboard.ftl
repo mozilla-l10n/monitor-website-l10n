@@ -42,6 +42,10 @@ dashboard-top-banner-lets-keep-protecting-title = Eǧǧ isefka-k⋅m mmestnen
 dashboard-top-banner-lets-keep-protecting-cta = Ad nkemmel
 dashboard-top-banner-protect-your-data-title = Aha ad nemmesten isefka-k
 dashboard-top-banner-protect-your-data-cta = Ṣeggem-it
+dashboard-top-banner-no-exposures-found-title = Ulac tirewliwin i yettwafen
+dashboard-no-exposures-label = Ulac tirewliwin i yettwafen
+dashboard-top-banner-monitor-more-cta = Ɛawed ɛass tanaka n urmas
 
 # About Exposure Indicators Modal
 
+modal-exposure-indicator-title = Addaden n trewliwin
