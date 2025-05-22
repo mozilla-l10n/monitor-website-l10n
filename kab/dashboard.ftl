@@ -10,10 +10,14 @@ exposure-chart-legend-heading-nr = Amḍan
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }×
+exposure-chart-returning-user-upgrade-prompt-cta = Bdu asekyed ilelli
+modal-active-number-of-exposures-title = Ɣef umḍan n trewliwin turmidin
+modal-fixed-number-of-exposures-title = Ɣef umḍan n trewliwin yettwaṣeggmen
 modal-cta-ok = IH
 modal-cta-got-it = Awi-t
 open-modal-alt = Ldi tabewwaḍt n udiwenni
 close-modal-alt = Mdel adiwenni
+progress-card-manually-fixed-headline = Yettwaṣeggem s usfus
 dashboard-tab-label-action-needed = Tigawt-a tlaq
 dashboard-tab-label-fixed = Iṣeggem
 dashboard-exposures-all-fixed-label = Iṣeggem kullec!
@@ -34,6 +38,7 @@ dashboard-exposures-filter-reset = Wennez
 
 dashboard-top-banner-your-data-is-protected-title = Isefka-k ttummestnen
 dashboard-top-banner-your-data-is-protected-cta = Wali acu i iṣeggmen
+dashboard-top-banner-lets-keep-protecting-title = Eǧǧ isefka-k⋅m mmestnen
 dashboard-top-banner-lets-keep-protecting-cta = Ad nkemmel
 dashboard-top-banner-protect-your-data-title = Aha ad nemmesten isefka-k
 dashboard-top-banner-protect-your-data-cta = Ṣeggem-it
