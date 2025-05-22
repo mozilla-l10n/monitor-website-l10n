@@ -22,7 +22,10 @@ exposure-card-credit-card = Takaṛḍa n usmad
 exposure-card-password = Awal uffir
 exposure-card-ip-address = Tansa IP
 exposure-card-other = Wiyaḍ
+exposure-card-your-exposed-info = Talɣut-ik⋅im i irewlen:
 exposure-card-exposure-type-data-breach = Tarewla n yisefka
+exposure-card-resolve-exposures-cta = Ṣeggem tirewliwin
+exposure-card-label-company-logo = Alugu n tkebbanit
 exposure-card-label-company = Takebbanit
 # Status of the exposure card, could be In Progress, Fixed or Action Needed
 exposure-card-label-status = Addad
@@ -30,3 +33,4 @@ exposure-card-label-status = Addad
 # $category_label is the data breach exposure type that was leaked. Eg. Email, IP Address.
 # $count is the number of times that the data type was leaked.
 exposure-card-label-and-count = { $category_label }: { $count }
+exposure-card-manual-resolution-praise = <b>Gedha!</b> Tṣeggmeḍ tarewla-a n yisefka.
