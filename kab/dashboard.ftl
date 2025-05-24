@@ -5,6 +5,9 @@
 
 # Chart summarizing total exposures
 
+# Variables:
+#   $nr (number) - Number of fixed exposures found for the user
+exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>Yettwaṣeggem</label>
 exposure-chart-legend-heading-type = Tifin n trewliwin n yisefka
 exposure-chart-legend-heading-nr = Amḍan
 # Variables:
@@ -36,6 +39,8 @@ dashboard-exposures-filter-reset = Wennez
 
 ## Top banner on the dashboard
 
+dashboard-top-banner-section-label = Agzul n tfelwit n usenqed
+dashboard-top-banner-scan-in-progress-title = Asekyed la iteddu
 dashboard-top-banner-your-data-is-protected-title = Isefka-k ttummestnen
 dashboard-top-banner-your-data-is-protected-cta = Wali acu i iṣeggmen
 dashboard-top-banner-lets-keep-protecting-title = Eǧǧ isefka-k⋅m mmestnen
