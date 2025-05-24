@@ -23,6 +23,7 @@ exposure-card-password = Awal uffir
 exposure-card-ip-address = Tansa IP
 exposure-card-other = Wiyaḍ
 exposure-card-your-exposed-info = Talɣut-ik⋅im i irewlen:
+exposure-card-exposure-type-data-broker = Isalan i usenzi
 exposure-card-exposure-type-data-breach = Tarewla n yisefka
 exposure-card-resolve-exposures-cta = Ṣeggem tirewliwin
 exposure-card-label-company-logo = Alugu n tkebbanit

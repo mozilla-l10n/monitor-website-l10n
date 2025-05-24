@@ -41,6 +41,9 @@ customer-interactions = Timyigawin n yimsaɣen
 dates-of-birth = Izmaz n tlalit
 deceased-date = Azemz n tmettant
 deceased-statuses = Addaden n tmettant
+# Instructions that you can set up in online shopping services to get your orders
+# delivered (e.g. deliver to a specific neighbor, entrance location, etc.).
+delivery-instructions = Iwellihen n usiweḍ
 device-information = Talɣut n yibenk
 device-serial-numbers = Imḍanen n uzrir n yibenk
 device-usage-tracking-data = ISefka n uḍfaṛ n useqdec n yibenkan
