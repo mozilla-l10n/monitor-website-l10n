@@ -38,6 +38,8 @@ user-add-invalid-email = Ugyldig epostadresse
 user-add-too-many-emails = Du overvåker det maksimale antallet e-postadresser.
 user-add-duplicate-email = Denne e-postadressen er allerede lagt til { -product-name }.
 user-add-verification-email-just-sent = En ny bekreftelses-e-post kan ikke sendes så raskt. Prøv på nytt senere.
+user-add-unknown-error = Noe gikk galt da en ekstra e-postadresse skulle legges til. Prøv igjen senere.
+user-delete-unknown-error = Noe gikk galt da en e-postadresse skulle fjernes. Prøv på nytt senere.
 user-verify-token-error = Bekreftelsessymbol er påkrevd.
 # compromised-data = the kind of user data exposed to hackers in data breach.
 compromised-data = Kompromiterte data:
@@ -148,12 +150,19 @@ new-breach = Ny
 
 ##
 
+# “account” can be localized, “Mozilla” must be treated as a brand,
+# and kept in English.
+-brand-mozilla-account = Mozilla-konto
+open-in-new-tab-alt = Åpne lenke i en ny fane
 
 ## Search Engine Optimization
 
+meta-desc-2 = Finn ut om du har vært en del av en datalekkasje med { -brand-fx-monitor }. Vi hjelper deg med å forstå hva du skal gjøre videre og overvåker kontinuerlig for nye datalekkasjer.
 
 ## Header
 
+# Deprecated
+brand-fx-monitor = { -brand-fx-monitor }
 sign-in = Logg inn
 
 ## Site navigation
