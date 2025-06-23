@@ -164,18 +164,50 @@ meta-desc-2 = Finn ut om du har vært en del av en datalekkasje med { -brand-fx-
 # Deprecated
 brand-fx-monitor = { -brand-fx-monitor }
 sign-in = Logg inn
+brand-mozilla-monitor = { -brand-fx-monitor }
 
 ## Site navigation
 
+mobile-menu-label = Hovedmeny
+main-nav-button-collapse-label = Skjul meny
+main-nav-button-collapse-tooltip = Skjul meny
+main-nav-button-expand-label = Utvid meny
+main-nav-button-expand-tooltip = Utvid meny
+main-nav-label = Navigasjon
+main-nav-link-home-label = Hjem
+main-nav-link-dashboard-label = Oversikt
+main-nav-link-settings-label = Innstillinger
+main-nav-link-faq-label = Ofte stilte spørsmål
+main-nav-link-faq-tooltip = Ofte stilte spørsmål
 
 ## User menu
 
+user-menu-trigger-label = Åpne brukermeny
+user-menu-trigger-tooltip = Profil
+user-menu-manage-fxa-label = Behandle din { -brand-mozilla-account }
+user-menu-settings-label = Innstillinger
+user-menu-settings-tooltip = Konfigurer { -brand-mozilla-monitor }
+user-menu-help-label = Hjelp og brukerstøtte
+user-menu-help-tooltip = Få hjelp med å bruke { -brand-mozilla-monitor }
+user-menu-signout-label = Logg ut
+user-menu-signout-tooltip = Logg ut av { -brand-mozilla-monitor }
 
 ## Footer
 
+mozilla = { -brand-mozilla }
+terms-of-service = Tjenestevilkår
+privacy-notice = Personvernerklæring
+github = { -brand-github }
+footer-nav-recent-breaches = Nylige datalekkasjer
+footer-external-link-faq-label = Ofte stilte spørsmål
+footer-external-link-faq-tooltip = Ofte stilte spørsmål
 
 ## Error page
 
+# Variables:
+#   $errorCode (number) - "404"
+error-page-error-404-title = { $errorCode } Fant ikke siden
+error-page-error-404-copy = Beklager, siden du leter etter finnes ikke lenger.
 
 ## Breach overview page
 
