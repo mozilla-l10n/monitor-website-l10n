@@ -16,8 +16,18 @@
 -brand-fxa = Firefox-konto
 -brand-pocket = Pocket
 -brand-lockwise = Firefox Lockwise
+-brand-firefox = Firefox
+-brand-monitor = Monitor
+-brand-fx-monitor = Mozilla Monitor
+-brand-mozilla = Mozilla
+-brand-premium = Premium
+-brand-monitor-premium = Monitor Premium
+-brand-mozilla-foundation = Mozilla Foundation
+-brand-github = GitHub
 -brand-mozilla-vpn = Mozilla VPN
 -brand-relay = Firefox Relay
+-brand-mozilla-monitor = Mozilla Monitor
+-brand-monitor-plus = Monitor Plus
 
 ##
 
@@ -27,6 +37,7 @@ error-hibp-connect = Klarte ikke å koble til { -brand-HIBP }.
 user-add-invalid-email = Ugyldig epostadresse
 user-add-too-many-emails = Du overvåker det maksimale antallet e-postadresser.
 user-add-duplicate-email = Denne e-postadressen er allerede lagt til { -product-name }.
+user-add-verification-email-just-sent = En ny bekreftelses-e-post kan ikke sendes så raskt. Prøv på nytt senere.
 user-verify-token-error = Bekreftelsessymbol er påkrevd.
 # compromised-data = the kind of user data exposed to hackers in data breach.
 compromised-data = Kompromiterte data:
