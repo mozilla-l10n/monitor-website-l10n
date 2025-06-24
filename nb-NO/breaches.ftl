@@ -59,12 +59,19 @@ breach-checklist-ip-header-2 = Beskytt identiteten din på internett ved å bruk
 
 ## Prompts the user for changes when there is a breach detected of physical address
 
+breach-checklist-address-header = Endre alle passord eller PIN-koder som inneholder deler av adressen din.
+breach-checklist-address-body = Adresser er enkle å finne i offentlige registre, og kan gjøre det enkelt å gjette passord og PIN-koder.
 
 ## Prompts the user for changes when there is a breach detected of date of birth
 
+breach-checklist-dob-header = Endre eventuelle passord eller PIN-koder som inkluderer fødselsdatoen din.
+breach-checklist-dob-body = Fødselsdatoer er enkle å finne i offentlige registre, og folk som finner dem kan lett gjette PIN-koden din.
 
 ## Prompts the user for changes when there is a breach detected of phone number
 
+# Variables:
+#   $firefoxRelayLink (string) - a link to Firefox Relay, with { -breach-checklist-link-firefox-relay } as the label
+breach-checklist-phone-header-2 = Beskytt telefonnummeret ditt med en maskeringstjeneste som { $firefoxRelayLink }, som skjuler ditt virkelige telefonnummer.
 
 ## Prompts the user for changes when there is a breach detected of security questions
 
