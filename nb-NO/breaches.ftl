@@ -21,15 +21,24 @@ breach-checklist-link-mozilla-vpn = { -brand-mozilla-vpn }
 
 ## Prompts the user for changes when there is a breach detected of password
 
+breach-checklist-pw-header-text = Oppdater passordene dine og aktiver tofaktorautentisering (2FA).
 
 ## Prompts the user for changes when there is a breach detected of email
 
+# Variables:
+#   $firefoxRelayLink (string) - a link to Firefox Relay, with { -breach-checklist-link-firefox-relay } as the label
+breach-checklist-email-header-2 = Beskytt e-posten din med en e-postmaskeringstjeneste som { $firefoxRelayLink }.
+breach-checklist-email-body = Dette kan skjule din virkelige e-postadresse mens du videresender e-poster til din virkelige innboks.
 
 ## Prompts the user for changes when there is a breach detected of social security number
 
+# Credit reports list your bill payment history, loans, current debt, and other financial information.
+# They show where you work and live and whether you've been sued, arrested, or filed for bankruptcy.
+breach-checklist-ssn-header = Overvåk kredittrapporten din for kontoer, lån eller kredittkort du ikke kjenner igjen.
 
 ## Prompts the user for changes when there is a breach detected of credit card
 
+breach-checklist-cc-header = Rapporter denne datalekkasjen til kredittkortutstederen din og be om et nytt kort med et nytt nummer.
 
 ## Prompts the user for changes when there is a breach detected of bank account
 
