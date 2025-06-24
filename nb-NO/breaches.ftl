@@ -39,15 +39,23 @@ breach-checklist-ssn-header = Overvåk kredittrapporten din for kontoer, lån el
 ## Prompts the user for changes when there is a breach detected of credit card
 
 breach-checklist-cc-header = Rapporter denne datalekkasjen til kredittkortutstederen din og be om et nytt kort med et nytt nummer.
+breach-checklist-cc-body = Du bør også sjekke bankkortutskriftene dine for ukjente belastninger.
 
 ## Prompts the user for changes when there is a breach detected of bank account
 
+breach-checklist-bank-header = Varsle banken din umiddelbart om at kontonummeret ditt er blitt kompromittert.
+breach-checklist-bank-body = Å gjøre det raskere kan gi deg mer juridisk beskyttelse som hjelper deg med å dekke eventuelle tap. Du bør også sjekke kontoene dine for eventuelle ukjente belastninger.
 
 ## Prompts the user for changes when there is a breach detected of pin
 
+breach-checklist-pin-header = Varsle kortutstederen din og endre PIN-koden din umiddelbart.
+breach-checklist-pin-body = Sørg for at den nye PIN-koden din, eller andre PIN-koder, ikke inneholder lett gjettede tall, som fødselsdato eller adresse.
 
 ## Prompts the user for changes when there is a breach detected of IP address
 
+# Variables:
+#   $mozillaVpnLink (string) - a link to the Mozilla VPN website, with { -breach-checklist-link-mozilla-vpn } as the label
+breach-checklist-ip-header-2 = Beskytt identiteten din på internett ved å bruke et VPN som { $mozillaVpnLink }.
 
 ## Prompts the user for changes when there is a breach detected of physical address
 
