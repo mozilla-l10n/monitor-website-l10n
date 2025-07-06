@@ -21,6 +21,13 @@ settings-alert-preferences-option-two = Send alle varsler om datalekkasjer til d
 # Variables:
 #   $email (string) - Email address
 settings-email-list-title = Overvåkede e-postadresser
+# Variables:
+#   $limit (number) - Number of email addresses included in the plan
+settings-email-limit-info =
+    { $limit ->
+        [one] Kontoen din inkluderer overvåking av opptil { $limit } e-postadresse.
+       *[other] Kontoen din inkluderer overvåking av opptil { $limit } e-postadresser.
+    }
 settings-email-verification-callout = E-postbekreftelse kreves
 settings-resend-email-verification-link = Send e-postbekreftelse på nytt
 settings-add-email-button = Legg til e-postadresse
@@ -53,6 +60,14 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = Ignorer
 ## Monthly Monitor Report
 
 settings-alert-preferences-allow-monthly-monitor-report-title = Månedlig { -brand-monitor }-rapport
+settings-alert-preferences-allow-monthly-monitor-report-subtitle = En månedlig oppdatering av nye eksponeringer, hva som er fikset og hva som trenger din oppmerksomhet.
 
 ## Settings page redesign
 
+settings-tab-label-edit-info = Rediger dine opplysninger
+settings-tab-label-notifications = Still inn varsler
+settings-tab-label-manage-account = Behandle konto
+settings-tab-subtitle-manage-account = Behandle { -product-name }-kontoen din.
+settings-tab-notifications-marketing-title = Markedskommunikasjon
+settings-tab-notifications-marketing-text = Periodiske oppdateringer om { -brand-monitor }, { -brand-mozilla } og våre andre sikkerhetsprodukter.
+settings-tab-notifications-marketing-link-label = Gå til e-postinnstillingene for { -brand-mozilla }
