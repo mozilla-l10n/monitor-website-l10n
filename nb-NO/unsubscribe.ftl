@@ -11,6 +11,11 @@ unsubscribe-cta = Avslutt abonnement
 
 # Success Unsubscription State
 
+unsubscribe-success-from-monthly-report-header = Abonnementet er nå avsluttet.
+unsubscribe-success-from-monthly-report-body = Du kan når som helst abonnere på nytt eller oppdatere e-postinnstillingene dine fra { -brand-monitor }-innstillingene dine.
+unsubscribe-success-cta = Logg inn på { -brand-monitor }
 
 # Error warning
 
+unsubscription-failed = Klarte ikke å avslutte abonnementet. <try_again_link>Prøv på nytt.</try_again_link>
+unsubscription-failed-2 = Klarte ikke å avslutte abonnementet.
