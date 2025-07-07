@@ -41,6 +41,7 @@ modal-active-number-of-exposures-part-one-all =
 modal-active-number-of-exposures-part-two = Techapyrã, eguerekóramo 10 mba’evaikuaa ne pumbyry papapy rehegua, upéva ikatu he’ise peteĩ pumbyry papapy imarãkuaaha 10 tendápe térã ikatu he’ise 2 pumbyry papapy iñambuéva imarãkuaahague 5 tenda ambuévape.
 modal-active-number-of-exposures-part-three-all = Oñemoĩporã vove, oñembojuajúta nde papapy jehechapy oĩporãmava kuatiarogue Moĩporãhápe.
 modal-fixed-number-of-exposures-title = Mboyjeýmapa ipapapy jehechauka opytáva
+modal-fixed-number-of-exposures-all = Ko ta’ãnga’i ogueroikéta mboyete mba’ekuaarã ñemboguápa oñemoĩporã opaite ñanduti vevépe g̃uarã ehecháva ko’ág̃a peve. Oñemongurusupa rire ñemoĩporãmbyrévaramo, oñembojoajupaitéta ko’ápe.
 modal-cta-ok = MONEĨ
 modal-cta-got-it = Aikũmby
 open-modal-alt = Embojuruja modal
