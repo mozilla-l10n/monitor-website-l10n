@@ -177,6 +177,7 @@ leaked-passwords-title = Ne ñe’ẽñemi { $breach_name } pegua ojehechakuaa
 # Variables
 # $breach_date is the date when the breach occurred.
 leaked-passwords-summary = Osẽ peteĩ mba’ekuaarã ñembogua { $breach_date }.
+leaked-passwords-description = Umi mba’evaiapoha ikatu oike ne mba’etépe ha oiméne oñeha’ãta oiporu ambue mba’etépe ohecha hag̃ua eiporujeýpa pe ñe’ẽñemi. Emoambue opaite tenda eiporu haguépe eñemo’ã hag̃ua.
 leaked-passwords-steps-title = Kóva pe rejapova’erã
 leaked-passwords-steps-subtitle = Kóva oikotevẽ ne mba’etépe jeike, ikatuhápe emoĩporã nde poite rupive.
 # Variables
@@ -204,6 +205,7 @@ leaked-security-questions-title = Ne porandu tekorosãrãva ojehechakakuaa
 # $breach_date is the date when the breach occurred.
 # An example of this string is Twitter on 13/09/18.
 leaked-security-questions-summary = Osẽ peteĩ mba’ekuaarã ñembogua { $breach_name }-pe { $breach_date }.
+leaked-security-questions-description = Umi mba’evaiapoha ikatukuaa oike ne mba’etépe ha oimeraẽva ambue tenda eiporu haguépe porandu tekorosãgua. Embohekopyahu ko’ág̃a emo’ã hag̃ua ne mba’ete.
 leaked-security-questions-steps-title = Kóva pe rejapova’erã
 leaked-security-questions-steps-subtitle = Kóva oikotevẽ ne mba’etépe jeike, ikatuhápe emoĩporã nde poite rupive.
 # Variables
