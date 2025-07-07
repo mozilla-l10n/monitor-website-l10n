@@ -31,6 +31,7 @@ landing-all-faq-see-all = Ehechapa FAQs
 landing-all-data-breach-definition-qn = Mba’épa pe mba’ekuaarã ñembyai
 landing-all-data-breach-definition-ans = Mba’ekuaarã ñembogua oikórõ maranduete térã ñemiguáva oñeguenohẽrõ, oñemonda térã oñembokuatia moneĩ’ỹre. Ko’ã mba’e tekorosãgua oikokuaa mba’evaiapoha ñanditi rendagua rupive, tembiporu’i térã oimeraẽva mba’ekuaarã renda oĩhápe tapichakuéra maranduete. Umi mba’ekuaarã ñembogua oikokuaa ijehegui, techapyrãrõ peteĩ jeikerã ñemiguáva osẽrõ peichahágui jepota’ỹre.
 landing-all-data-breach-next-steps-qn = Ajuhu ramoite peteĩ mba’ekuaarã ñembyai. ¿Mba’e ajapokuaa?
+landing-all-data-breach-next-steps-ans = Eike { -brand-mozilla-monitor }-pe eikuaávo mba’épa ejapóta oikórõ mba’ekuaarã ñembogua ha ehupyty tape mba’éichapa emyatyrõta mba’evai marandu nde rehegua. Umi hacker ojerovia tapichakuéra oiporu jeývo ñe’ẽñemi, upévare iporã emoheñói ñe’ẽñemi hekorosãva ha ha’eñóva opaite ne mba’etépe. Eñongatu ñe’ẽñemi tenda hekorosãvape nde añoite eikuaáva; kóva ikatu peteĩ tenda eñongatuhápe kuatiaite emomba’éva térã ñe’ẽñemi ñangarekoha.
 landing-all-data-breach-info-qn = Mba’e marandúpa ojehecha mba’ekuaarã ñemboguápe
 landing-all-data-breach-info-ans = Ndahetái ñembogua ohechaukáta peteĩ marandúnte. Oikóta mba’ete og̃uahẽ mba’evaiapohápe. Heta mba’ekuaarã ñembogua onohẽkuaa ñanduti veve kundaharape ha ñe’ẽñemi. Ambue onohẽ marandu ñemivegua, kuatia’atã ñemurã, PIN ha seguridad social papapy.
 landing-all-close-faq-alt = Mboty
