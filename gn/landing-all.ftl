@@ -17,6 +17,7 @@ landing-all-hero-image-chart-label = ejehechauka
 landing-all-value-prop-fix-exposures = Roipytyvõta ne ñembyaikuaa myatyrõrã
 landing-all-value-prop-fix-exposures-description = Ore rembipota ha’e romoĩvo nde pópe mba’éichapa eiporúta mba’ekuaarã teet. Roipytyvõta emoĩporã hag̃ua mba’ekuaarã ñembogua ha erekévo ne marandu ñemíme, ha <privacy_link>romomba’éta nde rekoñemi</privacy_link> jeku’ehápe.
 landing-all-value-prop-info-at-risk = Mba’e marandúpa oñembyaikuaa
+landing-all-value-prop-info-at-risk-description = Rombyasy, umi mba’ekuaarã ñembogua ojogueraha ore ñanduti rekovére. Ne ñe’ẽñemi, mba’ekuaarã papapygua, marandu virugua ha ambue marandu nde rehegua ikatukuaa oñembyai, nde reraite oñemondakuaahápe.
 
 # Quote
 
