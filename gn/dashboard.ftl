@@ -38,6 +38,7 @@ modal-active-number-of-exposures-part-one-all =
         [one] Ko gráfico ogueroike mboy jeýpa rojuhu peteĩteĩva mba’ekuaarã osẽkuaáva opaite mba’ekuaarã { $limit }-pe g̃uarã ñanduti veve kundaharape emongu’éva ko’ág̃a.
        *[other] Ko gráfico ogueroike mboy jeýpa rojuhu peteĩteĩva mba’ekuaarã osẽkuaáva opaite mba’ekuaarã { $limit }-pe g̃uarã ñanduti veve kundaharape emongu’éva ko’ág̃a.
     }
+modal-active-number-of-exposures-part-two = Techapyrã, eguerekóramo 10 mba’evaikuaa ne pumbyry papapy rehegua, upéva ikatu he’ise peteĩ pumbyry papapy imarãkuaaha 10 tendápe térã ikatu he’ise 2 pumbyry papapy iñambuéva imarãkuaahague 5 tenda ambuévape.
 modal-active-number-of-exposures-part-three-all = Oñemoĩporã vove, oñembojuajúta nde papapy jehechapy oĩporãmava kuatiarogue Moĩporãhápe.
 modal-fixed-number-of-exposures-title = Mboyjeýmapa ipapapy jehechauka opytáva
 modal-cta-ok = MONEĨ
