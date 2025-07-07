@@ -118,6 +118,13 @@ dashboard-top-banner-non-us-protect-your-data-description-line2 =
 dashboard-top-banner-no-exposures-found-title = Ndojejuhúi máva jehechauka
 dashboard-top-banner-non-us-no-exposures-found-description = ¡Mba’éichapa! Roheka umi mba’ekuaarã ñembogua ojekuaáva ha ndorojuhúi mba’evairã. Rohapykuehóta ne ñanduti veve kundaharape ha romomarandúta oĩramo ñembogua.
 dashboard-no-exposures-label = Ndojejuhúi máva jehechauka
+# Variables:
+# $exposures_resolved_num is the number of exposures the user has resolved.
+dashboard-top-banner-non-us-your-data-is-protected-description =
+    { $exposures_resolved_num ->
+        [one] ¡Tembiapo iporãva! ¡Oñemyatyrõma ne mba’ekuaarã rekomarã! Rohechameméta ha roikuaaukáta ndéve oimeraẽ tekomarã pyahu oĩvare.
+       *[other] ¡Tembiapo iporãva! ¡Oñemyatyrõma ne mba’ekuaarã { $exposures_resolved_num } rekomarã! Rohechameméta ha roikuaaukáta ndéve oimeraẽ tekomarã pyahu oĩvare.
+    }
 dashboard-top-banner-monitor-more-cta = Roma’ẽag̃uíta hetave ñanduti vevére
 
 # About Exposure Indicators Modal
