@@ -15,6 +15,7 @@ landing-all-hero-image-chart-label = ejehechauka
 # Value Proposition
 
 landing-all-value-prop-fix-exposures = Roipytyvõta ne ñembyaikuaa myatyrõrã
+landing-all-value-prop-fix-exposures-description = Ore rembipota ha’e romoĩvo nde pópe mba’éichapa eiporúta mba’ekuaarã teet. Roipytyvõta emoĩporã hag̃ua mba’ekuaarã ñembogua ha erekévo ne marandu ñemíme, ha <privacy_link>romomba’éta nde rekoñemi</privacy_link> jeku’ehápe.
 landing-all-value-prop-info-at-risk = Mba’e marandúpa oñembyaikuaa
 
 # Quote

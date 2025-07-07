@@ -212,3 +212,4 @@ leaked-security-questions-steps-subtitle = Kóva oikotevẽ ne mba’etépe jeik
 # $breach_name is the name of the breach where the security questions were found.
 # $email_affected is the email associated with the breach.
 leaked-security-questions-step-one = Embohekopyahu ne porandu tekorosãrã <b>{ $email_affected }</b> peg̃uarã <link_to_breach_site>{ $breach_name }</link_to_breach_site>-pe.
+leaked-security-questions-step-two = Embohekopyahu ambue tenda eipuru jey haguépe porandu tekorosãgua. Ejesareko eipuruha iñambuéva porandu tekorosãgua peteĩteĩva mba’etépe.
