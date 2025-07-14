@@ -44,6 +44,7 @@ modal-fixed-number-of-exposures-title = Om ditt antall løste eksponeringer
 modal-fixed-number-of-exposures-all = Dette diagrammet inkluderer det samlede antallet datalekkasjer som er blitt løst for alle e-postadressene du for tiden holder øye med. Når en eksponering er markert som løst, vil den bli lagt til det samlede antallet her.
 modal-cta-ok = OK
 modal-cta-got-it = Forstått
+open-tooltip-alt = Åpne verktøytips
 progress-card-heres-what-we-fixed-headline-all = Du har løst følgende
 progress-card-manually-fixed-headline = Løst manuelt
 dashboard-tab-label-action-needed = Krever handling
