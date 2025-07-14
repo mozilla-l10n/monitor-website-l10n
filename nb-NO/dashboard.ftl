@@ -5,8 +5,23 @@
 
 # Chart summarizing total exposures
 
+# The number inside <nr> will be displayed in a large font,
+# the label inside <label> will be shown underneath, in a smaller font.
+# Variables:
+#   $nr (number) - Number of unresolved exposures for the user
+exposure-chart-heading =
+    { $nr ->
+        [one] <nr>{ $nr }</nr> <label>datalekkasje</label>
+       *[other] <nr>{ $nr }</nr> <label>datalekkasjer</label>
+    }
+# Variables:
+#   $nr (number) - Number of fixed exposures found for the user
+exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>løst</label>
 exposure-chart-legend-heading-type = Eksponering
 exposure-chart-legend-heading-nr = Antall
+# Variables:
+#   $nr (number) - Number of a particular type of exposure found for the user
+exposure-chart-legend-value-nr = { $nr }×
 exposure-chart-caption = Dette diagrammet viser hvor mange ganger dine opplysninger har blitt aktivt eksponert.
 # Variables:
 #   $total_fixed_exposures_num (number) - Number of fixed exposures
