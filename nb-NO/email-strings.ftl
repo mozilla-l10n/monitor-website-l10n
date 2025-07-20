@@ -5,9 +5,17 @@
 
 ## Email headers
 
+email-header-logo-alt = { -brand-mozilla-monitor }
+email-header-button-sign-in = Logg inn
 
 ## Email footers
 
+email-footer-support-heading = Spørsmål om { -brand-mozilla-monitor }?
+email-footer-support-content = Besøk vårt <support-link>brukerstøttesenter</support-link> for å få hjelp
+email-footer-trigger-transactional = Du mottar denne e-posten som abonnent på { -brand-mozilla-monitor }.
+email-footer-source-hibp = Informasjon om datalekkasje stammer fra <hibp-link>{ -brand-HIBP }</hibp-link>
+email-footer-logo-mozilla-alt = { -brand-mozilla }
+email-footer-meta-privacy-notice = Personvern
 # Firefox Relay is a product name and should not be translated.
 -product-name-relay = Firefox Relay
 # Mozilla VPN is a product name and should not be translated.
@@ -36,12 +44,22 @@ email-breach-alert-blurb =
 
 ## 2022 email template. HTML tags should not be translated, e.g. `<a>`
 
+# Have I Been Pwned attribution
+# Variables:
+#   $hibp-link-attr (String) - Link to Have I Been Pwned
+email-2022-hibp-attribution = Informasjon om datalekkasje stammer fra <a { $hibp-link-attr }>{ -brand-HIBP }</a>
 
 ## Verification email
 
+email-verify-heading = Beskytt dine data med det samme
+email-verify-subhead = Bekreft e-postadressen din for å begynne å beskytte dataene dine etter en datalekkasje.
+email-verify-simply-click = Bare klikk på lenken nedenfor for å fullføre bekreftelsen av kontoen din.
 
 ## Breach report
 
+email-breach-summary = Her er sammendraget ditt av datalekkasjer
 
 ## Breach alert email
 
+email-breach-alert-all-subject = Ny datalekkasje oppdaget
+email-breach-alert-all-data-points-title = Dine eksponerte data:
