@@ -58,8 +58,12 @@ email-verify-simply-click = Bare klikk på lenken nedenfor for å fullføre bekr
 ## Breach report
 
 email-breach-summary = Her er sammendraget ditt av datalekkasjer
+email-dashboard-cta = Gå til oversikten
 
 ## Breach alert email
 
 email-breach-alert-all-subject = Ny datalekkasje oppdaget
 email-breach-alert-all-data-points-title = Dine eksponerte data:
+email-breach-alert-all-next-steps-lead = Vi vil veilede deg trinn for trinn i hvordan du løser denne datalekkasjen
+email-breach-alert-all-next-steps-cta-label = La oss komme i gang
+email-breach-alert-all-next-steps-button-dashboard = Gå til oversikten
