@@ -95,6 +95,7 @@ high-risk-breach-social-security-step-two = <link_to_info>Sjekk kredittrapporten
 
 ssn-modal-title = Om svindelvarsler og kredittfrysing
 ssn-modal-description-fraud-part-one = <b>Et svindelvarsel</b> krever at bedrifter bekrefter identiteten din før de utsteder ny kreditt i ditt navn. Det er gratis, varer i ett år og vil ikke påvirke kredittscoren din negativt.
+ssn-modal-description-fraud-part-two = For å opprette en, kontakt et av de tre kredittbyråene. Du trenger ikke å kontakte alle tre.
 ssn-modal-learn-more = Les mer om svindelvarsler og kredittfrysing
 ssn-modal-ok = OK
 
