@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fix-flow-nav-high-risk-data-breaches = Datalekkasje med høy risiko
+fix-flow-nav-leaked-passwords = Lekkede passord
+fix-flow-nav-security-recommendations = Sikkerhetsanbefalinger
 guided-resolution-flow-exit = Gå tilbake til oversikten
 guided-resolution-flow-next-arrow = Gå til neste trinn
 guided-resolution-flow-next-arrow-sub-step = Gå til neste resultat
@@ -19,9 +22,12 @@ fix-flow-celebration-next-dashboard-label = Gå til din oversikt
 ## High-risk flow
 
 fix-flow-celebration-high-risk-title = Du har løst dine høyrisikoeksponeringer!
+fix-flow-celebration-high-risk-description-in-progress = Det kan føles overveldende å gjøre dette arbeidet, men det er viktig for å beskytte deg selv. Fortsett med det gode arbeidet.
+fix-flow-celebration-high-risk-description-done = Det kan føles overveldende å gjøre dette arbeidet, men det er viktig for å beskytte deg selv.
 fix-flow-celebration-high-risk-description-next-passwords = La oss nå fikse de eksponerte passordene dine.
 fix-flow-celebration-high-risk-description-next-security-questions = La oss nå fikse de eksponerte sikkerhetsspørsmålene dine.
 fix-flow-celebration-high-risk-description-next-security-recommendations = Deretter gir vi deg personlige sikkerhetsanbefalinger basert på hvilke data som har blitt eksponert.
+fix-flow-celebration-high-risk-description-next-dashboard = Du har nådd slutten av trinnene dine. Du kan se eventuelle handlingspunkter og spore fremdriften din på oversikten.
 
 ## Leaked passwords and security questions flow
 
@@ -89,11 +95,16 @@ high-risk-breach-social-security-step-two = <link_to_info>Sjekk kredittrapporten
 
 ssn-modal-title = Om svindelvarsler og kredittfrysing
 ssn-modal-description-fraud-part-one = <b>Et svindelvarsel</b> krever at bedrifter bekrefter identiteten din før de utsteder ny kreditt i ditt navn. Det er gratis, varer i ett år og vil ikke påvirke kredittscoren din negativt.
+ssn-modal-learn-more = Les mer om svindelvarsler og kredittfrysing
 ssn-modal-ok = OK
 
 # PIN Breaches
 
 high-risk-breach-pin-title = PIN-koden din ble eksponert
+high-risk-breach-pin-description = Å iverksette tiltak så snart som mulig kan gi deg mer juridisk beskyttelse for å hjelpe deg med å dekke eventuelle tap.
+high-risk-breach-pin-step-one = Varsle banken din umiddelbart hvis PIN-koden din er kompromittert.
+high-risk-breach-pin-step-two = Endre PIN-koden din overalt der du har brukt den samme.
+high-risk-breach-pin-step-three = Sjekk kontoene dine for uautoriserte belastninger.
 
 # No high risk breaches found
 
@@ -138,9 +149,48 @@ security-recommendation-email-step-three = Merk mistenkelige e-poster som spam o
 # IP security recommendation
 
 security-recommendation-ip-title = Bruk en VPN for ekstra personvern
+# $num_breaches is the number of breaches where the IP address was found.
+security-recommendation-ip-summary =
+    { $num_breaches ->
+        [one] IP-adressen din ble eksponert i { $num_breaches } datalekkasje:
+       *[other] IP-adressen din ble eksponert i { $num_breaches } datalekkasjer:
+    }
+security-recommendation-ip-step-one = Bruk en VPN (som <link_to_info>{ -brand-mozilla-vpn }</link_to_info>) for å skjule din virkelige IP-adresse og bruke internett privat.
 
 # Leaked Passwords
 
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+leaked-passwords-title = Passordet ditt for { $breach_name } ble eksponert
+# Variables
+# $breach_date is the date when the breach occurred.
+leaked-passwords-summary = Det dukket opp i en datalekkajse den { $breach_date }.
+leaked-passwords-description = Svindlere kan få tilgang til kontoen din og vil sannsynligvis prøve å bruke den på andre kontoer for å se om du har brukt det samme passordet. Endre det der du har brukt det for å beskytte deg selv.
+leaked-passwords-steps-title = Her er hva du bør gjøre
+leaked-passwords-steps-subtitle = Dette krever tilgang til kontoen din, så du må fikse det manuelt.
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+# $emails_affected are the emails associated with the breach.
+leaked-passwords-step-one = Endre passordet ditt for <b>{ $emails_affected }</b> på <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-passwords-step-two = Endre det på alle steder du har brukt det.
+leaked-passwords-mark-as-fixed = Merk som løst
+leaked-passwords-skip = Hopp over for nå
+# Variables
+# $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
+# "Est." is shortform for "Estimated".
+# "mins" is shortform for "minutes".
+leaked-passwords-estimated-time =
+    { $estimated_time ->
+       *[other] Estimert tidsforbruk: { $estimated_time } minutt per nettsted
+    }
 
 # Leaked Security Questions
 
+leaked-security-questions-title = Sikkerhetsspørsmålene dine ble eksponert
+leaked-security-questions-steps-title = Her er hva du bør gjøre
+leaked-security-questions-steps-subtitle = Dette krever tilgang til kontoen din, så du må fikse det manuelt.
+# Variables
+# $breach_name is the name of the breach where the security questions were found.
+# $email_affected is the email associated with the breach.
+leaked-security-questions-step-one = Oppdater sikkerhetsspørsmålene dine for <b>{ $email_affected }</b> på <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-security-questions-step-two = Oppdater dem på andre nettsteder der du brukte de samme sikkerhetsspørsmålene. Sørg for å bruke forskjellige sikkerhetsspørsmål for hver konto.
