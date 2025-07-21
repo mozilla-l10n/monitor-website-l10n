@@ -63,6 +63,7 @@ email-dashboard-cta = Gå til oversikten
 ## Breach alert email
 
 email-breach-alert-all-subject = Ny datalekkasje oppdaget
+email-breach-alert-all-preview = Vi veileder deg gjennom trinnene for å løse det.
 email-breach-alert-all-hero-heading = Du har vært involvert i en nytt datalekkasje
 email-breach-alert-all-hero-subheading = Ikke bekymre deg, vi kan hjelpe deg med å løse denne eksponeringen
 email-breach-alert-all-lead = { -brand-mozilla-monitor } oppdaget følgende datalekkasje som inkluderer dine personopplysninger:
