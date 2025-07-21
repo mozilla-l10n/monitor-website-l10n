@@ -64,33 +64,80 @@ high-risk-breach-estimated-time =
 
 # Credit Card Breaches
 
+high-risk-breach-credit-card-title = Betalingskortnummeret ditt er eksponert
+high-risk-breach-credit-card-description = Alle som får tak i det, kan foreta uautoriserte kjøp som du kan bli holdt ansvarlig for. Sett i verk tiltak nå for å unngå økonomisk skade.
+high-risk-breach-credit-card-step-one = Hvis du fortsatt har dette kortet, kontakt utstederen for å rapportere det som stjålet.
+high-risk-breach-credit-card-step-two = Be om et nytt kort med et nytt nummer.
+high-risk-breach-credit-card-step-three = Sjekk kontoene dine for uautoriserte belastninger.
 
 # Bank Account Breaches
 
+high-risk-breach-bank-account-title = Bankkontoen din ble eksponert
+high-risk-breach-bank-account-description = Å iverksette tiltak så snart som mulig kan gi deg mer juridisk beskyttelse for å hjelpe deg med å dekke eventuelle tap.
+high-risk-breach-bank-account-step-one = Varsle banken din umiddelbart om at kontonummeret ditt er blitt kompromittert.
+high-risk-breach-bank-account-step-two = Endre kontonummeret ditt.
+high-risk-breach-bank-account-step-three = Sjekk kontoene dine for uautoriserte belastninger.
 
 # Social Security Number Breaches
 
+high-risk-breach-social-security-title = Personnummeret ditt ble eksponert
+high-risk-breach-social-security-description = Svindlere kan opprette nye lån eller kredittkort med personnummeret ditt. Sett i verk tiltak raskt for å unngå økonomisk skade.
+high-risk-breach-social-security-step-one = Beskytt deg selv ved å <link_to_info>opprette et svindelvarsel eller fryse kreditten din.</link_to_info>
+high-risk-breach-social-security-step-two = <link_to_info>Sjekk kredittrapporten din</link_to_info> for ukjente kontoer.
 
 # Social Security Number Modal
 
+ssn-modal-title = Om svindelvarsler og kredittfrysing
+ssn-modal-description-fraud-part-one = <b>Et svindelvarsel</b> krever at bedrifter bekrefter identiteten din før de utsteder ny kreditt i ditt navn. Det er gratis, varer i ett år og vil ikke påvirke kredittscoren din negativt.
+ssn-modal-ok = OK
 
 # PIN Breaches
 
+high-risk-breach-pin-title = PIN-koden din ble eksponert
 
 # No high risk breaches found
 
+high-risk-breach-none-sub-description-ssn = Personnummer
+high-risk-breach-none-sub-description-bank-account = Bankkontoinformasjon
+high-risk-breach-none-sub-description-cc-number = Betalingskort-numre
+high-risk-breach-none-sub-description-pin = PIN-koder
+high-risk-breach-none-continue = Fortsett
 
 # Security recommendations
 
+security-recommendation-steps-label = Sikkerhetsanbefalinger
+security-recommendation-steps-title = Her er våre råd:
+security-recommendation-steps-cta-label = Jeg forstår!
 
 # Phone security recommendation
 
+security-recommendation-phone-title = Beskytt telefonnummeret ditt
+# $num_breaches is the number of breaches where the phone number was found.
+security-recommendation-phone-summary =
+    { $num_breaches ->
+        [one] Telefonnummeret ditt ble eksponert i { $num_breaches } datalekkasje:
+       *[other] Telefonnummeret ditt ble eksponert i { $num_breaches } datalekkasjer:
+    }
+security-recommendation-phone-description = Dessverre kan du ikke ta den tilbake. Men det finnes tiltak du kan ta for å sørge for at du holder deg trygg.
+security-recommendation-phone-step-one = Blokker spamnumre for å forhindre flere uønskede anrop
+security-recommendation-phone-step-two = Ikke klikk på lenker i tekstmeldinger fra ukjente avsendere. Hvis det ser ut til å være fra en pålitelig kilde, ring direkte for å bekrefte.
 
 # Email security recommendation
 
+security-recommendation-email-title = Beskytt e-postadressen din
+# $num_breaches is the number of breaches where the email address was found.
+security-recommendation-email-summary =
+    { $num_breaches ->
+        [one] E-postadressen din ble eksponert i { $num_breaches } datalekkasje:
+       *[other] E-postadressen din ble eksponert i { $num_breaches } datalekkasjer:
+    }
+security-recommendation-email-description = Dessverre kan du ikke fikse dette. Men det finnes tiltak du kan ta for å beskytte deg selv.
+security-recommendation-email-step-one = Ikke klikk på lenker i e-poster fra ukjente avsendere. Hvis det ser ut til å være fra en pålitelig kilde, ring direkte for å bekrefte.
+security-recommendation-email-step-three = Merk mistenkelige e-poster som spam og blokker avsenderen
 
 # IP security recommendation
 
+security-recommendation-ip-title = Bruk en VPN for ekstra personvern
 
 # Leaked Passwords
 
