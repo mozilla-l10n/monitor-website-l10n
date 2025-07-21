@@ -108,6 +108,7 @@ high-risk-breach-pin-step-three = Sjekk kontoene dine for uautoriserte belastnin
 
 # No high risk breaches found
 
+high-risk-breach-none-title = Gode nyheter: Vi fant ingen datalekkasjer med høy risiko
 high-risk-breach-none-sub-description-ssn = Personnummer
 high-risk-breach-none-sub-description-bank-account = Bankkontoinformasjon
 high-risk-breach-none-sub-description-cc-number = Betalingskort-numre
@@ -190,6 +191,7 @@ leaked-passwords-estimated-time =
 # Leaked Security Questions
 
 leaked-security-questions-title = Sikkerhetsspørsmålene dine ble eksponert
+leaked-security-questions-description = Svindlere kan bruke disse for å få tilgang til kontoene dine og andre nettsteder der du har brukt de samme sikkerhetsspørsmålene. Oppdater dem nå for å beskytte kontoene dine.
 leaked-security-questions-steps-title = Her er hva du bør gjøre
 leaked-security-questions-steps-subtitle = Dette krever tilgang til kontoen din, så du må fikse det manuelt.
 # Variables

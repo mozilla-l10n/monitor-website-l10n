@@ -7,17 +7,29 @@ landing-all-hero-title = Finn ut hvor din private informasjon er eksponert — o
 landing-all-hero-lead = Vi undersøker datalekkasjer for å se om dine data har blitt lekket, og gir deg trinn for å fikse det.
 landing-all-hero-emailform-input-placeholder = dittnavn@example.com
 landing-all-hero-emailform-input-label = Skriv inn e-postadressen din for å søke etter datalekkasje-eksponeringer.
+landing-all-hero-emailform-submit-label = Få gratis skanning
+landing-all-hero-emailform-submit-sign-up-label = Registrer deg for å få gratis skanning
 # This is a label underneath a big number "14" - it's an image that demos Monitor.
 landing-all-hero-image-chart-label = eksponeringer
 
 # Value Proposition
 
+landing-all-value-prop-fix-exposures = Vi hjelper deg med å løse dine eksponeringer
+landing-all-value-prop-fix-exposures-description = Vårt oppdrag er å gi deg kontrollen over dine personopplysninger tilbake. Vi hjelper deg med å løse datalekkasjer og holde informasjonen din privat — og vi vil <privacy_link>respektere personvernet ditt</privacy_link> i prosessen.
+landing-all-value-prop-info-at-risk = Hvilken informasjon kan være i faresonen?
+landing-all-value-prop-info-at-risk-description = Datalekkasjer er dessverre en del av våre digitale liv. Passord, kontaktinformasjon, økonomisk informasjon og annen personlig informasjon kan bli eksponert, noe som setter deg i fare for identitetstyveri.
 
 # Quote
 
 
 # Non-US FAQ
 
+landing-all-faq-title = Ofte stilte spørsmål
+# FAQ is an acronym for Frequently Asked Questions
+landing-all-faq-see-all = Se alle ofte stilte spørsmål
+landing-all-data-breach-definition-qn = Hva er egentlig en datalekkasje?
+landing-all-data-breach-next-steps-qn = Jeg har nettopp funnet ut at jeg er omfattet av en datalekkasje. Hva gjør jeg nå?
+landing-all-data-breach-info-qn = Hvilken informasjon blir eksponert i datalekkasjer?
 landing-all-close-faq-alt = Lukk
 
 # Social proof
