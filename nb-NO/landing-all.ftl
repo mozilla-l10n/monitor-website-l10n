@@ -18,9 +18,31 @@ landing-all-hero-image-chart-label = eksponeringer
 
 # Non-US FAQ
 
+landing-all-close-faq-alt = Lukk
 
 # Social proof
 
+# Variables
+# $num_users is the number of users in the millions.
+landing-all-social-proof-title =
+    { $num_users ->
+       *[other] Stolt på av { $num_users } millioner mennesker over hele verden
+    }
+# Variables
+# $num_countries is the number of countries available.
+landing-all-social-proof-description =
+    { $num_countries ->
+       *[other] Siden 2018 har vi hjulpet folk i { $num_countries } land med å beskytte dataene sine når de har blitt eksponert.
+    }
+landing-all-social-proof-press = Kjent fra
 
 # Here's How We Help
 
+landing-all-help-protect-you = Slik hjelper vi deg med å beskytte deg
+landing-all-help-protect-you-description = Vi tror på din rett til personvern, så beskyttelse mot datalekkasje er alltid gratis.
+landing-all-help-protect-you-feature-one = Vi søker etter dine opplysninger i alle kjente datalekkasjer
+landing-all-help-protect-you-feature-two = Vi veileder deg gjennom trinnene for å løse hver datalekkasje
+landing-all-help-protect-you-feature-three = Vi vil kontinuerlig overvåke og sende deg varsler om eventuelle nye datalekkasjer
+landing-all-help-protect-you-cta = Registrer deg for datalekkasjevarsler
+landing-all-get-started = Skann e-posten din for å komme i gang
+landing-all-take-back-data = Ta tilbake kontrollen over dine data

@@ -144,7 +144,9 @@ security-recommendation-email-summary =
     }
 security-recommendation-email-description = Dessverre kan du ikke fikse dette. Men det finnes tiltak du kan ta for å beskytte deg selv.
 security-recommendation-email-step-one = Ikke klikk på lenker i e-poster fra ukjente avsendere. Hvis det ser ut til å være fra en pålitelig kilde, ring direkte for å bekrefte.
+security-recommendation-email-step-two = Vær oppmerksom på <link_to_info>nettfiskesvindel (phising)</link_to_info>
 security-recommendation-email-step-three = Merk mistenkelige e-poster som spam og blokker avsenderen
+security-recommendation-email-step-four = Bruk <link_to_info>{ -brand-relay } e-postalias</link_to_info> for å beskytte e-postadressen din i fremtiden
 
 # IP security recommendation
 
@@ -155,6 +157,7 @@ security-recommendation-ip-summary =
         [one] IP-adressen din ble eksponert i { $num_breaches } datalekkasje:
        *[other] IP-adressen din ble eksponert i { $num_breaches } datalekkasjer:
     }
+security-recommendation-ip-description = IP-adressen din angir hvor du befinner deg og hvilken internettleverandør du har. Hackere kan bruke denne informasjonen til å finne hvor du befinner deg eller prøve å koble til enhetene dine.
 security-recommendation-ip-step-one = Bruk en VPN (som <link_to_info>{ -brand-mozilla-vpn }</link_to_info>) for å skjule din virkelige IP-adresse og bruke internett privat.
 
 # Leaked Passwords

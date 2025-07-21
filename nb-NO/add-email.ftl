@@ -8,6 +8,9 @@
 add-email-add-another-heading = Legg til enda en e-postadresse
 add-email-address-input-label = E-postadresse
 add-email-send-verification-button = Send bekreftelseslenke
+# $email is the newly added email address. $settings-href is the URL for the Settings page. HTML tags should not be translated, e.g. `<a>`
+# This string will be deprecated when the new Plus plan is live.
+add-email-verify-the-link = Bekreft lenken som ble sendt til { $email } for å legge den til i { -brand-fx-monitor }. Behandle alle e-postadresser i <a { $settings-href }>Innstillinger</a>.
 # Variables:
 #   $email (string) - An email address submitted by the user for monitoring, e.g. `example@example.com`
 add-email-verify-the-link-2 = Bekreft lenken som ble sendt til <b>{ $email }</b> for å legge den til i { -brand-mozilla-monitor }.
