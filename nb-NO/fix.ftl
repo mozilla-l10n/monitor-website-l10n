@@ -96,6 +96,8 @@ high-risk-breach-social-security-step-two = <link_to_info>Sjekk kredittrapporten
 ssn-modal-title = Om svindelvarsler og kredittfrysing
 ssn-modal-description-fraud-part-one = <b>Et svindelvarsel</b> krever at bedrifter bekrefter identiteten din før de utsteder ny kreditt i ditt navn. Det er gratis, varer i ett år og vil ikke påvirke kredittscoren din negativt.
 ssn-modal-description-fraud-part-two = For å opprette en, kontakt et av de tre kredittbyråene. Du trenger ikke å kontakte alle tre.
+ssn-modal-description-freeze-credit-part-one = <b>Å fryse kreditten din</b> hindrer noen i å åpne en ny konto i ditt navn. Det er gratis og vil ikke påvirke kredittscoren din negativt, men du må frigjøre den før du åpner nye kontoer.
+ssn-modal-description-freeze-credit-part-two = For å fryse kreditten din, kontakt hvert av de tre kredittbyråene – <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> og <transunion_link>TransUnion</transunion_link>.
 ssn-modal-learn-more = Les mer om svindelvarsler og kredittfrysing
 ssn-modal-ok = OK
 
@@ -110,6 +112,10 @@ high-risk-breach-pin-step-three = Sjekk kontoene dine for uautoriserte belastnin
 # No high risk breaches found
 
 high-risk-breach-none-title = Gode nyheter: Vi fant ingen datalekkasjer med høy risiko
+# Variables
+# $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
+high-risk-breach-none-description = Vi oppdager datalekkasjer basert på e-postadressen din, og vi fant ingen datalekkasjer med høy risiko for { $email_list }.
+high-risk-breach-none-sub-description-part-one = Datalekkasje med høy risiko inkluderer:
 high-risk-breach-none-sub-description-ssn = Personnummer
 high-risk-breach-none-sub-description-bank-account = Bankkontoinformasjon
 high-risk-breach-none-sub-description-cc-number = Betalingskort-numre
@@ -192,6 +198,11 @@ leaked-passwords-estimated-time =
 # Leaked Security Questions
 
 leaked-security-questions-title = Sikkerhetsspørsmålene dine ble eksponert
+# Variables
+# $breach_name is the name of the breach where the leaked security questions were found.
+# $breach_date is the date when the breach occurred.
+# An example of this string is Twitter on 13/09/18.
+leaked-security-questions-summary = De dukket opp i en datalekkasje på { $breach_name } den { $breach_date }.
 leaked-security-questions-description = Svindlere kan bruke disse for å få tilgang til kontoene dine og andre nettsteder der du har brukt de samme sikkerhetsspørsmålene. Oppdater dem nå for å beskytte kontoene dine.
 leaked-security-questions-steps-title = Her er hva du bør gjøre
 leaked-security-questions-steps-subtitle = Dette krever tilgang til kontoen din, så du må fikse det manuelt.

@@ -58,6 +58,9 @@ email-verify-simply-click = Bare klikk på lenken nedenfor for å fullføre bekr
 ## Breach report
 
 email-breach-summary = Her er sammendraget ditt av datalekkasjer
+# Variables:
+#   $email-address (string) - Email address, bolded
+email-breach-detected = Søkeresultatene for { $email-address }-kontoen din viser at e-postadressen din kan ha blitt eksponert. Vi anbefaler at du setter i verk tiltak nå for å håndtere denne datalekkasjen.
 email-dashboard-cta = Gå til oversikten
 
 ## Breach alert email
