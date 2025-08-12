@@ -15,6 +15,8 @@ exposure-chart-heading =
         [few] <nr>{ $nr }</nr> <label>expuneri</label>
        *[other] <nr>{ $nr }</nr> <label>de expuneri</label>
     }
+exposure-chart-legend-heading-type = Expunere
+exposure-chart-legend-heading-nr = Număr
 # Note: this line precedes dashboard-exposures-area-description-all-line2.
 # Variables:
 #   $exposures_unresolved_num (number) - the unresolved number of exposures the user has.
