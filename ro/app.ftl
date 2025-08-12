@@ -212,14 +212,27 @@ footer-external-link-faq-tooltip = Întrebări adresate frecvent
 # Variables:
 #   $errorCode (number) - "404"
 error-page-error-404-title = { $errorCode } Pagina nu a fost găsită
+error-page-error-404-copy = Ne pare rău, pagina pe care o cauți nu mai există.
+error-page-error-404-cta-button = Înapoi
+# Variables:
+#   $errorCode (number) - the status code of the error, e.g. 403
+error-page-error-other-title = { $errorCode } A apărut o eroare
 
 ## Breach overview page
 
 all-breaches-lead = Monitorizăm toate încălcările cunoscute ale securității datelor pentru a afla dacă au fost compromise datele tale cu caracter personal. Iată o listă completă a tuturor încălcărilor securității informațiilor care au fost raportate din 2007.
 search-breaches = Caută încălcări ale securității datelor
+# the kind of user data exposed to hackers in data breach.
+exposed-data = Date expuse:
 
 ## Public breach detail page
 
 find-out-if-2 = Află dacă ai fost implicat în această încălcare a securității datelor
 find-out-if-description = Te vom ajuta să vezi rapid dacă adresa ta de e-mail a fost expusă în această încălcare a securității datelor și să înțelegi ce trebuie să faci în continuare.
 breach-detail-cta-signup = Caută încălcări ale securității datelor
+
+## Firefox Monitor -> Mozilla Monitor rebrand banner
+
+banner-monitor-rebrand-text = <b>{ -brand-mozilla-monitor }</b>: Nume nou, aspect și chiar mai multe modalități de a <b> relua controlul asupra vieții tale private</b>.
+banner-monitor-rebrand-dismiss-button-label = OK
+banner-monitor-rebrand-dismiss-button-tooltip = Respinge
