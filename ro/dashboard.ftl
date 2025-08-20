@@ -15,6 +15,9 @@ exposure-chart-heading =
         [few] <nr>{ $nr }</nr> <label>expuneri</label>
        *[other] <nr>{ $nr }</nr> <label>de expuneri</label>
     }
+# Variables:
+#   $nr (number) - Number of fixed exposures found for the user
+exposure-chart-heading-fixed = <nr>{ $nr }</nr> <label>Remediate</label>
 exposure-chart-legend-heading-type = Expunere
 exposure-chart-legend-heading-nr = Număr
 # Variables:
@@ -29,6 +32,9 @@ exposure-chart-returning-user-upgrade-prompt = Adresa de domiciliu, membrii fami
 exposure-chart-returning-user-upgrade-prompt-cta = Începe o scanare gratuită
 exposure-chart-scan-in-progress-prompt = <b>Scanare în curs:</b> adresa, membrii familiei și altele nu sunt încă incluse.
 modal-active-number-of-exposures-title = Despre numărul tău de expuneri active
+modal-active-number-of-exposures-part-two = De exemplu, dacă ai 10 expuneri ale numărului de telefon, ar putea însemna că un număr de telefon este expus pe 10 site-uri diferite sau că 2 numere de telefon diferite au fost expuse pe 5 site-uri diferite.
+modal-active-number-of-exposures-part-three-all = Odată rezolvate, vor fi adăugate la numărul total de expuneri fixe de pe pagina de Remediate.
+modal-fixed-number-of-exposures-title = Despre numărul tău de expuneri remediate
 progress-card-heres-what-we-fixed-headline-all = Iată ce ai remediat
 progress-card-manually-fixed-headline = Remediat manual
 dashboard-tab-label-action-needed = Necesită atenție
