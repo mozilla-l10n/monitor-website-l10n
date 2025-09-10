@@ -24,3 +24,6 @@ settings-tab-label-edit-info = Editează-ți informațiile
 settings-tab-label-notifications = Setează notificările
 settings-tab-label-manage-account = Gestionează contul
 settings-tab-subtitle-manage-account = Gestionează-ți contul { -product-name }.
+settings-tab-notifications-marketing-title = Comunicări de marketing
+settings-tab-notifications-marketing-text = Actualizări periodice legate de { -brand-monitor }, { -brand-mozilla } și celelalte produse de securitate ale noastre.
+settings-tab-notifications-marketing-link-label = Mergi la setările de e-mail { -brand-mozilla }
