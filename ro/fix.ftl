@@ -5,10 +5,34 @@
 fix-flow-nav-high-risk-data-breaches = Încălcări ale securității datelor cu risc ridicat
 fix-flow-nav-leaked-passwords = Parole expuse
 fix-flow-nav-security-recommendations = Recomandări de securitate
-guided-resolution-flow-exit = Revino în panoul de bord
+guided-resolution-flow-exit = Revino în tabloul de bord
+guided-resolution-flow-next-arrow = Mergi la pasul următor
+guided-resolution-flow-next-arrow-sub-step = Mergi la rezultatul următor
+guided-resolution-flow-step-navigation-label = Pași ghidați
 
 # Celebration screens
 
+
+## Shared CTA labels
+
+fix-flow-celebration-next-label = Să continuăm
+fix-flow-celebration-next-recommendations-label = Vezi recomandările
+fix-flow-celebration-next-dashboard-label = Mergi la tabloul de bord
+
+## High-risk flow
+
+fix-flow-celebration-high-risk-title = Ți-ai rezolvat expunerile la riscuri ridicate!
+fix-flow-celebration-high-risk-description-in-progress = Poate părea mult, dar este important să o faci pentru a te proteja. Continuă tot așa.
+fix-flow-celebration-high-risk-description-done = Poate părea mult, dar este important să o faci pentru a te proteja.
+fix-flow-celebration-high-risk-description-next-passwords = Acum hai să remediem parolele expuse.
+fix-flow-celebration-high-risk-description-next-security-questions = Acum hai să rezolvăm întrebările de securitate expuse.
+fix-flow-celebration-high-risk-description-next-security-recommendations = În continuare, îți vom oferi recomandări de securitate personalizate, în funcție de datele tale care au fost expuse.
+fix-flow-celebration-high-risk-description-next-dashboard = Ai ajuns la finalul pașilor. Poți vizualiza orice acțiune și poți urmări progresul în tabloul de bord.
+
+## Leaked passwords and security questions flow
+
+fix-flow-celebration-leaked-passwords-title = Parolele tale sunt acum protejate!
+fix-flow-celebration-security-questions-title = Întrebările tale de securitate sunt protejate!
 
 ## Security recommendations flow
 
