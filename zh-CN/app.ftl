@@ -10,8 +10,6 @@
 -product-short-name = Monitor
 -brand-name = Firefox
 -brand-HIBP = Have I Been Pwned
--brand-fxa = Firefox 账户
--brand-pocket = Pocket
 -brand-lockwise = Firefox Lockwise
 -brand-firefox = Firefox
 -brand-monitor = Monitor
@@ -46,8 +44,6 @@ compromised-data = 泄露的数据
 hibp-attribution = 泄露数据由 { $hibp-link } 提供
 show-all = 全部显示
 sign-out = 退出
-# Manage Firefox Account, link to page where account holders can change their account settings.
-manage-fxa = 管理 { -brand-fxa }
 # Link title
 preferences = 首选项
 # Link title
