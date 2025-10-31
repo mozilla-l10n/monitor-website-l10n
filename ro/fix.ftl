@@ -97,6 +97,10 @@ high-risk-breach-social-security-step-two = <link_to_info>Verifică-ți raportul
 # Social Security Number Modal
 
 ssn-modal-title = Despre alertele de fraudă și înghețarea creditului
+ssn-modal-description-fraud-part-one = O <b>alertă de fraudă</b> impune companiilor să îți verifice identitatea înainte de a emite un nou credit pe numele tău. Este gratuită, durează un an și nu îți va afecta negativ scorul de credit.
+ssn-modal-description-fraud-part-two = Pentru a configura una, contactează oricare dintre cele trei birouri de credit. Nu trebuie să le contactezi pe toate trei.
+ssn-modal-description-freeze-credit-part-one = <b>Blocarea creditului</b> împiedică pe oricine să deschidă un cont nou pe numele tău. Este gratuită și nu îți va afecta negativ scorul de credit, dar va trebui să îl deblochezi înainte de a deschide orice cont nou.
+ssn-modal-description-freeze-credit-part-two = Pentru blocarea creditelor, contactează fiecare dintre cele trei birouri de credit — <equifax_link>Equifax</equifax_link>, <experian_link>Experian</experian_link> și <transunion_link>TransUnion</transunion_link>.
 ssn-modal-learn-more = Află mai multe despre alertele de fraudă și înghețarea creditului
 ssn-modal-ok = OK
 
@@ -111,6 +115,9 @@ high-risk-breach-pin-step-three = Verifică-ți conturile pentru debitări neaut
 # No high risk breaches found
 
 high-risk-breach-none-title = Vești bune! Nu am găsit nicio încălcare a securității datelor de risc ridicat.
+# Variables
+# $email_list is list of emails that the user is monitoring for breaches. E.g. john@yahoo.com, ali@gmail.com, sam@hotmail.com
+high-risk-breach-none-description = Detectăm încălcări de securitate a datelor pe baza adresei tale de e-mail și nu am găsit nicio încălcare de securitate a datelor cu risc ridicat pentru { $email_list }.
 high-risk-breach-none-sub-description-part-one = Încălcările securității datelor cu risc ridicat includ:
 high-risk-breach-none-sub-description-ssn = Codul numeric personal
 high-risk-breach-none-sub-description-bank-account = Date despre contul bancar
@@ -127,6 +134,13 @@ security-recommendation-steps-cta-label = Am înțeles!
 # Phone security recommendation
 
 security-recommendation-phone-title = Protejează-ți numărul de telefon
+# $num_breaches is the number of breaches where the phone number was found.
+security-recommendation-phone-summary =
+    { $num_breaches ->
+        [one] Numărul tău de telefon a fost expus în { $num_breaches } încălcare a securității datelor:
+        [few] Numărul tău de telefon a fost expus în { $num_breaches } încălcări ale securității datelor:
+       *[other] Numărul tău de telefon a fost expus în { $num_breaches } de încălcări ale securității datelor:
+    }
 
 # Email security recommendation
 
