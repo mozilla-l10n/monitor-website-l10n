@@ -141,7 +141,7 @@ security-recommendation-phone-summary =
         [few] Numărul tău de telefon a fost expus în { $num_breaches } încălcări ale securității datelor:
        *[other] Numărul tău de telefon a fost expus în { $num_breaches } de încălcări ale securității datelor:
     }
-security-recommendation-phone-description = Din păcate, nu-l poți recupera. Dar există măsuri pe care le poți lua pentru a te asigura că rămâi în siguranță.
+security-recommendation-phone-description = Din păcate, nu-l poți șterge de acolo. Dar există măsuri pe care le poți lua pentru a te asigura că rămâi în siguranță.
 security-recommendation-phone-step-one = Blochează numerele de spam pentru a preveni mai multe apeluri nedorite
 security-recommendation-phone-step-two = Nu da clic pe linkuri din mesaje text de la expeditori necunoscuți; dacă par să provină dintr-o sursă de încredere, sună direct pentru confirmare.
 

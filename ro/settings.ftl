@@ -3,6 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# Settings page
+
+settings-page-title = Setări { -product-short-name }
+
+## Breach alert preferences
+
+settings-alert-email-preferences-title = Preferințe de e-mail
+settings-alert-email-preferences-subtitle = Spune-ne ce mesaje pe e-mail vrei să primești.
+settings-alert-preferences-allow-breach-alerts-title = Alerte instantanee privind încălcările securității datelor
+settings-alert-preferences-allow-breach-alerts-subtitle = Sunt trimise imediat ce este detectată o încălcare a securității datelor
+settings-alert-preferences-option-one = Trimite alerte pentru încălcări ale securității datelor la adresa de e-mail afectată
+settings-alert-preferences-option-two = Trimite toate alertele pentru încălcări ale securității datelor la adresa de e-mail primară
+
 ## Delete Monitor account
 
 settings-delete-monitor-free-account-cta-label = Șterge contul
