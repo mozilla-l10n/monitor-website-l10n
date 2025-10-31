@@ -141,15 +141,81 @@ security-recommendation-phone-summary =
         [few] Numărul tău de telefon a fost expus în { $num_breaches } încălcări ale securității datelor:
        *[other] Numărul tău de telefon a fost expus în { $num_breaches } de încălcări ale securității datelor:
     }
+security-recommendation-phone-description = Din păcate, nu-l poți recupera. Dar există măsuri pe care le poți lua pentru a te asigura că rămâi în siguranță.
+security-recommendation-phone-step-one = Blochează numerele de spam pentru a preveni mai multe apeluri nedorite
+security-recommendation-phone-step-two = Nu da clic pe linkuri din mesaje text de la expeditori necunoscuți; dacă par să provină dintr-o sursă de încredere, sună direct pentru confirmare.
 
 # Email security recommendation
 
+security-recommendation-email-title = Protejează-ți adresa de e-mail
+# $num_breaches is the number of breaches where the email address was found.
+security-recommendation-email-summary =
+    { $num_breaches ->
+        [one] Adresa ta de e-mail a fost expusă în { $num_breaches } încălcare a securității datelor:
+        [few] Adresa ta de e-mail a fost expusă în { $num_breaches } încălcări ale securității datelor:
+       *[other] Adresa ta de e-mail a fost expusă în { $num_breaches } de încălcări ale securității datelor:
+    }
+security-recommendation-email-description = Din păcate, nu poți remedia nimic. Dar există măsuri pe care le poți lua pentru a te proteja.
+security-recommendation-email-step-one = Nu da clic pe linkuri din mesaje pe e-mail de la expeditori necunoscuți; dacă par să provină dintr-o sursă de încredere, sună direct pentru confirmare.
+security-recommendation-email-step-two = Fii atent(ă) la <link_to_info>escrocheriile de tip phishing</link_to_info>
+security-recommendation-email-step-three = Marchează mesajele pe e-mail suspecte ca spam și blochează expeditorul
+security-recommendation-email-step-four = Folosește <link_to_info>măști de e-mail { -brand-relay }</link_to_info> pentru a-ți proteja adresa de e-mail pe viitor
 
 # IP security recommendation
 
+security-recommendation-ip-title = Folosește un VPN pentru confidențialitate sporită
+# $num_breaches is the number of breaches where the IP address was found.
+security-recommendation-ip-summary =
+    { $num_breaches ->
+        [one] Adresa ta IP a fost expusă în { $num_breaches } încălcare a securității datelor:
+        [few] Adresa ta IP a fost expusă în { $num_breaches } încălcări ale securității datelor:
+       *[other] Adresa ta IP a fost expusă în { $num_breaches } de încălcări ale securității datelor:
+    }
+security-recommendation-ip-description = Adresa ta IP îți indică locația și furnizorul de servicii de internet. Hackerii ar putea folosi aceste informații pentru a-ți găsi locația sau pentru a încerca să se conecteze la dispozitivele tale.
+security-recommendation-ip-step-one = Folosește o rețea VPN (cum ar fi <link_to_info>{ -brand-mozilla-vpn }</link_to_info>) pentru a-ți ascunde adresa IP reală și a utiliza internetul în mod privat.
 
 # Leaked Passwords
 
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+leaked-passwords-title = Parola ta { $breach_name } a fost expusă
+# Variables
+# $breach_date is the date when the breach occurred.
+leaked-passwords-summary = A apărut într-o încălcare a securității datelor pe { $breach_date }.
+leaked-passwords-description = Escrocii îți pot accesa contul și probabil vor încerca să îl folosească pe alte conturi pentru a vedea dacă ai folosit aceeași parolă. Schimb-o oriunde ai mai folosit-o pentru a te proteja.
+leaked-passwords-steps-title = Iată ce trebuie să faci
+leaked-passwords-steps-subtitle = Necesită acces la contul tău, așa că va trebui să o remediezi manual.
+# Variables
+# $breach_name is the name of the breach where the leaked password was found.
+# $emails_affected are the emails associated with the breach.
+leaked-passwords-step-one = Schimbă-ți parola pentru <b>{ $emails_affected }</b> pe <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-passwords-step-two = Schimb-o oriunde altundeva ai mai folosit-o.
+leaked-passwords-mark-as-fixed = Marchează ca rezolvat
+leaked-passwords-skip = Omite pentru moment
+# Variables
+# $estimated_time is the amount of time it would take for a user to manually resolve a leaked password breach. It will always be a number greater than 1.
+# "Est." is shortform for "Estimated".
+# "mins" is shortform for "minutes".
+leaked-passwords-estimated-time =
+    { $estimated_time ->
+        [one] Timp estimat de finalizare: { $estimated_time } minut per site
+        [few] Timp estimat de finalizare: { $estimated_time } minute per site
+       *[other] Timp estimat de finalizare: { $estimated_time } de minute per site
+    }
 
 # Leaked Security Questions
 
+leaked-security-questions-title = Întrebările tale de securitate au fost expuse
+# Variables
+# $breach_name is the name of the breach where the leaked security questions were found.
+# $breach_date is the date when the breach occurred.
+# An example of this string is Twitter on 13/09/18.
+leaked-security-questions-summary = Au apărut într-o încălcare a securității datelor { $breach_name } din data de { $breach_date }.
+leaked-security-questions-description = Escrocii le pot folosi pentru a-ți accesa conturile și orice alt site unde ai folosit aceleași întrebări de securitate. Actualizează-le acum pentru a-ți proteja conturile.
+leaked-security-questions-steps-title = Iată ce trebuie să faci
+leaked-security-questions-steps-subtitle = Necesită acces la contul tău, așa că va trebui să o remediezi manual.
+# Variables
+# $breach_name is the name of the breach where the security questions were found.
+# $email_affected is the email associated with the breach.
+leaked-security-questions-step-one = Actualizează-ți întrebările de securitate pentru <b>{ $email_affected }</b> pe <link_to_breach_site>{ $breach_name }</link_to_breach_site>.
+leaked-security-questions-step-two = Actualizează-le pe orice alt site unde ai folosit aceleași întrebări de securitate. Asigură-te că folosești întrebări de securitate diferite pentru fiecare cont.

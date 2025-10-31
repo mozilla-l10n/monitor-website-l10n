@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+public-nav-name = { -brand-mozilla-monitor }
+landing-all-hero-title = Află unde sunt expuse informațiile tale private — și recuperează-le
 landing-all-hero-emailform-input-placeholder = numeletău@exemplu.com
 
 # Value Proposition
