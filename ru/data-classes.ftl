@@ -16,7 +16,7 @@ astrological-signs = Астрологические знаки
 audio-recordings = Аудиозаписи
 auth-tokens = Авторизационные токены
 avatars = Аватары
-bank-account-numbers = Номера банковских счетов
+bank-account-numbers = Номера счетов
 beauty-ratings = Оценки красоты
 biometric-data = Биометрические данные
 # This string is the shortened version of "Biographies", and
