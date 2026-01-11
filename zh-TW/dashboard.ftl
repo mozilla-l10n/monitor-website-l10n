@@ -92,7 +92,7 @@ dashboard-top-banner-lets-keep-protecting-description =
     }
 dashboard-top-banner-lets-keep-protecting-cta = 讓我們前進下一步
 dashboard-top-banner-protect-your-data-title = 一起保護您的資料
-dashboard-top-banner-protect-your-data-cta = 讓我們一起修正它
+dashboard-top-banner-protect-your-data-cta = 一起來修正
 # Note: this line is followed by `dashboard-top-banner-non-us-protect-your-data-description-line1`.
 # Variables:
 #   $exposures_unresolved_num (number) - the total number of exposures the user has.
