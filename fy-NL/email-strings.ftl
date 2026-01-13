@@ -12,6 +12,9 @@ email-header-button-sign-in = Oanmelde
 email-footer-support-heading = Fragen oer { -brand-mozilla-monitor }?
 email-footer-support-content = Besykje ús <support-link>Stipesintrum</support-link> foar help
 email-footer-trigger-transactional = Jo ûntfange dit e-mailberjocht as abonnee fan { -brand-mozilla-monitor }.
+# Variables:
+#   $hibp_link (string) - URL to Have I Been Pwned, e.g. "https://haveibeenpwned.com".
+email-footer-source-hibp-plain = Datalek oanlevere troch { -brand-HIBP }: { $hibp_link }
 email-footer-source-hibp = Datalek oanlevere troch <hibp-link>{ -brand-HIBP }</hibp-link>
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = Privacy
