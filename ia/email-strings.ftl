@@ -12,6 +12,8 @@ email-header-button-sign-in = Aperir session
 email-footer-support-heading = Questiones re { -brand-mozilla-monitor }?
 email-footer-support-content = Visita nostre <support-link>Centro de supporto</support-link> pro adjuta
 email-footer-trigger-transactional = Tu recipe iste email como abonato de { -brand-mozilla-monitor }.
+email-footer-reason-subscriber = Tu recipe iste email automatisate como abonato de { -brand-mozilla-monitor }. Si tu ha recipite illo per error, nulle action es necesse. Pro altere informationes, visita le <support-link>Supporto de { -brand-mozilla }</support-link>.
+email-footer-reason-subscriber-one-time = Tu ha recipite iste email automatisate de un-vice perque tu es abonate a { -brand-monitor-plus }. Tu non recipera alcun ulterior email assi. Pro altere informationes, visita le <support-link>Supporto de { -brand-mozilla }</support-link>.
 # Variables:
 #    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
 email-footer-support-content-plain =
