@@ -19,7 +19,7 @@ settings-alert-preferences-option-two = Pošlji vsa opozorila o krajah podatkov 
 ## Monitored email addresses
 
 settings-email-verification-callout = Zahtevana je potrditev e-poštnega naslova
-settings-email-addresses-header = e-poštni naslovi
+settings-email-addresses-header = E-poštni naslovi
 settings-email-addresses-add-email-button = Dodaj e-poštni naslov
 input-error-alt = Napaka
 
