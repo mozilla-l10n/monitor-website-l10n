@@ -18,3 +18,4 @@ announcement-big-img-alt = 公告圖片
 
 # between announcement- and -title or -description is the announcement_id.
 
+announcement-free-data-breach-monitoring-cta-label = 更多資訊

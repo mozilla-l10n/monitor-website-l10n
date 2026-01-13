@@ -20,7 +20,12 @@ settings-alert-preferences-option-two = 傳送資料外洩警報到主要電子�
 
 settings-email-verification-callout = 需要驗證信箱
 settings-email-addresses-header = 電子郵件地址
+settings-email-addresses-description = { -brand-monitor } 會在得知資料外洩事件包含這些信箱時通知您。
 settings-email-addresses-add-email-button = 新增電子郵件地址
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = 新增最多 { $limit } 組
+settings-email-addresses-add-email-resend-button-label = 重寄驗證鏈結
 input-error-alt = 錯誤
 
 ## Email address dialog
