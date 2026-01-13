@@ -25,6 +25,8 @@ input-error-alt = 錯誤
 
 ## Email address dialog
 
+settings-email-addresses-initial-dialog-header = 新增電子郵件地址
+settings-email-addresses-initial-dialog-description = 我們會寄出驗證鏈結，以確認您是否願意將該信箱列入 { -brand-monitor } 未來的掃描清單中。
 settings-email-addresses-initial-dialog-add-email-input-label = 輸入電子郵件地址
 settings-email-addresses-initial-dialog-add-email-button-label = 寄送驗證鏈結
 settings-email-addresses-confirmation-dialog-close-button = 關閉

@@ -8,6 +8,13 @@ announcement-dialog-default-tab = 新增
 announcement-dialog-history-tab = 全部
 # To go back to the list of announcements
 announcement-dialog-back = 上一頁
+announcement-dialog-clear-all = 全部標示為已讀
+announcement-dialog-empty-state-title = 無最新消息
+announcement-dialog-empty-state-description = 請定期回來確認公告內容與我們最新推出的功能。
+announcement-dialog-trigger-alt = 開啟公告
+announcement-dialog-alt = 公告清單
+announcement-small-img-alt = 公告圖示
+announcement-big-img-alt = 公告圖片
 
 # between announcement- and -title or -description is the announcement_id.
 
