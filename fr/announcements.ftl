@@ -9,8 +9,19 @@ announcement-dialog-back = Retour
 announcement-dialog-clear-all = Tout marquer comme lu
 announcement-dialog-empty-state-title = Aucune annonce
 announcement-dialog-empty-state-description = N’hésitez pas à revenir souvent afin de découvrir les nouveautés et en savoir plus sur nos fonctionnalités récentes.
+announcement-dialog-trigger-alt = Ouvrir les annonces
+announcement-dialog-alt = Liste des annonces
+announcement-small-img-alt = Icône d’annonce
+announcement-big-img-alt = Image pour l’annonce
 
 # between announcement- and -title or -description is the announcement_id.
 
+# Variables:
+# $emailAddressesCount (string) - number of email addresses allowed for data breach monitoring
+announcement-free-data-breach-monitoring-title =
+    { $emailAddressesCount ->
+        [one] Surveillez gratuitement les fuites de données pour un maximum de { $emailAdddressesCount } adresse e-mail.
+       *[other] Surveillez gratuitement les fuites de données pour un maximum de { $emailAdddressesCount } adresses e-mail.
+    }
 announcement-free-data-breach-monitoring-description = Aidez-nous à protéger vos informations grâce à la surveillance des fuites de données. { -brand-monitor } vous alerte si vos informations apparaissent dans une fuite de données.
 announcement-free-data-breach-monitoring-cta-label = En savoir plus

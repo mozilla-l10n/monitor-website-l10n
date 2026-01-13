@@ -50,6 +50,8 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = Fermer
 
 ## Settings page redesign
 
+# Label for a navigation bar link to settings for updating the users scan profile info – “update” is used as a verb.
+settings-tab-label-update-scan-info = Mettre à jour les informations d’analyse
 settings-tab-label-edit-info = Modifier vos informations
 settings-tab-label-notifications = Configurer les notifications
 settings-tab-label-manage-account = Gérer le compte
