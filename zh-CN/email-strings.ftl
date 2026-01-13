@@ -5,7 +5,6 @@
 
 ## Email headers
 
-email-header-logo-alt = { -brand-mozilla-monitor }
 email-header-button-sign-in = 登录
 
 ## Email footers
@@ -20,8 +19,6 @@ email-footer-meta-privacy-notice = 隐私
 -product-name-relay = Firefox Relay
 # Mozilla VPN is a product name and should not be translated.
 -product-name-vpn = Mozilla VPN
-# A link to legal information about mozilla products.
-legal = 法律信息
 # Button text
 verify-email-cta = 验证邮箱
 # Headline of verification email
@@ -36,7 +33,6 @@ email-subject-no-breaches = { -product-name } 未找到相关数据外泄事件
 # Subject line of email
 email-subject-verify = { -product-name }：验证您的邮箱地址
 fxm-warns-you-no-breaches = { -product-name } 会在有与您相关的个人信息外泄事件发生时警告您。目前为止，未发生过外泄事件。我们会在您的邮箱地址出现在新事件中时通知您。
-email-breach-alert-blurb = { -product-name } 会在有与您相关的个人信息外泄事件发生时警告您。我们刚收到其他公司的数据外泄事件。
 
 ## 2022 email template. HTML tags should not be translated, e.g. `<a>`
 
@@ -48,7 +44,6 @@ email-2022-hibp-attribution = 数据外泄事件信息由 <a { $hibp-link-attr }
 ## Verification email
 
 email-verify-heading = 立即行动，保护您的个人数据
-email-verify-subhead = 验证您的邮箱地址以在泄露事件发生后保护您的数据。
 email-verify-simply-click = 请尽快点击下方链接，完成账户验证。
 
 ## Breach report

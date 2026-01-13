@@ -18,32 +18,7 @@ settings-alert-preferences-option-two = Az összes adatvédelmi incidens figyelm
 
 ## Monitored email addresses
 
-# Variables:
-#   $email (string) - Email address
-settings-email-list-title = Figyelt e-mail-címek
-# Variables:
-#   $limit (number) - Number of email addresses included in the plan
-settings-email-limit-info =
-    { $limit ->
-        [one] A fiókja legfeljebb { $limit } e-mail-cím figyelését tartalmazza.
-       *[other] A fiókja legfeljebb { $limit } e-mail-cím figyelését tartalmazza.
-    }
 settings-email-verification-callout = E-mail ellenőrzés szükséges
-settings-resend-email-verification-link = Ellenőrző e-mail újraküldése
-settings-add-email-button = E-mail-cím hozzáadása
-settings-remove-email-button-label = Eltávolítás
-# Variables:
-#   $emailAddress (string) - The email address to remove, e.g. `billnye@example.com`
-settings-remove-email-button-tooltip = A(z) { $emailAddress } figyelésének leállítása
-# This string is shown beneath each of the user’s email addresses to indicate
-# how many known breaches that email address was found in.
-# Variables:
-#   $breachCount (number) - Number of breaches
-settings-email-number-of-breaches-info =
-    { $breachCount ->
-        [one] { $breachCount } ismert adatvédelmi incidensben szerepel.
-       *[other] { $breachCount } ismert adatvédelmi incidensben szerepel.
-    }
 
 ## Delete Monitor account
 
@@ -56,11 +31,6 @@ settings-delete-monitor-free-account-dialog-cta-label = Fiók törlése
 settings-delete-monitor-free-account-dialog-cancel-button-label = Mégse, visszalépés
 settings-delete-monitor-account-confirmation-toast-label-2 = A { -brand-monitor }-fiókja törölve lett.
 settings-delete-monitor-account-confirmation-toast-dismiss-label = Eltüntetés
-
-## Monthly Monitor Report
-
-settings-alert-preferences-allow-monthly-monitor-report-title = Havi { -brand-monitor } jelentés
-settings-alert-preferences-allow-monthly-monitor-report-subtitle = Havi hírlevél az új megjelenésekről, arról, hogy mi lett kijavítva, és mire kell figyelnie.
 
 ## Settings page redesign
 

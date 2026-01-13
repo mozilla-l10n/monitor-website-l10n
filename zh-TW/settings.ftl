@@ -18,24 +18,7 @@ settings-alert-preferences-option-two = 傳送資料外洩警報到主要電子�
 
 ## Monitored email addresses
 
-# Variables:
-#   $email (string) - Email address
-settings-email-list-title = 監控中的電子郵件信箱
-# Variables:
-#   $limit (number) - Number of email addresses included in the plan
-settings-email-limit-info = 您的帳號可監控最多 { $limit } 組信箱。
 settings-email-verification-callout = 需要驗證信箱
-settings-resend-email-verification-link = 重寄驗證信
-settings-add-email-button = 新增電子郵件地址
-settings-remove-email-button-label = 移除
-# Variables:
-#   $emailAddress (string) - The email address to remove, e.g. `billnye@example.com`
-settings-remove-email-button-tooltip = 停止監控 { $emailAddress }
-# This string is shown beneath each of the user’s email addresses to indicate
-# how many known breaches that email address was found in.
-# Variables:
-#   $breachCount (number) - Number of breaches
-settings-email-number-of-breaches-info = 出現在 { $breachCount } 場已知的外洩事件中。
 
 ## Delete Monitor account
 
@@ -48,11 +31,6 @@ settings-delete-monitor-free-account-dialog-cta-label = 刪除帳號
 settings-delete-monitor-free-account-dialog-cancel-button-label = 算了，帶我回去
 settings-delete-monitor-account-confirmation-toast-label-2 = 已刪除您的 { -brand-monitor } 帳號。
 settings-delete-monitor-account-confirmation-toast-dismiss-label = 知道了！
-
-## Monthly Monitor Report
-
-settings-alert-preferences-allow-monthly-monitor-report-title = { -brand-monitor } 月報
-settings-alert-preferences-allow-monthly-monitor-report-subtitle = 每月通知您有哪些新的外洩事件、修正了哪些問題，以及哪些問題需要您注意。
 
 ## Settings page redesign
 

@@ -5,7 +5,6 @@
 
 ## Email headers
 
-email-header-logo-alt = { -brand-mozilla-monitor }
 email-header-button-sign-in = Anmelden
 
 ## Email footers
@@ -20,8 +19,6 @@ email-footer-meta-privacy-notice = Datenschutz
 -product-name-relay = Firefox Relay
 # Mozilla VPN is a product name and should not be translated.
 -product-name-vpn = Mozilla VPN
-# A link to legal information about mozilla products.
-legal = Rechtliches
 # Button text
 verify-email-cta = E-Mail-Adresse bestätigen
 # Headline of verification email
@@ -36,11 +33,8 @@ email-subject-no-breaches = { -product-name } hat keine bekannten Datenlecks gef
 # Subject line of email
 email-subject-verify = Bestätige deine E-Mail-Adresse für { -product-name }
 fxm-warns-you-no-breaches =
-     { -product-name } warnt dich vor Datenlecks, die deine persönlichen Daten betreffen.
+    { " " }{ -product-name } warnt dich vor Datenlecks, die deine persönlichen Daten betreffen.
     Bisher wurden keine Datenlecks festgestellt. Wir senden dir eine Benachrichtigung, wenn deine E-Mail-Adresse in einem neuen Datenleck auftaucht.
-email-breach-alert-blurb =
-    { -product-name } warnt dich vor Datenlecks, die deine persönlichen Daten betreffen.
-    Wir haben soeben Informationen über ein Datenleck bei einem anderen Unternehmen erhalten.
 
 ## 2022 email template. HTML tags should not be translated, e.g. `<a>`
 
@@ -52,7 +46,6 @@ email-2022-hibp-attribution = Die Informationen zu Datenlecks wurden bereitgeste
 ## Verification email
 
 email-verify-heading = Schützen Sie Ihre Daten ab sofort
-email-verify-subhead = Bestätigen Sie Ihre E-Mail-Adresse, um Ihre Daten nach einem Leck zu schützen.
 email-verify-simply-click = Klicken Sie einfach auf den folgenden Link, um die Verifizierung Ihres Kontos abzuschließen.
 
 ## Breach report

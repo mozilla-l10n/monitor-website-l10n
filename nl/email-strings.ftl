@@ -5,7 +5,6 @@
 
 ## Email headers
 
-email-header-logo-alt = { -brand-mozilla-monitor }
 email-header-button-sign-in = Aanmelden
 
 ## Email footers
@@ -20,8 +19,6 @@ email-footer-meta-privacy-notice = Privacy
 -product-name-relay = Firefox Relay
 # Mozilla VPN is a product name and should not be translated.
 -product-name-vpn = Mozilla VPN
-# A link to legal information about mozilla products.
-legal = Juridisch
 # Button text
 verify-email-cta = E-mailadres verifiëren
 # Headline of verification email
@@ -38,9 +35,6 @@ email-subject-verify = Verifieer uw e-mailadres voor { -product-name }
 fxm-warns-you-no-breaches =
     { -product-name } waarschuwt u voor datalekken met betrekking tot uw persoonlijke gegevens.
     Tot nu toe zijn er geen datalekken gevonden. We sturen u een melding als uw e-mailadres wordt weergegeven in een nieuw datalek.
-email-breach-alert-blurb =
-    { -product-name } waarschuwt u voor datalekken met betrekking tot uw persoonlijke gegevens.
-    We hebben zojuist informatie ontvangen over een datalek van een ander bedrijf.
 
 ## 2022 email template. HTML tags should not be translated, e.g. `<a>`
 
@@ -52,7 +46,6 @@ email-2022-hibp-attribution = Datalek aangeleverd door <a { $hibp-link-attr }>{ 
 ## Verification email
 
 email-verify-heading = Bescherm uw gegevens, per direct
-email-verify-subhead = Verifieer uw e-mailadres om uw gegevens te beschermen na een datalek.
 email-verify-simply-click = Klik op de onderstaande koppeling om de verificatie van uw account te voltooien.
 
 ## Breach report

@@ -18,34 +18,7 @@ settings-alert-preferences-option-two = Trimite toate alertele pentru încălcă
 
 ## Monitored email addresses
 
-# Variables:
-#   $email (string) - Email address
-settings-email-list-title = Adrese de e-mail monitorizate
-# Variables:
-#   $limit (number) - Number of email addresses included in the plan
-settings-email-limit-info =
-    { $limit ->
-        [one] Contul tău include monitorizarea a până la { $limit } adresă de e-mail.
-        [few] Contul tău include monitorizarea a până la { $limit } adrese de e-mail.
-       *[other] Contul tău include monitorizarea a până la { $limit } de adrese de e-mail.
-    }
 settings-email-verification-callout = Necesită verificarea adresei de e-mail
-settings-resend-email-verification-link = Retrimite  mesajul de verificare pe e-mail
-settings-add-email-button = Adaugă adresa de e-mail
-settings-remove-email-button-label = Elimină
-# Variables:
-#   $emailAddress (string) - The email address to remove, e.g. `billnye@example.com`
-settings-remove-email-button-tooltip = Oprește monitorizarea { $emailAddress }
-# This string is shown beneath each of the user’s email addresses to indicate
-# how many known breaches that email address was found in.
-# Variables:
-#   $breachCount (number) - Number of breaches
-settings-email-number-of-breaches-info =
-    { $breachCount ->
-        [one] Apare în { $breachCount } încălcare cunoscută a securității datelor.
-        [few] Apare în { $breachCount } încălcări cunoscute ale securității datelor.
-       *[other] Apare în { $breachCount } de încălcări cunoscute ale securității datelor.
-    }
 
 ## Delete Monitor account
 
@@ -58,11 +31,6 @@ settings-delete-monitor-free-account-dialog-cta-label = Șterge contul
 settings-delete-monitor-free-account-dialog-cancel-button-label = Nu mai contează, du-mă înapoi
 settings-delete-monitor-account-confirmation-toast-label-2 = Contul tău { -brand-monitor } este șters acum.
 settings-delete-monitor-account-confirmation-toast-dismiss-label = Respinge
-
-## Monthly Monitor Report
-
-settings-alert-preferences-allow-monthly-monitor-report-title = Raport lunar { -brand-monitor }
-settings-alert-preferences-allow-monthly-monitor-report-subtitle = O actualizare lunară cu expuneri noi, ce s-a rezolvat și ce necesită atenția ta.
 
 ## Settings page redesign
 

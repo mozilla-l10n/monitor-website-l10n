@@ -18,32 +18,7 @@ settings-alert-preferences-option-two = Send alle åtvaringar om datalekkasjar t
 
 ## Monitored email addresses
 
-# Variables:
-#   $email (string) - Email address
-settings-email-list-title = Overvaka e-postadresser
-# Variables:
-#   $limit (number) - Number of email addresses included in the plan
-settings-email-limit-info =
-    { $limit ->
-        [one] Kontoen din inkluderer overvaking av opptil { $limit } e-postadresse.
-       *[other] Kontoen din inkluderer overvaking av opptil { $limit } e-postadresser.
-    }
 settings-email-verification-callout = Stadfesting av e-post påkravd
-settings-resend-email-verification-link = Send stadfestings e-posten på nytt
-settings-add-email-button = Legg til e-postadresse
-settings-remove-email-button-label = Fjern
-# Variables:
-#   $emailAddress (string) - The email address to remove, e.g. `billnye@example.com`
-settings-remove-email-button-tooltip = Slutt å overvake { $emailAddress }
-# This string is shown beneath each of the user’s email addresses to indicate
-# how many known breaches that email address was found in.
-# Variables:
-#   $breachCount (number) - Number of breaches
-settings-email-number-of-breaches-info =
-    { $breachCount ->
-        [one] Er i { $breachCount } kjend datalekkasje.
-       *[other] Er i { $breachCount } kjende datalekkasjar.
-    }
 
 ## Delete Monitor account
 
@@ -56,11 +31,6 @@ settings-delete-monitor-free-account-dialog-cta-label = Slett kontoen
 settings-delete-monitor-free-account-dialog-cancel-button-label = Gløym det, ta meg tilbake
 settings-delete-monitor-account-confirmation-toast-label-2 = { -brand-monitor }-kontoen din er no sletta.
 settings-delete-monitor-account-confirmation-toast-dismiss-label = Ignorer
-
-## Monthly Monitor Report
-
-settings-alert-preferences-allow-monthly-monitor-report-title = Månadleg { -brand-monitor }-rapport
-settings-alert-preferences-allow-monthly-monitor-report-subtitle = Ei månadleg oppdatering av nye eksponeringar, kva som er fiksa og kva som krev di merksemd.
 
 ## Settings page redesign
 

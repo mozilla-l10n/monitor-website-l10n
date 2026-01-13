@@ -18,34 +18,7 @@ settings-alert-preferences-option-two = Enviar todas las alertas de filtración 
 
 ## Monitored email addresses
 
-# Variables:
-#   $email (string) - Email address
-settings-email-list-title = Direcciones de correo electrónico monitoreadas
-# Variables:
-#   $limit (number) - Number of email addresses included in the plan
-settings-email-limit-info =
-    { $limit ->
-        [one] Tu cuenta incluye monitoreo de hasta { $limit } correo electrónico.
-        [many] Tu cuenta incluye monitoreo de hasta { $limit } correos electrónicos.
-       *[other] Tu cuenta incluye monitoreo de hasta { $limit } correos electrónicos.
-    }
 settings-email-verification-callout = Verificación de correo electrónico requerida
-settings-resend-email-verification-link = Reenviar correo electrónico de verificación
-settings-add-email-button = Agregar dirección de correo electrónico
-settings-remove-email-button-label = Eliminar
-# Variables:
-#   $emailAddress (string) - The email address to remove, e.g. `billnye@example.com`
-settings-remove-email-button-tooltip = Dejar de monitorear { $emailAddress }
-# This string is shown beneath each of the user’s email addresses to indicate
-# how many known breaches that email address was found in.
-# Variables:
-#   $breachCount (number) - Number of breaches
-settings-email-number-of-breaches-info =
-    { $breachCount ->
-        [one] Aparece en { $breachCount } filtración conocida.
-        [many] Aparece en { $breachCount } filtraciones conocidas.
-       *[other] Aparece en { $breachCount } filtraciones conocidas.
-    }
 
 ## Delete Monitor account
 
@@ -58,11 +31,6 @@ settings-delete-monitor-free-account-dialog-cta-label = Eliminar la cuenta
 settings-delete-monitor-free-account-dialog-cancel-button-label = No importa, volvamos
 settings-delete-monitor-account-confirmation-toast-label-2 = Se eliminó tu cuenta de { -brand-monitor }.
 settings-delete-monitor-account-confirmation-toast-dismiss-label = Descartar
-
-## Monthly Monitor Report
-
-settings-alert-preferences-allow-monthly-monitor-report-title = Informe mensual de { -brand-monitor }
-settings-alert-preferences-allow-monthly-monitor-report-subtitle = Una actualización mensual de las nuevas exposiciones, lo que se ha corregido y lo que necesita tu atención.
 
 ## Settings page redesign
 

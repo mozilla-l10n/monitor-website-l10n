@@ -12,6 +12,9 @@ landing-all-hero-emailform-submit-sign-up-label = Zaregistrujte sa a získajte b
 # This is a label underneath a big number "14" - it's an image that demos Monitor.
 landing-all-hero-image-chart-label = odhalení
 
+## Top navbar
+
+
 # Value Proposition
 
 landing-all-value-prop-fix-exposures = Pomôžeme vám vyriešiť nájdené úniky

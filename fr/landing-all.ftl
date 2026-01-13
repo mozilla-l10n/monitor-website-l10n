@@ -12,6 +12,9 @@ landing-all-hero-emailform-submit-sign-up-label = Inscrivez-vous pour obtenir un
 # This is a label underneath a big number "14" - it's an image that demos Monitor.
 landing-all-hero-image-chart-label = détections
 
+## Top navbar
+
+
 # Value Proposition
 
 landing-all-value-prop-fix-exposures = Nous vous aiderons à résoudre vos fuites de données
@@ -48,7 +51,7 @@ landing-all-social-proof-title =
 # Variables
 # $num_countries is the number of countries available.
 landing-all-social-proof-description = Depuis 2018, nous avons aidé des personnes dans { $num_countries } pays à protéger leurs données compromises.
-landing-all-social-proof-press = Tel que vu dans 
+landing-all-social-proof-press = Tel que vu dans{ " " }
 
 # Here's How We Help
 

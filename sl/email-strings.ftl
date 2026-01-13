@@ -5,7 +5,6 @@
 
 ## Email headers
 
-email-header-logo-alt = { -brand-mozilla-monitor }
 email-header-button-sign-in = Prijava
 
 ## Email footers
@@ -20,8 +19,6 @@ email-footer-meta-privacy-notice = Zasebnost
 -product-name-relay = Firefox Relay
 # Mozilla VPN is a product name and should not be translated.
 -product-name-vpn = Mozilla VPN
-# A link to legal information about mozilla products.
-legal = Pravno obvestilo
 # Button text
 verify-email-cta = Potrdi e-poštni naslov
 # Headline of verification email
@@ -38,9 +35,6 @@ email-subject-verify = Potrdite e-pošto za { -product-name }
 fxm-warns-you-no-breaches =
     { -product-name } vas opozori na kraje podatkov, ki vključujejo vaše osebne podatke.
     Do zdaj ni bilo ugotovljenih nobenih kraj. Če se bo vaš e-poštni naslov pojavil v novi kraji, vas bomo opozorili.
-email-breach-alert-blurb =
-    { -product-name } vas opozarja o krajah podatkov, ki vključujejo vaše osebne podatke.
-    Pravkar smo prejeli podrobnosti o novi kraji podatkov.
 
 ## 2022 email template. HTML tags should not be translated, e.g. `<a>`
 
@@ -52,7 +46,6 @@ email-2022-hibp-attribution = Podatke o krajah zagotavlja <a { $hibp-link-attr }
 ## Verification email
 
 email-verify-heading = Začnite varovati svoje podatke
-email-verify-subhead = Potrdite svoj e-poštni naslov in začnite varovati svoje podatke po kraji.
 email-verify-simply-click = Preprosto kliknite spodnjo povezavo, da dokončate preverjanje računa.
 
 ## Breach report

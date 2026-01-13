@@ -5,7 +5,6 @@
 
 ## Email headers
 
-email-header-logo-alt = { -brand-mozilla-monitor }
 email-header-button-sign-in = Bejelentkezés
 
 ## Email footers
@@ -20,8 +19,6 @@ email-footer-meta-privacy-notice = Adatvédelem
 -product-name-relay = Firefox Relay
 # Mozilla VPN is a product name and should not be translated.
 -product-name-vpn = Mozilla VPN
-# A link to legal information about mozilla products.
-legal = Jogi információk
 # Button text
 verify-email-cta = E-mail-cím megerősítése
 # Headline of verification email
@@ -38,9 +35,6 @@ email-subject-verify = Erősítse meg a { -product-name }hoz használt e-mail-c�
 fxm-warns-you-no-breaches =
     A { -product-name } figyelmezteti az Ön személyes információit érintő adatvédelmi incidensekről.
     Eddig egyetlen adatvédelmi incidens sem található. Figyelmeztetést küldünk Önnek, ha az e-mail-címe új adatvédelmi incidensben jelenik meg.
-email-breach-alert-blurb =
-    A { -product-name } figyelmezteti az Ön személyes információit érintő adatvédelmi incidensekről.
-    Épp most kaptunk részleteket egy másik céget érintő adatvédelmi incidensről.
 
 ## 2022 email template. HTML tags should not be translated, e.g. `<a>`
 
@@ -52,7 +46,6 @@ email-2022-hibp-attribution = Az adatvédelmi incidensek adatait a <a { $hibp-li
 ## Verification email
 
 email-verify-heading = Védje meg az adatait, már most
-email-verify-subhead = Igazolja vissza az e-mail-címét, hogy megkezdhesse adatai védelmét az adatvédelmi incidens után.
 email-verify-simply-click = Egyszerűen kattintson az alábbi hivatkozásra a fiókja ellenőrzésének befejezéséhez.
 
 ## Breach report

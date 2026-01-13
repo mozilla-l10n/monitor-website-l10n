@@ -12,6 +12,9 @@ landing-all-hero-emailform-submit-sign-up-label = Regisztráljon és kapjon ingy
 # This is a label underneath a big number "14" - it's an image that demos Monitor.
 landing-all-hero-image-chart-label = kitettség
 
+## Top navbar
+
+
 # Value Proposition
 
 landing-all-value-prop-fix-exposures = Segítünk javítani a kitettségeit

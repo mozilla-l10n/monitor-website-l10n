@@ -5,7 +5,6 @@
 
 ## Email headers
 
-email-header-logo-alt = { -brand-mozilla-monitor }
 email-header-button-sign-in = Masuk
 
 ## Email footers
@@ -20,8 +19,6 @@ email-footer-meta-privacy-notice = Privasi
 -product-name-relay = Firefox Relay
 # Mozilla VPN is a product name and should not be translated.
 -product-name-vpn = Mozilla VPN
-# A link to legal information about mozilla products.
-legal = Legal
 # Button text
 verify-email-cta = Verifikasi Surel
 # Headline of verification email
@@ -38,9 +35,6 @@ email-subject-verify = Verifikasi surel Anda untuk { -product-name }
 fxm-warns-you-no-breaches =
     { -product-name } memperingatkan Anda tentang pembobolan data yang melibatkan informasi pribadi Anda.
     Sejauh ini, tidak ada pembobolan yang ditemukan. Kami akan mengirimkan peringatan kepada Anda jika alamat surel Anda muncul dalam pembobolan baru.
-email-breach-alert-blurb =
-    { -product-name } memperingatkan Anda tentang pembobolan data yang melibatkan informasi pribadi Anda.
-    Kami baru saja menerima rinciian tentang pembobolan data perusahaan lain.
 
 ## 2022 email template. HTML tags should not be translated, e.g. `<a>`
 
@@ -52,7 +46,6 @@ email-2022-hibp-attribution = Data pembobolan disediakan oleh <a { $hibp-link-at
 ## Verification email
 
 email-verify-heading = Lindungi data Anda, mulai sekarang
-email-verify-subhead = Verifikasikan surel Anda untuk mulai melindungi data Anda setelah pembobolan.
 email-verify-simply-click = Cukup klik tautan di bawah ini untuk menyelesaikan verifikasi akun Anda.
 
 ## Breach report

@@ -18,40 +18,7 @@ settings-alert-preferences-option-two = Anfon yr holl rybuddion tor-data at fy m
 
 ## Monitored email addresses
 
-# Variables:
-#   $email (string) - Email address
-settings-email-list-title = Cyfeiriadau e-bost yn cael eu monitro
-# Variables:
-#   $limit (number) - Number of email addresses included in the plan
-settings-email-limit-info =
-    { $limit ->
-        [zero] Mae eich cyfrif yn cynnwys monitro hyd at { $limit } e-byst.
-        [one] Mae eich cyfrif yn cynnwys monitro hyd at { $limit } e-bost.
-        [two] Mae eich cyfrif yn cynnwys monitro hyd at { $limit } e-bost.
-        [few] Mae eich cyfrif yn cynnwys monitro hyd at { $limit } e-bost.
-        [many] Mae eich cyfrif yn cynnwys monitro hyd at { $limit } e-bost.
-       *[other] Mae eich cyfrif yn cynnwys monitro hyd at { $limit } e-bost.
-    }
 settings-email-verification-callout = Mae angen gwirio'r e-bost
-settings-resend-email-verification-link = Ail-anfon yr e-bost gwirio
-settings-add-email-button = Ychwanegu cyfeiriad e-bost
-settings-remove-email-button-label = Tynnu
-# Variables:
-#   $emailAddress (string) - The email address to remove, e.g. `billnye@example.com`
-settings-remove-email-button-tooltip = Rhoi'r gorau i fonitro { $emailAddress }
-# This string is shown beneath each of the user’s email addresses to indicate
-# how many known breaches that email address was found in.
-# Variables:
-#   $breachCount (number) - Number of breaches
-settings-email-number-of-breaches-info =
-    { $breachCount ->
-        [zero] Yn ymddangos mewn { $breachCount } tor-data.
-        [one] Yn ymddangos mewn { $breachCount } tor-data.
-        [two] Yn ymddangos mewn { $breachCount } dor-data.
-        [few] Yn ymddangos mewn { $breachCount } tor-data.
-        [many] Yn ymddangos mewn { $breachCount } thor-data.
-       *[other] Yn ymddangos mewn { $breachCount } tor-data.
-    }
 
 ## Delete Monitor account
 
@@ -64,11 +31,6 @@ settings-delete-monitor-free-account-dialog-cta-label = Dileu'r cyfrif
 settings-delete-monitor-free-account-dialog-cancel-button-label = Dim gwahaniaeth, mynd â fi yn ôl
 settings-delete-monitor-account-confirmation-toast-label-2 = Mae eich cyfrif { -brand-monitor } bellach wedi'i ddileu'n barhaol.
 settings-delete-monitor-account-confirmation-toast-dismiss-label = Cau
-
-## Monthly Monitor Report
-
-settings-alert-preferences-allow-monthly-monitor-report-title = Adroddiad misol { -brand-monitor }
-settings-alert-preferences-allow-monthly-monitor-report-subtitle = Diweddariad misol o ddatguddiadau newydd, beth sydd wedi'i drwsio, a beth sydd angen eich sylw.
 
 ## Settings page redesign
 

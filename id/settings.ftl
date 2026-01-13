@@ -18,30 +18,7 @@ settings-alert-preferences-option-two = Kirim semua peringatan pembobolan ke ala
 
 ## Monitored email addresses
 
-# Variables:
-#   $email (string) - Email address
-settings-email-list-title = Alamat surel yang dipantau
-# Variables:
-#   $limit (number) - Number of email addresses included in the plan
-settings-email-limit-info =
-    { $limit ->
-       *[other] Akun Anda termasuk pemantauan hingga { $limit } surel.
-    }
 settings-email-verification-callout = Verifikasi surel diperlukan
-settings-resend-email-verification-link = Kirim ulang surel verifikasi
-settings-add-email-button = Tambahkan alamat surel
-settings-remove-email-button-label = Hapus
-# Variables:
-#   $emailAddress (string) - The email address to remove, e.g. `billnye@example.com`
-settings-remove-email-button-tooltip = Hentikan pemantauan { $emailAddress }
-# This string is shown beneath each of the user’s email addresses to indicate
-# how many known breaches that email address was found in.
-# Variables:
-#   $breachCount (number) - Number of breaches
-settings-email-number-of-breaches-info =
-    { $breachCount ->
-       *[other] Muncul dalam { $breachCount } pembobolan yang diketahui.
-    }
 
 ## Delete Monitor account
 
@@ -54,11 +31,6 @@ settings-delete-monitor-free-account-dialog-cta-label = Hapus akun
 settings-delete-monitor-free-account-dialog-cancel-button-label = Lupakan saja, bawa aku kembali
 settings-delete-monitor-account-confirmation-toast-label-2 = Akun { -brand-monitor } Anda sekarang telah dihapus.
 settings-delete-monitor-account-confirmation-toast-dismiss-label = Tutup
-
-## Monthly Monitor Report
-
-settings-alert-preferences-allow-monthly-monitor-report-title = Laporan bulanan { -brand-monitor }
-settings-alert-preferences-allow-monthly-monitor-report-subtitle = Pembaruan bulanan untuk eksposur baru, apa yang telah diperbaiki, dan apa yang perlu Anda perhatikan.
 
 ## Settings page redesign
 

@@ -12,6 +12,9 @@ landing-all-hero-emailform-submit-sign-up-label = 注册即可免费扫描
 # This is a label underneath a big number "14" - it's an image that demos Monitor.
 landing-all-hero-image-chart-label = 次暴露
 
+## Top navbar
+
+
 # Value Proposition
 
 landing-all-value-prop-fix-exposures = 我们将帮助您处理暴露问题

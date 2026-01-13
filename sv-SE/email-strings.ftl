@@ -5,7 +5,6 @@
 
 ## Email headers
 
-email-header-logo-alt = { -brand-mozilla-monitor }
 email-header-button-sign-in = Logga in
 
 ## Email footers
@@ -20,8 +19,6 @@ email-footer-meta-privacy-notice = Sekretess
 -product-name-relay = Firefox Relay
 # Mozilla VPN is a product name and should not be translated.
 -product-name-vpn = Mozilla VPN
-# A link to legal information about mozilla products.
-legal = Juridisk information
 # Button text
 verify-email-cta = Verifiera e-postadress
 # Headline of verification email
@@ -38,9 +35,6 @@ email-subject-verify = Verifiera din e-postadress för { -product-name }
 fxm-warns-you-no-breaches =
     { -product-name } varnar dig om intrång av uppgifter som involverar din personliga information.
     Hittills har inga intrång hittats. Vi skickar en varning om din e-postadress visas i ett nytt intrång.
-email-breach-alert-blurb =
-    { -product-name } varnar dig om intrång av uppgifter som involverar din personliga information.
-    Vi har precis fått uppgifter om ett dataintrång från ett annat företag.
 
 ## 2022 email template. HTML tags should not be translated, e.g. `<a>`
 
@@ -52,7 +46,6 @@ email-2022-hibp-attribution = Intrångsdata tillhandahållen av <a { $hibp-link-
 ## Verification email
 
 email-verify-heading = Skydda dina data, från och med nu
-email-verify-subhead = Verifiera din e-post för att börja skydda din data efter ett intrång.
 email-verify-simply-click = Klicka på länken nedan för att slutföra verifieringen av ditt konto.
 
 ## Breach report

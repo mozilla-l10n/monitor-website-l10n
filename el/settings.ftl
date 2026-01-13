@@ -18,32 +18,7 @@ settings-alert-preferences-option-two = Αποστολή όλων των ειδ�
 
 ## Monitored email addresses
 
-# Variables:
-#   $email (string) - Email address
-settings-email-list-title = Διευθύνσεις email υπό εποπτεία
-# Variables:
-#   $limit (number) - Number of email addresses included in the plan
-settings-email-limit-info =
-    { $limit ->
-        [one] Ο λογαριασμός σας παρέχει εποπτεία για έως και { $limit } διεύθυνση email.
-       *[other] Ο λογαριασμός σας παρέχει εποπτεία για έως και { $limit } διευθύνσεις email.
-    }
 settings-email-verification-callout = Απαιτείται επαλήθευση email
-settings-resend-email-verification-link = Εκ νέου αποστολή email επαλήθευσης
-settings-add-email-button = Προσθήκη διεύθυνσης email
-settings-remove-email-button-label = Αφαίρεση
-# Variables:
-#   $emailAddress (string) - The email address to remove, e.g. `billnye@example.com`
-settings-remove-email-button-tooltip = Διακοπή εποπτείας του { $emailAddress }
-# This string is shown beneath each of the user’s email addresses to indicate
-# how many known breaches that email address was found in.
-# Variables:
-#   $breachCount (number) - Number of breaches
-settings-email-number-of-breaches-info =
-    { $breachCount ->
-        [one] Εμφανίζεται σε { $breachCount } γνωστή παραβίαση.
-       *[other] Εμφανίζεται σε { $breachCount } γνωστές παραβιάσεις.
-    }
 
 ## Delete Monitor account
 
@@ -56,11 +31,6 @@ settings-delete-monitor-free-account-dialog-cta-label = Διαγραφή λογ�
 settings-delete-monitor-free-account-dialog-cancel-button-label = Άλλαξα γνώμη, θέλω να επιστρέψω
 settings-delete-monitor-account-confirmation-toast-label-2 = Ο λογαριασμός σας στο { -brand-monitor } έχει πλέον διαγραφεί.
 settings-delete-monitor-account-confirmation-toast-dismiss-label = Απόρριψη
-
-## Monthly Monitor Report
-
-settings-alert-preferences-allow-monthly-monitor-report-title = Μηνιαία αναφορά { -brand-monitor }
-settings-alert-preferences-allow-monthly-monitor-report-subtitle = Μια μηνιαία ενημέρωση για τις νέες εκθέσεις, το τι έχει διορθωθεί και τι χρειάζεται την προσοχή σας.
 
 ## Settings page redesign
 

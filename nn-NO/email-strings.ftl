@@ -5,7 +5,6 @@
 
 ## Email headers
 
-email-header-logo-alt = { -brand-mozilla-monitor }
 email-header-button-sign-in = Logg inn
 
 ## Email footers
@@ -20,8 +19,6 @@ email-footer-meta-privacy-notice = Personvern
 -product-name-relay = Firefox Relay
 # Mozilla VPN is a product name and should not be translated.
 -product-name-vpn = Mozilla VPN
-# A link to legal information about mozilla products.
-legal = Juridisk informasjon
 # Button text
 verify-email-cta = Stadfest e-post
 # Headline of verification email
@@ -38,9 +35,6 @@ email-subject-verify = Stadfest e-posten din for { -product-name }
 fxm-warns-you-no-breaches =
     { -product-name } åtvarar deg om datalekkasjar som involverer din personlege informasjon. 
     Så langt har det ikkje hendt. Vi sender deg eit varsel dersom e-postadressa di er i ein ny datalekkasje.
-email-breach-alert-blurb =
-    { -product-name } åtvarar deg om datalekkasjer som involverer din personlege informasjon. 
-    Vi har nettopp fått detaljer om ein datalekkasje til eit anna selskap.
 
 ## 2022 email template. HTML tags should not be translated, e.g. `<a>`
 
@@ -52,7 +46,6 @@ email-2022-hibp-attribution = Informasjon om datalekkasje er levert av <a { $hib
 ## Verification email
 
 email-verify-heading = Sikre dataa dine frå no av
-email-verify-subhead = Stadfest e-postadressa di for å byrje å verne dine data etter ein datalekkasje.
 email-verify-simply-click = Trykk på lenka nedanfor for å fullføre stadfestinga av kontoen din.
 
 ## Breach report

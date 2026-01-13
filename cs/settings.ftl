@@ -18,36 +18,7 @@ settings-alert-preferences-option-two = Všechna upozornění posílat na primá
 
 ## Monitored email addresses
 
-# Variables:
-#   $email (string) - Email address
-settings-email-list-title = Monitorované e-mailové adresy
-# Variables:
-#   $limit (number) - Number of email addresses included in the plan
-settings-email-limit-info =
-    { $limit ->
-        [one] Váš účet nabízí možnost monitorování { $limit } e-mailové adresy.
-        [few] Váš účet nabízí možnost monitorování až { $limit } e-mailových adres.
-        [many] Váš účet nabízí možnost monitorování až { $limit } e-mailových adres.
-       *[other] Váš účet nabízí možnost monitorování { $limit } e-mailových adres.
-    }
 settings-email-verification-callout = Vyžadováno ověření e-mailové adresy
-settings-resend-email-verification-link = Znovu poslat ověřovací e-mail
-settings-add-email-button = Přidat e-mailové adresy
-settings-remove-email-button-label = Odebrat
-# Variables:
-#   $emailAddress (string) - The email address to remove, e.g. `billnye@example.com`
-settings-remove-email-button-tooltip = Ukončit monitorování adresy { $emailAddress }
-# This string is shown beneath each of the user’s email addresses to indicate
-# how many known breaches that email address was found in.
-# Variables:
-#   $breachCount (number) - Number of breaches
-settings-email-number-of-breaches-info =
-    { $breachCount ->
-        [one] Vyskytuje se v { $breachCount } známém úniku.
-        [few] Vyskytuje se ve { $breachCount } známých únicích.
-        [many] Vyskytuje se v { $breachCount } známých únicích.
-       *[other] Vyskytuje se v { $breachCount } známých únicích.
-    }
 
 ## Delete Monitor account
 
@@ -60,11 +31,6 @@ settings-delete-monitor-free-account-dialog-cta-label = Smazat účet
 settings-delete-monitor-free-account-dialog-cancel-button-label = Rozmyslel(a) jsem si to
 settings-delete-monitor-account-confirmation-toast-label-2 = Váš účet { -brand-monitor } je nyní smazán.
 settings-delete-monitor-account-confirmation-toast-dismiss-label = Zavřít
-
-## Monthly Monitor Report
-
-settings-alert-preferences-allow-monthly-monitor-report-title = Měsíční přehled { -brand-monitor(case: "gen") }
-settings-alert-preferences-allow-monthly-monitor-report-subtitle = Měsíční informace o nových únicích, co bylo vyřešeno a co vyžaduje vaši pozornost.
 
 ## Settings page redesign
 

@@ -18,32 +18,7 @@ settings-alert-preferences-option-two = Alle Warnungen zu Datenlecks an die prim
 
 ## Monitored email addresses
 
-# Variables:
-#   $email (string) - Email address
-settings-email-list-title = Überwachte E-Mail-Adressen
-# Variables:
-#   $limit (number) - Number of email addresses included in the plan
-settings-email-limit-info =
-    { $limit ->
-        [one] Ihr Konto überwacht bis zu { $limit } E-Mail-Adresse.
-       *[other] Ihr Konto überwacht bis zu { $limit } E-Mail-Adressen.
-    }
 settings-email-verification-callout = E-Mail-Bestätigung erforderlich
-settings-resend-email-verification-link = Bestätigungs-Mail erneut versenden
-settings-add-email-button = E-Mail-Adresse hinzufügen
-settings-remove-email-button-label = Entfernen
-# Variables:
-#   $emailAddress (string) - The email address to remove, e.g. `billnye@example.com`
-settings-remove-email-button-tooltip = { $emailAddress } nicht mehr überwachen
-# This string is shown beneath each of the user’s email addresses to indicate
-# how many known breaches that email address was found in.
-# Variables:
-#   $breachCount (number) - Number of breaches
-settings-email-number-of-breaches-info =
-    { $breachCount ->
-        [one] Ist von { $breachCount } bekannten Datenleck betroffen.
-       *[other] Ist von { $breachCount } bekannten Datenlecks betroffen.
-    }
 
 ## Delete Monitor account
 
@@ -56,11 +31,6 @@ settings-delete-monitor-free-account-dialog-cta-label = Konto löschen
 settings-delete-monitor-free-account-dialog-cancel-button-label = Ich habe es mir anders überlegt – zurück zur vorherigen Seite
 settings-delete-monitor-account-confirmation-toast-label-2 = Ihr { -brand-monitor }-Konto ist jetzt gelöscht.
 settings-delete-monitor-account-confirmation-toast-dismiss-label = Schließen
-
-## Monthly Monitor Report
-
-settings-alert-preferences-allow-monthly-monitor-report-title = Monatlicher { -brand-monitor }-Bericht
-settings-alert-preferences-allow-monthly-monitor-report-subtitle = Eine monatlich aktualisierte Information über neue Datenlecks, behobene Probleme und was Ihre Aufmerksamkeit erfordert.
 
 ## Settings page redesign
 

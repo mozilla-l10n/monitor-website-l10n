@@ -12,6 +12,9 @@ landing-all-hero-emailform-submit-sign-up-label = Mendaftarlah untuk mendapatkan
 # This is a label underneath a big number "14" - it's an image that demos Monitor.
 landing-all-hero-image-chart-label = keterpaparan
 
+## Top navbar
+
+
 # Value Proposition
 
 landing-all-value-prop-fix-exposures = Kami akan membantu Anda memperbaiki keterpaparan Anda

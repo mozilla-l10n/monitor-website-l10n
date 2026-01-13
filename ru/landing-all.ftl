@@ -12,6 +12,9 @@ landing-all-hero-emailform-submit-sign-up-label = Зарегистрируйте
 # This is a label underneath a big number "14" - it's an image that demos Monitor.
 landing-all-hero-image-chart-label = утечки
 
+## Top navbar
+
+
 # Value Proposition
 
 landing-all-value-prop-fix-exposures = Мы поможем вам исправить ваши утечки

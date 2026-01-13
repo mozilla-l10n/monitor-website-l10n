@@ -5,7 +5,6 @@
 
 ## Email headers
 
-email-header-logo-alt = { -brand-mozilla-monitor }
 email-header-button-sign-in = Đăng nhập
 
 ## Email footers
@@ -20,8 +19,6 @@ email-footer-meta-privacy-notice = Riêng tư
 -product-name-relay = Firefox Relay
 # Mozilla VPN is a product name and should not be translated.
 -product-name-vpn = Mozilla VPN
-# A link to legal information about mozilla products.
-legal = Thông tin pháp lý
 # Button text
 verify-email-cta = Xác minh email
 # Headline of verification email
@@ -38,9 +35,6 @@ email-subject-verify = Xác minh email của bạn cho { -product-name }
 fxm-warns-you-no-breaches =
     { -product-name } cảnh báo bạn về các rò rỉ dữ liệu liên quan đến thông tin cá nhân của bạn.
     Cho đến nay, không có rò rỉ được tìm thấy. Chúng tôi sẽ gửi cho bạn một cảnh báo nếu địa chỉ email của bạn xuất hiện trong rò rỉ dữ liệu mới.
-email-breach-alert-blurb =
-    { -product-name } cảnh báo bạn về các rò rỉ dữ liệu liên quan đến thông tin cá nhân của bạn.
-    Chúng tôi vừa nhận được thông tin chi tiết về một công ty khác rò rỉ dữ liệu.
 
 ## 2022 email template. HTML tags should not be translated, e.g. `<a>`
 
@@ -52,7 +46,6 @@ email-2022-hibp-attribution = Dữ liệu về những vụ rò rỉ dữ liệu
 ## Verification email
 
 email-verify-heading = Bảo vệ dữ liệu của bạn, bắt đầu ngay bây giờ
-email-verify-subhead = Xác minh email của bạn để bắt đầu bảo vệ dữ liệu của bạn sau vụ rò rỉ.
 email-verify-simply-click = Chỉ cần nhấp vào liên kết bên dưới để hoàn tất việc xác minh tài khoản của bạn.
 
 ## Breach report

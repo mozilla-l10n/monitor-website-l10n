@@ -18,36 +18,7 @@ settings-alert-preferences-option-two = Pošlji vsa opozorila o krajah podatkov 
 
 ## Monitored email addresses
 
-# Variables:
-#   $email (string) - Email address
-settings-email-list-title = Nadzorovani e-poštni naslovi
-# Variables:
-#   $limit (number) - Number of email addresses included in the plan
-settings-email-limit-info =
-    { $limit ->
-        [one] Vaš račun vključuje spremljanje do { $limit } e-poštnega naslova.
-        [two] Vaš račun vključuje spremljanje do { $limit } e-poštnih naslovov.
-        [few] Vaš račun vključuje spremljanje do { $limit } e-poštnih naslovov.
-       *[other] Vaš račun vključuje spremljanje do { $limit } e-poštnih naslovov.
-    }
 settings-email-verification-callout = Zahtevana je potrditev e-poštnega naslova
-settings-resend-email-verification-link = Ponovno pošlji potrditveno e-pošto
-settings-add-email-button = Dodaj e-poštni naslov
-settings-remove-email-button-label = Odstrani
-# Variables:
-#   $emailAddress (string) - The email address to remove, e.g. `billnye@example.com`
-settings-remove-email-button-tooltip = Nehaj spremljati { $emailAddress }
-# This string is shown beneath each of the user’s email addresses to indicate
-# how many known breaches that email address was found in.
-# Variables:
-#   $breachCount (number) - Number of breaches
-settings-email-number-of-breaches-info =
-    { $breachCount ->
-        [one] Pojavlja se v { $breachCount } znani kraji.
-        [two] Pojavil se je v { $breachCount } znanih krajah.
-        [few] Pojavil se je v { $breachCount } znanih krajah.
-       *[other] Pojavil se je v { $breachCount } znanih krajah.
-    }
 
 ## Delete Monitor account
 
@@ -60,11 +31,6 @@ settings-delete-monitor-free-account-dialog-cta-label = Izbriši račun
 settings-delete-monitor-free-account-dialog-cancel-button-label = Premislil/-a sem si, vzemite me nazaj
 settings-delete-monitor-account-confirmation-toast-label-2 = Vaš račun za { -brand-monitor } je zdaj izbrisan.
 settings-delete-monitor-account-confirmation-toast-dismiss-label = Opusti
-
-## Monthly Monitor Report
-
-settings-alert-preferences-allow-monthly-monitor-report-title = Mesečno poročilo { -brand-monitor }a
-settings-alert-preferences-allow-monthly-monitor-report-subtitle = Mesečna posodobitev novih izpostavljenosti, kaj je bilo popravljeno in kaj zahteva vašo pozornost.
 
 ## Settings page redesign
 

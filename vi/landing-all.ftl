@@ -12,6 +12,9 @@ landing-all-hero-emailform-submit-sign-up-label = Đăng kí để được qué
 # This is a label underneath a big number "14" - it's an image that demos Monitor.
 landing-all-hero-image-chart-label = dữ liệu bị lộ
 
+## Top navbar
+
+
 # Value Proposition
 
 landing-all-value-prop-fix-exposures = Chúng tôi sẽ giúp bạn giải quyết rò rỉ dữ liệu của bạn

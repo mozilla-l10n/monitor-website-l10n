@@ -18,32 +18,7 @@ settings-alert-preferences-option-two = Send alle varsler om datalekkasjer til d
 
 ## Monitored email addresses
 
-# Variables:
-#   $email (string) - Email address
-settings-email-list-title = Overvåkede e-postadresser
-# Variables:
-#   $limit (number) - Number of email addresses included in the plan
-settings-email-limit-info =
-    { $limit ->
-        [one] Kontoen din inkluderer overvåking av opptil { $limit } e-postadresse.
-       *[other] Kontoen din inkluderer overvåking av opptil { $limit } e-postadresser.
-    }
 settings-email-verification-callout = E-postbekreftelse kreves
-settings-resend-email-verification-link = Send e-postbekreftelse på nytt
-settings-add-email-button = Legg til e-postadresse
-settings-remove-email-button-label = Fjern
-# Variables:
-#   $emailAddress (string) - The email address to remove, e.g. `billnye@example.com`
-settings-remove-email-button-tooltip = Stopp overvåking av { $emailAddress }
-# This string is shown beneath each of the user’s email addresses to indicate
-# how many known breaches that email address was found in.
-# Variables:
-#   $breachCount (number) - Number of breaches
-settings-email-number-of-breaches-info =
-    { $breachCount ->
-        [one] Vises i { $breachCount } kjent datalekkasje.
-       *[other] Vises i { $breachCount } kjente datalekkasjer.
-    }
 
 ## Delete Monitor account
 
@@ -56,11 +31,6 @@ settings-delete-monitor-free-account-dialog-cta-label = Slett konto
 settings-delete-monitor-free-account-dialog-cancel-button-label = Glem det, ta meg tilbake
 settings-delete-monitor-account-confirmation-toast-label-2 = Din { -brand-monitor }-konto er nå slettet.
 settings-delete-monitor-account-confirmation-toast-dismiss-label = Ignorer
-
-## Monthly Monitor Report
-
-settings-alert-preferences-allow-monthly-monitor-report-title = Månedlig { -brand-monitor }-rapport
-settings-alert-preferences-allow-monthly-monitor-report-subtitle = En månedlig oppdatering av nye eksponeringer, hva som er fikset og hva som trenger din oppmerksomhet.
 
 ## Settings page redesign
 

@@ -18,32 +18,7 @@ settings-alert-preferences-option-two = Invia tutti gli avvisi di violazione all
 
 ## Monitored email addresses
 
-# Variables:
-#   $email (string) - Email address
-settings-email-list-title = Indirizzi email controllati
-# Variables:
-#   $limit (number) - Number of email addresses included in the plan
-settings-email-limit-info =
-    { $limit ->
-        [one] Il tuo account include il controllo di una email.
-       *[other] Il tuo account include il controllo di un massimo di { $limit } email.
-    }
 settings-email-verification-callout = Richiesta verifica email
-settings-resend-email-verification-link = Invia nuovamente l’email di conferma
-settings-add-email-button = Aggiungi un indirizzo email
-settings-remove-email-button-label = Rimuovi
-# Variables:
-#   $emailAddress (string) - The email address to remove, e.g. `billnye@example.com`
-settings-remove-email-button-tooltip = Interrompi il monitoraggio di { $emailAddress }
-# This string is shown beneath each of the user’s email addresses to indicate
-# how many known breaches that email address was found in.
-# Variables:
-#   $breachCount (number) - Number of breaches
-settings-email-number-of-breaches-info =
-    { $breachCount ->
-        [one] Appare in { $breachCount } violazione conosciuta.
-       *[other] Appare in { $breachCount } violazioni conosciute.
-    }
 
 ## Delete Monitor account
 
@@ -56,11 +31,6 @@ settings-delete-monitor-free-account-dialog-cta-label = Elimina account
 settings-delete-monitor-free-account-dialog-cancel-button-label = Ho cambiato idea, torna indietro
 settings-delete-monitor-account-confirmation-toast-label-2 = Il tuo account { -brand-monitor } è stato eliminato.
 settings-delete-monitor-account-confirmation-toast-dismiss-label = Chiudi
-
-## Monthly Monitor Report
-
-settings-alert-preferences-allow-monthly-monitor-report-title = Rapporto mensile di { -brand-monitor }
-settings-alert-preferences-allow-monthly-monitor-report-subtitle = Un aggiornamento mensile delle nuove esposizioni, che cosa è stato corretto e che cosa richiede la tua attenzione.
 
 ## Settings page redesign
 

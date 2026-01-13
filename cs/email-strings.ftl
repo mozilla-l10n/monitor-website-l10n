@@ -5,7 +5,6 @@
 
 ## Email headers
 
-email-header-logo-alt = { -brand-mozilla-monitor }
 email-header-button-sign-in = Přihlásit se
 
 ## Email footers
@@ -20,8 +19,6 @@ email-footer-meta-privacy-notice = Soukromí
 -product-name-relay = Firefox Relay
 # Mozilla VPN is a product name and should not be translated.
 -product-name-vpn = Mozilla VPN
-# A link to legal information about mozilla products.
-legal = Právní informace
 # Button text
 verify-email-cta = Ověřit e-mailovou adresu
 # Headline of verification email
@@ -38,7 +35,6 @@ email-subject-verify = Ověření e-mailové adresy pro { -product-name(case: "a
 fxm-warns-you-no-breaches =
     { -product-name } vás upozorňuje na úniky dat, jejichž součástí byly vaše osobní údaje.
     Dosud jste nebyli součástí žádného úniku. Pošleme vám upozornění, jestliže se vaše e-mailová adresa vyskytne v novém úniku dat.
-email-breach-alert-blurb = { -product-name } vás upozorňuje na úniky dat, jejichž součástí byly vaše osobní údaje. Právě jsme obdrželi informace o dalším úniku dat.
 
 ## 2022 email template. HTML tags should not be translated, e.g. `<a>`
 
@@ -50,7 +46,6 @@ email-2022-hibp-attribution = Údaje o únicích poskytl <a { $hibp-link-attr }>
 ## Verification email
 
 email-verify-heading = Chraňte svá data, začněte hned teď.
-email-verify-subhead = Ověřte svůj e-mail a začněte chránit své údaje po úniku dat.
 email-verify-simply-click = Ověření účtu dokončíte kliknutím na odkaz níže.
 
 ## Breach report

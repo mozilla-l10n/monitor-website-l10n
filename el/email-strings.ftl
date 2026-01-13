@@ -5,7 +5,6 @@
 
 ## Email headers
 
-email-header-logo-alt = { -brand-mozilla-monitor }
 email-header-button-sign-in = Σύνδεση
 
 ## Email footers
@@ -20,8 +19,6 @@ email-footer-meta-privacy-notice = Απόρρητο
 -product-name-relay = Firefox Relay
 # Mozilla VPN is a product name and should not be translated.
 -product-name-vpn = Mozilla VPN
-# A link to legal information about mozilla products.
-legal = Νομικά
 # Button text
 verify-email-cta = Επαλήθευση email
 # Headline of verification email
@@ -38,9 +35,6 @@ email-subject-verify = Επαλήθευση email για το { -product-name }
 fxm-warns-you-no-breaches =
     Το { -product-name } σας προειδοποιεί σχετικά με παραβιάσεις που αφορούν προσωπικά σας δεδομένα. 
     Μέχρι στιγμής, δεν έχουν βρεθεί διαρροές. Θα σας ειδοποιήσουμε αν εμφανιστεί η διεύθυνση email σας σε κάποια νέα παραβίαση.
-email-breach-alert-blurb =
-    Το { -product-name } σας προειδοποιεί σχετικά με παραβιάσεις που αφορούν προσωπικά σας δεδομένα. 
-    Μόλις λάβαμε στοιχεία σχετικά με παραβίαση δεδομένων άλλης εταιρείας.
 
 ## 2022 email template. HTML tags should not be translated, e.g. `<a>`
 
@@ -52,7 +46,6 @@ email-2022-hibp-attribution = Τα δεδομένα παραβιάσεων πα�
 ## Verification email
 
 email-verify-heading = Προστατέψτε τα δεδομένα σας, ξεκινώντας από τώρα
-email-verify-subhead = Επαληθεύστε το email σας για να αρχίσετε να προστατεύετε τα δεδομένα σας μετά από παραβίαση.
 email-verify-simply-click = Κάντε απλά κλικ στον παρακάτω σύνδεσμο για να ολοκληρώσετε την επαλήθευση του λογαριασμού σας.
 
 ## Breach report

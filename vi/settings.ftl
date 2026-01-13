@@ -18,24 +18,7 @@ settings-alert-preferences-option-two = Gửi tất cả cảnh báo rò rỉ d�
 
 ## Monitored email addresses
 
-# Variables:
-#   $email (string) - Email address
-settings-email-list-title = Địa chỉ email được giám sát
-# Variables:
-#   $limit (number) - Number of email addresses included in the plan
-settings-email-limit-info = Tài khoản của bạn bao gồm việc giám sát tối đa { $limit } email.
 settings-email-verification-callout = Yêu cầu xác minh email
-settings-resend-email-verification-link = Gửi lại email xác minh
-settings-add-email-button = Thêm địa chỉ email
-settings-remove-email-button-label = Xóa
-# Variables:
-#   $emailAddress (string) - The email address to remove, e.g. `billnye@example.com`
-settings-remove-email-button-tooltip = Dừng giám sát { $emailAddress }
-# This string is shown beneath each of the user’s email addresses to indicate
-# how many known breaches that email address was found in.
-# Variables:
-#   $breachCount (number) - Number of breaches
-settings-email-number-of-breaches-info = Xuất hiện trong { $breachCount } rò rỉ dữ liệu đã biết.
 
 ## Delete Monitor account
 
@@ -48,11 +31,6 @@ settings-delete-monitor-free-account-dialog-cta-label = Xóa tài khoản
 settings-delete-monitor-free-account-dialog-cancel-button-label = Nghĩ lại rồi, đưa tôi quay lại
 settings-delete-monitor-account-confirmation-toast-label-2 = Tài khoản { -brand-monitor } của bạn đã bị xóa.
 settings-delete-monitor-account-confirmation-toast-dismiss-label = Bỏ qua
-
-## Monthly Monitor Report
-
-settings-alert-preferences-allow-monthly-monitor-report-title = Báo cáo hàng tháng { -brand-monitor }
-settings-alert-preferences-allow-monthly-monitor-report-subtitle = Bản cập nhật hàng tháng về số lần lộ dữ liệu mới, những gì đã được sửa và những gì bạn cần chú ý.
 
 ## Settings page redesign
 

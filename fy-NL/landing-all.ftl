@@ -12,6 +12,9 @@ landing-all-hero-emailform-submit-sign-up-label = Registrearje om in fergeze sca
 # This is a label underneath a big number "14" - it's an image that demos Monitor.
 landing-all-hero-image-chart-label = lekken
 
+## Top navbar
+
+
 # Value Proposition
 
 landing-all-value-prop-fix-exposures = Wy helpe jo jo lekken op te lossen

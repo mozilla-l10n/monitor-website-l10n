@@ -18,32 +18,7 @@ settings-alert-preferences-option-two = Enviar todos alertas de violações de d
 
 ## Monitored email addresses
 
-# Variables:
-#   $email (string) - Email address
-settings-email-list-title = Endereços de e-mail monitorizados
-# Variables:
-#   $limit (number) - Number of email addresses included in the plan
-settings-email-limit-info =
-    { $limit ->
-        [one] A sua conta inclui a monitorização de até { $limit } e-mail.
-       *[other] A sua conta inclui a monitorização de até { $limit } e-mails.
-    }
 settings-email-verification-callout = Verificação de e-mail necessária
-settings-resend-email-verification-link = Reenviar e-mail de verificação
-settings-add-email-button = Adicionar endereço de e-mail
-settings-remove-email-button-label = Remover
-# Variables:
-#   $emailAddress (string) - The email address to remove, e.g. `billnye@example.com`
-settings-remove-email-button-tooltip = Parar de monitorizar { $emailAddress }
-# This string is shown beneath each of the user’s email addresses to indicate
-# how many known breaches that email address was found in.
-# Variables:
-#   $breachCount (number) - Number of breaches
-settings-email-number-of-breaches-info =
-    { $breachCount ->
-        [one] Aparece em { $breachCount } falha de segurança de dados conhecida.
-       *[other] Aparece em { $breachCount } falhas de segurança de dados conhecidas.
-    }
 
 ## Delete Monitor account
 
@@ -56,11 +31,6 @@ settings-delete-monitor-free-account-dialog-cta-label = Eliminar conta
 settings-delete-monitor-free-account-dialog-cancel-button-label = Não importa, eu quero voltar
 settings-delete-monitor-account-confirmation-toast-label-2 = A sua conta { -brand-monitor } foi agora eliminada.
 settings-delete-monitor-account-confirmation-toast-dismiss-label = Ignorar
-
-## Monthly Monitor Report
-
-settings-alert-preferences-allow-monthly-monitor-report-title = Relatório mensal do { -brand-monitor }
-settings-alert-preferences-allow-monthly-monitor-report-subtitle = Uma atualização mensal das novas exposições, o que foi corrigido e o que necessita da sua atenção.
 
 ## Settings page redesign
 
