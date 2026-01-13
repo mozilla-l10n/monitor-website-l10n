@@ -20,13 +20,24 @@ settings-alert-preferences-option-two = Отправлять все оповещ
 
 settings-email-verification-callout = Требуется верификация электронной почты
 settings-email-addresses-header = Адреса электронной почты
+settings-email-addresses-description = { -brand-monitor } предупредит вас, если эти письма будут обнаружены в известных утечках.
 settings-email-addresses-add-email-button = Добавить адрес электронной почты
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = Добавить до { $limit }
+settings-email-addresses-add-email-resend-button-label = Отправить ссылку для подтверждения ещё раз
 input-error-alt = Ошибка
 
 ## Email address dialog
 
+settings-email-addresses-initial-dialog-header = Добавить адрес электронной почты
+settings-email-addresses-initial-dialog-description = Мы отправим вам ссылку для подтверждения, чтобы подтвердить, что вы хотите включить её в будущее сканирование { -brand-monitor }.
 settings-email-addresses-initial-dialog-add-email-input-label = Введите адрес электронной почты
 settings-email-addresses-initial-dialog-add-email-button-label = Отправить ссылку для подтверждения
+# Variables:
+#   $email (string) - Email address the confirmation has been sent to.
+settings-email-addresses-confirmation-dialog-header = Ссылка для подтверждения отправлена на <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-description = Перейдите по ссылке, чтобы добавить её в этот аккаунт для будущих сканирований { -brand-monitor }.
 settings-email-addresses-confirmation-dialog-close-button = Закрыть
 
 ## Delete Monitor account
@@ -43,6 +54,8 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = Закрыт�
 
 ## Settings page redesign
 
+# Label for a navigation bar link to settings for updating the users scan profile info – “update” is used as a verb.
+settings-tab-label-update-scan-info = Обновить информацию о сканировании
 settings-tab-label-edit-info = Изменить ваши данные
 settings-tab-label-notifications = Настроить уведомления
 settings-tab-label-manage-account = Управление аккаунтом

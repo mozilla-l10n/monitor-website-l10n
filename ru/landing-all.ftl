@@ -17,6 +17,7 @@ landing-all-hero-image-chart-label = утечки
 landing-all-hero-navbar-link-how-it-works = Как это работает
 landing-all-hero-navbar-link-pricing = Цены
 landing-all-hero-navbar-link-faqs = ЧаВо
+landing-all-hero-navbar-link-recent-breaches = Недавние утечки данных
 
 # Value Proposition
 

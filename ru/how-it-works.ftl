@@ -40,3 +40,11 @@ how-it-works-page-data-breaches-cta-button = Получить бесплатно
 ## FooterSection
 
 how-it-works-page-footersection-title = Верните контроль над своими данными
+how-it-works-page-footersection-input-placeholder = primer@primer.ru
+how-it-works-page-footersection-cta-button = Получить бесплатное сканирование
+
+## Inbound links
+## Site Navigation
+
+main-nav-link-how-it-works-label = Как это работает
+footer-external-link-how-it-works-label = Как это работает
