@@ -18,4 +18,8 @@ announcement-big-img-alt = 公告圖片
 
 # between announcement- and -title or -description is the announcement_id.
 
+# Variables:
+# $emailAddressesCount (string) - number of email addresses allowed for data breach monitoring
+announcement-free-data-breach-monitoring-title = 為最多 { $emailAddressesCount } 組電子郵件地址設定免費資料外洩監控。
+announcement-free-data-breach-monitoring-description = 透過資料外洩監控功能，幫助保護您的資訊安全。{ -brand-monitor } 會在資料外洩事件當中包含您的資訊時警告您。
 announcement-free-data-breach-monitoring-cta-label = 更多資訊
