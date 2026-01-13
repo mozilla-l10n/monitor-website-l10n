@@ -4,6 +4,8 @@
 
 # Used as selector at the top of a dialog to display new announcements.
 announcement-dialog-default-tab = Nouveau
+# Used as selector at the top of a dialog to display announcements that have been seen.
+announcement-dialog-history-tab = Tout
 # To go back to the list of announcements
 announcement-dialog-back = Retour
 announcement-dialog-clear-all = Tout marquer comme lu

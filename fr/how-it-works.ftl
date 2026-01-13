@@ -9,6 +9,9 @@ how-it-works-banner-title = Quel est le principe ?
 
 ## Intro
 
+how-it-works-page-data-breaches-intro-title = Nous proposons des démarches pour aider à résoudre les <data_breaches>fuites de données</data_breaches>
+how-it-works-page-data-breaches-intro-text-1 = Les fuites de données sont des incidents de sécurité au cours desquels vos informations personnelles peuvent être divulguées par erreur ou dérobées illégalement par des pirates — cela concerne les mots de passe, les coordonnées, les données financières, et bien d’autres éléments. Tout compte ou tout emplacement en ligne où vos données sont conservées peut devenir une cible.
+how-it-works-page-data-breaches-intro-text-2 = Le fait de résoudre les fuites de données permet d’éviter que des pirates n’accèdent à vos comptes, ne provoquent des pertes financières ou n’usurpent votre identité.
 how-it-works-page-data-breaches-intro-cta-button = Effectuer une analyse gratuite
 
 ## Step 1
