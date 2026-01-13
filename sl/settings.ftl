@@ -20,18 +20,24 @@ settings-alert-preferences-option-two = Pošlji vsa opozorila o krajah podatkov 
 
 settings-email-verification-callout = Zahtevana je potrditev e-poštnega naslova
 settings-email-addresses-header = E-poštni naslovi
+settings-email-addresses-description = { -brand-monitor } vas bo opozoril, če se bodo ta e-poštna sporočila pojavila v znanih krajah.
 settings-email-addresses-add-email-button = Dodaj e-poštni naslov
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = Dodajte do { $limit }
 settings-email-addresses-add-email-resend-button-label = Znova pošlji potrditveno povezavo
 input-error-alt = Napaka
 
 ## Email address dialog
 
 settings-email-addresses-initial-dialog-header = Dodajte e-poštni naslov
+settings-email-addresses-initial-dialog-description = Poslali vam bomo potrditveno povezavo, da potrdite, da jo želite vključiti v prihodnje skeniranje { -brand-monitor }.
 settings-email-addresses-initial-dialog-add-email-input-label = Vnesite e-poštni naslov
 settings-email-addresses-initial-dialog-add-email-button-label = Pošlji potrditveno povezavo
 # Variables:
 #   $email (string) - Email address the confirmation has been sent to.
 settings-email-addresses-confirmation-dialog-header = Potrditvena povezava poslana na <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-description = Odprite povezavo, da ga dodate v ta račun za prihodnje preglede { -brand-monitor }.
 settings-email-addresses-confirmation-dialog-close-button = Zapri
 
 ## Delete Monitor account
@@ -48,6 +54,8 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = Opusti
 
 ## Settings page redesign
 
+# Label for a navigation bar link to settings for updating the users scan profile info – “update” is used as a verb.
+settings-tab-label-update-scan-info = Posodobi podatke o pregledu
 settings-tab-label-edit-info = Uredite svoje podatke
 settings-tab-label-notifications = Nastavi obvestila
 settings-tab-label-manage-account = Upravljanje računa

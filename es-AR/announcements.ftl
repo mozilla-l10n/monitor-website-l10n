@@ -8,7 +8,22 @@ announcement-dialog-default-tab = Nuevo
 announcement-dialog-history-tab = Todo
 # To go back to the list of announcements
 announcement-dialog-back = Atrás
+announcement-dialog-clear-all = Marcar todo como leído
+announcement-dialog-empty-state-title = Sin actualizaciones
+announcement-dialog-empty-state-description = Vuelva a consultar periódicamente para obtener actualizaciones e información sobre nuestras últimas funciones.
+announcement-dialog-trigger-alt = Abrir anuncios
+announcement-dialog-alt = Lista de anuncios
+announcement-small-img-alt = Icono de anuncio
+announcement-big-img-alt = Imagen del anuncio
 
 # between announcement- and -title or -description is the announcement_id.
 
+# Variables:
+# $emailAddressesCount (string) - number of email addresses allowed for data breach monitoring
+announcement-free-data-breach-monitoring-title =
+    { $emailAddressesCount ->
+        [one] Obtené monitoreo gratuito de filtraciones de datos para hasta { $emailAddressesCount } direcciones de correo electrónico.
+       *[other] Obtené monitoreo gratuito de filtraciones de datos para hasta { $emailAddressesCount } direcciones de correo electrónico.
+    }
+announcement-free-data-breach-monitoring-description = Ayudá a mantener tu información segura con el monitoreo de filtraciones de datos. { -brand-monitor } te avisará si tu información aparece en una filtración de datos.
 announcement-free-data-breach-monitoring-cta-label = Conocer más

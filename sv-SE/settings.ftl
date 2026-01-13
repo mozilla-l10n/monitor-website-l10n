@@ -20,13 +20,24 @@ settings-alert-preferences-option-two = Skicka alla intrångsvarningar till den 
 
 settings-email-verification-callout = E-postverifiering krävs
 settings-email-addresses-header = E-postadresser
+settings-email-addresses-description = { -brand-monitor } varnar dig om dessa e-postmeddelanden dyker upp i kända intrång.
 settings-email-addresses-add-email-button = Lägg till e-postadress
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = Lägg till upp till { $limit }
+settings-email-addresses-add-email-resend-button-label = Skicka verifieringslänk igen
 input-error-alt = Fel
 
 ## Email address dialog
 
+settings-email-addresses-initial-dialog-header = Lägg till en e-postadress
+settings-email-addresses-initial-dialog-description = Vi skickar en verifieringslänk för att bekräfta att du vill inkludera den i en framtida { -brand-monitor }-skanning.
 settings-email-addresses-initial-dialog-add-email-input-label = Ange e-postadress
 settings-email-addresses-initial-dialog-add-email-button-label = Skicka verifieringslänk
+# Variables:
+#   $email (string) - Email address the confirmation has been sent to.
+settings-email-addresses-confirmation-dialog-header = Verifieringslänk skickad till <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-description = Öppna länken för att lägga till den på det här kontot för framtida { -brand-monitor }-skanningar.
 settings-email-addresses-confirmation-dialog-close-button = Stäng
 
 ## Delete Monitor account
@@ -43,6 +54,8 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = Ignorera
 
 ## Settings page redesign
 
+# Label for a navigation bar link to settings for updating the users scan profile info – “update” is used as a verb.
+settings-tab-label-update-scan-info = Uppdatera skanningsinfo
 settings-tab-label-edit-info = Redigera din info
 settings-tab-label-notifications = Ställ in aviseringar
 settings-tab-label-manage-account = Hantera konto

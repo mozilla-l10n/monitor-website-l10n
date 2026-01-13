@@ -20,13 +20,24 @@ settings-alert-preferences-option-two = Anfon yr holl rybuddion tor-data at fy m
 
 settings-email-verification-callout = Mae angen gwirio'r e-bost
 settings-email-addresses-header = Cyfeiriadau e-bost
+settings-email-addresses-description = Bydd { -brand-monitor } yn eich rhybuddio os bydd yr e-byst hyn yn ymddangos mewn toriadau hysbys.
 settings-email-addresses-add-email-button = Ychwanegu cyfeiriad e-bost
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = Ychwanegu hyd at { $limit }
+settings-email-addresses-add-email-resend-button-label = Ail-anfon y ddolen ddilysu
 input-error-alt = Gwall
 
 ## Email address dialog
 
+settings-email-addresses-initial-dialog-header = Ychwanegu cyfeiriad e-bost
+settings-email-addresses-initial-dialog-description = Byddwn yn anfon dolen ddilysu i chi gadarnhau yr hoffech ei chynnwys mewn sgan { -brand-monitor } yn y dyfodol.
 settings-email-addresses-initial-dialog-add-email-input-label = Rhowch eich cyfeiriad e-bost
 settings-email-addresses-initial-dialog-add-email-button-label = Anfon dolen dilysu
+# Variables:
+#   $email (string) - Email address the confirmation has been sent to.
+settings-email-addresses-confirmation-dialog-header = Dolen dilysu wedi'i hanfon at <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-description = Agorwch y ddolen i'w ychwanegu at y cyfrif hwn ar gyfer { -brand-monitor } sganiau yn y dyfodol.
 settings-email-addresses-confirmation-dialog-close-button = Cau
 
 ## Delete Monitor account
@@ -43,6 +54,8 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = Cau
 
 ## Settings page redesign
 
+# Label for a navigation bar link to settings for updating the users scan profile info – “update” is used as a verb.
+settings-tab-label-update-scan-info = Diweddaru gwybodaeth sgan
 settings-tab-label-edit-info = Golygu eich manylion
 settings-tab-label-notifications = Gosod hysbysiadau
 settings-tab-label-manage-account = Rheoli cyfrif

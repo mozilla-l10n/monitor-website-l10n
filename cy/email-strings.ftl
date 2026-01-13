@@ -12,6 +12,14 @@ email-header-button-sign-in = Mewngofnodi
 email-footer-support-heading = Cwestiynau am { -brand-mozilla-monitor }?
 email-footer-support-content = Ewch i'n <support-link>Canolfan Gymorth</support-link> am gymorth
 email-footer-trigger-transactional = Rydych chi'n derbyn yr e-bost hwn fel tanysgrifiwr { -brand-mozilla-monitor }.
+email-footer-reason-subscriber = Rydych chi'n derbyn yr e-bost awtomataidd hwn fel tanysgrifiwr o { -brand-mozilla-monitor }. Os ydych wedi ei dderbyn ar gam, nid oes angen gweithredu. Am ragor o wybodaeth, ewch i <support-link>{ -brand-mozilla } Cefnogaeth</support-link>.
+email-footer-reason-subscriber-one-time = Rydych chi wedi derbyn yr e-bost awtomataidd un-tro hwn oherwydd eich bod wedi tanysgrifio i { -brand-monitor-plus }. Ni fyddwch yn derbyn unrhyw e-byst pellach fel hyn. Am ragor o wybodaeth, ewch i <support-link>{ -brand-mozilla } Cefnogaeth</support-link>.
+# Variables:
+#    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
+email-footer-support-content-plain = Ewch i'n Canolfan Gymorth am help: { $support_link }
+# Variables:
+#   $hibp_link (string) - URL to Have I Been Pwned, e.g. "https://haveibeenpwned.com".
+email-footer-source-hibp-plain = Data tor-amod wedi'i ddarparu gan { -brand-HIBP }: { $hibp_link }
 email-footer-source-hibp = Darparwyd manylion tor-data gan <hibp-link>{ -brand-HIBP }</hibp-link>
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = Preifatrwydd

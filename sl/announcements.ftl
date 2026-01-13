@@ -10,7 +10,22 @@ announcement-dialog-history-tab = Vse
 announcement-dialog-back = Nazaj
 announcement-dialog-clear-all = Označi vse kot prebrano
 announcement-dialog-empty-state-title = Brez novosti
+announcement-dialog-empty-state-description = Redno preverjajte posodobitve in informacije o najnovejših možnostih.
+announcement-dialog-trigger-alt = Odprite obvestila
+announcement-dialog-alt = Seznam objav
+announcement-small-img-alt = Ikona za napoved
+announcement-big-img-alt = Slika napovedi
 
 # between announcement- and -title or -description is the announcement_id.
 
+# Variables:
+# $emailAddressesCount (string) - number of email addresses allowed for data breach monitoring
+announcement-free-data-breach-monitoring-title =
+    { $emailAddressesCount ->
+        [one] Prejmite brezplačno spremljanje kraje podatkov za do { $emailAddressesCount } e-poštnih naslovov.
+        [two] Prejmite brezplačno spremljanje kraje podatkov za do { $emailAddressesCount } e-poštnih naslovov.
+        [few] Prejmite brezplačno spremljanje kraje podatkov za do { $emailAddressesCount } e-poštnih naslovov.
+       *[other] Prejmite brezplačno spremljanje kraje podatkov za do { $emailAddressesCount } e-poštnih naslovov.
+    }
+announcement-free-data-breach-monitoring-description = Pomagajte ohraniti svoje podatke varne s spremljanjem kraj podatkov. { -brand-monitor } vas bo opozoril, če se vaši podatki pojavijo v kraji podatkov.
 announcement-free-data-breach-monitoring-cta-label = Več o tem
