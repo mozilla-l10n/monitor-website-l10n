@@ -19,6 +19,15 @@ settings-alert-preferences-option-two = Kirim semua peringatan pembobolan ke ala
 ## Monitored email addresses
 
 settings-email-verification-callout = Verifikasi surel diperlukan
+settings-email-addresses-header = Alamat surel
+settings-email-addresses-add-email-button = Tambahkan alamat surel
+input-error-alt = Galat
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-add-email-input-label = Masukkan alamat surel
+settings-email-addresses-initial-dialog-add-email-button-label = Kirim tautan verifikasi
+settings-email-addresses-confirmation-dialog-close-button = Tutup
 
 ## Delete Monitor account
 

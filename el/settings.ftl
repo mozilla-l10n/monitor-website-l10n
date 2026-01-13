@@ -19,6 +19,15 @@ settings-alert-preferences-option-two = Αποστολή όλων των ειδ�
 ## Monitored email addresses
 
 settings-email-verification-callout = Απαιτείται επαλήθευση email
+settings-email-addresses-header = Διευθύνσεις email
+settings-email-addresses-add-email-button = Προσθήκη διεύθυνσης email
+input-error-alt = Σφάλμα
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-add-email-input-label = Εισαγάγετε διεύθυνση email
+settings-email-addresses-initial-dialog-add-email-button-label = Αποστολή συνδέσμου επαλήθευσης
+settings-email-addresses-confirmation-dialog-close-button = Κλείσιμο
 
 ## Delete Monitor account
 

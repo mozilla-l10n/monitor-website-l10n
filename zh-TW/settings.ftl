@@ -19,6 +19,15 @@ settings-alert-preferences-option-two = 傳送資料外洩警報到主要電子�
 ## Monitored email addresses
 
 settings-email-verification-callout = 需要驗證信箱
+settings-email-addresses-header = 電子郵件地址
+settings-email-addresses-add-email-button = 新增電子郵件地址
+input-error-alt = 錯誤
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-add-email-input-label = 輸入電子郵件地址
+settings-email-addresses-initial-dialog-add-email-button-label = 寄送驗證鏈結
+settings-email-addresses-confirmation-dialog-close-button = 關閉
 
 ## Delete Monitor account
 

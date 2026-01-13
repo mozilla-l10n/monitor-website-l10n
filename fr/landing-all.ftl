@@ -14,6 +14,8 @@ landing-all-hero-image-chart-label = détections
 
 ## Top navbar
 
+landing-all-hero-navbar-link-how-it-works = Mode d’emploi
+landing-all-hero-navbar-link-faqs = FAQ
 
 # Value Proposition
 

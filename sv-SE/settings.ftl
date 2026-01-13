@@ -19,6 +19,15 @@ settings-alert-preferences-option-two = Skicka alla intrångsvarningar till den 
 ## Monitored email addresses
 
 settings-email-verification-callout = E-postverifiering krävs
+settings-email-addresses-header = E-postadresser
+settings-email-addresses-add-email-button = Lägg till e-postadress
+input-error-alt = Fel
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-add-email-input-label = Ange e-postadress
+settings-email-addresses-initial-dialog-add-email-button-label = Skicka verifieringslänk
+settings-email-addresses-confirmation-dialog-close-button = Stäng
 
 ## Delete Monitor account
 

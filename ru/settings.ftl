@@ -19,6 +19,15 @@ settings-alert-preferences-option-two = Отправлять все оповещ
 ## Monitored email addresses
 
 settings-email-verification-callout = Требуется верификация электронной почты
+settings-email-addresses-header = Адреса электронной почты
+settings-email-addresses-add-email-button = Добавить адрес электронной почты
+input-error-alt = Ошибка
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-add-email-input-label = Введите адрес электронной почты
+settings-email-addresses-initial-dialog-add-email-button-label = Отправить ссылку для подтверждения
+settings-email-addresses-confirmation-dialog-close-button = Закрыть
 
 ## Delete Monitor account
 

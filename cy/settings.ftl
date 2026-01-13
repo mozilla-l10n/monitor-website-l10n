@@ -19,6 +19,15 @@ settings-alert-preferences-option-two = Anfon yr holl rybuddion tor-data at fy m
 ## Monitored email addresses
 
 settings-email-verification-callout = Mae angen gwirio'r e-bost
+settings-email-addresses-header = Cyfeiriadau e-bost
+settings-email-addresses-add-email-button = Ychwanegu cyfeiriad e-bost
+input-error-alt = Gwall
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-add-email-input-label = Rhowch eich cyfeiriad e-bost
+settings-email-addresses-initial-dialog-add-email-button-label = Anfon dolen dilysu
+settings-email-addresses-confirmation-dialog-close-button = Cau
 
 ## Delete Monitor account
 

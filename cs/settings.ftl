@@ -19,6 +19,15 @@ settings-alert-preferences-option-two = Všechna upozornění posílat na primá
 ## Monitored email addresses
 
 settings-email-verification-callout = Vyžadováno ověření e-mailové adresy
+settings-email-addresses-header = E-mailové adresy
+settings-email-addresses-add-email-button = Přidat e-mailové adresy
+input-error-alt = Chyba
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-add-email-input-label = Zadejte e-mailovou adresu
+settings-email-addresses-initial-dialog-add-email-button-label = Zaslat ověřovací odkaz
+settings-email-addresses-confirmation-dialog-close-button = Zavřít
 
 ## Delete Monitor account
 

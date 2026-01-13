@@ -14,6 +14,9 @@ landing-all-hero-image-chart-label = 資料曝光事件
 
 ## Top navbar
 
+landing-all-hero-navbar-link-how-it-works = 原理是什麼
+landing-all-hero-navbar-link-pricing = 價格
+landing-all-hero-navbar-link-faqs = 常見問題
 
 # Value Proposition
 

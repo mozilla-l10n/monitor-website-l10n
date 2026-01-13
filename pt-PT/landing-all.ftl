@@ -14,6 +14,8 @@ landing-all-hero-image-chart-label = exposições
 
 ## Top navbar
 
+landing-all-hero-navbar-link-how-it-works = Como funciona
+landing-all-hero-navbar-link-faqs = Perguntas frequentes
 
 # Value Proposition
 

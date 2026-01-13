@@ -14,6 +14,9 @@ landing-all-hero-image-chart-label = exponeringar
 
 ## Top navbar
 
+landing-all-hero-navbar-link-how-it-works = Hur fungerar det
+landing-all-hero-navbar-link-pricing = Prissättning
+landing-all-hero-navbar-link-faqs = Vanliga frågor
 
 # Value Proposition
 

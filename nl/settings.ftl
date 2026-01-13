@@ -19,6 +19,15 @@ settings-alert-preferences-option-two = Alle waarschuwingen over datalekken naar
 ## Monitored email addresses
 
 settings-email-verification-callout = E-mailverificatie vereist
+settings-email-addresses-header = E-mailadressen
+settings-email-addresses-add-email-button = E-mailadres toevoegen
+input-error-alt = Fout
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-add-email-input-label = Voer e-mailadres in
+settings-email-addresses-initial-dialog-add-email-button-label = Verificatiekoppeling versturen
+settings-email-addresses-confirmation-dialog-close-button = Sluiten
 
 ## Delete Monitor account
 

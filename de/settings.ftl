@@ -19,6 +19,15 @@ settings-alert-preferences-option-two = Alle Warnungen zu Datenlecks an die prim
 ## Monitored email addresses
 
 settings-email-verification-callout = E-Mail-Bestätigung erforderlich
+settings-email-addresses-header = E-Mail-Adressen
+settings-email-addresses-add-email-button = E-Mail-Adresse hinzufügen
+input-error-alt = Fehler
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-add-email-input-label = E-Mail-Adresse eingeben
+settings-email-addresses-initial-dialog-add-email-button-label = Bestätigungslink senden
+settings-email-addresses-confirmation-dialog-close-button = Schließen
 
 ## Delete Monitor account
 

@@ -19,6 +19,15 @@ settings-alert-preferences-option-two = Az összes adatvédelmi incidens figyelm
 ## Monitored email addresses
 
 settings-email-verification-callout = E-mail ellenőrzés szükséges
+settings-email-addresses-header = E-mail-címek
+settings-email-addresses-add-email-button = E-mail-cím hozzáadása
+input-error-alt = Hiba
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-add-email-input-label = Adja meg az e-mail-címet
+settings-email-addresses-initial-dialog-add-email-button-label = Ellenőrző hivatkozás küldése
+settings-email-addresses-confirmation-dialog-close-button = Bezárás
 
 ## Delete Monitor account
 

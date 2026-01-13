@@ -19,6 +19,15 @@ settings-alert-preferences-option-two = Enviar todas las alertas de filtración 
 ## Monitored email addresses
 
 settings-email-verification-callout = Verificación de correo electrónico requerida
+settings-email-addresses-header = Direcciones de correo electrónico
+settings-email-addresses-add-email-button = Agregar dirección de correo electrónico
+input-error-alt = Error
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-add-email-input-label = Ingresar dirección de correo electrónico
+settings-email-addresses-initial-dialog-add-email-button-label = Enviar enlace de verificación
+settings-email-addresses-confirmation-dialog-close-button = Cerrar
 
 ## Delete Monitor account
 

@@ -19,6 +19,15 @@ settings-alert-preferences-option-two = Pošlji vsa opozorila o krajah podatkov 
 ## Monitored email addresses
 
 settings-email-verification-callout = Zahtevana je potrditev e-poštnega naslova
+settings-email-addresses-header = e-poštni naslovi
+settings-email-addresses-add-email-button = Dodaj e-poštni naslov
+input-error-alt = Napaka
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-add-email-input-label = Vnesite e-poštni naslov
+settings-email-addresses-initial-dialog-add-email-button-label = Pošlji potrditveno povezavo
+settings-email-addresses-confirmation-dialog-close-button = Zapri
 
 ## Delete Monitor account
 
