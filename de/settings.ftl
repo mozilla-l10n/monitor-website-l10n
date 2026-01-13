@@ -31,8 +31,13 @@ input-error-alt = Fehler
 ## Email address dialog
 
 settings-email-addresses-initial-dialog-header = Eine E-Mail-Adresse hinzufügen
+settings-email-addresses-initial-dialog-description = Wir senden Ihnen einen Bestätigungslink, um zu bestätigen, dass Sie diese E-Mail-Adresse künftig von { -brand-monitor } prüfen lassen möchten.
 settings-email-addresses-initial-dialog-add-email-input-label = E-Mail-Adresse eingeben
 settings-email-addresses-initial-dialog-add-email-button-label = Bestätigungslink senden
+# Variables:
+#   $email (string) - Email address the confirmation has been sent to.
+settings-email-addresses-confirmation-dialog-header = Bestätigungslink an <b>{ $email }</b> gesendet
+settings-email-addresses-confirmation-dialog-description = Öffnen Sie den Link, um es diesem Konto für zukünftige { -brand-monitor }-Scans hinzuzufügen.
 settings-email-addresses-confirmation-dialog-close-button = Schließen
 
 ## Delete Monitor account
@@ -49,6 +54,8 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = Schließen
 
 ## Settings page redesign
 
+# Label for a navigation bar link to settings for updating the users scan profile info – “update” is used as a verb.
+settings-tab-label-update-scan-info = Scan-Informationen aktualisieren
 settings-tab-label-edit-info = Ihre Daten bearbeiten
 settings-tab-label-notifications = Benachrichtigungen festlegen
 settings-tab-label-manage-account = Benutzerkonto verwalten

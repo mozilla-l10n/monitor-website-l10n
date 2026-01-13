@@ -18,11 +18,14 @@ how-it-works-page-data-breaches-intro-cta-button = 免費掃描
 
 how-it-works-page-data-breaches-step-1-title = 第 1 步
 how-it-works-page-data-breaches-step-1-subtitle = 我們會掃描資料外洩事件
+how-it-works-page-data-breaches-step-1-text = 只要提供您的電子郵件地址，我們就可以在所有已知的資料外洩事件中搜尋是否與您有關。所有訂閱者可免費監控 5 組信箱。
 
 ## Step 2
 
 how-it-works-page-data-breaches-step-2-title = 第 2 步
 how-it-works-page-data-breaches-step-2-subtitle = 我們來幫助您解決資料外洩事件
+how-it-works-page-data-breaches-step-2-text-1 = 一般來說，處理資料外洩事件包含更改密碼、對個人信用報告設定加強身分確認等手動處理步驟，我們無法自動為您處理，但還是可以帶您逐步處理外洩的各種資訊。
+how-it-works-page-data-breaches-step-2-text-2 = 若您的個資落入不法份子手中，我們也能提供該如何保護自己的安全性建議。
 
 ## Step 3
 
