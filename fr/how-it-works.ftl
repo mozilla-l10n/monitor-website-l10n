@@ -9,7 +9,7 @@ how-it-works-banner-title = Quel est le principe ?
 
 ## Intro
 
-how-it-works-page-data-breaches-intro-cta-button = Effectuer un scan gratuit
+how-it-works-page-data-breaches-intro-cta-button = Effectuer une analyse gratuite
 
 ## Step 1
 
@@ -29,15 +29,16 @@ how-it-works-page-data-breaches-step-3-text = Chaque fois que nous détectons un
 
 ## CTA button
 
-how-it-works-page-data-breaches-cta-button = Effectuer un scan gratuit
+how-it-works-page-data-breaches-cta-button = Effectuer une analyse gratuite
 
 ## FooterSection
 
 how-it-works-page-footersection-title = Reprenez le contrôle de vos données
 how-it-works-page-footersection-input-placeholder = exemple@example.com
+how-it-works-page-footersection-cta-button = Effectuer une analyse gratuite
 
 ## Inbound links
 ## Site Navigation
 
-main-nav-link-how-it-works-label = Quel est le principe ?
-footer-external-link-how-it-works-label = Quel est le principe ?
+main-nav-link-how-it-works-label = Principes de fonctionnement
+footer-external-link-how-it-works-label = Principes de fonctionnement

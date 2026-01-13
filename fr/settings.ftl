@@ -21,12 +21,19 @@ settings-alert-preferences-option-two = Envoyer toutes les alertes de fuites de 
 settings-email-verification-callout = Vérification de l’adresse e-mail nécessaire
 settings-email-addresses-header = Adresses électroniques
 settings-email-addresses-add-email-button = Ajouter une adresse e-mail
+settings-email-addresses-add-email-resend-button-label = Renvoyer le lien de vérification
 input-error-alt = Erreur
 
 ## Email address dialog
 
+settings-email-addresses-initial-dialog-header = Ajouter une adresse e-mail
+settings-email-addresses-initial-dialog-description = Nous vous enverrons un lien de vérification pour que vous confirmiez que vous souhaitez l’inclure dans une prochaine analyse de { -brand-monitor }.
 settings-email-addresses-initial-dialog-add-email-input-label = Saisissez votre adresse e-mail
 settings-email-addresses-initial-dialog-add-email-button-label = Envoyer le lien de vérification
+# Variables:
+#   $email (string) - Email address the confirmation has been sent to.
+settings-email-addresses-confirmation-dialog-header = Lien de vérification envoyé à <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-description = Ouvrez le lien pour l’ajouter à ce compte lors des prochaines analyses de { -brand-monitor }.
 settings-email-addresses-confirmation-dialog-close-button = Fermer
 
 ## Delete Monitor account
