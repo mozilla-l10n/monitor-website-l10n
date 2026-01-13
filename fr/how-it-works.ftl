@@ -18,11 +18,14 @@ how-it-works-page-data-breaches-intro-cta-button = Effectuer une analyse gratuit
 
 how-it-works-page-data-breaches-step-1-title = Étape 1
 how-it-works-page-data-breaches-step-1-subtitle = Nous analysons les fuites de données
+how-it-works-page-data-breaches-step-1-text = Avec simplement votre adresse e-mail, nous vous recherchons parmi l’ensemble des fuites de données connues. Chaque abonné·e peut surveiller gratuitement jusqu’à 5 adresses e-mail.
 
 ## Step 2
 
 how-it-works-page-data-breaches-step-2-title = Étape 2
 how-it-works-page-data-breaches-step-2-subtitle = Nous vous aidons à résoudre les fuites de données
+how-it-works-page-data-breaches-step-2-text-1 = Étant donné que la résolution des fuites de données implique généralement des actions manuelles telles que la modification de vos mots de passe ou l’ajout d’une alerte de fraude sur votre score de crédit, nous ne pouvons pas les résoudre à votre place. Cependant, nous vous accompagnerons à chaque étape pour vous aider à sécuriser vos informations compromises.
+how-it-works-page-data-breaches-step-2-text-2 = Et si vos informations tombent entre de mauvaises mains, nous vous proposerons des conseils de sécurité pour vous aider à vous protéger dès maintenant et à l’avenir.
 
 ## Step 3
 
