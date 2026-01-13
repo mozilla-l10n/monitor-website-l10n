@@ -3,14 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Used as selector at the top of a dialog to display new announcements.
-announcement-dialog-default-tab = Novo
+announcement-dialog-default-tab = Νέο
 # Used as selector at the top of a dialog to display announcements that have been seen.
-announcement-dialog-history-tab = Vse
+announcement-dialog-history-tab = Όλα
 # To go back to the list of announcements
-announcement-dialog-back = Nazaj
-announcement-dialog-clear-all = Označi vse kot prebrano
-announcement-dialog-empty-state-title = Brez novosti
+announcement-dialog-back = Πίσω
 
 # between announcement- and -title or -description is the announcement_id.
 
-announcement-free-data-breach-monitoring-cta-label = Več o tem
+announcement-free-data-breach-monitoring-cta-label = Μάθετε περισσότερα
