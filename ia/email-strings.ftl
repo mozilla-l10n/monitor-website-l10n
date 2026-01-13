@@ -13,6 +13,11 @@ email-footer-support-heading = Questiones re { -brand-mozilla-monitor }?
 email-footer-support-content = Visita nostre <support-link>Centro de supporto</support-link> pro adjuta
 email-footer-trigger-transactional = Tu recipe iste email como abonato de { -brand-mozilla-monitor }.
 # Variables:
+#    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
+email-footer-support-content-plain =
+    Visita nostre centro de supporto pro adjuta:
+    { $support_link }
+# Variables:
 #   $hibp_link (string) - URL to Have I Been Pwned, e.g. "https://haveibeenpwned.com".
 email-footer-source-hibp-plain = Violation de datos fornite per { -brand-HIBP }: { $hibp_link }
 email-footer-source-hibp = Violation de datos fornite per <hibp-link>{ -brand-HIBP }</hibp-link>

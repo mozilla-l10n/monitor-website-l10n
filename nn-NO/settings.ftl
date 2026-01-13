@@ -19,6 +19,19 @@ settings-alert-preferences-option-two = Send alle åtvaringar om datalekkasjar t
 ## Monitored email addresses
 
 settings-email-verification-callout = Stadfesting av e-post påkravd
+settings-email-addresses-header = E-postadresser
+settings-email-addresses-add-email-button = Legg til e-postadresse
+input-error-alt = Feil
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-header = Legg til ei e-postadresse
+settings-email-addresses-initial-dialog-add-email-input-label = Skriv inn e-postadresse
+settings-email-addresses-initial-dialog-add-email-button-label = Send stadfestingslenke
+# Variables:
+#   $email (string) - Email address the confirmation has been sent to.
+settings-email-addresses-confirmation-dialog-header = Stadfestingslenke sendt til <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-close-button = Lat att
 
 ## Delete Monitor account
 

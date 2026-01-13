@@ -9,6 +9,12 @@ announcement-dialog-history-tab = Alle
 # To go back to the list of announcements
 announcement-dialog-back = Tilbake
 announcement-dialog-clear-all = Marker alle som lesne
+announcement-dialog-empty-state-title = Ingen oppdateringar
+announcement-dialog-trigger-alt = Opne kunngjeringar
+announcement-dialog-alt = Liste over kunngjeringar
+announcement-small-img-alt = Kunngjeringsikon
+announcement-big-img-alt = Kunngjeringsbilde
 
 # between announcement- and -title or -description is the announcement_id.
 
+announcement-free-data-breach-monitoring-cta-label = Les meir
