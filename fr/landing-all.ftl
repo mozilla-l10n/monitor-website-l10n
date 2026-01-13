@@ -14,7 +14,7 @@ landing-all-hero-image-chart-label = détections
 
 ## Top navbar
 
-landing-all-hero-navbar-link-how-it-works = Mode d’emploi
+landing-all-hero-navbar-link-how-it-works = Principes de fonctionnement
 landing-all-hero-navbar-link-pricing = Tarification
 landing-all-hero-navbar-link-faqs = FAQ
 landing-all-hero-navbar-link-recent-breaches = Fuites de données récentes

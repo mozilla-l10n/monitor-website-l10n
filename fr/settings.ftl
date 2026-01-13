@@ -19,7 +19,7 @@ settings-alert-preferences-option-two = Envoyer toutes les alertes de fuites de 
 ## Monitored email addresses
 
 settings-email-verification-callout = Vérification de l’adresse e-mail nécessaire
-settings-email-addresses-header = Adresses électroniques
+settings-email-addresses-header = Adresses e-mail
 settings-email-addresses-description = { -brand-monitor } vous alertera si ces adresses e-mail apparaissent dans des fuites de données connues.
 settings-email-addresses-add-email-button = Ajouter une adresse e-mail
 settings-email-addresses-add-email-resend-button-label = Renvoyer le lien de vérification
