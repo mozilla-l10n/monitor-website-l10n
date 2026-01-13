@@ -15,7 +15,9 @@ landing-all-hero-image-chart-label = keterpaparan
 ## Top navbar
 
 landing-all-hero-navbar-link-how-it-works = Panduan
+landing-all-hero-navbar-link-pricing = Harga
 landing-all-hero-navbar-link-faqs = T&amp;J
+landing-all-hero-navbar-link-recent-breaches = Kebocoran data baru-baru ini
 
 # Value Proposition
 

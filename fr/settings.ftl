@@ -22,6 +22,9 @@ settings-email-verification-callout = Vérification de l’adresse e-mail néces
 settings-email-addresses-header = Adresses e-mail
 settings-email-addresses-description = { -brand-monitor } vous alertera si ces adresses e-mail apparaissent dans des fuites de données connues.
 settings-email-addresses-add-email-button = Ajouter une adresse e-mail
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = Ajouter jusqu'à { $limit }
 settings-email-addresses-add-email-resend-button-label = Renvoyer le lien de vérification
 input-error-alt = Erreur
 

@@ -27,6 +27,9 @@ input-error-alt = Fout
 
 settings-email-addresses-initial-dialog-add-email-input-label = Voer e-mailadres in
 settings-email-addresses-initial-dialog-add-email-button-label = Verificatiekoppeling versturen
+# Variables:
+#   $email (string) - Email address the confirmation has been sent to.
+settings-email-addresses-confirmation-dialog-header = Verificatiekoppeling verzonden naar <b>{ $email }</b>
 settings-email-addresses-confirmation-dialog-close-button = Sluiten
 
 ## Delete Monitor account

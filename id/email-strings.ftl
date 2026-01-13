@@ -12,6 +12,14 @@ email-header-button-sign-in = Masuk
 email-footer-support-heading = Ada pertanyaan tentang { -brand-mozilla-monitor }?
 email-footer-support-content = Kunjungi <support-link>Pusat Dukungan</support-link> kami untuk mendapatkan bantuan
 email-footer-trigger-transactional = Anda menerima surel ini sebagai pelanggan { -brand-mozilla-monitor }.
+email-footer-reason-subscriber = Anda menerima surel otomatis ini sebagai pelanggan { -brand-mozilla-monitor }. Jika Anda menerimanya karena kesalahan, tidak ada tindakan yang diperlukan. Untuk informasi lebih lanjut, silakan kunjungi <support-link>{ -brand-mozilla } Support</support-link>.
+email-footer-reason-subscriber-one-time = Anda menerima surel otomatis satu kali ini karena Anda berlangganan { -brand-monitor-plus }. Anda tidak akan menerima surel lagi seperti ini. Untuk informasi lebih lanjut, silakan kunjungi <support-link>{ -brand-mozilla } Support</support-link>.
+# Variables:
+#    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
+email-footer-support-content-plain = Kunjungi Pusat Dukungan kami untuk mendapatkan bantuan: { $support_link }
+# Variables:
+#   $hibp_link (string) - URL to Have I Been Pwned, e.g. "https://haveibeenpwned.com".
+email-footer-source-hibp-plain = Data pembobolan disediakan oleh { -brand-HIBP }: { $hibp_link }
 email-footer-source-hibp = Data pembobolan disediakan oleh <hibp-link>{ -brand-HIBP }</hibp-link>
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = Privasi

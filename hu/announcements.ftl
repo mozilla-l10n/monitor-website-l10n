@@ -8,7 +8,22 @@ announcement-dialog-default-tab = Új
 announcement-dialog-history-tab = Összes
 # To go back to the list of announcements
 announcement-dialog-back = Vissza
+announcement-dialog-clear-all = Összes megjelölése olvasottként
+announcement-dialog-empty-state-title = Nincsenek frissítések
+announcement-dialog-empty-state-description = Nézzen vissza rendszeresen a frissítésekről és a legújabb funkcióinkról.
+announcement-dialog-trigger-alt = Nyílt bejelentések
+announcement-dialog-alt = Bejelentések listája
+announcement-small-img-alt = Bejelentés ikonra
+announcement-big-img-alt = Bejelentés képe
 
 # between announcement- and -title or -description is the announcement_id.
 
+# Variables:
+# $emailAddressesCount (string) - number of email addresses allowed for data breach monitoring
+announcement-free-data-breach-monitoring-title =
+    { $emailAddressesCount ->
+        [one] Kapjon ingyenes adatvédelmi incidensfigyelést akár { $emailAddressesCount } e-mail-címhez.
+       *[other] Kapjon ingyenes adatvédelmi incidensfigyelést akár { $emailAddressesCount } e-mail-címhez.
+    }
+announcement-free-data-breach-monitoring-description = Segítsen megőrizni adatait az adatsértések figyelésével. A(z) { -brand-monitor } értesíteni fogja, ha az adatai adatvédelmi incidensben jelennek meg.
 announcement-free-data-breach-monitoring-cta-label = További tudnivalók

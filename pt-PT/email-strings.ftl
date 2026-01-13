@@ -12,6 +12,14 @@ email-header-button-sign-in = Iniciar sessão
 email-footer-support-heading = Questões sobre o { -brand-mozilla-monitor }?
 email-footer-support-content = Visite o nosso <support-link>Centro de Apoio</support-link> para ajuda
 email-footer-trigger-transactional = Está a receber este e-mail como subscritor do { -brand-mozilla-monitor }.
+email-footer-reason-subscriber = Está a receber este e-mail automático como subscritor de { -brand-mozilla-monitor }. Se o recebeu por erro, nenhuma ação é necessária. Para mais informação, por favor visite o <support-link>Apoio do { -brand-mozilla }</support-link>.
+email-footer-reason-subscriber-one-time = Recebeu este e-mail automático porque está subscrito a { -brand-monitor-plus }. Não irá receber mais e-mails como este. Para mais informação, por favor visite o <support-link>Apoio do { -brand-mozilla }</support-link>.
+# Variables:
+#    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
+email-footer-support-content-plain = Visite o nosso Centro de Apoio para obter ajuda: { $support_link }
+# Variables:
+#   $hibp_link (string) - URL to Have I Been Pwned, e.g. "https://haveibeenpwned.com".
+email-footer-source-hibp-plain = Dados de brechas fornecidos por { -brand-HIBP }: { $hibp_link }
 email-footer-source-hibp = Dados de violação de dados fornecidos por <hibp-link>{ -brand-HIBP }</hibp-link>
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = Privacidade

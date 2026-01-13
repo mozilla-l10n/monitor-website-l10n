@@ -8,7 +8,22 @@ announcement-dialog-default-tab = Νέο
 announcement-dialog-history-tab = Όλα
 # To go back to the list of announcements
 announcement-dialog-back = Πίσω
+announcement-dialog-clear-all = Επισήμανση όλων ως αναγνωσμένων
+announcement-dialog-empty-state-title = Καμία ενημέρωση
+announcement-dialog-empty-state-description = Ελέγχετε τακτικά για ενημερώσεις και πληροφορίες σχετικά με τις πιο πρόσφατες λειτουργίες μας.
+announcement-dialog-trigger-alt = Άνοιγμα ανακοινώσεων
+announcement-dialog-alt = Λίστα ανακοινώσεων
+announcement-small-img-alt = Εικονίδιο ανακοίνωσης
+announcement-big-img-alt = Εικόνα ανακοίνωσης
 
 # between announcement- and -title or -description is the announcement_id.
 
+# Variables:
+# $emailAddressesCount (string) - number of email addresses allowed for data breach monitoring
+announcement-free-data-breach-monitoring-title =
+    { $emailAddressesCount ->
+        [one] Λάβετε δωρεάν εποπτεία παραβίασης δεδομένων για έως και { $emailAddressesCount } διευθύνσεις email.
+       *[other] Λάβετε δωρεάν εποπτεία παραβίασης δεδομένων για έως και { $emailAddressesCount } διευθύνσεις email.
+    }
+announcement-free-data-breach-monitoring-description = Προστατέψτε τις πληροφορίες σας με την εποπτεία παραβίασης δεδομένων. Το { -brand-monitor } θα σας ειδοποιήσει αν εμφανιστούν οι πληροφορίες σας σε μια παραβίαση δεδομένων.
 announcement-free-data-breach-monitoring-cta-label = Μάθετε περισσότερα

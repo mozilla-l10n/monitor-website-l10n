@@ -12,6 +12,14 @@ email-header-button-sign-in = Přihlásit se
 email-footer-support-heading = Máte otázky k { -brand-mozilla-monitor(case: "dat") }?
 email-footer-support-content = Pro pomoc navštivte naše <support-link>centrum podpory</support-link>
 email-footer-trigger-transactional = Tento e-mail dostáváte jako předplatitel { -brand-mozilla-monitor(case: "gen") }.
+email-footer-reason-subscriber = Tento automatický e-mail dostáváte jako odběratel { -brand-mozilla-monitor }. Pokud jste zprávu obdrželi omylem, není vyžadována žádná akce. Pro více informací prosím navštivte <support-link>podporu aplikace { -brand-mozilla }</support-link>.
+email-footer-reason-subscriber-one-time = Tento jednorázový automatický e-mail jste dostali, protože jste přihlášeni k odběru { -brand-monitor-plus }. Žádné další podobné e-maily vám již chodit nebudou. Pro více informací prosím navštivte <support-link>podporu aplikace { -brand-mozilla }</support-link>.
+# Variables:
+#    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
+email-footer-support-content-plain = Pro pomoc navštivte naše centrum podpory: { $support_link }
+# Variables:
+#   $hibp_link (string) - URL to Have I Been Pwned, e.g. "https://haveibeenpwned.com".
+email-footer-source-hibp-plain = Údaje o únicích ze zdroje { -brand-HIBP }: { $hibp_link }
 email-footer-source-hibp = Údaje o únicích poskytuje <hibp-link>{ -brand-HIBP }</hibp-link>
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = Soukromí

@@ -12,6 +12,14 @@ email-header-button-sign-in = Bejelentkezés
 email-footer-support-heading = Kérdése van a { -brand-mozilla-monitor }ral kapcsolatban?
 email-footer-support-content = Segítségért keresse fel a <support-link>Támogatói központunkat</support-link>
 email-footer-trigger-transactional = Ezt az e-mailt a { -brand-mozilla-monitor } feliratkozójaként kapja.
+email-footer-reason-subscriber = Ezt az automatikus levelet mint { -brand-mozilla-monitor } feliratkozója kapja. Ha hibásan kapta, nincs teendője. További információkért keresse fel a <support-link>{ -brand-mozilla } támogatást</support-link>.
+email-footer-reason-subscriber-one-time = Azért kapta ezt az egyszeri automatikus levelet, mert előfizetett a következőre: { -brand-monitor-plus }. Nem fog több ehhez hasonló e-mailt kapni. További információkért keresse fel a <support-link>{ -brand-mozilla } támogatást</support-link>.
+# Variables:
+#    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
+email-footer-support-content-plain = Segítségért keresse fel Támogatási központunkat: { $support_link }
+# Variables:
+#   $hibp_link (string) - URL to Have I Been Pwned, e.g. "https://haveibeenpwned.com".
+email-footer-source-hibp-plain = Az adatvédelmi incidensek adatait biztosította: { -brand-HIBP }: { $hibp_link }
 email-footer-source-hibp = Az adatvédelmi incidensek adatait a <hibp-link>{ -brand-HIBP }</hibp-link> szolgáltatta
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = Adatvédelem

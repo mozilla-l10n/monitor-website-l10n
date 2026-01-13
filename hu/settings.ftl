@@ -20,13 +20,24 @@ settings-alert-preferences-option-two = Az összes adatvédelmi incidens figyelm
 
 settings-email-verification-callout = E-mail ellenőrzés szükséges
 settings-email-addresses-header = E-mail-címek
+settings-email-addresses-description = A(z) { -brand-monitor } értesíteni fog, ha ezek az e-mail-címek egy ismert adatvédelmi incidensben jelennek meg.
 settings-email-addresses-add-email-button = E-mail-cím hozzáadása
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = Adjon hozzá legfeljebb { $limit }
+settings-email-addresses-add-email-resend-button-label = Ellenőrző hivatkozás újraküldése
 input-error-alt = Hiba
 
 ## Email address dialog
 
+settings-email-addresses-initial-dialog-header = E-mail-cím hozzáadása
+settings-email-addresses-initial-dialog-description = Küldünk egy ellenőrző hivatkozást, hogy megerősítse, hogy szeretné-e használni egy { -brand-monitor } vizsgálatot a jövőben.
 settings-email-addresses-initial-dialog-add-email-input-label = Adja meg az e-mail-címet
 settings-email-addresses-initial-dialog-add-email-button-label = Ellenőrző hivatkozás küldése
+# Variables:
+#   $email (string) - Email address the confirmation has been sent to.
+settings-email-addresses-confirmation-dialog-header = Ellenőrző hivatkozás elküldve ide: <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-description = Nyissa meg a hivatkozást, hogy hozzáadja ehhez a fiókhoz a következő { -brand-monitor } vizsgálatokhoz.
 settings-email-addresses-confirmation-dialog-close-button = Bezárás
 
 ## Delete Monitor account
@@ -43,6 +54,8 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = Eltüntetés
 
 ## Settings page redesign
 
+# Label for a navigation bar link to settings for updating the users scan profile info – “update” is used as a verb.
+settings-tab-label-update-scan-info = Keresési információk frissítése
 settings-tab-label-edit-info = Szerkessze az adatait
 settings-tab-label-notifications = Értesítések beállítása
 settings-tab-label-manage-account = Fiók kezelése

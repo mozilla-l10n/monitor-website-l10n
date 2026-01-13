@@ -17,6 +17,7 @@ landing-all-hero-image-chart-label = kitettség
 landing-all-hero-navbar-link-how-it-works = Hogyan működik
 landing-all-hero-navbar-link-pricing = Árképzés
 landing-all-hero-navbar-link-faqs = GYIK
+landing-all-hero-navbar-link-recent-breaches = Legutóbbi adatsértések
 
 # Value Proposition
 

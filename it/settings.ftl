@@ -20,13 +20,24 @@ settings-alert-preferences-option-two = Invia tutti gli avvisi di violazione all
 
 settings-email-verification-callout = Richiesta verifica email
 settings-email-addresses-header = Indirizzi email
+settings-email-addresses-description = { -brand-monitor } ti avviserà se queste email sono coinvolte in violazioni conosciute.
 settings-email-addresses-add-email-button = Aggiungi un indirizzo email
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = Aggiungi fino a { $limit }
+settings-email-addresses-add-email-resend-button-label = Invia nuovamente il link di verifica
 input-error-alt = Errore
 
 ## Email address dialog
 
+settings-email-addresses-initial-dialog-header = Aggiungi un indirizzo email
+settings-email-addresses-initial-dialog-description = Ti invieremo un link di verifica per confermare che desideri includerlo in una futura scansione di { -brand-monitor }.
 settings-email-addresses-initial-dialog-add-email-input-label = Inserisci il tuo indirizzo email
 settings-email-addresses-initial-dialog-add-email-button-label = Invia link di verifica
+# Variables:
+#   $email (string) - Email address the confirmation has been sent to.
+settings-email-addresses-confirmation-dialog-header = Link di verifica inviato a <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-description = Apri il link per aggiungerlo a questo account per future scansioni di { -brand-monitor }.
 settings-email-addresses-confirmation-dialog-close-button = Chiudi
 
 ## Delete Monitor account
@@ -43,6 +54,8 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = Chiudi
 
 ## Settings page redesign
 
+# Label for a navigation bar link to settings for updating the users scan profile info – “update” is used as a verb.
+settings-tab-label-update-scan-info = Aggiorna le informazioni di scansione
 settings-tab-label-edit-info = Modifica le tue informazioni
 settings-tab-label-notifications = Imposta notifiche
 settings-tab-label-manage-account = Gestisci account

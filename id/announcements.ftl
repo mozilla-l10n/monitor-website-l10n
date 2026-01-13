@@ -8,7 +8,21 @@ announcement-dialog-default-tab = Baru
 announcement-dialog-history-tab = Semua
 # To go back to the list of announcements
 announcement-dialog-back = Kembali
+announcement-dialog-clear-all = Tandai semua sebagai telah dibaca
+announcement-dialog-empty-state-title = Tidak ada pembaruan
+announcement-dialog-empty-state-description = Periksa kembali secara teratur untuk pembaruan dan informasi tentang fitur terbaru kami.
+announcement-dialog-trigger-alt = Buka pengumuman
+announcement-dialog-alt = Daftar pengumuman
+announcement-small-img-alt = Ikon pengumuman
+announcement-big-img-alt = Gambar pengumuman
 
 # between announcement- and -title or -description is the announcement_id.
 
+# Variables:
+# $emailAddressesCount (string) - number of email addresses allowed for data breach monitoring
+announcement-free-data-breach-monitoring-title =
+    { $emailAddressesCount ->
+       *[other] Dapatkan pemantauan pembobolan data gratis hingga { $emailAddressesCount } alamat surel.
+    }
+announcement-free-data-breach-monitoring-description = Bantu menjaga info Anda tetap aman dengan pemantauan pembobolan data. { -brand-monitor } akan mengingatkan Anda jika info Anda muncul dalam kebocoran data.
 announcement-free-data-breach-monitoring-cta-label = Pelajari lebih lanjut

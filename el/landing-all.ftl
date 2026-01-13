@@ -17,6 +17,7 @@ landing-all-hero-image-chart-label = εκθέσεις
 landing-all-hero-navbar-link-how-it-works = Πώς λειτουργεί
 landing-all-hero-navbar-link-pricing = Τιμολόγηση
 landing-all-hero-navbar-link-faqs = Συχνές ερωτήσεις
+landing-all-hero-navbar-link-recent-breaches = Πρόσφατες παραβιάσεις δεδομένων
 
 # Value Proposition
 
