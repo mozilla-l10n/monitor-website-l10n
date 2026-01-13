@@ -20,11 +20,17 @@ settings-alert-preferences-option-two = Alle Warnungen zu Datenlecks an die prim
 
 settings-email-verification-callout = E-Mail-Bestätigung erforderlich
 settings-email-addresses-header = E-Mail-Adressen
+settings-email-addresses-description = { -brand-monitor } wird Sie warnen, wenn diese E-Mail-Adressen in bekannten Datenlecks auftauchen.
 settings-email-addresses-add-email-button = E-Mail-Adresse hinzufügen
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = Fügen Sie bis zu { $limit } E-Mail-Adressen hinzu
+settings-email-addresses-add-email-resend-button-label = Bestätigungslink erneut senden
 input-error-alt = Fehler
 
 ## Email address dialog
 
+settings-email-addresses-initial-dialog-header = Eine E-Mail-Adresse hinzufügen
 settings-email-addresses-initial-dialog-add-email-input-label = E-Mail-Adresse eingeben
 settings-email-addresses-initial-dialog-add-email-button-label = Bestätigungslink senden
 settings-email-addresses-confirmation-dialog-close-button = Schließen

@@ -15,7 +15,9 @@ landing-all-hero-image-chart-label = Datenlecks
 ## Top navbar
 
 landing-all-hero-navbar-link-how-it-works = Wie es funktioniert
+landing-all-hero-navbar-link-pricing = Preis
 landing-all-hero-navbar-link-faqs = Häufig gestellte Fragen
+landing-all-hero-navbar-link-recent-breaches = Neueste Datenlecks
 
 # Value Proposition
 
