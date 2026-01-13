@@ -21,12 +21,17 @@ settings-alert-preferences-option-two = Pošlji vsa opozorila o krajah podatkov 
 settings-email-verification-callout = Zahtevana je potrditev e-poštnega naslova
 settings-email-addresses-header = E-poštni naslovi
 settings-email-addresses-add-email-button = Dodaj e-poštni naslov
+settings-email-addresses-add-email-resend-button-label = Znova pošlji potrditveno povezavo
 input-error-alt = Napaka
 
 ## Email address dialog
 
+settings-email-addresses-initial-dialog-header = Dodajte e-poštni naslov
 settings-email-addresses-initial-dialog-add-email-input-label = Vnesite e-poštni naslov
 settings-email-addresses-initial-dialog-add-email-button-label = Pošlji potrditveno povezavo
+# Variables:
+#   $email (string) - Email address the confirmation has been sent to.
+settings-email-addresses-confirmation-dialog-header = Potrditvena povezava poslana na <b>{ $email }</b>
 settings-email-addresses-confirmation-dialog-close-button = Zapri
 
 ## Delete Monitor account

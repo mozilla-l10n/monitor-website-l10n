@@ -21,7 +21,7 @@ how-it-works-page-data-breaches-step-2-title = 2. korak
 
 ## Step 3
 
-how-it-works-page-data-breaches-step-3-title = Korak 3
+how-it-works-page-data-breaches-step-3-title = 3. korak
 
 ## CTA button
 
@@ -32,3 +32,9 @@ how-it-works-page-data-breaches-cta-button = Zagotovite si brezplačen pregled
 how-it-works-page-footersection-title = Ponovno prevzemite nadzor nad svojimi podatki
 how-it-works-page-footersection-input-placeholder = e-posta@example.com
 how-it-works-page-footersection-cta-button = Zagotovite si brezplačen pregled
+
+## Inbound links
+## Site Navigation
+
+main-nav-link-how-it-works-label = Kako deluje
+footer-external-link-how-it-works-label = Kako deluje

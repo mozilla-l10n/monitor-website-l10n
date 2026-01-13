@@ -14,6 +14,10 @@ landing-all-hero-image-chart-label = expositiones
 
 ## Top navbar
 
+landing-all-hero-navbar-link-how-it-works = Como functiona
+landing-all-hero-navbar-link-pricing = Precios
+landing-all-hero-navbar-link-faqs = Folio a questiones
+landing-all-hero-navbar-link-recent-breaches = Recente violationes de datos
 
 # Value Proposition
 

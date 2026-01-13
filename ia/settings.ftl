@@ -19,6 +19,14 @@ settings-alert-preferences-option-two = Inviar tote le avisos de violation al ad
 ## Monitored email addresses
 
 settings-email-verification-callout = Verification del email requirite.
+settings-email-addresses-header = Adresse email
+settings-email-addresses-add-email-button = Adder adresse email
+settings-email-addresses-add-email-resend-button-label = Re-inviar ligamine de verification
+input-error-alt = Error
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-header = Adder un adresse email
 
 ## Delete Monitor account
 

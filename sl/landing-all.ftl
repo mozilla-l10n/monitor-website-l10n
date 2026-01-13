@@ -15,7 +15,9 @@ landing-all-hero-image-chart-label = izpostavljenosti
 ## Top navbar
 
 landing-all-hero-navbar-link-how-it-works = Kako deluje
+landing-all-hero-navbar-link-pricing = Cenik
 landing-all-hero-navbar-link-faqs = Pogosta vprašanja
+landing-all-hero-navbar-link-recent-breaches = Nedavne kraje podatkov
 
 # Value Proposition
 
