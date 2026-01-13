@@ -10,6 +10,7 @@ announcement-dialog-history-tab = Toto
 announcement-dialog-back = Retro
 announcement-dialog-clear-all = Marcar toto e leger
 announcement-dialog-empty-state-title = Necun actualisation
+announcement-dialog-empty-state-description = Torna regularmente pro actualisationes e informationes sur nostre ultime functionalitates.
 announcement-dialog-trigger-alt = Aperir annuncios
 announcement-dialog-alt = Lista de annuncios
 announcement-small-img-alt = Icone de annuncio
@@ -17,4 +18,12 @@ announcement-big-img-alt = Imagine de annuncio
 
 # between announcement- and -title or -description is the announcement_id.
 
+# Variables:
+# $emailAddressesCount (string) - number of email addresses allowed for data breach monitoring
+announcement-free-data-breach-monitoring-title =
+    { $emailAddressesCount ->
+        [one] Survelia gratuitemente le violationes de datos pro un maximo de { $emailAdddressesCount } adresse e-mail.
+       *[other] Survelia gratuitemente le violationes de datos pro un maximo de { $emailAdddressesCount } adresses e-mail.
+    }
+announcement-free-data-breach-monitoring-description = Adjuta nos mantener secur tu informationes con nostre surveliantia de violation de datos data. { -brand-monitor } te alertara si tu informationes appare in un violation de datos.
 announcement-free-data-breach-monitoring-cta-label = Pro saper plus

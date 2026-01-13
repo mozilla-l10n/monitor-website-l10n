@@ -21,14 +21,22 @@ settings-alert-preferences-option-two = Inviar tote le avisos de violation al ad
 settings-email-verification-callout = Verification del email requirite.
 settings-email-addresses-header = Adresse email
 settings-email-addresses-add-email-button = Adder adresse email
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = Adde usque a { $limit }
 settings-email-addresses-add-email-resend-button-label = Re-inviar ligamine de verification
 input-error-alt = Error
 
 ## Email address dialog
 
 settings-email-addresses-initial-dialog-header = Adder un adresse email
+settings-email-addresses-initial-dialog-description = Nos te inviara un ligamine de verification pro confirmar que te place includer lo in un futur scansion de { -brand-monitor }.
 settings-email-addresses-initial-dialog-add-email-input-label = Insere tu adresse email
 settings-email-addresses-initial-dialog-add-email-button-label = Inviar ligamine de verification
+# Variables:
+#   $email (string) - Email address the confirmation has been sent to.
+settings-email-addresses-confirmation-dialog-header = Ligamine de verification inviate a { $email }
+settings-email-addresses-confirmation-dialog-description = Aperi le ligamine pro adder lo a iste conto pro scansiones futur de { -brand-monitor }.
 settings-email-addresses-confirmation-dialog-close-button = Clauder
 
 ## Delete Monitor account

@@ -9,6 +9,7 @@ how-it-works-banner-title = Como functiona
 
 ## Intro
 
+how-it-works-page-data-breaches-intro-title = Nous forni passos pro adjutar a resolver le <data_breaches>violationes de datos</data_breaches>
 how-it-works-page-data-breaches-intro-cta-button = Scansion gratuite
 
 ## Step 1
