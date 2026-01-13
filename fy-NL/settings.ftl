@@ -19,6 +19,15 @@ settings-alert-preferences-option-two = Alle warskôgingen oer datalekken nei it
 ## Monitored email addresses
 
 settings-email-verification-callout = E-mailferifikaasje fereaske
+settings-email-addresses-header = E-mailadressen
+settings-email-addresses-add-email-button = E-mailadres tafoegje
+settings-email-addresses-add-email-resend-button-label = Ferifikaasjekeppeling opnij ferstjoere
+input-error-alt = Flater
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-header = In e-mailadres tafoegje
+settings-email-addresses-confirmation-dialog-close-button = Slute
 
 ## Delete Monitor account
 
@@ -34,6 +43,8 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = Slute
 
 ## Settings page redesign
 
+# Label for a navigation bar link to settings for updating the users scan profile info – “update” is used as a verb.
+settings-tab-label-update-scan-info = Scanynfo bywurkje
 settings-tab-label-edit-info = Jo gegevens bewurkje
 settings-tab-label-notifications = Notifikaasjes ynstelle
 settings-tab-label-manage-account = Account beheare

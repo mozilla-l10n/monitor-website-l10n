@@ -14,6 +14,10 @@ landing-all-hero-image-chart-label = lekken
 
 ## Top navbar
 
+landing-all-hero-navbar-link-how-it-works = Hoe’t it wurket
+landing-all-hero-navbar-link-pricing = Prizen
+landing-all-hero-navbar-link-faqs = FAQ’s
+landing-all-hero-navbar-link-recent-breaches = Resinte datalekken
 
 # Value Proposition
 

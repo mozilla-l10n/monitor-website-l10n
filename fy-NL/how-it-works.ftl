@@ -31,3 +31,10 @@ how-it-works-page-data-breaches-cta-button = Untfang in fergeze scan
 
 how-it-works-page-footersection-title = Nim jo gegevens wer ûnder kontrôle.
 how-it-works-page-footersection-input-placeholder = foarbyld@example.com
+how-it-works-page-footersection-cta-button = Untfang in fergeze scan
+
+## Inbound links
+## Site Navigation
+
+main-nav-link-how-it-works-label = Hoe’t it wurket
+footer-external-link-how-it-works-label = Hoe’t it wurket
