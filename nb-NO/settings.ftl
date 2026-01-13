@@ -20,6 +20,16 @@ settings-alert-preferences-option-two = Send alle varsler om datalekkasjer til d
 
 settings-email-verification-callout = E-postbekreftelse kreves
 
+## Email address dialog
+
+settings-email-addresses-initial-dialog-header = Legg til en e-postadresse
+settings-email-addresses-initial-dialog-add-email-input-label = Skriv inn e-postadresse
+settings-email-addresses-initial-dialog-add-email-button-label = Send bekreftelseslenke
+# Variables:
+#   $email (string) - Email address the confirmation has been sent to.
+settings-email-addresses-confirmation-dialog-header = Bekreftelseslenke sendt til <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-close-button = Lukk
+
 ## Delete Monitor account
 
 settings-delete-monitor-free-account-title = Slett { -brand-monitor }-kontoen
