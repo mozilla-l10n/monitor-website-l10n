@@ -27,6 +27,9 @@ input-error-alt = Error
 ## Email address dialog
 
 settings-email-addresses-initial-dialog-header = Adder un adresse email
+settings-email-addresses-initial-dialog-add-email-input-label = Insere tu adresse email
+settings-email-addresses-initial-dialog-add-email-button-label = Inviar ligamine de verification
+settings-email-addresses-confirmation-dialog-close-button = Clauder
 
 ## Delete Monitor account
 
@@ -42,6 +45,8 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = Dimitter
 
 ## Settings page redesign
 
+# Label for a navigation bar link to settings for updating the users scan profile info – “update” is used as a verb.
+settings-tab-label-update-scan-info = Actualisar informationes de scansion
 settings-tab-label-edit-info = Rediger tu info
 settings-tab-label-notifications = Configurar le notificationes
 settings-tab-label-manage-account = Gerer le conto
