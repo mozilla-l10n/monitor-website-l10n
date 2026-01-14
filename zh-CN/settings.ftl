@@ -20,12 +20,19 @@ settings-alert-preferences-option-two = 向主邮箱地址发送所有数据外�
 
 settings-email-verification-callout = 需要电子邮件验证
 settings-email-addresses-header = 邮箱地址
+settings-email-addresses-add-email-button = 添加邮箱地址
 settings-email-addresses-add-email-resend-button-label = 重发验证链接
 input-error-alt = 错误
 
 ## Email address dialog
 
 settings-email-addresses-initial-dialog-header = 添加邮箱地址
+settings-email-addresses-initial-dialog-add-email-input-label = 请输入邮箱地址
+settings-email-addresses-initial-dialog-add-email-button-label = 发送验证链接
+# Variables:
+#   $email (string) - Email address the confirmation has been sent to.
+settings-email-addresses-confirmation-dialog-header = 验证链接已发送到 <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-close-button = 关闭
 
 ## Delete Monitor account
 
@@ -41,6 +48,8 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = 知道了
 
 ## Settings page redesign
 
+# Label for a navigation bar link to settings for updating the users scan profile info – “update” is used as a verb.
+settings-tab-label-update-scan-info = 更新扫描信息
 settings-tab-label-edit-info = 编辑您的信息
 settings-tab-label-notifications = 设置通知
 settings-tab-label-manage-account = 管理账户
