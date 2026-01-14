@@ -14,6 +14,10 @@ landing-all-hero-image-chart-label = expuneri
 
 ## Top navbar
 
+landing-all-hero-navbar-link-how-it-works = Cum funcționează
+landing-all-hero-navbar-link-pricing = Prețuri
+landing-all-hero-navbar-link-faqs = Întrebări frecvente
+landing-all-hero-navbar-link-recent-breaches = Încălcări recente ale securității datelor
 
 # Value Proposition
 

@@ -12,6 +12,16 @@ email-header-button-sign-in = Intră în cont
 email-footer-support-heading = Întrebări despre { -brand-mozilla-monitor }?
 email-footer-support-content = Intră pe <support-link>Centrul nostru de asistență</support-link> pentru ajutor
 email-footer-trigger-transactional = Primești acest e-mail ca abonat la { -brand-mozilla-monitor }.
+email-footer-reason-subscriber = Primești acest mesaj automat pe e-mail pentru că ești abonat(ă) la { -brand-mozilla-monitor }. Dacă l-ai primit din eroare, nu trebuie să faci nimic. Pentru mai multe informații, încearcă să intri pe <support-link>{ -brand-mozilla } Asistență</support-link>.
+email-footer-reason-subscriber-one-time = Ai primit acest mesaj automat unic pe e-mail pentru că ești abonat(ă) la { -brand-monitor-plus }. Nu vei mai primi alte mesaje de acest gen pe e-mail. Pentru mai multe informații, te rugăm să intri pe <support-link>{ -brand-mozilla } Asistență</support-link>.
+# Variables:
+#    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
+email-footer-support-content-plain =
+    Vezi Centrul nostru de asistență pentru ajutor:
+    { $support_link }
+# Variables:
+#   $hibp_link (string) - URL to Have I Been Pwned, e.g. "https://haveibeenpwned.com".
+email-footer-source-hibp-plain = Date despre încălcarea securității oferite de { -brand-HIBP }: { $hibp_link }
 email-footer-source-hibp = Datele privind încălcarea securității furnizate de <hibp-link>{ -brand-HIBP }</hibp-link>
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = Confidențialitate

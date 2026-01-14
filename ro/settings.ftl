@@ -19,6 +19,24 @@ settings-alert-preferences-option-two = Trimite toate alertele pentru încălcă
 ## Monitored email addresses
 
 settings-email-verification-callout = Necesită verificarea adresei de e-mail
+settings-email-addresses-header = Adrese de e-mail
+settings-email-addresses-description = { -brand-monitor } te va alerta dacă aceste adrese de e-mail apar în încălcări cunoscute ale securității datelor.
+settings-email-addresses-add-email-button = Adaugă o adresă de e-mail
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = Adaugă până la { $limit }
+settings-email-addresses-add-email-resend-button-label = Retrimite linkul de verificare
+input-error-alt = Eroare
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-header = Adaugă o adresă de e-mail
+settings-email-addresses-initial-dialog-description = Îți vom trimite un link de verificare pentru a confirma că vrei să îl incluzi într-o scanare viitoare cu { -brand-monitor }.
+settings-email-addresses-initial-dialog-add-email-input-label = Introdu adresa de e-mail
+settings-email-addresses-initial-dialog-add-email-button-label = Trimite linkul de verificare
+# Variables:
+#   $email (string) - Email address the confirmation has been sent to.
+settings-email-addresses-confirmation-dialog-header = Link de verificare trimis la <b>{ $email }</b>
 
 ## Delete Monitor account
 
