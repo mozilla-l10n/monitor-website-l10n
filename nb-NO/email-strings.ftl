@@ -15,6 +15,11 @@ email-footer-trigger-transactional = Du mottar denne e-posten som abonnent på {
 email-footer-reason-subscriber = Du mottar denne automatiske e-posten fordi du abonnerer på { -brand-mozilla-monitor }. Hvis du har mottatt den ved en feil, trenger du ikke å gjøre noe. For mer informasjon kan du besøke <support-link>{ -brand-mozilla } kundestøtte</support-link>.
 email-footer-reason-subscriber-one-time = Du har mottatt denne engangs automatiserte e-posten fordi du abonnerer på { -brand-monitor-plus }. Du vil ikke motta flere e-poster som denne. For mer informasjon kan du besøke <support-link>{ -brand-mozilla }-brukerstøtte</support-link>.
 # Variables:
+#    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
+email-footer-support-content-plain =
+    Besøk brukerstøttesenter vårt for hjelp:
+    { $support_link }
+# Variables:
 #   $hibp_link (string) - URL to Have I Been Pwned, e.g. "https://haveibeenpwned.com".
 email-footer-source-hibp-plain = Datalekkasjeinformasjon levert av { -brand-HIBP }: { $hibp_link }
 email-footer-source-hibp = Informasjon om datalekkasje stammer fra <hibp-link>{ -brand-HIBP }</hibp-link>
