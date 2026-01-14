@@ -10,6 +10,7 @@ announcement-dialog-history-tab = Alle
 announcement-dialog-back = Tebek
 announcement-dialog-clear-all = Markearje alle as lêzen
 announcement-dialog-empty-state-title = Gjin fernijingen
+announcement-dialog-empty-state-description = Kom regelmjittich werom foar updates en ynformaasje oer ús nijste funksjes.
 announcement-dialog-trigger-alt = Oankundigingen iepenje
 announcement-dialog-alt = List mei oankundigingen
 announcement-small-img-alt = Oankundigingspiktogram
