@@ -14,6 +14,7 @@ landing-all-hero-image-chart-label = 次暴露
 
 ## Top navbar
 
+landing-all-hero-navbar-link-how-it-works = 使用方法
 landing-all-hero-navbar-link-pricing = 定价
 landing-all-hero-navbar-link-faqs = 常见问题
 landing-all-hero-navbar-link-recent-breaches = 近期数据外泄事件
