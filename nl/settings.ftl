@@ -20,16 +20,24 @@ settings-alert-preferences-option-two = Alle waarschuwingen over datalekken naar
 
 settings-email-verification-callout = E-mailverificatie vereist
 settings-email-addresses-header = E-mailadressen
+settings-email-addresses-description = { -brand-monitor } waarschuwt u als deze e-mailadressen in bekende datalekken voorkomen.
 settings-email-addresses-add-email-button = E-mailadres toevoegen
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = U kunt er maximaal { $limit } toevoegen
+settings-email-addresses-add-email-resend-button-label = Verificatiekoppeling opnieuw verzenden
 input-error-alt = Fout
 
 ## Email address dialog
 
+settings-email-addresses-initial-dialog-header = Een e-mailadres toevoegen
+settings-email-addresses-initial-dialog-description = We sturen een verificatiekoppeling om te bevestigen dat u deze in een toekomstige { -brand-monitor }-scan wilt opnemen.
 settings-email-addresses-initial-dialog-add-email-input-label = Voer e-mailadres in
 settings-email-addresses-initial-dialog-add-email-button-label = Verificatiekoppeling versturen
 # Variables:
 #   $email (string) - Email address the confirmation has been sent to.
 settings-email-addresses-confirmation-dialog-header = Verificatiekoppeling verzonden naar <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-description = Open de koppeling om dit aan deze account toe te voegen voor toekomstige { -brand-monitor }-scans.
 settings-email-addresses-confirmation-dialog-close-button = Sluiten
 
 ## Delete Monitor account
@@ -46,6 +54,8 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = Sluiten
 
 ## Settings page redesign
 
+# Label for a navigation bar link to settings for updating the users scan profile info – “update” is used as a verb.
+settings-tab-label-update-scan-info = Scaninformatie bijwerken
 settings-tab-label-edit-info = Uw gegevens bewerken
 settings-tab-label-notifications = Notificaties instellen
 settings-tab-label-manage-account = Account beheren
