@@ -10,7 +10,7 @@ how-it-works-banner-title = Hur det fungerar
 ## Intro
 
 how-it-works-page-data-breaches-intro-title = Vi tillhandahåller steg för att hjälpa till att lösa <data_breaches>dataintrång</data_breaches>
-how-it-works-page-data-breaches-intro-text-1 = Dataintrång är säkerhetsbrott där din personliga information antingen av misstag avslöjas eller stjäls olagligt av hackare — inklusive lösenord, kontaktinformation, ekonomi och mycket mer. Vilket konto som helst eller var som helst din information lagras online kan vara ett mål.
+how-it-works-page-data-breaches-intro-text-1 = Dataintrång är säkerhetsbrott där din personliga information antingen av misstag avslöjas eller stjäls olagligt av hackare — inklusive lösenord, kontaktinformation, ekonomi och mycket mer. Alla konton eller var din information än lagras online kan vara ett mål.
 how-it-works-page-data-breaches-intro-text-2 = Att lösa dataintrång hjälper till att förhindra hackare från att komma åt dina konton, orsaka ekonomisk skada eller stjäla din identitet.
 how-it-works-page-data-breaches-intro-cta-button = Få en gratis skanning
 

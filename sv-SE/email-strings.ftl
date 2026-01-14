@@ -16,7 +16,7 @@ email-footer-reason-subscriber = Du får detta automatiska e-postmeddelande som 
 email-footer-reason-subscriber-one-time = Du har fått detta automatiska engångsmejl eftersom du prenumererar på { -brand-monitor-plus }. Du kommer inte att få några fler mejl som detta. För mer information, besök <support-link>{ -brand-mozilla } Support</support-link>.
 # Variables:
 #    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
-email-footer-support-content-plain = Besök vårt Supportcenter för hjälp: { $support_link }
+email-footer-support-content-plain = Besök vårt supportcenter för hjälp: { $support_link }
 # Variables:
 #   $hibp_link (string) - URL to Have I Been Pwned, e.g. "https://haveibeenpwned.com".
 email-footer-source-hibp-plain = Intrångsdata tillhandahålls av { -brand-HIBP }: { $hibp_link }

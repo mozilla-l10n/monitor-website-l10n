@@ -22,7 +22,7 @@ announcement-big-img-alt = Bild för meddelande
 # $emailAddressesCount (string) - number of email addresses allowed for data breach monitoring
 announcement-free-data-breach-monitoring-title =
     { $emailAddressesCount ->
-        [one] Få gratis övervakning av dataintrång för upp till { $emailAddressesCount } e-postadresser.
+        [one] Få gratis övervakning av dataintrång för upp till { $emailAddressesCount } e-postadress.
        *[other] Få gratis övervakning av dataintrång för upp till { $emailAddressesCount } e-postadresser.
     }
 announcement-free-data-breach-monitoring-description = Hjälp till att hålla din information säker med övervakning av dataintrång. { -brand-monitor } varnar dig om din information visas i ett dataintrång.
