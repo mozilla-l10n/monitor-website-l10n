@@ -39,7 +39,7 @@ fxm-warns-you-no-breaches = { -product-name } 会在有与您相关的个人信�
 # Have I Been Pwned attribution
 # Variables:
 #   $hibp-link-attr (String) - Link to Have I Been Pwned
-email-2022-hibp-attribution = 数据外泄事件信息由 <a { $hibp-link-attr }>{ -brand-HIBP }</a> 提供
+email-2022-hibp-attribution = 外泄事件数据由 <a { $hibp-link-attr }>{ -brand-HIBP }</a> 提供
 
 ## Verification email
 
