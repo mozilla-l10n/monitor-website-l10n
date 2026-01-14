@@ -9,11 +9,16 @@ how-it-works-banner-title = Hoe’t it wurket
 
 ## Intro
 
+how-it-works-page-data-breaches-intro-title = Wy biede stappen om <data_breaches>datalekken</data_breaches> te helpen oplossen
+how-it-works-page-data-breaches-intro-text-1 = Datalekken binne befeiligingsskeiningen wêrby’t jo persoanlike ynformaasje per ûngelok bleatsteld of yllegaal stellen wurdt troch hackers – ynklusyf wachtwurden, kontaktgegevens, finansjele gegevens en folle mear. Elk account of oeral wêr’t jo ynformaasje online bewarre is, kin in doel wêze.
+how-it-works-page-data-breaches-intro-text-2 = It oplossen fan datalekken helpt foar te kommen dat hackers tagong krije ta jo accounts, finansjele skea feroarsaakje of jo identiteit stelle.
 how-it-works-page-data-breaches-intro-cta-button = Untfang in fergeze scan
 
 ## Step 1
 
 how-it-works-page-data-breaches-step-1-title = Stap 1
+how-it-works-page-data-breaches-step-1-subtitle = Wy scanne op datalekken
+how-it-works-page-data-breaches-step-1-text = Mei allinnich jo e-mailadres sykje wy nei jo yn alle bekende datalekken. Alle abonnees kinne 5 e-mailadressen fergees kontrolearje.
 
 ## Step 2
 

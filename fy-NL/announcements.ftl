@@ -18,4 +18,12 @@ announcement-big-img-alt = Oankundigingsôfbylding
 
 # between announcement- and -title or -description is the announcement_id.
 
+# Variables:
+# $emailAddressesCount (string) - number of email addresses allowed for data breach monitoring
+announcement-free-data-breach-monitoring-title =
+    { $emailAddressesCount ->
+        [one] Untfang fergese monitoaring fan datalekken foar maksimaal { $emailAddressesCount } e-mailadres.
+       *[other] Untfang fergese monitoaring fan datalekken foar maksimaal { $emailAddressesCount } e-mailadressen.
+    }
+announcement-free-data-breach-monitoring-description = Help jo gegevens feilich te hâlden mei monitoaring fan datalekken. { -brand-monitor } sil jo warskôgje as jo ynformaasje yn in datalek foarkomt.
 announcement-free-data-breach-monitoring-cta-label = Mear ynfo
