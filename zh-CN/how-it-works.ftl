@@ -17,3 +17,8 @@ how-it-works-page-data-breaches-step-1-text = 仅需提供您的邮箱地址，�
 
 how-it-works-page-data-breaches-step-2-title = 第 2 步
 how-it-works-page-data-breaches-step-2-subtitle = 助您处理外泄事件
+
+## FooterSection
+
+how-it-works-page-footersection-input-placeholder = example@example.com
+how-it-works-page-footersection-cta-button = 免费扫描
