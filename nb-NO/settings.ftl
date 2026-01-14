@@ -19,17 +19,25 @@ settings-alert-preferences-option-two = Send alle varsler om datalekkasjer til d
 ## Monitored email addresses
 
 settings-email-verification-callout = E-postbekreftelse kreves
+settings-email-addresses-header = E-postadresser
+settings-email-addresses-description = { -brand-monitor } varsler deg hvis disse e-postadressene dukker opp i kjente datalekkasjer.
+settings-email-addresses-add-email-button = Legg til e-postadresse
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = Legg til opptil { $limit }
 settings-email-addresses-add-email-resend-button-label = Send bekreftelseslenke på nytt
 input-error-alt = Feil
 
 ## Email address dialog
 
 settings-email-addresses-initial-dialog-header = Legg til en e-postadresse
+settings-email-addresses-initial-dialog-description = Vi sender deg en bekreftelseslenke slik at du kan bekrefte at du ønsker å inkludere den i en fremtidig { -brand-monitor }-skanning.
 settings-email-addresses-initial-dialog-add-email-input-label = Skriv inn e-postadresse
 settings-email-addresses-initial-dialog-add-email-button-label = Send bekreftelseslenke
 # Variables:
 #   $email (string) - Email address the confirmation has been sent to.
 settings-email-addresses-confirmation-dialog-header = Bekreftelseslenke sendt til <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-description = Åpne lenken for å legge den til på denne kontoen for fremtidige { -brand-monitor }-skanninger.
 settings-email-addresses-confirmation-dialog-close-button = Lukk
 
 ## Delete Monitor account
@@ -46,6 +54,8 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = Ignorer
 
 ## Settings page redesign
 
+# Label for a navigation bar link to settings for updating the users scan profile info – “update” is used as a verb.
+settings-tab-label-update-scan-info = Oppdater skanneinformasjon
 settings-tab-label-edit-info = Rediger dine opplysninger
 settings-tab-label-notifications = Still inn varsler
 settings-tab-label-manage-account = Behandle konto
