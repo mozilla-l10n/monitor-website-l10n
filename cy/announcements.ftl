@@ -8,9 +8,9 @@ announcement-dialog-default-tab = Newydd
 announcement-dialog-history-tab = Y Cyfan
 # To go back to the list of announcements
 announcement-dialog-back = Nôl
-announcement-dialog-clear-all = Marciwch y cyfan wedi'i ddarllen
+announcement-dialog-clear-all = Marcio'r cyfan wedi'i ddarllen
 announcement-dialog-empty-state-title = Dim diweddariadau
-announcement-dialog-empty-state-description = Gwiriwch yn ôl yn rheolaidd am ddiweddariadau a gwybodaeth am ein nodweddion diweddaraf.
+announcement-dialog-empty-state-description = Dewch nôl yn rheolaidd am ddiweddariadau a gwybodaeth am ein nodweddion diweddaraf.
 announcement-dialog-trigger-alt = Cyhoeddiadau agored
 announcement-dialog-alt = Rhestr o gyhoeddiadau
 announcement-small-img-alt = Eicon cyhoeddiad
@@ -22,12 +22,12 @@ announcement-big-img-alt = Delwedd cyhoeddiad
 # $emailAddressesCount (string) - number of email addresses allowed for data breach monitoring
 announcement-free-data-breach-monitoring-title =
     { $emailAddressesCount ->
-        [zero] Sicrhewch fonitro torri data am ddim ar gyfer hyd at { $emailAddressesCount } o gyfeiriadau e-bost.
-        [one] Sicrhewch fonitro torri data am ddim ar gyfer hyd at { $emailAddressesCount } o gyfeiriadau e-bost.
-        [two] Sicrhewch fonitro torri data am ddim ar gyfer hyd at { $emailAddressesCount } o gyfeiriadau e-bost.
-        [few] Sicrhewch fonitro torri data am ddim ar gyfer hyd at { $emailAddressesCount } o gyfeiriadau e-bost.
-        [many] Sicrhewch fonitro torri data am ddim ar gyfer hyd at { $emailAddressesCount } o gyfeiriadau e-bost.
-       *[other] Sicrhewch fonitro torri data am ddim ar gyfer hyd at { $emailAddressesCount } o gyfeiriadau e-bost.
+        [zero] Cael monitro tor-data am ddim ar gyfer hyd at { $emailAddressesCount } o gyfeiriadau e-bost.
+        [one] Cael monitro tor-data am ddim ar gyfer hyd at { $emailAddressesCount } cyfeiriad e-bost.
+        [two] Cael monitro tor-data am ddim ar gyfer hyd at { $emailAddressesCount } gyfeiriad e-bost.
+        [few] Cael monitro tor-data am ddim ar gyfer hyd at { $emailAddressesCount } cyfeiriad e-bost.
+        [many] Cael monitro tor-data am ddim ar gyfer hyd at { $emailAddressesCount } cyfeiriad e-bost.
+       *[other] Cael monitro tor-data am ddim ar gyfer hyd at { $emailAddressesCount } cyfeiriad e-bost.
     }
-announcement-free-data-breach-monitoring-description = Helpwch i gadw'ch gwybodaeth yn ddiogel gyda monitro torri data. Bydd { -brand-monitor } yn eich rhybuddio os bydd eich gwybodaeth yn ymddangos mewn achos o dorri rheolau data.
+announcement-free-data-breach-monitoring-description = Helpwch i gadw'ch manylion yn ddiogel gyda monitro tor-data. Bydd { -brand-monitor } yn eich rhybuddio os bydd eich manylion yn ymddangos mewn achos o dor-data.
 announcement-free-data-breach-monitoring-cta-label = Dysgu rhagor
