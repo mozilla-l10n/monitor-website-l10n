@@ -13,7 +13,7 @@ email-footer-support-heading = ¿Preguntas sobre { -brand-mozilla-monitor }?
 email-footer-support-content = Visitá nuestro <support-link>Centro de asistencia</support-link> para obtener ayuda
 email-footer-trigger-transactional = Recibís este correo porque te suscribiste a { -brand-mozilla-monitor }.
 email-footer-reason-subscriber = Estás recibiendo este correo electrónico automático como suscriptor de { -brand-mozilla-monitor }. Si lo recibiste por error, no tenés que hacer nada. Para más información, visitá <support-link>Soporte de { -brand-mozilla } </support-link>.
-email-footer-reason-subscriber-one-time = Recibiste este correo electrónico automático porque estás suscrito a { -brand-monitor-plus }. No vas a recibir más correos electrónicos como este. Para más información, visitá <support-link>Soporte de { -brand-mozilla } </support-link>.
+email-footer-reason-subscriber-one-time = Estás recibiendo este correo electrónico automático por única vez porque estás suscripto a { -brand-monitor-plus }. No vas a recibir más correos electrónicos como este. Para más información, visitá <support-link>Soporte de { -brand-mozilla } </support-link>.
 # Variables:
 #    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
 email-footer-support-content-plain = Visitá nuestro Centro de ayuda para obtener ayuda: { $support_link }

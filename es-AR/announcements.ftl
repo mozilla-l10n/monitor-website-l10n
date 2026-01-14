@@ -14,7 +14,7 @@ announcement-dialog-empty-state-description = Vuelva a consultar periódicamente
 announcement-dialog-trigger-alt = Abrir anuncios
 announcement-dialog-alt = Lista de anuncios
 announcement-small-img-alt = Icono de anuncio
-announcement-big-img-alt = Imagen del anuncio
+announcement-big-img-alt = Imagen de anuncio
 
 # between announcement- and -title or -description is the announcement_id.
 
