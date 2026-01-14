@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Banner
+
+how-it-works-banner-title = Hur det fungerar
+
 ## Intro
 
 how-it-works-page-data-breaches-intro-title = Vi tillhandahåller steg för att hjälpa till att lösa <data_breaches>dataintrång</data_breaches>
@@ -12,11 +16,13 @@ how-it-works-page-data-breaches-intro-cta-button = Få en gratis skanning
 
 ## Step 1
 
+how-it-works-page-data-breaches-step-1-title = Steg 1
 how-it-works-page-data-breaches-step-1-subtitle = Vi söker efter intrång
 how-it-works-page-data-breaches-step-1-text = Vi använder endast din e-postadress och söker dig i alla kända dataintrång. Alla prenumeranter kan övervaka 5 e-postadresser gratis.
 
 ## Step 2
 
+how-it-works-page-data-breaches-step-2-title = Steg 2
 how-it-works-page-data-breaches-step-2-subtitle = Vi hjälper dig att lösa intrång
 how-it-works-page-data-breaches-step-2-text-1 = Eftersom att lösa dataintrång vanligtvis innefattar manuella steg som att ändra dina lösenord eller placera en bedrägerivarning på din kreditvärdering, kan vi inte lösa dem åt dig. Men vi går igenom stegen för att lösa din läckta information.
 how-it-works-page-data-breaches-step-2-text-2 = Och om din information faller i fel händer, kommer vi att ge dig säkerhetsrekommendationer om vad du kan göra för att skydda dig nu och i framtiden.
