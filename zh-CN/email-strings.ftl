@@ -12,6 +12,14 @@ email-header-button-sign-in = 登录
 email-footer-support-heading = 对 { -brand-mozilla-monitor } 有疑问？
 email-footer-support-content = 访问我们的<support-link>支持中心</support-link>可获取帮助
 email-footer-trigger-transactional = 您是 { -brand-mozilla-monitor } 的订阅用户，因此收到此邮件。
+email-footer-reason-subscriber = 您是 { -brand-mozilla-monitor } 的订阅用户，因此收到这封自动发送的邮件。如果您是误收到此邮件，则无需进行任何操作。如需获取更多信息，请访问 <support-link>{ -brand-mozilla } 技术支持</support-link>。
+email-footer-reason-subscriber-one-time = 您曾订阅过 { -brand-monitor-plus }，因此收到这封自动发送的一次性邮件。我们将不会再向您发送类似邮件。如需获取更多信息，请访问 <support-link>{ -brand-mozilla } 技术支持</support-link>。
+# Variables:
+#    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
+email-footer-support-content-plain = 如需帮助，请访问我们的支持中心：{ $support_link }
+# Variables:
+#   $hibp_link (string) - URL to Have I Been Pwned, e.g. "https://haveibeenpwned.com".
+email-footer-source-hibp-plain = 外泄事件数据由 { -brand-HIBP } 提供：{ $hibp_link }
 email-footer-source-hibp = 外泄事件数据由 <hibp-link>{ -brand-HIBP }</hibp-link> 提供
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = 隐私

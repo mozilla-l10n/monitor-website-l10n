@@ -21,4 +21,5 @@ announcement-big-img-alt = 公告图片
 # Variables:
 # $emailAddressesCount (string) - number of email addresses allowed for data breach monitoring
 announcement-free-data-breach-monitoring-title = 享受至多 { $emailAddressesCount } 个邮箱地址的数据外泄免费监控。
+announcement-free-data-breach-monitoring-description = 监控数据外泄事件，帮助保护您的信息。{ -brand-monitor } 会在您的信息出现在外泄事件中时向您发出警报。
 announcement-free-data-breach-monitoring-cta-label = 详细了解

@@ -9,6 +9,7 @@ how-it-works-banner-title = 使用方法
 
 ## Intro
 
+how-it-works-page-data-breaches-intro-title = 我们会提供步骤，帮助您处理<data_breaches>外泄事件</data_breaches>
 how-it-works-page-data-breaches-intro-cta-button = 免费扫描
 
 ## Step 1
