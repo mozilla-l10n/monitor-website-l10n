@@ -37,6 +37,8 @@ settings-email-addresses-initial-dialog-add-email-button-label = Trimite linkul 
 # Variables:
 #   $email (string) - Email address the confirmation has been sent to.
 settings-email-addresses-confirmation-dialog-header = Link de verificare trimis la <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-description = Deschide linkul pentru adăugare la acest cont pentru scanări { -brand-monitor } viitoare.
+settings-email-addresses-confirmation-dialog-close-button = Închide
 
 ## Delete Monitor account
 
@@ -52,6 +54,8 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = Respinge
 
 ## Settings page redesign
 
+# Label for a navigation bar link to settings for updating the users scan profile info – “update” is used as a verb.
+settings-tab-label-update-scan-info = Actualizează informațiile de scanare
 settings-tab-label-edit-info = Editează-ți informațiile
 settings-tab-label-notifications = Setează notificările
 settings-tab-label-manage-account = Gestionează contul
