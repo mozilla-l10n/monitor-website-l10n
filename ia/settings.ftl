@@ -36,7 +36,7 @@ settings-email-addresses-initial-dialog-add-email-input-label = Insere tu adress
 settings-email-addresses-initial-dialog-add-email-button-label = Inviar ligamine de verification
 # Variables:
 #   $email (string) - Email address the confirmation has been sent to.
-settings-email-addresses-confirmation-dialog-header = Ligamine de verification inviate a { $email }
+settings-email-addresses-confirmation-dialog-header = Ligamine de verification inviate a <b>{ $email }</b>
 settings-email-addresses-confirmation-dialog-description = Aperi le ligamine pro adder lo a iste conto pro scansiones futur de { -brand-monitor }.
 settings-email-addresses-confirmation-dialog-close-button = Clauder
 
