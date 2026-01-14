@@ -19,6 +19,8 @@ settings-alert-preferences-option-two = Send alle varsler om datalekkasjer til d
 ## Monitored email addresses
 
 settings-email-verification-callout = E-postbekreftelse kreves
+settings-email-addresses-add-email-resend-button-label = Send bekreftelseslenke på nytt
+input-error-alt = Feil
 
 ## Email address dialog
 
