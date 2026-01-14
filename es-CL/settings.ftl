@@ -19,6 +19,26 @@ settings-alert-preferences-option-two = Enviar todas las alertas de filtraciones
 ## Monitored email addresses
 
 settings-email-verification-callout = Verificación de correo requerida
+settings-email-addresses-header = Direcciones de correo electrónico
+settings-email-addresses-description = { -brand-monitor } te avisará si estos correos electrónicos aparecen en infracciones conocidas.
+settings-email-addresses-add-email-button = Añadir dirección de correo electrónico
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = Añade hasta { $limit }
+settings-email-addresses-add-email-resend-button-label = Reenviar enlace de verificación
+input-error-alt = Error
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-header = Añadir una dirección de correo electrónico
+settings-email-addresses-initial-dialog-description = Te enviaremos un enlace de verificación para que confirmes que deseas incluirlo en un futuro escaneo { -brand-monitor }.
+settings-email-addresses-initial-dialog-add-email-input-label = Ingresa tu dirección de correo
+settings-email-addresses-initial-dialog-add-email-button-label = Enviar enlace de verificación
+# Variables:
+#   $email (string) - Email address the confirmation has been sent to.
+settings-email-addresses-confirmation-dialog-header = Enlace de verificación enviado a <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-description = Abre el enlace para agregarlo a esta cuenta para futuros escaneos de { -brand-monitor }.
+settings-email-addresses-confirmation-dialog-close-button = Cerrar
 
 ## Delete Monitor account
 
@@ -34,6 +54,8 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = Descartar
 
 ## Settings page redesign
 
+# Label for a navigation bar link to settings for updating the users scan profile info – “update” is used as a verb.
+settings-tab-label-update-scan-info = Actualizar la información del escaneo
 settings-tab-label-edit-info = Editar tu información
 settings-tab-label-notifications = Establecer notificaciones
 settings-tab-label-manage-account = Administrar cuenta
