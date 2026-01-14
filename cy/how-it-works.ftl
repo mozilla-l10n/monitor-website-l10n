@@ -30,8 +30,8 @@ how-it-works-page-data-breaches-step-2-text-2 = Ac os yw'ch manylion yn disgyn i
 ## Step 3
 
 how-it-works-page-data-breaches-step-3-title = Cam 3
-how-it-works-page-data-breaches-step-3-subtitle = Rydym yn monitro am doriadau newydd
-how-it-works-page-data-breaches-step-3-text = Pryd bynnag y byddwn yn canfod toriad newydd, byddwn yn gwirio i weld a oeddech yn rhan ohono ac yn eich rhybuddio os ydych.
+how-it-works-page-data-breaches-step-3-subtitle = Rydym yn monitro am dor-data newydd
+how-it-works-page-data-breaches-step-3-text = Pryd bynnag y byddwn yn canfod dor-data newydd, byddwn yn gwirio i weld a oeddech chi'n rhan ohono ac yn eich rhybuddio os ydych.
 
 ## CTA button
 

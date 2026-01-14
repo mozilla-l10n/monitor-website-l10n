@@ -17,7 +17,7 @@ landing-all-hero-image-chart-label = datgeliadau
 landing-all-hero-navbar-link-how-it-works = Sut mae'n gweithio
 landing-all-hero-navbar-link-pricing = Prisio
 landing-all-hero-navbar-link-faqs = Cwestiynau Cyffredin
-landing-all-hero-navbar-link-recent-breaches = Toriadau data diweddar
+landing-all-hero-navbar-link-recent-breaches = Tor-data diweddar
 
 # Value Proposition
 
