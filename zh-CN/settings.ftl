@@ -19,6 +19,13 @@ settings-alert-preferences-option-two = 向主邮箱地址发送所有数据外�
 ## Monitored email addresses
 
 settings-email-verification-callout = 需要电子邮件验证
+settings-email-addresses-header = 邮箱地址
+settings-email-addresses-add-email-resend-button-label = 重发验证链接
+input-error-alt = 错误
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-header = 添加邮箱地址
 
 ## Delete Monitor account
 

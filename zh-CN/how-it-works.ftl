@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Banner
+
+how-it-works-banner-title = 使用方法
+
 ## Intro
 
 how-it-works-page-data-breaches-intro-cta-button = 免费扫描
