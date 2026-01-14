@@ -20,13 +20,24 @@ settings-alert-preferences-option-two = Alle warskôgingen oer datalekken nei it
 
 settings-email-verification-callout = E-mailferifikaasje fereaske
 settings-email-addresses-header = E-mailadressen
+settings-email-addresses-description = { -brand-monitor } warskôget jo as dizze e-mailadressen ferskine yn bekende datalekken.
 settings-email-addresses-add-email-button = E-mailadres tafoegje
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = Jo kinne der maksimaal { $limit } tafoegje
 settings-email-addresses-add-email-resend-button-label = Ferifikaasjekeppeling opnij ferstjoere
 input-error-alt = Flater
 
 ## Email address dialog
 
 settings-email-addresses-initial-dialog-header = In e-mailadres tafoegje
+settings-email-addresses-initial-dialog-description = Wy stjoere in ferifikaasjekeppeling om te befêstigjen dat jo dizze yn in takomstige { -brand-monitor }-scan opnimme wolle.
+settings-email-addresses-initial-dialog-add-email-input-label = Fier in e-mailadres yn
+settings-email-addresses-initial-dialog-add-email-button-label = Ferifikaasjekeppeling ferstjoere
+# Variables:
+#   $email (string) - Email address the confirmation has been sent to.
+settings-email-addresses-confirmation-dialog-header = Ferifikaasjekeppeling ferstjoerd nei <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-description = Iepenje de keppeling om dit oan dizze account ta te foegjen foar takomstige { -brand-monitor }-scans.
 settings-email-addresses-confirmation-dialog-close-button = Slute
 
 ## Delete Monitor account

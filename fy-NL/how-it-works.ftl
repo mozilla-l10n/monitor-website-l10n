@@ -23,10 +23,15 @@ how-it-works-page-data-breaches-step-1-text = Mei allinnich jo e-mailadres sykje
 ## Step 2
 
 how-it-works-page-data-breaches-step-2-title = Stap 2
+how-it-works-page-data-breaches-step-2-subtitle = Wy helpe jo datalekken op te lossen
+how-it-works-page-data-breaches-step-2-text-1 = Omdat it oplossen fan datalekken meastentiids hânmjittige stappen omfetsje, lykas it wizigjen fan jo wachtwurden of it pleatsen fan in fraudewarskôging op jo kredytskoare, kinne wy se net foar jo oplosse. Mar wy sille jo troch de stappen liede om jo lekte ynformaasje op te lossen.
+how-it-works-page-data-breaches-step-2-text-2 = En as jo gegevens dochs yn de ferkearde hannen falt, sille wy jo befeiligensoanrekommandaasjes jaan oer wat jo dwaan kinne om josels no en yn de takomst te beskermjen.
 
 ## Step 3
 
 how-it-works-page-data-breaches-step-3-title = Stap 3
+how-it-works-page-data-breaches-step-3-subtitle = Wy kontrolearje op nije datalekken
+how-it-works-page-data-breaches-step-3-text = As wy in nij datalek  ûntdekke, sille wy kontrolearje oft jo der diel fan útmeitsje en jo warskôgje as dat sa is.
 
 ## CTA button
 
