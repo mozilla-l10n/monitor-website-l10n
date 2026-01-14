@@ -10,7 +10,7 @@ how-it-works-banner-title = Come funziona
 ## Intro
 
 how-it-works-page-data-breaches-intro-title = Forniamo istruzioni per risolvere le <data_breaches>violazioni di dati</data_breaches>
-how-it-works-page-data-breaches-intro-text-1 = Le violazioni di dati sono violazioni della sicurezza in cui le tue informazioni personali vengono accidentalmente esposte o rubate illegalmente dagli hacker, comprese password, informazioni di contatto, dati finanziari e molto altro. Qualsiasi account o qualsiasi luogo in cui le tue informazioni siano memorizzate online potrebbe essere un bersaglio.
+how-it-works-page-data-breaches-intro-text-1 = Le violazioni di dati sono violazioni della sicurezza in cui le tue informazioni personali vengono accidentalmente esposte o rubate da hacker. I dati possono includere password, informazioni di contatto, dati finanziari e molto altro. Qualsiasi account o qualsiasi piattaforma online in cui le tue informazioni siano memorizzate può diventare un bersaglio.
 how-it-works-page-data-breaches-intro-text-2 = La risoluzione delle violazioni di dati aiuta a impedire agli hacker di accedere ai tuoi account, causare danni finanziari o rubare la tua identità.
 how-it-works-page-data-breaches-intro-cta-button = Ottieni una scansione gratuita
 

@@ -21,7 +21,7 @@ settings-alert-preferences-option-two = Invia tutti gli avvisi di violazione all
 settings-email-verification-callout = Richiesta verifica email
 settings-email-addresses-header = Indirizzi email
 settings-email-addresses-description = { -brand-monitor } ti avviserà se queste email sono coinvolte in violazioni conosciute.
-settings-email-addresses-add-email-button = Aggiungi un indirizzo email
+settings-email-addresses-add-email-button = Aggiungi indirizzo email
 # Variables:
 #   $limit (number) - Number of emails that can be added for monitoring.
 settings-email-addresses-add-email-indicator-limit = Aggiungi fino a { $limit }
@@ -30,14 +30,14 @@ input-error-alt = Errore
 
 ## Email address dialog
 
-settings-email-addresses-initial-dialog-header = Aggiungi un indirizzo email
+settings-email-addresses-initial-dialog-header = Aggiungi indirizzo email
 settings-email-addresses-initial-dialog-description = Ti invieremo un link di verifica per confermare che desideri includerlo in una futura scansione di { -brand-monitor }.
-settings-email-addresses-initial-dialog-add-email-input-label = Inserisci il tuo indirizzo email
+settings-email-addresses-initial-dialog-add-email-input-label = Inserisci un indirizzo email
 settings-email-addresses-initial-dialog-add-email-button-label = Invia link di verifica
 # Variables:
 #   $email (string) - Email address the confirmation has been sent to.
 settings-email-addresses-confirmation-dialog-header = Link di verifica inviato a <b>{ $email }</b>
-settings-email-addresses-confirmation-dialog-description = Apri il link per aggiungerlo a questo account per future scansioni di { -brand-monitor }.
+settings-email-addresses-confirmation-dialog-description = Apri il link per aggiungere l’indirizzo a questo account per future scansioni di { -brand-monitor }.
 settings-email-addresses-confirmation-dialog-close-button = Chiudi
 
 ## Delete Monitor account

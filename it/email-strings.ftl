@@ -12,11 +12,11 @@ email-header-button-sign-in = Accedi
 email-footer-support-heading = Hai domande su { -brand-mozilla-monitor }?
 email-footer-support-content = Visita il nostro <support-link>Centro di supporto</support-link> per ricevere assistenza
 email-footer-trigger-transactional = Hai ricevuto questa email in quanto sei abbonato a { -brand-mozilla-monitor }.
-email-footer-reason-subscriber = Hai ricevuto questa email automatica come abbonato a { -brand-mozilla-monitor }. Se l’hai ricevuto per errore, non è richiesta alcuna azione. Per ulteriori informazioni, visita il <support-link>supporto { -brand-mozilla }</support-link>.
-email-footer-reason-subscriber-one-time = Hai ricevuto questa email automatica una tantum perché sei abbonato a { -brand-monitor-plus }. Non riceverai altre email come questa. Per ulteriori informazioni, visita il <support-link>supporto { -brand-mozilla }</support-link>.
+email-footer-reason-subscriber = Hai ricevuto questa email automatica perché sei abbonato a { -brand-mozilla-monitor }. Se l’hai ricevuta per errore, non è richiesta alcuna azione. Per ulteriori informazioni, visita il <support-link>supporto { -brand-mozilla }</support-link>.
+email-footer-reason-subscriber-one-time = Hai ricevuto questa email automatica perché sei abbonato a { -brand-monitor-plus }. Non riceverai altre email come questa. Per ulteriori informazioni, visita il <support-link>supporto { -brand-mozilla }</support-link>.
 # Variables:
 #    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
-email-footer-support-content-plain = Visita il nostro Centro assistenza: { $support_link }
+email-footer-support-content-plain = Visita il nostro centro assistenza: { $support_link }
 # Variables:
 #   $hibp_link (string) - URL to Have I Been Pwned, e.g. "https://haveibeenpwned.com".
 email-footer-source-hibp-plain = Dati sulle violazioni forniti da { -brand-HIBP }: { $hibp_link }
