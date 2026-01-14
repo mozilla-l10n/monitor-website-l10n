@@ -20,7 +20,12 @@ settings-alert-preferences-option-two = Send alle åtvaringar om datalekkasjar t
 
 settings-email-verification-callout = Stadfesting av e-post påkravd
 settings-email-addresses-header = E-postadresser
+settings-email-addresses-description = { -brand-monitor } varslar deg dersom desse e-postadressene dukkar opp i kjende datalekkasjar.
 settings-email-addresses-add-email-button = Legg til e-postadresse
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = Legg til opptil { $limit }
+settings-email-addresses-add-email-resend-button-label = Send stadfestingslenke på nytt
 input-error-alt = Feil
 
 ## Email address dialog

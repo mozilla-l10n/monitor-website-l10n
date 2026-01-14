@@ -18,7 +18,7 @@ how-it-works-page-data-breaches-intro-cta-button = Få en gratis skanning
 
 how-it-works-page-data-breaches-step-1-title = Steg 1
 how-it-works-page-data-breaches-step-1-subtitle = Vi söker efter intrång
-how-it-works-page-data-breaches-step-1-text = Vi använder endast din e-postadress och söker dig i alla kända dataintrång. Alla prenumeranter kan övervaka 5 e-postadresser gratis.
+how-it-works-page-data-breaches-step-1-text = Vi använder endast din e-postadress och söker efter dig i alla kända dataintrång. Alla prenumeranter kan övervaka 5 e-postadresser gratis.
 
 ## Step 2
 
@@ -40,7 +40,7 @@ how-it-works-page-data-breaches-cta-button = Få en gratis skanning
 ## FooterSection
 
 how-it-works-page-footersection-title = Ta tillbaka kontrollen över din data
-how-it-works-page-footersection-input-placeholder = example@example.com
+how-it-works-page-footersection-input-placeholder = exempel@exempel.com
 how-it-works-page-footersection-cta-button = Få en gratis skanning
 
 ## Inbound links

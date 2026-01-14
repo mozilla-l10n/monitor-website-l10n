@@ -20,7 +20,7 @@ settings-alert-preferences-option-two = Skicka alla intrångsvarningar till den 
 
 settings-email-verification-callout = E-postverifiering krävs
 settings-email-addresses-header = E-postadresser
-settings-email-addresses-description = { -brand-monitor } varnar dig om dessa e-postmeddelanden dyker upp i kända intrång.
+settings-email-addresses-description = { -brand-monitor } varnar dig om dessa e-postadresser dyker upp i kända intrång.
 settings-email-addresses-add-email-button = Lägg till e-postadress
 # Variables:
 #   $limit (number) - Number of emails that can be added for monitoring.

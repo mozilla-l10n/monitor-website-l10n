@@ -15,7 +15,9 @@ landing-all-hero-image-chart-label = eksponeringar
 ## Top navbar
 
 landing-all-hero-navbar-link-how-it-works = Korleis det fungerer
+landing-all-hero-navbar-link-pricing = Pris
 landing-all-hero-navbar-link-faqs = Vanlege spørsmål (FAQ)
+landing-all-hero-navbar-link-recent-breaches = Nylege datalekkasjar
 
 # Value Proposition
 

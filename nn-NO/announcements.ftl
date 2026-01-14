@@ -10,6 +10,7 @@ announcement-dialog-history-tab = Alle
 announcement-dialog-back = Tilbake
 announcement-dialog-clear-all = Marker alle som lesne
 announcement-dialog-empty-state-title = Ingen oppdateringar
+announcement-dialog-empty-state-description = Kom gjerne tilbake jamleg for oppdateringar og informasjon om dei nyaste funksjonane våre.
 announcement-dialog-trigger-alt = Opne kunngjeringar
 announcement-dialog-alt = Liste over kunngjeringar
 announcement-small-img-alt = Kunngjeringsikon

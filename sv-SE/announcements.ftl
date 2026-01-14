@@ -13,8 +13,8 @@ announcement-dialog-empty-state-title = Inga uppdateringar
 announcement-dialog-empty-state-description = Kom tillbaka regelbundet efter uppdateringar och information om våra senaste funktioner.
 announcement-dialog-trigger-alt = Öppna meddelanden
 announcement-dialog-alt = Lista på meddelanden
-announcement-small-img-alt = Ikonen för meddelande
-announcement-big-img-alt = Tillkännagivande bild
+announcement-small-img-alt = Meddelandeikon
+announcement-big-img-alt = Bild för meddelande
 
 # between announcement- and -title or -description is the announcement_id.
 
