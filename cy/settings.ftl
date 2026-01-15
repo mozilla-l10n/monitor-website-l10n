@@ -37,7 +37,7 @@ settings-email-addresses-initial-dialog-add-email-button-label = Anfon dolen dil
 # Variables:
 #   $email (string) - Email address the confirmation has been sent to.
 settings-email-addresses-confirmation-dialog-header = Dolen dilysu wedi'i hanfon at <b>{ $email }</b>
-settings-email-addresses-confirmation-dialog-description = Agorwch y ddolen i'w ychwanegu at y cyfrif hwn ar gyfer { -brand-monitor } sganiau yn y dyfodol.
+settings-email-addresses-confirmation-dialog-description = Agorwch y ddolen i'w ychwanegu at y cyfrif hwn ar gyfer sganiau { -brand-monitor }  yn y dyfodol.
 settings-email-addresses-confirmation-dialog-close-button = Cau
 
 ## Delete Monitor account
@@ -55,7 +55,7 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = Cau
 ## Settings page redesign
 
 # Label for a navigation bar link to settings for updating the users scan profile info – “update” is used as a verb.
-settings-tab-label-update-scan-info = Diweddaru gwybodaeth sgan
+settings-tab-label-update-scan-info = Diweddaru manylion sgan
 settings-tab-label-edit-info = Golygu eich manylion
 settings-tab-label-notifications = Gosod hysbysiadau
 settings-tab-label-manage-account = Rheoli cyfrif
