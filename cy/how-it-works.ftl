@@ -9,7 +9,7 @@ how-it-works-banner-title = Sut mae'n gweithio
 
 ## Intro
 
-how-it-works-page-data-breaches-intro-title = Rydym yn darparu camau i helpu i ddatrys <data_breaches>tordata</data_breakes>
+how-it-works-page-data-breaches-intro-title = Rydym yn darparu camau i helpu i ddatrys <data_breaches>tordata</data_breaches>
 how-it-works-page-data-breaches-intro-text-1 = Mae tor-data yn droseddau diogelwch lle mae'ch manylion personol naill ai'n cael ei datgelu'n ddamweiniol neu ei dwyn yn anghyfreithlon gan hacwyr - gan gynnwys cyfrineiriau, manylion cyswllt, materion ariannol, a llawer mwy. Gall unrhyw gyfrif neu unrhyw le y caiff eich manylion ei gadw ar-lein fod yn darged.
 how-it-works-page-data-breaches-intro-text-2 = Mae datrys achosion o dor-data yn helpu i atal hacwyr rhag cael mynediad i'ch cyfrifon, achosi niwed ariannol neu ddwyn eich hunaniaeth.
 how-it-works-page-data-breaches-intro-cta-button = Cael sgan am ddim
