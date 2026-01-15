@@ -18,4 +18,12 @@ announcement-big-img-alt = Imagen de anuncio
 
 # between announcement- and -title or -description is the announcement_id.
 
+# Variables:
+# $emailAddressesCount (string) - number of email addresses allowed for data breach monitoring
+announcement-free-data-breach-monitoring-title =
+    { $emailAddressesCount ->
+        [one] Obtén monitoreo gratuito de filtración de datos para hasta { $emailAddressesCount } dirección de correo electrónico.
+       *[other] Obtén monitoreo gratuito de filtración de datos para hasta { $emailAddressesCount } direcciones de correo electrónico.
+    }
+announcement-free-data-breach-monitoring-description = Ayuda a mantener tu información segura con el monitoreo de filtraciones de datos. { -brand-monitor } te avisará si tu información aparece en una filtración de datos.
 announcement-free-data-breach-monitoring-cta-label = Aprender más
