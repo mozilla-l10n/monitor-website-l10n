@@ -52,6 +52,8 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = Ignorer
 
 ## Settings page redesign
 
+# Label for a navigation bar link to settings for updating the users scan profile info – “update” is used as a verb.
+settings-tab-label-update-scan-info = Oppdater skanneinformasjon
 settings-tab-label-edit-info = Rediger opplysningane dine
 settings-tab-label-notifications = Still inn varsel
 settings-tab-label-manage-account = Handsam kontoen

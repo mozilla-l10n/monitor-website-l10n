@@ -12,6 +12,14 @@ email-header-button-sign-in = Logg inn
 email-footer-support-heading = Spørsmål om { -brand-mozilla-monitor }?
 email-footer-support-content = Besøk <support-link>brukarstøttesenteret</support-link> vårt for å få hjelp
 email-footer-trigger-transactional = Du får denne e-posten fordi du abonnerer på { -brand-mozilla-monitor }.
+# Variables:
+#    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
+email-footer-support-content-plain =
+    Besøk brukarstøttesenteret vårt for hjelp:
+    { $support_link }
+# Variables:
+#   $hibp_link (string) - URL to Have I Been Pwned, e.g. "https://haveibeenpwned.com".
+email-footer-source-hibp-plain = Datalekkasjeinformasjon levert av { -brand-HIBP }: { $hibp_link }
 email-footer-source-hibp = Informasjon om datalekkasje er levert av <hibp-link>{ -brand-HIBP }</hibp-link>
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = Personvern
