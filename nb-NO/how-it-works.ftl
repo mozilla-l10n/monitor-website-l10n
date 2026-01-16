@@ -10,7 +10,7 @@ how-it-works-banner-title = Hvordan det virker
 ## Intro
 
 how-it-works-page-data-breaches-intro-title = Vi tilbyr trinn for å hjelpe med å løse <data_breaches>datalekkasjer</data_breaches>
-how-it-works-page-data-breaches-intro-text-1 = Datalekkasjer er sikkerhetsbrudd der personopplysningene dine enten utilsiktet blir eksponert eller ulovlig stjålet av hackere — inkludert passord, kontaktinformasjon, finansielle opplysninger og mye mer. Enhver konto eller ethvert sted der informasjonen din lagres på nettet kan være et mål.
+how-it-works-page-data-breaches-intro-text-1 = Datalekkasjer er sikkerhetsbrudd der personopplysningene dine enten utilsiktet blir eksponert eller stjålet av hackere — inkludert passord, kontaktinformasjon, finansielle opplysninger og mye mer. Enhver konto eller ethvert sted der informasjonen din lagres på nettet kan være et mål.
 how-it-works-page-data-breaches-intro-text-2 = Å løse datalekkasjer bidrar til å hindre hackere i å få tilgang til kontoene dine, forårsake økonomisk skade eller stjele identiteten din.
 how-it-works-page-data-breaches-intro-cta-button = Få gratis skanning
 
