@@ -17,7 +17,7 @@ email-footer-reason-subscriber-one-time = Du har mottatt denne engangs automatis
 # Variables:
 #    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
 email-footer-support-content-plain =
-    Besøk brukerstøttesenter vårt for hjelp:
+    Besøk brukerstøttesenteret vårt for hjelp:
     { $support_link }
 # Variables:
 #   $hibp_link (string) - URL to Have I Been Pwned, e.g. "https://haveibeenpwned.com".
