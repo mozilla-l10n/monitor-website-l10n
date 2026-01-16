@@ -112,7 +112,7 @@ user-menu-signout-tooltip = Clauder session de { -brand-mozilla-monitor }
 ## Footer
 
 mozilla = { -brand-mozilla }
-terms-of-service = Terminos de servicio
+terms-of-service = Conditiones de uso del servicio
 privacy-notice = Aviso de confidentialitate
 github = { -brand-github }
 footer-nav-recent-breaches = Recente violationes de datos
