@@ -31,13 +31,13 @@ input-error-alt = Hiba
 ## Email address dialog
 
 settings-email-addresses-initial-dialog-header = E-mail-cím hozzáadása
-settings-email-addresses-initial-dialog-description = Küldünk egy ellenőrző hivatkozást, hogy megerősítse, hogy szeretné-e használni egy { -brand-monitor } vizsgálatot a jövőben.
+settings-email-addresses-initial-dialog-description = Küldünk egy ellenőrző hivatkozást, hogy megerősítse, hogy a jövőben is szeretné-e használni a { -brand-monitor } vizsgálatát.
 settings-email-addresses-initial-dialog-add-email-input-label = Adja meg az e-mail-címet
 settings-email-addresses-initial-dialog-add-email-button-label = Ellenőrző hivatkozás küldése
 # Variables:
 #   $email (string) - Email address the confirmation has been sent to.
 settings-email-addresses-confirmation-dialog-header = Ellenőrző hivatkozás elküldve ide: <b>{ $email }</b>
-settings-email-addresses-confirmation-dialog-description = Nyissa meg a hivatkozást, hogy hozzáadja ehhez a fiókhoz a következő { -brand-monitor } vizsgálatokhoz.
+settings-email-addresses-confirmation-dialog-description = Nyissa meg a hivatkozást, hogy hozzáadja ezt a fiókhoz a jövőbeli { -brand-monitor } vizsgálatokhoz.
 settings-email-addresses-confirmation-dialog-close-button = Bezárás
 
 ## Delete Monitor account
