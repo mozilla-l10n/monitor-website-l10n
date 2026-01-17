@@ -20,11 +20,11 @@ settings-alert-preferences-option-two = Az összes adatvédelmi incidens figyelm
 
 settings-email-verification-callout = E-mail ellenőrzés szükséges
 settings-email-addresses-header = E-mail-címek
-settings-email-addresses-description = A(z) { -brand-monitor } értesíteni fog, ha ezek az e-mail-címek egy ismert adatvédelmi incidensben jelennek meg.
+settings-email-addresses-description = A { -brand-monitor } értesíteni fogja, ha ezek az e-mail-címek egy ismert adatvédelmi incidensben jelennek meg.
 settings-email-addresses-add-email-button = E-mail-cím hozzáadása
 # Variables:
 #   $limit (number) - Number of emails that can be added for monitoring.
-settings-email-addresses-add-email-indicator-limit = Adjon hozzá legfeljebb { $limit }
+settings-email-addresses-add-email-indicator-limit = Akár { $limit } címet is hozzáadhat
 settings-email-addresses-add-email-resend-button-label = Ellenőrző hivatkozás újraküldése
 input-error-alt = Hiba
 

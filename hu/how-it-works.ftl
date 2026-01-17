@@ -31,7 +31,7 @@ how-it-works-page-data-breaches-step-2-text-2 = És ha az adatai valóban rossz 
 
 how-it-works-page-data-breaches-step-3-title = 3. lépés
 how-it-works-page-data-breaches-step-3-subtitle = Figyeljük az új adatvédelmi incidenseket
-how-it-works-page-data-breaches-step-3-text = Ha új adatvédelmi incidenst észlelünk, ellenőrizzük, hogy szerepelt-e abban, és figyelmeztetjük, ha van.
+how-it-works-page-data-breaches-step-3-text = Ha új adatvédelmi incidenst észlelünk, ellenőrizzük, hogy szerepelt-e abban, és figyelmeztetjük, ha igen.
 
 ## CTA button
 
