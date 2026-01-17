@@ -24,7 +24,7 @@ how-it-works-page-data-breaches-step-1-text = Az Ön e-mail-címe használatáva
 
 how-it-works-page-data-breaches-step-2-title = 2. lépés
 how-it-works-page-data-breaches-step-2-subtitle = Segítünk az adatvédelmi incidensek megoldásában
-how-it-works-page-data-breaches-step-2-text-1 = Mivel az adatvédelmi incidensek megoldása általában kézi lépésekből áll, mint a jelszavak megváltoztatása vagy csalási figyelmeztetés a hitelképességére, ezért ezeket nem tudjuk megoldani. De végigvezetjük a lépésein a kiszivárgott információi megoldásához.
+how-it-works-page-data-breaches-step-2-text-1 = Mivel az adatvédelmi incidensek megoldása általában kézi lépésekből áll, például jelszavak megváltoztatásából, ezért ezeket mi nem tudjuk megoldani. De végigvezetjük a megoldási folyamaton.
 how-it-works-page-data-breaches-step-2-text-2 = És ha az adatai valóban rossz kezekbe kerülnek, akkor biztonsági ajánlásokat adunk arról, hogy mit tehet annak érdekében, hogy megvédje magát most és a jövőben.
 
 ## Step 3
