@@ -13,7 +13,7 @@ announcement-dialog-empty-state-title = Nincsenek frissítések
 announcement-dialog-empty-state-description = Nézzen vissza rendszeresen a frissítésekről és a legújabb funkcióinkról.
 announcement-dialog-trigger-alt = Nyílt bejelentések
 announcement-dialog-alt = Bejelentések listája
-announcement-small-img-alt = Bejelentés ikonra
+announcement-small-img-alt = Bejelentés ikon
 announcement-big-img-alt = Bejelentés képe
 
 # between announcement- and -title or -description is the announcement_id.
@@ -22,8 +22,8 @@ announcement-big-img-alt = Bejelentés képe
 # $emailAddressesCount (string) - number of email addresses allowed for data breach monitoring
 announcement-free-data-breach-monitoring-title =
     { $emailAddressesCount ->
-        [one] Kapjon ingyenes adatvédelmi incidensfigyelést akár { $emailAddressesCount } e-mail-címhez.
-       *[other] Kapjon ingyenes adatvédelmi incidensfigyelést akár { $emailAddressesCount } e-mail-címhez.
+        [one] Kapjon ingyenes figyelést az adatvédelmi incidensekről akár { $emailAddressesCount } e-mail-címhez.
+       *[other] Kapjon ingyenes figyelést az adatvédelmi incidensekről akár { $emailAddressesCount } e-mail-címhez.
     }
-announcement-free-data-breach-monitoring-description = Segítsen megőrizni adatait az adatsértések figyelésével. A(z) { -brand-monitor } értesíteni fogja, ha az adatai adatvédelmi incidensben jelennek meg.
+announcement-free-data-breach-monitoring-description = Segítsen megvédeni adatait az adatvédelmi incidensek figyelésével. A { -brand-monitor } értesíteni fogja, ha az adatai adatvédelmi incidensben jelennek meg.
 announcement-free-data-breach-monitoring-cta-label = További tudnivalók
