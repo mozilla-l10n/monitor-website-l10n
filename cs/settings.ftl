@@ -21,7 +21,7 @@ settings-alert-preferences-option-two = Všechna upozornění posílat na primá
 settings-email-verification-callout = Vyžadováno ověření e-mailové adresy
 settings-email-addresses-header = E-mailové adresy
 settings-email-addresses-description = { -brand-monitor } vás upozorní, pokud se tato adresa objeví ve známém úniku dat.
-settings-email-addresses-add-email-button = Přidat e-mailové adresy
+settings-email-addresses-add-email-button = Přidat e-mailovou adresu
 # Variables:
 #   $limit (number) - Number of emails that can be added for monitoring.
 settings-email-addresses-add-email-indicator-limit = Přidejte až { $limit }

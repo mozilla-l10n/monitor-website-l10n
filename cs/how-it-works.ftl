@@ -35,13 +35,13 @@ how-it-works-page-data-breaches-step-3-text = Kdykoli zjistíme nový únik, zko
 
 ## CTA button
 
-how-it-works-page-data-breaches-cta-button = Zkontrolovat
+how-it-works-page-data-breaches-cta-button = Zkontrolovat zdarma
 
 ## FooterSection
 
 how-it-works-page-footersection-title = Získejte opět kontrolu nad svými údaji
 how-it-works-page-footersection-input-placeholder = example@example.com
-how-it-works-page-footersection-cta-button = Zkontrolovat
+how-it-works-page-footersection-cta-button = Zkontrolovat zdarma
 
 ## Inbound links
 ## Site Navigation
