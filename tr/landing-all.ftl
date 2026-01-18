@@ -14,6 +14,10 @@ landing-all-hero-image-chart-label = veri ihlali
 
 ## Top navbar
 
+landing-all-hero-navbar-link-how-it-works = Nasıl çalışır?
+landing-all-hero-navbar-link-pricing = Fiyatlar
+landing-all-hero-navbar-link-faqs = SSS
+landing-all-hero-navbar-link-recent-breaches = En son veri ihlalleri
 
 # Value Proposition
 

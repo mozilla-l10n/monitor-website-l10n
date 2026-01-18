@@ -12,6 +12,9 @@ email-header-button-sign-in = Giriş yap
 email-footer-support-heading = { -brand-mozilla-monitor } hakkında sorularınız mı var?
 email-footer-support-content = Yardım için <support-link>Destek Merkezimizi</support-link> ziyaret edin
 email-footer-trigger-transactional = Bu e-postayı { -brand-mozilla-monitor } abonesi olduğunuz için aldınız.
+# Variables:
+#   $hibp_link (string) - URL to Have I Been Pwned, e.g. "https://haveibeenpwned.com".
+email-footer-source-hibp-plain = İhlal verileri { -brand-HIBP } tarafından sağlanmaktadır: { $hibp_link }
 email-footer-source-hibp = İhlal verileri <hibp-link>{ -brand-HIBP }</hibp-link> tarafından sağlanmaktadır
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = Gizlilik
