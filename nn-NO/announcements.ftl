@@ -18,4 +18,5 @@ announcement-big-img-alt = Kunngjeringsbilde
 
 # between announcement- and -title or -description is the announcement_id.
 
+announcement-free-data-breach-monitoring-description = Hjelp med å halde informasjonen din trygg med overvaking av datainnbrot. { -brand-monitor } varslar deg viss informasjonen din dukkar opp i eit datainnbrot.
 announcement-free-data-breach-monitoring-cta-label = Les meir
