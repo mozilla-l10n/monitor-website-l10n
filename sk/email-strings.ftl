@@ -13,6 +13,15 @@ email-footer-support-heading = Máte otázky týkajúce sa { -brand-mozilla-moni
 email-footer-support-content = Ak potrebujete pomoc, navštívte naše <support-link>Centrum podpory</support-link>
 email-footer-trigger-transactional = Tento e‑mail ste dostali ako odberateľ služby { -brand-mozilla-monitor }.
 email-footer-reason-subscriber = Tento automatický e‑mail dostávate ako odberateľ služby { -brand-mozilla-monitor }. Ak ste ho dostali omylom, nie je potrebné podniknúť žiadne kroky. Ďalšie informácie nájdete na stránke <support-link>Podpora { -brand-mozilla(case: "gen") }</support-link>.
+email-footer-reason-subscriber-one-time = Tento jednorazový automatický e‑mail ste dostali, pretože ste prihlásený/á na odber služby { -brand-monitor-plus }. Už nebudete dostávať žiadne ďalšie podobné e‑maily. Ďalšie informácie nájdete na stránke <support-link>Podpora { -brand-mozilla(case: "gen") }</support-link>.
+# Variables:
+#    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
+email-footer-support-content-plain =
+    Navštívte naše Centrum podpory, kde vám pomôžu:
+    { $support_link }
+# Variables:
+#   $hibp_link (string) - URL to Have I Been Pwned, e.g. "https://haveibeenpwned.com".
+email-footer-source-hibp-plain = Údaje o úniku poskytol { -brand-HIBP }: { $hibp_link }
 email-footer-source-hibp = Údaje o úniku poskytuje <hibp-link>{ -brand-HIBP }</hibp-link>
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = Súkromie

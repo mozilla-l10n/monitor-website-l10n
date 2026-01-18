@@ -14,6 +14,8 @@ landing-all-hero-image-chart-label = odhalení
 
 ## Top navbar
 
+landing-all-hero-navbar-link-how-it-works = Ako to funguje
+landing-all-hero-navbar-link-pricing = Ceny
 landing-all-hero-navbar-link-faqs = Často kladené otázky
 landing-all-hero-navbar-link-recent-breaches = Nedávne úniky údajov
 

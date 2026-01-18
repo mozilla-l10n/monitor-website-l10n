@@ -20,8 +20,13 @@ settings-alert-preferences-option-two = Všetky upozornenia na únik údajov pos
 
 settings-email-verification-callout = Vyžaduje sa overenie e‑mailovej adresy
 settings-email-addresses-header = E‑mailové adresy
-settings-email-addresses-description = { -brand-monitor } vás upozorní, ak sa tieto e-maily zobrazia v známych únikoch údajov.
+settings-email-addresses-description = { -brand-monitor } vás upozorní, ak sa tieto e‑mailové adresy zobrazia v známych únikoch údajov.
 settings-email-addresses-add-email-button = Pridať e‑mailovú adresu
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = Pridať môžete maximálne { $limit }
+settings-email-addresses-add-email-resend-button-label = Znova odoslať overovací odkaz
+input-error-alt = Chyba
 
 ## Email address dialog
 
@@ -32,6 +37,7 @@ settings-email-addresses-initial-dialog-add-email-button-label = Odoslať overov
 # Variables:
 #   $email (string) - Email address the confirmation has been sent to.
 settings-email-addresses-confirmation-dialog-header = Overovací odkaz odoslaný na adresu <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-description = Otvorte odkaz a pridajte ho do tohto účtu pre budúce skenovanie pomocou služby { -brand-monitor }.
 settings-email-addresses-confirmation-dialog-close-button = Zavrieť
 
 ## Delete Monitor account
@@ -48,6 +54,8 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = Zavrieť
 
 ## Settings page redesign
 
+# Label for a navigation bar link to settings for updating the users scan profile info – “update” is used as a verb.
+settings-tab-label-update-scan-info = Aktualizovať informácie o skenovaní
 settings-tab-label-edit-info = Upravte svoje informácie
 settings-tab-label-notifications = Nastaviť upozornenia
 settings-tab-label-manage-account = Spravovať účet
