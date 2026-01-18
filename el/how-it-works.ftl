@@ -16,13 +16,13 @@ how-it-works-page-data-breaches-intro-cta-button = Δωρεάν σάρωση
 
 ## Step 1
 
-how-it-works-page-data-breaches-step-1-title = Βήμα 1ο
+how-it-works-page-data-breaches-step-1-title = Βήμα 1
 how-it-works-page-data-breaches-step-1-subtitle = Κάνουμε σάρωση για παραβιάσεις
 how-it-works-page-data-breaches-step-1-text = Χρησιμοποιώντας μόνο τη διεύθυνση email σας, αναζητούμε εσάς σε όλες τις γνωστές παραβιάσεις δεδομένων. Όλοι οι συνδρομητές μπορούν να παρακολουθούν δωρεάν 5 διευθύνσεις email.
 
 ## Step 2
 
-how-it-works-page-data-breaches-step-2-title = Βήμα 2ο
+how-it-works-page-data-breaches-step-2-title = Βήμα 2
 how-it-works-page-data-breaches-step-2-subtitle = Σας βοηθάμε στην επίλυση παραβιάσεων
 how-it-works-page-data-breaches-step-2-text-1 = Επειδή η επίλυση παραβιάσεων δεδομένων απαιτεί συνήθως χειροκίνητα βήματα, όπως η αλλαγή των κωδικών πρόσβασής σας ή η καταχώρηση μιας ειδοποίησης απάτης στην πιστωτική σας βαθμολογία, δεν μπορούμε να τα επιλύσουμε εκ μέρους σας. Αλλά θα σάς καθοδηγήσουμε στα βήματα για την επίλυση των πληροφοριών που έχουν διαρρεύσει.
 how-it-works-page-data-breaches-step-2-text-2 = Και αν οι πληροφορίες σας πέσουν σε λάθος χέρια, θα σας παρέχουμε συστάσεις ασφαλείας σχετικά με το τι μπορείτε να κάνετε για να προστατευτείτε τώρα και στο μέλλον.
