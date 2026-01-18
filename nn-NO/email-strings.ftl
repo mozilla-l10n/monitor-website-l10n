@@ -12,6 +12,8 @@ email-header-button-sign-in = Logg inn
 email-footer-support-heading = Spørsmål om { -brand-mozilla-monitor }?
 email-footer-support-content = Besøk <support-link>brukarstøttesenteret</support-link> vårt for å få hjelp
 email-footer-trigger-transactional = Du får denne e-posten fordi du abonnerer på { -brand-mozilla-monitor }.
+email-footer-reason-subscriber = Du får denne automatiske e-posten fordi du abonnerer på { -brand-mozilla-monitor }. Om du har teke imot han ved ein feil, treng du ikkje å gjere noko. For meir informasjon kan du besøkje <support-link>{ -brand-mozilla } kundestøtte</support-link>.
+email-footer-reason-subscriber-one-time = Du har fått denne eingongs automatiserte e-posten fordi du abonnerer på { -brand-monitor-plus }. Du vil ikkje få fleire e-postar som denne. For meir informasjon kan du besøkje <support-link>{ -brand-mozilla }-brukarstøtte</support-link>.
 # Variables:
 #    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
 email-footer-support-content-plain =
