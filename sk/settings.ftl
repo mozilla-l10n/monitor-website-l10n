@@ -19,6 +19,20 @@ settings-alert-preferences-option-two = Všetky upozornenia na únik údajov pos
 ## Monitored email addresses
 
 settings-email-verification-callout = Vyžaduje sa overenie e‑mailovej adresy
+settings-email-addresses-header = E‑mailové adresy
+settings-email-addresses-description = { -brand-monitor } vás upozorní, ak sa tieto e-maily zobrazia v známych únikoch údajov.
+settings-email-addresses-add-email-button = Pridať e‑mailovú adresu
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-header = Pridať e‑mailovú adresu
+settings-email-addresses-initial-dialog-description = Pošleme vám overovací odkaz, aby ste potvrdili, že ho chcete zahrnúť do budúceho skenovania službou { -brand-monitor }.
+settings-email-addresses-initial-dialog-add-email-input-label = Zadajte e‑mailovú adresu
+settings-email-addresses-initial-dialog-add-email-button-label = Odoslať overovací odkaz
+# Variables:
+#   $email (string) - Email address the confirmation has been sent to.
+settings-email-addresses-confirmation-dialog-header = Overovací odkaz odoslaný na adresu <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-close-button = Zavrieť
 
 ## Delete Monitor account
 

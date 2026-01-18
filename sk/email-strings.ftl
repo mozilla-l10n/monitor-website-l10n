@@ -12,6 +12,7 @@ email-header-button-sign-in = Prihlásiť sa
 email-footer-support-heading = Máte otázky týkajúce sa { -brand-mozilla-monitor(case: "gen") }?
 email-footer-support-content = Ak potrebujete pomoc, navštívte naše <support-link>Centrum podpory</support-link>
 email-footer-trigger-transactional = Tento e‑mail ste dostali ako odberateľ služby { -brand-mozilla-monitor }.
+email-footer-reason-subscriber = Tento automatický e‑mail dostávate ako odberateľ služby { -brand-mozilla-monitor }. Ak ste ho dostali omylom, nie je potrebné podniknúť žiadne kroky. Ďalšie informácie nájdete na stránke <support-link>Podpora { -brand-mozilla(case: "gen") }</support-link>.
 email-footer-source-hibp = Údaje o úniku poskytuje <hibp-link>{ -brand-HIBP }</hibp-link>
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = Súkromie
