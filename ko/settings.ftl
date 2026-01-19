@@ -19,6 +19,17 @@ settings-alert-preferences-option-two = 모든 유출 알림을 기본 이메일
 ## Monitored email addresses
 
 settings-email-verification-callout = 이메일 인증 필요
+settings-email-addresses-header = 이메일 주소
+settings-email-addresses-add-email-button = 이메일 주소 추가
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = { $limit }개 추가 가능
+settings-email-addresses-add-email-resend-button-label = 확인 링크 재전송
+input-error-alt = 오류
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-header = 이메일 주소 추가
 
 ## Delete Monitor account
 
