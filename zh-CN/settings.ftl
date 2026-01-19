@@ -21,6 +21,9 @@ settings-alert-preferences-option-two = 向主邮箱地址发送所有数据外�
 settings-email-verification-callout = 需要电子邮件验证
 settings-email-addresses-header = 邮箱地址
 settings-email-addresses-add-email-button = 添加邮箱地址
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = 最多可添加 { $limit } 个
 settings-email-addresses-add-email-resend-button-label = 重发验证链接
 input-error-alt = 错误
 
