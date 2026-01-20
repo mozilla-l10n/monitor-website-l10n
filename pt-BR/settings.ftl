@@ -20,6 +20,10 @@ settings-alert-preferences-option-two = Enviar todos os alertas de vazamento par
 
 settings-email-verification-callout = Verificação de email é necessária
 
+## Email address dialog
+
+settings-email-addresses-initial-dialog-add-email-button-label = Enviar link de verificação
+
 ## Delete Monitor account
 
 settings-delete-monitor-free-account-title = Excluir conta do { -brand-monitor }
