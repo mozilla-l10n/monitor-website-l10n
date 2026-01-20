@@ -17,4 +17,11 @@ announcement-big-img-alt = Duyuru resmi
 
 # between announcement- and -title or -description is the announcement_id.
 
+# Variables:
+# $emailAddressesCount (string) - number of email addresses allowed for data breach monitoring
+announcement-free-data-breach-monitoring-title =
+    { $emailAddressesCount ->
+        [one] { $emailAddressesCount } e-posta adresi için veri ihlallerini ücretsiz takip edin.
+       *[other] { $emailAddressesCount } e-posta adresi için veri ihlallerini ücretsiz takip edin.
+    }
 announcement-free-data-breach-monitoring-cta-label = Daha fazla bilgi al
