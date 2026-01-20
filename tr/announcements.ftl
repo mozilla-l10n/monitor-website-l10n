@@ -24,4 +24,5 @@ announcement-free-data-breach-monitoring-title =
         [one] { $emailAddressesCount } e-posta adresi için veri ihlallerini ücretsiz takip edin.
        *[other] { $emailAddressesCount } e-posta adresi için veri ihlallerini ücretsiz takip edin.
     }
+announcement-free-data-breach-monitoring-description = Veri ihlali izleme özelliğiyle bilgilerinizi güvende tutabilirsiniz. Bilgileriniz bir veri ihlalinde yer alırsa { -brand-monitor } sizi uyarır.
 announcement-free-data-breach-monitoring-cta-label = Daha fazla bilgi al

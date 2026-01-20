@@ -9,6 +9,7 @@ how-it-works-banner-title = Nasıl çalışır?
 
 ## Intro
 
+how-it-works-page-data-breaches-intro-title = <data_breaches>Veri ihlallerini</data_breaches> çözmenize yardımcı olacak adımları sunuyoruz
 how-it-works-page-data-breaches-intro-cta-button = Ücretsiz taramayı başlat
 
 ## Step 1

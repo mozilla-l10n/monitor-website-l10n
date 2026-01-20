@@ -13,6 +13,11 @@ email-footer-support-heading = { -brand-mozilla-monitor } hakkında sorularını
 email-footer-support-content = Yardım için <support-link>Destek Merkezimizi</support-link> ziyaret edin
 email-footer-trigger-transactional = Bu e-postayı { -brand-mozilla-monitor } abonesi olduğunuz için aldınız.
 # Variables:
+#    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
+email-footer-support-content-plain =
+    Yardım almak için destek merkezimizi ziyaret edebilirsiniz:
+    { $support_link }
+# Variables:
 #   $hibp_link (string) - URL to Have I Been Pwned, e.g. "https://haveibeenpwned.com".
 email-footer-source-hibp-plain = İhlal verileri { -brand-HIBP } tarafından sağlanmaktadır: { $hibp_link }
 email-footer-source-hibp = İhlal verileri <hibp-link>{ -brand-HIBP }</hibp-link> tarafından sağlanmaktadır
