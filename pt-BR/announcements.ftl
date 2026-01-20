@@ -11,6 +11,7 @@ announcement-dialog-back = Voltar
 announcement-dialog-clear-all = Marcar tudo como lido
 announcement-dialog-empty-state-title = Nenhuma atualização
 announcement-dialog-empty-state-description = Verifique regularmente se há atualizações e informações sobre nossos recursos mais recentes.
+announcement-dialog-trigger-alt = Abrir comunicados
 
 # between announcement- and -title or -description is the announcement_id.
 
