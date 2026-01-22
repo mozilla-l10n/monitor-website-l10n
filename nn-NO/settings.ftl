@@ -31,11 +31,13 @@ input-error-alt = Feil
 ## Email address dialog
 
 settings-email-addresses-initial-dialog-header = Legg til ei e-postadresse
+settings-email-addresses-initial-dialog-description = Vi sender deg ei stadfestingslenke slik at du kan stadfeste at du ønskjer å inkludere henne i ei framtidig { -brand-monitor }-skanning.
 settings-email-addresses-initial-dialog-add-email-input-label = Skriv inn e-postadresse
 settings-email-addresses-initial-dialog-add-email-button-label = Send stadfestingslenke
 # Variables:
 #   $email (string) - Email address the confirmation has been sent to.
 settings-email-addresses-confirmation-dialog-header = Stadfestingslenke sendt til <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-description = Opne lenkja for å leggje den til på denne kontoen for framtidige { -brand-monitor }-skanningar.
 settings-email-addresses-confirmation-dialog-close-button = Lat att
 
 ## Delete Monitor account
