@@ -24,7 +24,7 @@ settings-email-addresses-description = { -brand-monitor } vous alertera si ces a
 settings-email-addresses-add-email-button = Ajouter une adresse e-mail
 # Variables:
 #   $limit (number) - Number of emails that can be added for monitoring.
-settings-email-addresses-add-email-indicator-limit = Ajouter jusqu'à { $limit }
+settings-email-addresses-add-email-indicator-limit = Ajoutez jusqu’à { $limit } adresses e-mail
 settings-email-addresses-add-email-resend-button-label = Renvoyer le lien de vérification
 input-error-alt = Erreur
 
