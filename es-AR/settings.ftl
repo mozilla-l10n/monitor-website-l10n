@@ -37,7 +37,7 @@ settings-email-addresses-initial-dialog-add-email-button-label = Enviar enlace d
 # Variables:
 #   $email (string) - Email address the confirmation has been sent to.
 settings-email-addresses-confirmation-dialog-header = Enlace de verificación enviado a <b>{ $email }</b>
-settings-email-addresses-confirmation-dialog-description = Abrir el enlace para agregarlo a esta cuenta para futuros escaneos de { -brand-monitor }.
+settings-email-addresses-confirmation-dialog-description = Abrí el enlace para agregarlo a esta cuenta para futuros escaneos de { -brand-monitor }.
 settings-email-addresses-confirmation-dialog-close-button = Cerrar
 
 ## Delete Monitor account

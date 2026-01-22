@@ -24,7 +24,7 @@ how-it-works-page-data-breaches-step-1-text = Usando solo tu dirección de corre
 
 how-it-works-page-data-breaches-step-2-title = Paso 2
 how-it-works-page-data-breaches-step-2-subtitle = Te ayudamos a resolver filtraciones
-how-it-works-page-data-breaches-step-2-text-1 = Debido a que resolver filtraciones de datos generalmente implica pasos manuales como cambiar tus contraseñas o colocar una alerta de fraude en tu puntaje crediticio, no podemos resolverlos por vos. Pero lo guiaremos a través de los pasos para resolver la información filtrada.
+how-it-works-page-data-breaches-step-2-text-1 = Debido a que resolver filtraciones de datos generalmente implica pasos manuales como cambiar tus contraseñas o colocar una alerta de fraude en tu puntaje crediticio, no podemos resolverlos por vos. Pero te guiaremos a través de los pasos para resolver la información filtrada.
 how-it-works-page-data-breaches-step-2-text-2 = Y si tu información cae en las manos equivocadas, te daremos recomendaciones de seguridad sobre lo que podés hacer para protegerte ahora y en el futuro.
 
 ## Step 3
