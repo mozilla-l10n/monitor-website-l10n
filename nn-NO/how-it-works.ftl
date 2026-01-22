@@ -20,6 +20,8 @@ how-it-works-page-data-breaches-step-1-subtitle = Vi skannar etter datalekkasjar
 ## Step 2
 
 how-it-works-page-data-breaches-step-2-title = Steg 2
+how-it-works-page-data-breaches-step-2-subtitle = Vi hjelper deg med å løyse datalekkasjar
+how-it-works-page-data-breaches-step-2-text-1 = Fordi det å løyse datalekkasjar vanlegvis inneber manuelle trinn, som å endre passorda dine eller leggje inn eit svindelvarsel på kredittvurderinga di, kan vi ikkje løyse dei for deg. Men vi rettleier deg gjennom trinna for å handtere den lekne informasjonen din.
 
 ## Step 3
 
