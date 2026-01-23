@@ -12,6 +12,16 @@ email-header-button-sign-in = Đăng nhập
 email-footer-support-heading = Có câu hỏi về { -brand-mozilla-monitor }?
 email-footer-support-content = Truy cập <support-link>trung tâm trợ giúp</support-link> của chúng tôi để được hỗ trợ
 email-footer-trigger-transactional = Bạn nhận được email này với tư cách là đăng ký của { -brand-mozilla-monitor }.
+email-footer-reason-subscriber = Bạn nhận được email tự động này với tư cách là người đăng ký của { -brand-mozilla-monitor }. Nếu bạn nhận được email này do nhầm lẫn, bạn không cần thực hiện bất kỳ hành động nào. Để biết thêm thông tin, vui lòng truy cập <support-link>{ -brand-mozilla } Support</support-link>.
+email-footer-reason-subscriber-one-time = Bạn nhận được email tự động một lần này vì bạn đã đăng ký { -brand-monitor-plus }. Bạn sẽ không nhận được thêm bất kỳ email nào tương tự như thế này nữa. Để biết thêm thông tin, vui lòng truy cập <support-link>{ -brand-mozilla } Support</support-link>.
+# Variables:
+#    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
+email-footer-support-content-plain =
+    Hãy truy cập Trung tâm hỗ trợ của chúng tôi để được trợ giúp:
+    { $support_link }
+# Variables:
+#   $hibp_link (string) - URL to Have I Been Pwned, e.g. "https://haveibeenpwned.com".
+email-footer-source-hibp-plain = Dữ liệu bị rò rỉ được cung cấp bởi { -brand-HIBP }: { $hibp_link }
 email-footer-source-hibp = Rò rỉ dữ liệu được cung cấp bởi <hibp-link>{ -brand-HIBP }</hibp-link>
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = Riêng tư
