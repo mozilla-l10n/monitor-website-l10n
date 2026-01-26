@@ -69,6 +69,7 @@
         [orodnik] Monitorjem Plus
        *[imenovalnik] Monitor Plus
     }
+-brand-solo-ai = Solo AI
 
 ##
 
