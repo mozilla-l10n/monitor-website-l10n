@@ -10,6 +10,7 @@ how-it-works-banner-title = 使用方法
 ## Intro
 
 how-it-works-page-data-breaches-intro-title = 我们会提供步骤，帮助您处理<data_breaches>外泄事件</data_breaches>
+how-it-works-page-data-breaches-intro-text-1 = 数据外泄是一种安全事故，指您的个人信息（包括密码、联系信息、财务数据等）被意外泄露或被黑客非法窃取。任何存储您信息的在线账户或位置都可能成为攻击目标。
 how-it-works-page-data-breaches-intro-text-2 = 处理数据外泄事件有助于防范黑客访问您的账户、造成财产损失，或窃取您的身份信息。
 how-it-works-page-data-breaches-intro-cta-button = 免费扫描
 
