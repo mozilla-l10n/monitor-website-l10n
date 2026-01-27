@@ -20,6 +20,7 @@ settings-alert-preferences-option-two = Tüm ihlal uyarılarını birinci e-post
 
 settings-email-verification-callout = E-posta doğrulaması gerekiyor
 settings-email-addresses-header = E-posta adresleri
+settings-email-addresses-description = Bu e-postalar bilinen veri ihlallerinde yer alırsa { -brand-monitor } sizi uyaracaktır.
 settings-email-addresses-add-email-button = E-posta adresi ekle
 settings-email-addresses-add-email-resend-button-label = Doğrulama bağlantısını yeniden gönder
 input-error-alt = Hata
@@ -27,11 +28,13 @@ input-error-alt = Hata
 ## Email address dialog
 
 settings-email-addresses-initial-dialog-header = E-posta adresi ekle
+settings-email-addresses-initial-dialog-description = Bu adresi gelecekteki { -brand-monitor } taramalarınıza eklemeyi onaylamanız için bir doğrulama bağlantısı göndereceğiz.
 settings-email-addresses-initial-dialog-add-email-input-label = E-posta adresinizi yazın
 settings-email-addresses-initial-dialog-add-email-button-label = Doğrulama bağlantısını gönder
 # Variables:
 #   $email (string) - Email address the confirmation has been sent to.
 settings-email-addresses-confirmation-dialog-header = Doğrulama bağlantısı <b>{ $email }</b> adresine gönderildi
+settings-email-addresses-confirmation-dialog-description = Gelecekteki { -brand-monitor } taramalarında kullanmak üzere adresi bu hesaba eklemek isterseniz bağlantıya tıklayın.
 settings-email-addresses-confirmation-dialog-close-button = Kapat
 
 ## Delete Monitor account

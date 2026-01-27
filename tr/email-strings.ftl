@@ -12,6 +12,7 @@ email-header-button-sign-in = Giriş yap
 email-footer-support-heading = { -brand-mozilla-monitor } hakkında sorularınız mı var?
 email-footer-support-content = Yardım için <support-link>Destek Merkezimizi</support-link> ziyaret edin
 email-footer-trigger-transactional = Bu e-postayı { -brand-mozilla-monitor } abonesi olduğunuz için aldınız.
+email-footer-reason-subscriber = Bu otomatik e-postayı { -brand-mozilla-monitor } abonesi olduğunuz için aldınız. Hatalı olarak aldıysanız herhangi bir işlem yapmanız gerekmez. Daha fazla bilgi için <support-link>{ -brand-mozilla } Destek</support-link> sitesini ziyaret edebilirsiniz.
 # Variables:
 #    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
 email-footer-support-content-plain =

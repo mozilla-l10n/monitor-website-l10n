@@ -10,6 +10,7 @@ announcement-dialog-history-tab = Tümü
 announcement-dialog-back = Geri
 announcement-dialog-clear-all = Tümünü okundu olarak işaretle
 announcement-dialog-empty-state-title = Güncelleme yok
+announcement-dialog-empty-state-description = Duyurular ve en yeni özelliklerle ilgili bilgiler için burayı takip etmeyi unutmayın.
 announcement-dialog-trigger-alt = Duyuruları aç
 announcement-dialog-alt = Duyuru listesi
 announcement-small-img-alt = Duyuru simgesi
