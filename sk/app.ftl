@@ -87,6 +87,7 @@
        *[nom] Mozilla Monitor
     }
 -brand-monitor-plus = Monitor Plus
+-brand-solo-ai = Solo AI
 
 ##
 
