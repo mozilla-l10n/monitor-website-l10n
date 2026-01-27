@@ -20,6 +20,7 @@ settings-alert-preferences-option-two = 向主邮箱地址发送所有数据外�
 
 settings-email-verification-callout = 需要电子邮件验证
 settings-email-addresses-header = 邮箱地址
+settings-email-addresses-description = 若这些邮箱地址出现在已知的外泄事件中，{ -brand-monitor } 将向您发出警报。
 settings-email-addresses-add-email-button = 添加邮箱地址
 # Variables:
 #   $limit (number) - Number of emails that can be added for monitoring.
@@ -30,6 +31,7 @@ input-error-alt = 错误
 ## Email address dialog
 
 settings-email-addresses-initial-dialog-header = 添加邮箱地址
+settings-email-addresses-initial-dialog-description = 我们将向您发送验证链接，以确认您希望 { -brand-monitor } 以后扫描此邮箱地址。
 settings-email-addresses-initial-dialog-add-email-input-label = 请输入邮箱地址
 settings-email-addresses-initial-dialog-add-email-button-label = 发送验证链接
 # Variables:
