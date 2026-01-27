@@ -37,6 +37,7 @@ settings-email-addresses-initial-dialog-add-email-button-label = 发送验证链
 # Variables:
 #   $email (string) - Email address the confirmation has been sent to.
 settings-email-addresses-confirmation-dialog-header = 验证链接已发送到 <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-description = 打开链接即可将该邮箱地址添加到此账户，将来让 { -brand-monitor } 对其进行扫描。
 settings-email-addresses-confirmation-dialog-close-button = 关闭
 
 ## Delete Monitor account
