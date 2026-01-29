@@ -40,6 +40,11 @@ compromised-data = Troffen gegevens:
 # Link title
 more-about-this-breach = Mear oer dit datalek
 sensitive-sites = Hoe behannelet { -product-name } gefoelige websites?
+sensitive-sites-copy =
+    { -product-name } lit allinnich accounts sjen dy’t troffen binne troch dit
+    soarte fan lekken nei ferifikaasje fan in e-mailadres. Dit betsjut dat jo de
+    iennige persoan binne dy’t sjen kin oft jo ynformaasje yn dit lek foar komt
+    (útsein as in oar tagong ta jo e-mailaccount hat).
 what-data = Hokker gegevens binne kompromittearre:
 delayed-reporting-headline = Wêrom duorre it sa lang eardat dit datalek meld waard?
 delayed-reporting-copy =
@@ -49,6 +54,8 @@ delayed-reporting-copy =
 
 ##
 
+what-is-a-website-breach = Wat is in websitedatalek?
+website-breach-blurb = In datalek fan in website bart, wannear cyberkriminelen persoanlike gegevens út online-accounts stelle, kopiearje of bleatlizze. Dat bart it meast, wannear hackers in swak plak yn de befeiliging fan de website fine. It kin lykwols ek barre as accountynformaasje by fersin lekt wurdt.
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = Oersjoch

@@ -19,6 +19,7 @@ settings-alert-preferences-option-two = Alle warskôgingen oer datalekken nei it
 ## Monitored email addresses
 
 settings-email-verification-callout = E-mailferifikaasje fereaske
+settings-remove-email-button-label = Fuortsmite
 settings-email-addresses-header = E-mailadressen
 settings-email-addresses-description = { -brand-monitor } warskôget jo as dizze e-mailadressen ferskine yn bekende datalekken.
 settings-email-addresses-add-email-button = E-mailadres tafoegje
