@@ -39,6 +39,12 @@ user-verify-token-error = Stadfestings-token er påkravd.
 compromised-data = Kompromiterte data:
 # Link title
 more-about-this-breach = Meir om denne datalekkasjen
+sensitive-sites = Korleis behandlar { -product-name } sensitive nettstadar?
+sensitive-sites-copy =
+    { -product-name } viser berre kontoar tilknytte desse
+    typane lekkasjar etter at ei e-postadresse er stadfesta. Dette betyr at du er
+    den einaste personen som kan sjå om informasjonen din var i denne datalekkasjen (med mindre nokon
+    annan har tilgang til e-postkontoen din).
 what-data = Kva for nokre data er kompromitterte:
 delayed-reporting-headline = Kvifor tok det så lang tid å rapportere denne datalekkasjen?
 delayed-reporting-copy =
@@ -48,6 +54,8 @@ delayed-reporting-copy =
 
 ##
 
+what-is-a-website-breach = Kva er ein nettstadlekkasje?
+website-breach-blurb = Ein nettstad-datalekkasje kan skyldast cyber-kriminelle som stel, kopierer eller eksponerer personleg informasjon frå kontoar på nettet. Det er vanlegvis eit resultat av at hackarar finn eit svakt punkt i sikkerheita til nettstaden. Datalekkasje kan også skje når kontoinformasjon blir leken ved eit uhell.
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = Oversyn
