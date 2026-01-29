@@ -39,12 +39,20 @@ user-verify-token-error = Un token de verification es necessari.
 compromised-data = Datos compromittite:
 # Link title
 more-about-this-breach = Plus sur iste violation
+sensitive-sites = Como { -product-name } tracta le sitos sensibile?
+sensitive-sites-copy =
+    { -product-name } revela solmente le contos associate con iste typos de
+    violationes post que un adresse de e-mail ha essite verificate. Isto significa que tu
+    es le sol persona qui pote vider si tu informationes es includite in iste violation 
+    (salvo que alcun altere ha accesso a tu conto de e-mail).
 what-data = Que datos ha essite compromittite:
 delayed-reporting-headline = Proque ha prendite tante tempore signalar iste violation?
 delayed-reporting-copy = A vices, il pote prender menses o annos ante que le credentiales exponite in un violation de datos appare sur le web obscur. Le violationes es addite a nostre base de datos promptemente post lor discoperta e verification.
 
 ##
 
+what-is-a-website-breach = Qual es un violation de sito web?
+website-breach-blurb = Un violation de datos de sito web eveni quando le cybercriminales roba, copia o expone informationes personal de contos in linea. Isto es generalmente un resultato de hackers que trova un puncto debile in le securitate del sito web. Violationes pote alsi evenir quando informationes del conto es divulgate per accidente.
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = Vision general
