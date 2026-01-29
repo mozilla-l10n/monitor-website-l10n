@@ -39,6 +39,7 @@ user-verify-token-error = Ferifikaasjetoken is fereaske.
 compromised-data = Troffen gegevens:
 # Link title
 more-about-this-breach = Mear oer dit datalek
+sensitive-sites = Hoe behannelet { -product-name } gefoelige websites?
 what-data = Hokker gegevens binne kompromittearre:
 delayed-reporting-headline = Wêrom duorre it sa lang eardat dit datalek meld waard?
 delayed-reporting-copy =
