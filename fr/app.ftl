@@ -40,7 +40,7 @@ compromised-data = Données compromises :
 # Link title
 more-about-this-breach = Plus d’informations sur cette fuite
 sensitive-sites = Comment { -product-name } traite-t-il les sites sensibles ?
-sensitive-sites-copy = { -product-name } signale les comptes associés à ce type de fuite seulement si une adresse e-mail a été vérifiée. Cela signifie que vous êtes la seule personne qui puisse savoir si vos données étaient impactées par la fuite (sauf si quelqu’un d’autre a accès à votre compte e-mail).
+sensitive-sites-copy = { -product-name } signale les comptes associés à ce type de fuite seulement si une adresse e-mail a été vérifiée. Cela signifie que vous êtes la seule personne qui puisse savoir si la fuite concerne vos données (sauf si quelqu’un d’autre a accès à votre compte e-mail).
 what-data = Quelles données ont été compromises :
 delayed-reporting-headline = Pourquoi a-t-il fallu autant de temps pour signaler cette fuite de données ?
 delayed-reporting-copy = Cela peut parfois prendre des mois ou des années pour que des identifiants compromis dans une fuite de données apparaissent sur le darkweb. Les fuites sont ajoutées à notre base de données dès qu’elles ont été découvertes et vérifiées.
