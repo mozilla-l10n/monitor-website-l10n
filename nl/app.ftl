@@ -40,7 +40,11 @@ compromised-data = Getroffen gegevens:
 # Link title
 more-about-this-breach = Meer over dit datalek
 sensitive-sites = Hoe behandelt { -product-name } gevoelige websites?
-sensitive-sites-copy = { -product-name } onthult accounts die bij dit soort datalekken zijn betrokken alleen nadat een e-mailadres is geverifieerd. Dit betekent dat u de enige bent die kan zien of uw gegevens in dit datalek voorkomen (tenzij iemand anders toegang heeft tot uw e-mailaccount).
+sensitive-sites-copy =
+    { -product-name } onthult alleen accounts die zijn getroffen door dit
+    soort lekken na verificatie van een e-mailadres. Dit betekent dat u de
+    enige persoon bent die kan zien of uw informatie in dit lek voor komt
+    (tenzij iemand anders toegang tot uw e-mailaccount heeft).
 what-data = Welke gegevens zijn gecompromitteerd:
 delayed-reporting-headline = Waarom duurde het zo lang voordat dit datalek werd gemeld?
 delayed-reporting-copy =
