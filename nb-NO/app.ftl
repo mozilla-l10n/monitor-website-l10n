@@ -39,6 +39,7 @@ user-verify-token-error = Bekreftelsessymbol er påkrevd.
 compromised-data = Kompromiterte data:
 # Link title
 more-about-this-breach = Mer om denne datalekkasjen
+sensitive-sites = Hvordan behandler { -product-name } sensitive nettsteder?
 what-data = Hvilke data ble kompromittert:
 delayed-reporting-headline = Hvorfor tok det så lang tid å rapportere denne datalekkasjen?
 delayed-reporting-copy =
