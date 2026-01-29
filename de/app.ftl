@@ -39,8 +39,13 @@ user-verify-token-error = Verifikations-Token wird benötigt.
 compromised-data = Kompromittierte Daten:
 # Link title
 more-about-this-breach = Mehr zu diesem Datenleck
-sensitive-sites = Wie geht { -product-name } mit sensiblen Websites um?
-sensitive-sites-copy = { -product-name } zeigt nur Konten an, die von Datenlecks dieser Art betroffen waren, nachdem eine E-Mail-Adresse verifiziert wurde. Dies bedeutet, dass Sie die einzige Person sind, die sehen können, ob Ihre Daten von diesem Datenleck betroffen waren (es sei denn, jemand anderes hat Zugriff auf Ihr E-Mail-Konto).
+sensitive-sites = Wie behandelt { -product-name } vertrauliche Websites?
+sensitive-sites-copy =
+    { -product-name } zeigt nur Konten an, die von Datenlecks
+    dieser Art betroffen waren, nachdem eine E-Mail-Adresse verifiziert wurde. Dies
+    bedeutet, dass Sie die einzige Person sind, die sehen können, ob Ihre Daten von
+    diesem Datenleck betroffen waren (es sei denn, jemand anderes hat Zugriff auf
+    Ihr E-Mail-Konto).
 what-data = Welche Daten wurden kompromittiert:
 delayed-reporting-headline = Warum hat es so lange gedauert, bis dieses Leck gemeldet wurde?
 delayed-reporting-copy = Es kann manchmal Monate oder Jahre dauern, bis offengelegte Daten aus einem Datenleck im Dark Web auftauchen. Lecks werden, sobald sie entdeckt und verifiziert wurden, zu unserer Datenbank hinzugefügt.
