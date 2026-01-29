@@ -40,7 +40,7 @@ compromised-data = 洩漏資料內容：
 # Link title
 more-about-this-breach = 關於此資料外洩事件的更多資訊
 sensitive-sites = { -product-name } 怎麼處理這些敏感性網站？
-sensitive-sites-copy = 僅在電子郵件地址驗證完成後{ -product-name } 才會顯示與這些類型的資料外洩事件相關聯的帳號。這代表只有您能看到您的資料與這場資料外洩事件有關除非有人能存取您的信箱帳號。
+sensitive-sites-copy = { -product-name } 僅會在電子郵件信箱驗證後，才顯示與這些資料外洩事件相關聯的帳號。也就是說只有您能看到您的帳號是否與此事件有關（除非別人也能使用您的信箱帳號）。
 what-data = 洩漏了哪些資料：
 delayed-reporting-headline = 為什麼要這麼久才公開這些事件？
 delayed-reporting-copy = 有的時候，資料外洩後可能要花幾個月甚至幾年，您的登入資訊才會出現在暗網上。當我們發現外洩的資料並確認無誤後，就會加入資料庫。
