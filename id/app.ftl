@@ -39,6 +39,8 @@ user-verify-token-error = Token verifikasi diperlukan.
 compromised-data = Data yang telah diketahui orang lain:
 # Link title
 more-about-this-breach = Lebih lanjut tentang pembobolan ini
+sensitive-sites = Bagaimana { -product-name } memperlakukan situs sensitif?
+sensitive-sites-copy = { -product-name } hanya mengungkapkan akun yang terkait dengan jenis pembobolan ini setelah alamat surel diverifikasi. Ini berarti Anda satu-satunya orang yang dapat melihat apakah informasi Anda ada dalam pembobolan ini (kecuali orang lain memiliki akses ke akun surel Anda).
 what-data = Data apa saja yang terkompromi:
 delayed-reporting-headline = Mengapa butuh waktu lama untuk melaporkan pembobolan ini?
 delayed-reporting-copy =
@@ -48,6 +50,8 @@ delayed-reporting-copy =
 
 ##
 
+what-is-a-website-breach = Apa itu pembobolan situs web?
+website-breach-blurb = Kebocoran data situs web terjadi ketika penjahat siber mencuri, menyalin, atau mengungkap informasi pribadi dari akun daring. Biasanya ini merupakan hasil peretas yang menemukan titik lemah dalam keamanan situs web. Pembobolan juga dapat terjadi ketika informasi akun bocor secara tidak sengaja.
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = Ringkasan

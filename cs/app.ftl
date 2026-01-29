@@ -127,12 +127,16 @@ user-verify-token-error = Je vyžadován ověřovací token.
 compromised-data = Kompromitovaná data:
 # Link title
 more-about-this-breach = Další informace o tomto úniku
+sensitive-sites = Jak { -product-name } zachází s úniky citlivých dat?
+sensitive-sites-copy = { -product-name } zobrazí účty spojené s těmito typy úniků pouze pokud byla e-mailová adresa ověřena. To znamená, že jste jedinou osobou, která může vidět, zda byly vaše údaje součástí tohoto úniku (pokud k vašemu e-mailovému účtu nemá přístup někdo jiný).
 what-data = Jaké údaje byly vyzrazeny:
 delayed-reporting-headline = Proč nahlášení tohoto úniku trvalo tak dlouho?
 delayed-reporting-copy = Občas to může trvat měsíce či roky, než se přihlašovací údaje vyzrazené v úniku dat objeví na temném Webu. Úniky jsou přidány do naší databáze, jakmile byly odhaleny a potvrzeny.
 
 ##
 
+what-is-a-website-breach = Co je to únik dat z webových stránek?
+website-breach-blurb = Únik dat z webových stránek se odehraje, když kyberzločinci odcizí, zkopírují nebo zveřejní osobní údaje z internetových účtů. Zpravidla je to výsledkem činnosti hackerů, kteří nalezli slabé místo v zabezpečení webu. K úniku osobních údajů z účtu však také může dojít nedopatřením.
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = Přehled

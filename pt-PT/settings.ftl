@@ -19,6 +19,7 @@ settings-alert-preferences-option-two = Enviar todos alertas de violações de d
 ## Monitored email addresses
 
 settings-email-verification-callout = Verificação de e-mail necessária
+settings-remove-email-button-label = Remover
 settings-email-addresses-header = Endereços de e-mail
 settings-email-addresses-description = { -brand-monitor } irá alertá-lo se estes e-mails aparecerem em violações de dados conhecidas.
 settings-email-addresses-add-email-button = Adicionar endereço de e-mail

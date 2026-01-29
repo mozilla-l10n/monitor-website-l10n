@@ -39,6 +39,8 @@ user-verify-token-error = É necessário um código de verificação.
 compromised-data = Dados comprometidos:
 # Link title
 more-about-this-breach = Mais acerca desta brecha
+sensitive-sites = Como é que o { -product-name } trata sites sensíveis?
+sensitive-sites-copy = { -product-name } só revela as contas associadas com a estes tipos de violações de dados depois de um endereço de e-mail ter sido confirmado. Isto significa que é a única pessoa que pode ver se a sua informação estava numa violação de dados (a menos que alguém tenha acesso à sua conta de e-mail).
 what-data = Que dados foram comprometidos:
 delayed-reporting-headline = Porque demorou tanto tempo até esta violação de dados ser reportada?
 delayed-reporting-copy =
@@ -48,6 +50,8 @@ delayed-reporting-copy =
 
 ##
 
+what-is-a-website-breach = O que é uma falha de segurança do site?
+website-breach-blurb = Uma falha de segurança de dados de um site ocorre quando os cibercriminosos roubam, copiam ou expõem a informação pessoal de contas na Internet. Geralmente, é a consequência dos piratas informáticos encontrarem um ponto fraco na segurança do site. As falhas de segurança também podem acontecer quando a informação sobre contas é divulgada de forma acidental.
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = Sinopse

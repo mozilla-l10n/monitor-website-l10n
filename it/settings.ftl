@@ -19,6 +19,7 @@ settings-alert-preferences-option-two = Invia tutti gli avvisi di violazione all
 ## Monitored email addresses
 
 settings-email-verification-callout = Richiesta verifica email
+settings-remove-email-button-label = Rimuovi
 settings-email-addresses-header = Indirizzi email
 settings-email-addresses-description = { -brand-monitor } ti avviserà se queste email sono coinvolte in violazioni conosciute.
 settings-email-addresses-add-email-button = Aggiungi indirizzo email

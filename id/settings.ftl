@@ -19,6 +19,7 @@ settings-alert-preferences-option-two = Kirim semua peringatan pembobolan ke ala
 ## Monitored email addresses
 
 settings-email-verification-callout = Verifikasi surel diperlukan
+settings-remove-email-button-label = Hapus
 settings-email-addresses-header = Alamat surel
 settings-email-addresses-description = { -brand-monitor } akan mengingatkan Anda jika surel ini muncul dalam pembobolan yang diketahui.
 settings-email-addresses-add-email-button = Tambahkan alamat surel

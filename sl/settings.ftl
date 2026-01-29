@@ -19,6 +19,7 @@ settings-alert-preferences-option-two = Pošlji vsa opozorila o krajah podatkov 
 ## Monitored email addresses
 
 settings-email-verification-callout = Zahtevana je potrditev e-poštnega naslova
+settings-remove-email-button-label = Odstrani
 settings-email-addresses-header = E-poštni naslovi
 settings-email-addresses-description = { -brand-monitor } vas bo opozoril, če se bodo ta e-poštna sporočila pojavila v znanih krajah.
 settings-email-addresses-add-email-button = Dodaj e-poštni naslov

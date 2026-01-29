@@ -39,12 +39,16 @@ user-verify-token-error = È richiesto un token di verifica.
 compromised-data = Dati compromessi:
 # Link title
 more-about-this-breach = Ulteriori informazioni su questa violazione
+sensitive-sites = In che modo vengono gestiti i dati sensibili in { -product-name }?
+sensitive-sites-copy = { -product-name } rivela gli account associati a questo tipo di violazioni solo dopo che un indirizzo email è stato verificato. Ciò significa che sei l’unica persona in grado di vedere se le tue informazioni sono state coinvolte in questa violazione (a meno che qualcun altro non abbia accesso al tuo account di posta elettronica).
 what-data = Quali dati sono stati compromessi:
 delayed-reporting-headline = Perché ci è voluto così tanto tempo per segnalare questa violazione?
 delayed-reporting-copy = A volte possono volerci mesi o anni prima che le credenziali compromesse in una violazione di dati compaiano nel “dark web”. Le violazioni sono aggiunte al nostro database appena vengono scoperte e verificate.
 
 ##
 
+what-is-a-website-breach = Che cos’è una violazione di dati?
+website-breach-blurb = La violazione di dati di un sito web si verifica quando criminali informatici rubano, copiano o espongono informazioni personali dagli account online. Di solito è il risultato del lavoro di hacker che riescono a individuare un punto debole nella sicurezza del sito web. Una violazione può verificarsi anche quando le informazioni sull’account vengono lasciate trapelare per errore.
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = Panoramica

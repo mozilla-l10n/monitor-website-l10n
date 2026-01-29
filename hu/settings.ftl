@@ -19,6 +19,7 @@ settings-alert-preferences-option-two = Az összes adatvédelmi incidens figyelm
 ## Monitored email addresses
 
 settings-email-verification-callout = E-mail ellenőrzés szükséges
+settings-remove-email-button-label = Eltávolítás
 settings-email-addresses-header = E-mail-címek
 settings-email-addresses-description = A { -brand-monitor } értesíteni fogja, ha ezek az e-mail-címek egy ismert adatvédelmi incidensben jelennek meg.
 settings-email-addresses-add-email-button = E-mail-cím hozzáadása

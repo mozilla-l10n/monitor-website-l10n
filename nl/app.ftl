@@ -39,6 +39,8 @@ user-verify-token-error = Verificatietoken is vereist.
 compromised-data = Getroffen gegevens:
 # Link title
 more-about-this-breach = Meer over dit datalek
+sensitive-sites = Hoe behandelt { -product-name } gevoelige websites?
+sensitive-sites-copy = { -product-name } onthult accounts die bij dit soort datalekken zijn betrokken alleen nadat een e-mailadres is geverifieerd. Dit betekent dat u de enige bent die kan zien of uw gegevens in dit datalek voorkomen (tenzij iemand anders toegang heeft tot uw e-mailaccount).
 what-data = Welke gegevens zijn gecompromitteerd:
 delayed-reporting-headline = Waarom duurde het zo lang voordat dit datalek werd gemeld?
 delayed-reporting-copy =
@@ -48,6 +50,8 @@ delayed-reporting-copy =
 
 ##
 
+what-is-a-website-breach = Wat is een websitedatalek?
+website-breach-blurb = Een datalek van een website treedt op, wanneer cybercriminelen persoonlijke gegevens uit online-accounts stelen, kopiëren of blootleggen. Dat gebeurt het meest, wanneer hackers een zwakke plek in de beveiliging van de website vinden. Het kan echter ook optreden als accountinformatie per ongeluk wordt gelekt.
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = Overzicht

@@ -85,6 +85,8 @@ user-verify-token-error = Zahtevan je potrditveni žeton.
 compromised-data = Ogroženi podatki:
 # Link title
 more-about-this-breach = Več o tej kraji podatkov
+sensitive-sites = Kako { -product-name } obravnava občutljive strani?
+sensitive-sites-copy = { -product-name } razkrije račune, povezane s tovrstnimi krajami, samo potem, ko je bil e-poštni naslov preverjen. To pomeni, da ste edina oseba, ki lahko vidi, ali so bili vaši podatki v kraji (razen če ima nekdo drug dostop do vašega e-poštnega računa).
 what-data = Kateri podatki so bili ogroženi:
 delayed-reporting-headline = Zakaj je trajalo toliko časa, da je bila kraja podatkov prijavljena?
 delayed-reporting-copy =
@@ -94,6 +96,8 @@ delayed-reporting-copy =
 
 ##
 
+what-is-a-website-breach = Kaj je kraja podatkov spletne strani?
+website-breach-blurb = Do kraje podatkov spletne strani pride, ko spletni napadalci ukradejo, kopirajo ali razkrijejo osebne podatke spletnih računov. Običajno je rezultat tega, da hekerji odkrijejo šibko točko varnosti spletne strani. Kraje se lahko zgodijo tudi, če se podatki o računu na spletu pojavijo po naključju.
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = Pregled

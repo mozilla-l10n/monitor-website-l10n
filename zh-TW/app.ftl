@@ -39,12 +39,16 @@ user-verify-token-error = 缺少驗證 token。
 compromised-data = 洩漏資料內容：
 # Link title
 more-about-this-breach = 關於此資料外洩事件的更多資訊
+sensitive-sites = { -product-name } 怎麼處理這些敏感性網站？
+sensitive-sites-copy = 僅在電子郵件地址驗證完成後{ -product-name } 才會顯示與這些類型的資料外洩事件相關聯的帳號。這代表只有您能看到您的資料與這場資料外洩事件有關除非有人能存取您的信箱帳號。
 what-data = 洩漏了哪些資料：
 delayed-reporting-headline = 為什麼要這麼久才公開這些事件？
 delayed-reporting-copy = 有的時候，資料外洩後可能要花幾個月甚至幾年，您的登入資訊才會出現在暗網上。當我們發現外洩的資料並確認無誤後，就會加入資料庫。
 
 ##
 
+what-is-a-website-breach = 網站資料外洩事件是什麼？
+website-breach-blurb = 當網路罪犯竊取、複製或公開網路帳號中的個人資料時，就是網站資料外洩事件。會發生這樣的事情通常是駭客想要找出網站在安全性上的弱點，也可能是帳號資訊被不小心洩漏出去。
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = 概觀

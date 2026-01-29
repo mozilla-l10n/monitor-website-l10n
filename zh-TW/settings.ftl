@@ -19,6 +19,7 @@ settings-alert-preferences-option-two = 傳送資料外洩警報到主要電子�
 ## Monitored email addresses
 
 settings-email-verification-callout = 需要驗證信箱
+settings-remove-email-button-label = 移除
 settings-email-addresses-header = 電子郵件地址
 settings-email-addresses-description = { -brand-monitor } 會在得知資料外洩事件包含這些信箱時通知您。
 settings-email-addresses-add-email-button = 新增電子郵件地址

@@ -19,6 +19,7 @@ settings-alert-preferences-option-two = Všechna upozornění posílat na primá
 ## Monitored email addresses
 
 settings-email-verification-callout = Vyžadováno ověření e-mailové adresy
+settings-remove-email-button-label = Odebrat
 settings-email-addresses-header = E-mailové adresy
 settings-email-addresses-description = { -brand-monitor } vás upozorní, pokud se tato adresa objeví ve známém úniku dat.
 settings-email-addresses-add-email-button = Přidat e-mailovou adresu

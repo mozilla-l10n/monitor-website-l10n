@@ -19,6 +19,7 @@ settings-alert-preferences-option-two = Anfon yr holl rybuddion tor-data at fy m
 ## Monitored email addresses
 
 settings-email-verification-callout = Mae angen gwirio'r e-bost
+settings-remove-email-button-label = Tynnu
 settings-email-addresses-header = Cyfeiriadau e-bost
 settings-email-addresses-description = Bydd { -brand-monitor } yn eich rhybuddio os bydd yr e-byst hyn yn ymddangos mewn dor-data hysbys.
 settings-email-addresses-add-email-button = Ychwanegu cyfeiriad e-bost

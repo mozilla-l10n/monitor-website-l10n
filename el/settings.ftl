@@ -19,6 +19,7 @@ settings-alert-preferences-option-two = Αποστολή όλων των ειδ�
 ## Monitored email addresses
 
 settings-email-verification-callout = Απαιτείται επαλήθευση email
+settings-remove-email-button-label = Αφαίρεση
 settings-email-addresses-header = Διευθύνσεις email
 settings-email-addresses-description = Το { -brand-monitor } θα σας ειδοποιήσει αν αυτά τα email εμφανιστούν σε γνωστές παραβιάσεις.
 settings-email-addresses-add-email-button = Προσθήκη διεύθυνσης email

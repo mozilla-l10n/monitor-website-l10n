@@ -39,6 +39,8 @@ user-verify-token-error = Az ellenőrzési token lejárt.
 compromised-data = Veszélyeztetett adatok:
 # Link title
 more-about-this-breach = További tudnivalók erről az adatvédelmi incidensről
+sensitive-sites = Hogyan kezeli a { -product-name } az érzékeny webhelyeket?
+sensitive-sites-copy = A(z) { -product-name } csak az e-mail-cím megerősítése után fedi fel az ilyen típusú adatvédelmi incidensekhez kapcsolódó fiókokat. Ez azt jelenti, hogy az egyetlen személy, aki láthatja, hogy az Ön adatai szerepeltek-e ebben az adatvédelmi incidensben (hacsak valaki más nem fér hozzá az e-mail-fiókjához).
 what-data = Milyen adatok kerültek veszélybe:
 delayed-reporting-headline = Miért tartott ilyen sokáig az adatvédelmi incidens jelentése?
 delayed-reporting-copy =
@@ -48,6 +50,8 @@ delayed-reporting-copy =
 
 ##
 
+what-is-a-website-breach = Mi az a weboldalon történt adatvédelmi incidens?
+website-breach-blurb = Weboldalon történő adatvédelmi incidens akkor történik, ha számítógépes bűnözők ellopják, lemásolják vagy nyilvánosságra hozzák az online fiókok személyes adatait. Ez általában annak a következménye, hogy a hackerek gyenge pontot találnak a weboldal biztonságában. Adatvédelmi incidensek akkor is előfordulhatnak, ha a fiókadatok véletlenül szivárognak ki.
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = Áttekintés

@@ -19,6 +19,7 @@ settings-alert-preferences-option-two = Skicka alla intrångsvarningar till den 
 ## Monitored email addresses
 
 settings-email-verification-callout = E-postverifiering krävs
+settings-remove-email-button-label = Ta bort
 settings-email-addresses-header = E-postadresser
 settings-email-addresses-description = { -brand-monitor } varnar dig om dessa e-postadresser dyker upp i kända intrång.
 settings-email-addresses-add-email-button = Lägg till e-postadress

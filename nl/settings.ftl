@@ -19,6 +19,7 @@ settings-alert-preferences-option-two = Alle waarschuwingen over datalekken naar
 ## Monitored email addresses
 
 settings-email-verification-callout = E-mailverificatie vereist
+settings-remove-email-button-label = Verwijderen
 settings-email-addresses-header = E-mailadressen
 settings-email-addresses-description = { -brand-monitor } waarschuwt u als deze e-mailadressen in bekende datalekken voorkomen.
 settings-email-addresses-add-email-button = E-mailadres toevoegen

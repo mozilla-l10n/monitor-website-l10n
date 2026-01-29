@@ -19,6 +19,7 @@ settings-alert-preferences-option-two = Alle Warnungen zu Datenlecks an die prim
 ## Monitored email addresses
 
 settings-email-verification-callout = E-Mail-Bestätigung erforderlich
+settings-remove-email-button-label = Entfernen
 settings-email-addresses-header = E-Mail-Adressen
 settings-email-addresses-description = { -brand-monitor } wird Sie warnen, wenn diese E-Mail-Adressen in bekannten Datenlecks auftauchen.
 settings-email-addresses-add-email-button = E-Mail-Adresse hinzufügen

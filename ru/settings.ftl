@@ -19,6 +19,7 @@ settings-alert-preferences-option-two = Отправлять все оповещ
 ## Monitored email addresses
 
 settings-email-verification-callout = Требуется верификация электронной почты
+settings-remove-email-button-label = Удалить
 settings-email-addresses-header = Адреса электронной почты
 settings-email-addresses-description = { -brand-monitor } предупредит вас, если эти письма будут обнаружены в известных утечках.
 settings-email-addresses-add-email-button = Добавить адрес электронной почты
