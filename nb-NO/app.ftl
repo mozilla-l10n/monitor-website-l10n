@@ -40,6 +40,11 @@ compromised-data = Kompromiterte data:
 # Link title
 more-about-this-breach = Mer om denne datalekkasjen
 sensitive-sites = Hvordan behandler { -product-name } sensitive nettsteder?
+sensitive-sites-copy =
+    { -product-name } viser bare kontoer tilknyttet disse
+    typer lekkasjer etter at en e-postadresse er bekreftet. Dette betyr at du er
+    den eneste personen som kan se om informasjonen din var i denne datalekkasjen (med mindre noen
+    andre har tilgang til din e-postkonto).
 what-data = Hvilke data ble kompromittert:
 delayed-reporting-headline = Hvorfor tok det så lang tid å rapportere denne datalekkasjen?
 delayed-reporting-copy =
@@ -49,6 +54,8 @@ delayed-reporting-copy =
 
 ##
 
+what-is-a-website-breach = Hva er en nettstedsdatalekkasje?
+website-breach-blurb = En nettsteds-datalekkasje kan skyldes cyber-kriminelle som stjeler, kopierer eller eksponerer personlig informasjon fra kontoer på nettet. Det er vanligvis et resultat av at hackere finner et svakt punkt i nettstedets sikkerhetsforanstaltninger. Datalekkasje kan også skje når kontoinformasjon blir lekket ved et uhell.
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = Oversikt

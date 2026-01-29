@@ -19,6 +19,7 @@ settings-alert-preferences-option-two = Send alle varsler om datalekkasjer til d
 ## Monitored email addresses
 
 settings-email-verification-callout = E-postbekreftelse kreves
+settings-remove-email-button-label = Fjern
 settings-email-addresses-header = E-postadresser
 settings-email-addresses-description = { -brand-monitor } varsler deg hvis disse e-postadressene dukker opp i kjente datalekkasjer.
 settings-email-addresses-add-email-button = Legg til e-postadresse
