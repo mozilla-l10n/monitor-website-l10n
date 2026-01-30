@@ -40,7 +40,7 @@ compromised-data = Data wedi ei gyfaddawdu:
 # Link title
 more-about-this-breach = Rhagor am y tor-data hwn
 sensitive-sites = Sut mae { -product-name } yn trin gwefannau sensitif?
-sensitive-sites-copy = Mae { -product-name } ond yn datgelu cyfrifon sy'n gysylltiedig â'r mathau hyn o doriadau ar ôl i gyfeiriad e-bost gael ei ddilysu. Mae hyn yn golygu mai chi yw'r unig berson a all weld a oedd eich gwybodaeth yn rhan o'r toriad hwn (oni bai bod gan rywun arall fynediad i'ch cyfrif e-bost).
+sensitive-sites-copy = Mae { -product-name } yn datgelu cyfrifon sy'n gysylltiedig â'r mathau hyn o tor-data dim ond ar ôl i gyfeiriad e-bost gael ei ddilysu. Mae hyn yn golygu mai chi yw'r unig berson all weld a oedd eich manylion yn rhan o'r tor-data hwn (oni bai bod gan rywun arall fynediad i'ch cyfrif e-bost).
 what-data = Pa ddata a gyfaddawdwyd:
 delayed-reporting-headline = Pam y cymerodd gymaint o amser i adrodd ar y tor-data hwn?
 delayed-reporting-copy =
