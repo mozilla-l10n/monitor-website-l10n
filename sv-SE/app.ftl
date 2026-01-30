@@ -40,7 +40,11 @@ compromised-data = Berörd data:
 # Link title
 more-about-this-breach = Mer om detta intrång
 sensitive-sites = Hur behandlar { -product-name } känsliga webbplatser?
-sensitive-sites-copy = { -product-name } avslöjar bara konton som är kopplade till dessa typer av intrång efter att en e-postadress har verifierats. Detta innebär att du är den enda personen som kan se om din information fanns i detta intrång (om inte någon annan har tillgång till ditt e-postkonto).
+sensitive-sites-copy =
+    { -product-name } avslöjar bara konton som är kopplade till den här typen
+    av intrång efter att en e-postadress har verifierats. Det betyder att du är den enda
+    personen som kan se om din information var en del av intrånget (såvida inte
+    någon annan har tillgång till ditt e-postkonto).
 what-data = Vilka data har äventyrats:
 delayed-reporting-headline = Varför tog det så lång tid att anmäla detta intrång?
 delayed-reporting-copy =
@@ -51,7 +55,7 @@ delayed-reporting-copy =
 ##
 
 what-is-a-website-breach = Vad är ett webbplatsintrång?
-website-breach-blurb = Ett intrång mot webbplatsen händer när cyberkriminella stjäl, kopierar eller avslöjar personuppgifter från onlinekonton. Det är oftast ett resultat av att hackare hittar en svag punkt i webbplatsens säkerhet. Intrånget kan också hända när kontouppgifter läckas av misstag.
+website-breach-blurb = Ett intrång mot webbplatsen händer när cyberkriminella stjäl, kopierar eller avslöjar personuppgifter från onlinekonton. Det är oftast ett resultat av att hackare hittar en svag punkt i webbplatsens säkerhet. Intrånget kan också ske när kontouppgifter läckas av misstag.
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = Översikt
