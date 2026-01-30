@@ -39,6 +39,12 @@ user-verify-token-error = Toquen de verificación requerido.
 compromised-data = Datos comprometidos:
 # Link title
 more-about-this-breach = Más acerca de esta filtración
+sensitive-sites = ¿Cómo trata { -product-name } los datos sensibles?
+sensitive-sites-copy =
+    { -product-name } solo revela las cuentas asociadas con estos
+    tipos de filtraciones una vez que se ha verificado la dirección de correo electrónico. Esto significa que eres la
+    única persona que puede ver si tu información estuvo expuesta (a menos que alguien
+    más también tenga acceso a tu cuenta de correo electrónico).
 what-data = Qué datos fueron comprometidos:
 delayed-reporting-headline = ¿Por qué tardó tanto reportar esta filtración?
 delayed-reporting-copy =
@@ -47,6 +53,8 @@ delayed-reporting-copy =
 
 ##
 
+what-is-a-website-breach = ¿Qué es una filtración de sitio?
+website-breach-blurb = Una filtración de datos de un sitio web sucede cuando los cibercriminales roban, copian o exponen información personal de cuentas en línea. Es usualmente el resultado de hackers buscando puntos débiles en la seguridad de los sitios. Las filtraciones también suceden cuando la información de las cuentas se filtra por accidente.
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = General

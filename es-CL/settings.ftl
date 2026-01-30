@@ -19,6 +19,7 @@ settings-alert-preferences-option-two = Enviar todas las alertas de filtraciones
 ## Monitored email addresses
 
 settings-email-verification-callout = Verificación de correo requerida
+settings-remove-email-button-label = Eliminar
 settings-email-addresses-header = Direcciones de correo electrónico
 settings-email-addresses-description = { -brand-monitor } te avisará si estos correos electrónicos aparecen en infracciones conocidas.
 settings-email-addresses-add-email-button = Añadir dirección de correo electrónico
