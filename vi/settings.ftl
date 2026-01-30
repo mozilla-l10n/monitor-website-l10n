@@ -19,6 +19,7 @@ settings-alert-preferences-option-two = Gửi tất cả cảnh báo rò rỉ d�
 ## Monitored email addresses
 
 settings-email-verification-callout = Yêu cầu xác minh email
+settings-remove-email-button-label = Xóa
 settings-email-addresses-header = Địa chỉ email
 settings-email-addresses-description = { -brand-monitor } Sẽ thông báo cho bạn nếu những email này xuất hiện trong các vụ rò rỉ thông tin đã biết.
 settings-email-addresses-add-email-button = Thêm địa chỉ email

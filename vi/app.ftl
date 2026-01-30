@@ -39,6 +39,12 @@ user-verify-token-error = Token xác minh được yêu cầu.
 compromised-data = Dữ liệu bị xâm phạm:
 # Link title
 more-about-this-breach = Thông tin thêm về rò rỉ này
+sensitive-sites = { -product-name } xử lý các trang web nhạy cảm như thế nào?
+sensitive-sites-copy =
+    { -product-name } chỉ tiết lộ các tài khoản được liên kết với các loại
+    rò rỉ dữ liệu sau khi một địa chỉ email đã được xác minh. Điều này có nghĩa là
+    chỉ bạn có thể xem thông tin của bạn có bị rò rỉ hay không (trừ khi có ai đó
+    có quyền truy cập vào tài khoản email của bạn.)
 what-data = Dữ liệu nào đã bị xâm phạm:
 delayed-reporting-headline = Tại sao phải mất rất lâu để báo cáo rò rỉ này?
 delayed-reporting-copy =
@@ -48,6 +54,8 @@ delayed-reporting-copy =
 
 ##
 
+what-is-a-website-breach = Trang web bị rò rỉ là gì?
+website-breach-blurb = Rò rỉ dữ liệu trang web xảy ra khi tội phạm mạng ăn cắp, sao chép hoặc tiết lộ thông tin cá nhân từ tài khoản trực tuyến. Nó thường là kết quả của tin tặc tìm thấy một điểm yếu trong bảo mật của trang web. Rò rỉ dữ liệu cũng có thể xảy ra khi thông tin tài khoản bị rò rỉ do lỗi kỹ thuật.
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = Tổng quan
