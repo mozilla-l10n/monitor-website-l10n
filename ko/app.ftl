@@ -23,6 +23,7 @@
 -brand-relay = Firefox Relay
 -brand-mozilla-monitor = Mozilla Monitor
 -brand-monitor-plus = 모니터 플러스
+-brand-solo-ai = Solo AI
 
 ##
 
@@ -38,6 +39,7 @@ user-verify-token-error = 확인 토큰이 필요합니다.
 compromised-data = 유출 데이터 :
 # Link title
 more-about-this-breach = 상세 정보
+sensitive-sites = { -product-name }는 민감한 사이트를 어떻게 관리합니까?
 what-data = 유출된 데이터 :
 delayed-reporting-headline = 유출 정보 보고에 오랜 시간이 걸린 이유는 무엇인가요?
 delayed-reporting-copy =
