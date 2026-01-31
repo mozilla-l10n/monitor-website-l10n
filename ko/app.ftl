@@ -40,6 +40,11 @@ compromised-data = 유출 데이터 :
 # Link title
 more-about-this-breach = 상세 정보
 sensitive-sites = { -product-name }는 민감한 사이트를 어떻게 관리합니까?
+sensitive-sites-copy =
+    { -product-name }는 이메일 주소가 확인된 후에만
+    아러한 유형의 위반과 관련된 계정을 표시합니다. 
+    즉, 이메일 계정에 접근 가능한 사람만
+    걔인 정보가 침해되었는지 여부를 확인할 수 있습니다.
 what-data = 유출된 데이터 :
 delayed-reporting-headline = 유출 정보 보고에 오랜 시간이 걸린 이유는 무엇인가요?
 delayed-reporting-copy =
@@ -49,6 +54,8 @@ delayed-reporting-copy =
 
 ##
 
+what-is-a-website-breach = 웹 사이트 유출이란 무엇입니까?
+website-breach-blurb = 웹 사이트 데이터 침해 사고는 사이버 범죄자가 온라인 계정에서 개인 정보를 도용, 복사 또는 노출 할 때 발생합니다. 일반적으로 해커가 웹 사이트의 보안에서 취약한 부분을 찾은 결과입니다. 실수로 계정 정보가 유출 된 경우에도 침해가 발생할 수 있습니다.
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = 개요
