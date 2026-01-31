@@ -39,6 +39,8 @@ user-verify-token-error = Doğrulama jetonu gerekli.
 compromised-data = Ele geçirilen veriler:
 # Link title
 more-about-this-breach = Bu ihlal hakkında daha fazla bilgi
+sensitive-sites = { -product-name } hassas siteleri nasıl ele alıyor?
+sensitive-sites-copy = { -product-name } bu tür veri ihlallerine dahil olan hesapları yalnızca e-posta adresiniz onaylandıktan sonra gösterir. Yani bilgilerinizin bu veri ihlalinde ele geçirilip geçirilmediğini yalnızca siz görebilirsiniz (e-posta hesabınıza erişebilen başka birisi yoksa).
 what-data = Ele geçirilen veriler:
 delayed-reporting-headline = Bu ihlalin bildirilmesi neden bu kadar uzun sürdü?
 delayed-reporting-copy =
@@ -47,6 +49,8 @@ delayed-reporting-copy =
 
 ##
 
+what-is-a-website-breach = Web sitesi ihlali nedir?
+website-breach-blurb = Siber suçlular çevrimiçi hesaplardan kişisel bilgileri çaldığında, kopyaladığında veya ifşa ettiğinde web sitesinde veri ihlali meydana gelir. Genellikle hacker'ların web sitesinin güvenliğinde zayıf bir nokta bulması sonucunda oluşur. Hesap bilgileri kazayla sızdırıldığında da ihlaller meydana gelebilir.
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = Genel Bakış

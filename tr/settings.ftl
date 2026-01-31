@@ -19,6 +19,7 @@ settings-alert-preferences-option-two = Tüm ihlal uyarılarını birinci e-post
 ## Monitored email addresses
 
 settings-email-verification-callout = E-posta doğrulaması gerekiyor
+settings-remove-email-button-label = Kaldır
 settings-email-addresses-header = E-posta adresleri
 settings-email-addresses-description = Bu e-postalar bilinen veri ihlallerinde yer alırsa { -brand-monitor } sizi uyaracaktır.
 settings-email-addresses-add-email-button = E-posta adresi ekle
