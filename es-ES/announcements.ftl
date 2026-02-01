@@ -22,6 +22,8 @@ announcement-big-img-alt = Imagen de anuncio
 # $emailAddressesCount (string) - number of email addresses allowed for data breach monitoring
 announcement-free-data-breach-monitoring-title =
     { $emailAddressesCount ->
-        [one] Consigue monitoreo gratuito de filtración de datos para hasta { $emailAddressesCount } dirección de correo electrónico.
-       *[other] Consigue monitoreo gratuito de filtración de datos para hasta { $emailAddressesCount } direcciones de correo electrónico.
+        [one] Consigue monitorización gratuita de filtraciones de datos para hasta { $emailAddressesCount } dirección de correo electrónico.
+       *[other] Consigue monitorización gratuita de filtraciones de datos para hasta { $emailAddressesCount } direcciones de correo electrónico.
     }
+announcement-free-data-breach-monitoring-description = Ayuda a mantener tu información segura con la monitorización de filtraciones de datos. { -brand-monitor } te avisará si tu información aparece en una filtración de datos.
+announcement-free-data-breach-monitoring-cta-label = Saber más

@@ -19,6 +19,8 @@ settings-alert-preferences-option-two = Enviar todas las alertas de filtraciones
 ## Monitored email addresses
 
 settings-email-verification-callout = Se requiere verificación de correo electrónico
+settings-remove-email-button-label = Eliminar
+settings-email-addresses-header = Direcciones de correo electrónico
 
 ## Delete Monitor account
 
