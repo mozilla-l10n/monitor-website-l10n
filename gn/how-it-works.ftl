@@ -19,3 +19,25 @@ how-it-works-page-data-breaches-step-1-subtitle = Roheka ñembogua
 ## Step 2
 
 how-it-works-page-data-breaches-step-2-title = Jeku’e 2
+how-it-works-page-data-breaches-step-2-subtitle = Roipytyvõta ñembogua ñemboykerã
+
+## Step 3
+
+how-it-works-page-data-breaches-step-3-title = Jeku’e 3
+how-it-works-page-data-breaches-step-3-subtitle = Rohechameme ñembogua pyahu
+
+## CTA button
+
+how-it-works-page-data-breaches-cta-button = Emoha’ãnga reiete
+
+## FooterSection
+
+how-it-works-page-footersection-title = Eguerujey ne mba’ekuaarã rechameme
+how-it-works-page-footersection-input-placeholder = example@example.com
+how-it-works-page-footersection-cta-button = Emoha’ãnga reiete
+
+## Inbound links
+## Site Navigation
+
+main-nav-link-how-it-works-label = Mba’éichapa omba’apo
+footer-external-link-how-it-works-label = Mba’éichapa omba’apo
