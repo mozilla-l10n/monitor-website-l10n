@@ -32,7 +32,7 @@ input-error-alt = Chyba
 ## Email address dialog
 
 settings-email-addresses-initial-dialog-header = Přidat e-mailovou adresu
-settings-email-addresses-initial-dialog-description = Pošleme vám ověřovací odkaz jako potvrzení, že jej chcete zahrnout do budoucího skenu za { -brand-monitor }.
+settings-email-addresses-initial-dialog-description = Zašleme vám ověřovací odkaz, abyste potvrdili, že ji chcete do budoucna zahrnout do skenování službou ⁨{ -brand-monitor }.
 settings-email-addresses-initial-dialog-add-email-input-label = Zadejte e-mailovou adresu
 settings-email-addresses-initial-dialog-add-email-button-label = Odeslat ověřovací odkaz
 # Variables:
