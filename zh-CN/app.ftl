@@ -39,7 +39,7 @@ user-verify-token-error = 必须持有验证令牌（Token）。
 compromised-data = 泄露的数据
 # Link title
 more-about-this-breach = 关于此数据外泄事件的更多信息
-sensitive-sites = { -product-name } 如何处理这些敏感网站？
+sensitive-sites = { -product-name } 如何处理敏感网站？
 what-data = 泄露的数据：
 delayed-reporting-headline = 为什么要这么久才公开这些事件？
 delayed-reporting-copy = 有的时候，数据外泄后可能要几个月甚至几年，您的登录信息才会出现在暗网上。当我们发现外泄的数据并确认无误后，就会加入数据库。
