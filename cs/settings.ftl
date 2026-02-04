@@ -21,7 +21,7 @@ settings-alert-preferences-option-two = Všechna upozornění posílat na primá
 settings-email-verification-callout = Vyžadováno ověření e-mailové adresy
 settings-remove-email-button-label = Odebrat
 settings-email-addresses-header = E-mailové adresy
-settings-email-addresses-description = { -brand-monitor } vás upozorní, pokud se tato adresa objeví ve známém úniku dat.
+settings-email-addresses-description = { -brand-monitor } vás upozorní, jestliže se tyto e-mailové adresy objeví ve známém úniku dat.
 settings-email-addresses-add-email-button = Přidat e-mailovou adresu
 # Variables:
 #   $limit (number) - Number of emails that can be added for monitoring.
@@ -57,7 +57,7 @@ settings-delete-monitor-account-confirmation-toast-dismiss-label = Zavřít
 
 # Label for a navigation bar link to settings for updating the users scan profile info – “update” is used as a verb.
 settings-tab-label-update-scan-info = Aktualizovat informace o skenování
-settings-tab-label-edit-info = Upravte své údaje
+settings-tab-label-edit-info = Upravit své údaje
 settings-tab-label-notifications = Nastavení upozornění
 settings-tab-label-manage-account = Správa účtu
 settings-tab-subtitle-manage-account = Spravujte svůj účet služby { -product-name }.
