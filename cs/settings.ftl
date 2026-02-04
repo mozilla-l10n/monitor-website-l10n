@@ -34,7 +34,7 @@ input-error-alt = Chyba
 settings-email-addresses-initial-dialog-header = Přidat e-mailovou adresu
 settings-email-addresses-initial-dialog-description = Pošleme vám ověřovací odkaz jako potvrzení, že jej chcete zahrnout do budoucího skenu za { -brand-monitor }.
 settings-email-addresses-initial-dialog-add-email-input-label = Zadejte e-mailovou adresu
-settings-email-addresses-initial-dialog-add-email-button-label = Zaslat ověřovací odkaz
+settings-email-addresses-initial-dialog-add-email-button-label = Odeslat ověřovací odkaz
 # Variables:
 #   $email (string) - Email address the confirmation has been sent to.
 settings-email-addresses-confirmation-dialog-header = Odkaz pro ověření byl odeslán na <b>{ $email }</b>
