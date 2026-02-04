@@ -25,13 +25,13 @@ settings-email-addresses-description = { -brand-monitor } vás upozorní, jestli
 settings-email-addresses-add-email-button = Přidat e-mailovou adresu
 # Variables:
 #   $limit (number) - Number of emails that can be added for monitoring.
-settings-email-addresses-add-email-indicator-limit = Přidat můžete maximálně { $limit }
+settings-email-addresses-add-email-indicator-limit = Přidat můžete až { $limit }
 settings-email-addresses-add-email-resend-button-label = Znovu odeslat ověřovací odkaz
 input-error-alt = Chyba
 
 ## Email address dialog
 
-settings-email-addresses-initial-dialog-header = Přidat e-mailovou adresu
+settings-email-addresses-initial-dialog-header = Přidání e-mailové adresy
 settings-email-addresses-initial-dialog-description = Zašleme vám ověřovací odkaz, abyste potvrdili, že ji chcete do budoucna zahrnout do skenování službou ⁨{ -brand-monitor }.
 settings-email-addresses-initial-dialog-add-email-input-label = Zadejte e-mailovou adresu
 settings-email-addresses-initial-dialog-add-email-button-label = Odeslat ověřovací odkaz
