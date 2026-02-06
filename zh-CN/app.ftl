@@ -46,6 +46,7 @@ delayed-reporting-copy = 有的时候，数据外泄后可能要几个月甚至�
 
 ##
 
+website-breach-blurb = 当网络犯罪分子从网络账户窃取、复制、暴露个人信息时，就会发生网站数据外泄事件。这通常是因为黑客发现了网站安全环节的薄弱点，但也可能是由于账户信息意外泄漏所致。
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = 总览
