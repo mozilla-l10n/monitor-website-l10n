@@ -10,7 +10,7 @@ how-it-works-banner-title = Nasıl çalışır?
 ## Intro
 
 how-it-works-page-data-breaches-intro-title = <data_breaches>Veri ihlallerini</data_breaches> çözmenize yardımcı olacak adımları sunuyoruz
-how-it-works-page-data-breaches-intro-text-1 = Veri ihlalleri; kişisel bilgilerinizin (parolalar, iletişim bilgileri, finansal bilgiler ve çok daha fazlası) yanlışlıkla açığa çıktığı veya hacker’lar tarafından yasa dışı bir şekilde çalındığı güvenlik ihlalleridir. Tüm hesaplarınız ve bilgilerinizin depolandığı her yer yer veri ihlallerine hedef olabilir.
+how-it-works-page-data-breaches-intro-text-1 = Veri ihlalleri; kişisel bilgilerinizin (parolalar, iletişim bilgileri, finansal bilgiler ve çok daha fazlası) yanlışlıkla açığa çıktığı veya hacker’lar tarafından yasa dışı bir şekilde çalındığı güvenlik ihlalleridir. Tüm hesaplarınız ve bilgilerinizin depolandığı her yer veri ihlallerine hedef olabilir.
 how-it-works-page-data-breaches-intro-text-2 = Veri ihlallerini çözmek; hacker’ların hesaplarınıza erişmesini, finansal zarara yol açmasını ve kimlik bilgilerinizi çalmasını engeller.
 how-it-works-page-data-breaches-intro-cta-button = Ücretsiz taramayı başlat
 
