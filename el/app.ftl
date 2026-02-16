@@ -50,7 +50,7 @@ delayed-reporting-copy =
 
 ##
 
-what-is-a-website-breach = Τι είναι μια παραβίαση ιστοσελίδας;
+what-is-a-website-breach = Τι είναι μια παραβίαση ιστοτόπου;
 website-breach-blurb = Μια παραβίαση δεδομένων ιστοσελίδας συμβαίνει όταν οι κυβερνοεγκληματίες υποκλέπτουν, αντιγράφουν ή εξάγουν προσωπικά στοιχεία από διαδικτυακούς λογαριασμούς. Προκύπτει συνήθως όταν οι hackers βρίσκουν ένα τρωτό σημείο στην ασφάλεια της ιστοσελίδας. Παραβιάσεις συμβαίνουν επίσης όταν οι πληροφορίες λογαριασμού διαρρέουν κατά λάθος.
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
