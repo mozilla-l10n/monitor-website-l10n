@@ -26,7 +26,7 @@ settings-email-addresses-add-email-button = Προσθήκη διεύθυνση�
 # Variables:
 #   $limit (number) - Number of emails that can be added for monitoring.
 settings-email-addresses-add-email-indicator-limit = Προσθήκη έως { $limit }
-settings-email-addresses-add-email-resend-button-label = Εκ νέου αποστολή συνδέσμου επαλήθευσης
+settings-email-addresses-add-email-resend-button-label = Αποστολή νέου συνδέσμου επαλήθευσης
 input-error-alt = Σφάλμα
 
 ## Email address dialog
@@ -37,7 +37,7 @@ settings-email-addresses-initial-dialog-add-email-input-label = Εισαγάγε
 settings-email-addresses-initial-dialog-add-email-button-label = Αποστολή συνδέσμου επαλήθευσης
 # Variables:
 #   $email (string) - Email address the confirmation has been sent to.
-settings-email-addresses-confirmation-dialog-header = Απεστάλη σύνδεσμος επαλήθευσης στη διεύθυνση <b>{ $email }</b>
+settings-email-addresses-confirmation-dialog-header = Απεστάλη σύνδεσμος επαλήθευσης στο <b>{ $email }</b>
 settings-email-addresses-confirmation-dialog-description = Ανοίξτε το σύνδεσμο για να το προσθέσετε σε αυτόν τον λογαριασμό για μελλοντικές σαρώσεις { -brand-monitor }.
 settings-email-addresses-confirmation-dialog-close-button = Κλείσιμο
 
