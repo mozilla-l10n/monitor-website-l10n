@@ -10,7 +10,7 @@ how-it-works-banner-title = Πώς λειτουργεί
 ## Intro
 
 how-it-works-page-data-breaches-intro-title = Παρέχουμε μέτρα για την επίλυση <data_breaches>παραβιάσεων δεδομένων</data_breaches>
-how-it-works-page-data-breaches-intro-text-1 = Οι παραβιάσεις δεδομένων είναι παραβιάσεις ασφαλείας όπου τα προσωπικά σας δεδομένα είτε εκτίθενται κατά λάθος είτε υποκλαπούν παράνομα από χάκερ — όπως κωδικοί πρόσβασης, στοιχεία επικοινωνίας, οικονομικά και πολλά άλλα. Κάθε λογαριασμός ή οπουδήποτε είναι αποθηκευμένες οι πληροφορίες σας θα μπορούσε να γίνει στόχος.
+how-it-works-page-data-breaches-intro-text-1 = Οι παραβιάσεις δεδομένων είναι παραβιάσεις ασφαλείας όπου τα προσωπικά σας δεδομένα, όπως κωδικοί πρόσβασης, στοιχεία επικοινωνίας, οικονομικές λεπτομέρειες και πολλά άλλα, είτε εκτίθενται κατά λάθος είτε υποκλέπτονται παράνομα από hacker. Κάθε λογαριασμός ή οποιοδήποτε μέρος όπου είναι αποθηκευμένες οι πληροφορίες σας θα μπορούσε να αποτελέσει στόχο.
 how-it-works-page-data-breaches-intro-text-2 = Η επίλυση των παραβιάσεων δεδομένων βοηθά στην αποτροπή πρόσβασης χάκερ στους λογαριασμούς σας, προκαλώντας οικονομική βλάβη ή κλοπή της ταυτότητάς σας.
 how-it-works-page-data-breaches-intro-cta-button = Δωρεάν σάρωση
 
@@ -31,7 +31,7 @@ how-it-works-page-data-breaches-step-2-text-2 = Και αν οι πληροφο�
 
 how-it-works-page-data-breaches-step-3-title = Βήμα 3
 how-it-works-page-data-breaches-step-3-subtitle = Παρακολουθούμε για νέες παραβιάσεις
-how-it-works-page-data-breaches-step-3-text = Κάθε φορά που εντοπίζουμε μια νέα παραβίαση, θα ελέγχουμε αν συμμετέχετε σε αυτήν και θα σας ειδοποιούμε αν συμμετέχετε.
+how-it-works-page-data-breaches-step-3-text = Κάθε φορά που εντοπίζουμε μια νέα παραβίαση, θα ελέγχουμε αν έχετε εμπλακεί σε αυτήν και θα σας ειδοποιούμε.
 
 ## CTA button
 
@@ -40,7 +40,7 @@ how-it-works-page-data-breaches-cta-button = Δωρεάν σάρωση
 ## FooterSection
 
 how-it-works-page-footersection-title = Ανακτήστε τον έλεγχο των δεδομένων σας
-how-it-works-page-footersection-input-placeholder = example@example.com
+how-it-works-page-footersection-input-placeholder = paradeigma@example.com
 how-it-works-page-footersection-cta-button = Δωρεάν σάρωση
 
 ## Inbound links

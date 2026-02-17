@@ -25,5 +25,5 @@ announcement-free-data-breach-monitoring-title =
         [one] Λάβετε δωρεάν εποπτεία για παραβιάσεις δεδομένων σε έως και { $emailAddressesCount } διεύθυνση email.
        *[other] Λάβετε δωρεάν εποπτεία για παραβιάσεις δεδομένων σε έως και { $emailAddressesCount } διευθύνσεις email.
     }
-announcement-free-data-breach-monitoring-description = Προστατέψτε τις πληροφορίες σας με την εποπτεία παραβίασης δεδομένων. Το { -brand-monitor } θα σας ειδοποιήσει αν εμφανιστούν οι πληροφορίες σας σε μια παραβίαση δεδομένων.
+announcement-free-data-breach-monitoring-description = Προστατέψτε τις πληροφορίες σας με την εποπτεία για παραβιάσεις δεδομένων. Το { -brand-monitor } θα σας ειδοποιήσει αν εμφανιστούν οι πληροφορίες σας σε κάποια παραβίαση δεδομένων.
 announcement-free-data-breach-monitoring-cta-label = Μάθετε περισσότερα
