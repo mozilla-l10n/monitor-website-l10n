@@ -19,6 +19,16 @@ how-it-works-page-data-breaches-step-2-title = Hapi 2
 
 how-it-works-page-data-breaches-step-3-title = Hapi 3
 
+## CTA button
+
+how-it-works-page-data-breaches-cta-button = Përfitoni kontroll falas
+
+## FooterSection
+
+how-it-works-page-footersection-title = Rimerrni kontrollin e të dhënave tuaja
+how-it-works-page-footersection-input-placeholder = example@example.com
+how-it-works-page-footersection-cta-button = Përfitoni kontroll falas
+
 ## Inbound links
 ## Site Navigation
 

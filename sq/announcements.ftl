@@ -8,6 +8,8 @@ announcement-dialog-default-tab = I ri
 announcement-dialog-history-tab = Krejt
 # To go back to the list of announcements
 announcement-dialog-back = Mbrapsht
+announcement-dialog-clear-all = Vëru shenjë të tërave si të lexuara
+announcement-dialog-empty-state-title = S’ka përditësime
 announcement-dialog-trigger-alt = Hap njoftimet
 announcement-dialog-alt = Listë njoftimesh
 announcement-small-img-alt = Ikonë njoftimesh
