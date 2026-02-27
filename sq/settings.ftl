@@ -19,6 +19,13 @@ settings-alert-preferences-option-two = Dërgoji krejt sinjalizimet mbi cenime t
 ## Monitored email addresses
 
 settings-email-verification-callout = Lypset verifikim email-i
+settings-email-addresses-header = Adresa email
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-add-email-input-label = Jepni adresë email
+settings-email-addresses-initial-dialog-add-email-button-label = Dërgo lidhje verifikimi
+settings-email-addresses-confirmation-dialog-close-button = Mbylle
 
 ## Delete Monitor account
 
