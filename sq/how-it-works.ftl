@@ -7,9 +7,15 @@
 
 how-it-works-banner-title = Si funksionon
 
+## Intro
+
+how-it-works-page-data-breaches-intro-title = Ne ofrojmë hapa për të zgjidhur <data_breaches>cenime të dhënash</data_breaches>
+how-it-works-page-data-breaches-intro-cta-button = Përfitoni kontroll falas
+
 ## Step 1
 
 how-it-works-page-data-breaches-step-1-title = Hapi 1
+how-it-works-page-data-breaches-step-1-subtitle = Kontrollojmë për cenime
 
 ## Step 2
 
