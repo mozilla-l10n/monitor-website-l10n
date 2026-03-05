@@ -6,12 +6,12 @@
 # Confirm Unsubscription State
 
 unsubscribe-from-breach-alerts-header = Alle Warnmeldungen zu Datenlecks abbestellen?
-unsubscribe-from-breach-alerts-body = Sie von { -brand-mozilla-monitor } erhalten keine sofortigen Warnungen zu Datenlecks mehr.
+unsubscribe-from-breach-alerts-body = Sie erhalten von { -brand-mozilla-monitor } keine sofortigen Warnungen zu Datenlecks mehr.
 unsubscribe-link-cta = Abbestellen
 
 # Success Unsubscription State
 
-unsubscribe-success-from-breach-alerts-header = Ihr Abonnement wurde entfernt
+unsubscribe-success-from-breach-alerts-header = Ihr Abonnement wurde beendet
 unsubscribe-success-from-breach-alerts-body = Sie können den Newsletter erneut abonnieren oder Ihre E-Mail-Einstellungen jederzeit in Ihren { -brand-monitor }-Einstellungen ändern.
 unsubscribe-success-link-cta = Bei { -brand-monitor } anmelden
 
