@@ -5,8 +5,8 @@
 
 # Confirm Unsubscription State
 
-unsubscribe-from-breach-alerts-header = Dad-danysgrifio o e-byst rhybuddion torri amodau?
-unsubscribe-from-breach-alerts-body = Ni fyddwch bellach yn derbyn e-byst rhybuddio am dorri rheolau ar unwaith gan { -brand-mozilla-monitor }.
+unsubscribe-from-breach-alerts-header = Dad-danysgrifio o e-byst rhybuddion tor-data?
+unsubscribe-from-breach-alerts-body = Fyddwch chi ddim  bellach yn derbyn e-byst rhybuddio am dor-data ar unwaith gan { -brand-mozilla-monitor }.
 unsubscribe-link-cta = Dad-danysgrifio
 
 # Success Unsubscription State
