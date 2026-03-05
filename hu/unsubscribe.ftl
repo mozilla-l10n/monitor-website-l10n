@@ -5,8 +5,8 @@
 
 # Confirm Unsubscription State
 
-unsubscribe-from-breach-alerts-header = Leiratkozott az adatsértési figyelmeztető e-mailekről?
-unsubscribe-from-breach-alerts-body = A továbbiakban nem kap azonnali adatvédelmi incidens figyelmeztető e-maileket ettől: { -brand-mozilla-monitor }.
+unsubscribe-from-breach-alerts-header = Leiratkozik az adatvédelmi incidensekre figyelmeztető e-mailekről?
+unsubscribe-from-breach-alerts-body = A továbbiakban nem kap a { -brand-mozilla-monitor }tól azonnali figyelmeztető e-maileket az adatvédelmi incidensekről.
 unsubscribe-link-cta = Leiratkozás
 
 # Success Unsubscription State
