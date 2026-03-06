@@ -6,6 +6,7 @@
 # Confirm Unsubscription State
 
 unsubscribe-from-breach-alerts-header = Avslutte abonnementet på datalekkasjevarsel på e-post?
+unsubscribe-from-breach-alerts-body = Du vil ikkje lenger få e-postar, med åtvaringar om datalekkasjar, frå { -brand-mozilla-monitor }.
 unsubscribe-link-cta = Avslutt abonnementet
 
 # Success Unsubscription State
