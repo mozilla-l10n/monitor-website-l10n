@@ -5,6 +5,7 @@
 
 # Confirm Unsubscription State
 
+unsubscribe-from-breach-alerts-header = Avslutte abonnementet på datalekkasjevarsel på e-post?
 unsubscribe-link-cta = Avslutt abonnementet
 
 # Success Unsubscription State
