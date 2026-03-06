@@ -5,7 +5,7 @@
 
 # Confirm Unsubscription State
 
-unsubscribe-from-breach-alerts-header = ¿Cancelar la suscripción a los correos electrónicos de alerta de filtraciones?
+unsubscribe-from-breach-alerts-header = ¿Desuscribirse a los correos electrónicos de alerta de filtraciones?
 unsubscribe-from-breach-alerts-body = Ya no recibirás correos electrónicos instantáneos de alerta de filtraciones de { -brand-mozilla-monitor }.
 unsubscribe-link-cta = Cancelar suscripción
 
