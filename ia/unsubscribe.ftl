@@ -5,6 +5,8 @@
 
 # Confirm Unsubscription State
 
+unsubscribe-from-breach-alerts-header = Remover le inscription al emails de aviso de violation?
+unsubscribe-from-breach-alerts-body = Tu non plus recipera instantanee emails de aviso de violation ab { -brand-mozilla-monitor }.
 unsubscribe-link-cta = Cancellar le abonamento
 
 # Success Unsubscription State
