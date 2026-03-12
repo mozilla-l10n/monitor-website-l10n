@@ -12,6 +12,8 @@ email-header-button-sign-in = Hyni
 email-footer-support-heading = Pyetje rreth { -brand-mozilla-monitor }?
 email-footer-support-content = Për ndihmë, vizitoni <support-link>Qendrën tonë të Asistencës</support-link>
 email-footer-trigger-transactional = Këtë email po e merrni si pajtimtar i { -brand-mozilla-monitor }.
+email-footer-reason-subscriber = Po e merrni këtë email të automatizuar si një pajtimtar i { -brand-mozilla-monitor }-it. Nëse e morët gabimisht, s’duhet ndonjë veprim. Për më tepër informacion, ju lutemi, vizitoni <support-link>Asistencën e { -brand-mozilla }-s</support-link>.
+email-footer-reason-subscriber-one-time = Këtë email të automatizuar, njësh, e morët ngaqë jeni pajtuar te { -brand-monitor-plus }. S’do të merrni email-e të mëtejshëm si ky. Për më tepër informacion, ju lutemi, vizitoni <support-link>Asistencën e { -brand-mozilla }-s</support-link>.
 # Variables:
 #    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
 email-footer-support-content-plain =
