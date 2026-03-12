@@ -5,6 +5,8 @@
 
 # Confirm Unsubscription State
 
+unsubscribe-from-breach-alerts-header = Të bëhet shpajtim nga email-e sinjalizimesh cenimesh?
+unsubscribe-from-breach-alerts-body = S’do të merrni më email-e të menjëhershëm sinjalizimi cenimesh nga { -brand-mozilla-monitor }.
 unsubscribe-link-cta = Shpajtohuni
 
 # Success Unsubscription State
