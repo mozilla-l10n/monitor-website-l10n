@@ -12,6 +12,7 @@ email-header-button-sign-in = 로그인
 email-footer-support-heading = { -brand-mozilla-monitor }에 관한 질문이 있으신가요?
 email-footer-support-content = 도움을 받으시려면 <support-link>지원 센터</support-link>를 방문하세요.
 email-footer-trigger-transactional = { -brand-mozilla-monitor } 구독자로서 이 메일을 수신하고 계십니다.
+email-footer-reason-subscriber = { -brand-mozilla-monitor }의 구독자에게 발송하는 자동 이메일입니다. 잘 못 받은 경우 별도의 조치가 필요하지 않습니다. 자세한 내용은 <support-link>{ -brand-mozilla } 지원</support-link>을 참조하세요.
 email-footer-source-hibp = <hibp-link>{ -brand-HIBP }</hibp-link>에서 제공된 유출 데이터
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = 개인 정보
