@@ -21,6 +21,7 @@ settings-alert-preferences-option-two = Emondopaite kyhyjerã ñembogua ñanduti
 settings-email-verification-callout = Ñanduti veve jehechajey jerurepyre
 settings-remove-email-button-label = Mboguete
 settings-email-addresses-header = Ñanduti veve kundaharape
+settings-email-addresses-description = { -brand-monitor } he’íta ko’ã ñanduti veve osẽpa ñembogua ojekuaávape.
 settings-email-addresses-add-email-button = Embojuaju ñanduti veve kundaharape
 # Variables:
 #   $limit (number) - Number of emails that can be added for monitoring.
