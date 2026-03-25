@@ -24,8 +24,8 @@ how-it-works-page-data-breaches-step-1-text = Na základě vaší e-mailové adr
 
 how-it-works-page-data-breaches-step-2-title = Krok 2
 how-it-works-page-data-breaches-step-2-subtitle = Pomůžeme vám vyřešit úniky dat
-how-it-works-page-data-breaches-step-2-text-1 = Protože řešení úniků dat obvykle zahrnuje ruční kroky, jako je změna hesel nebo přidání upozornění na podvodné skóre, nemůžeme je za vás vyřešit. Provedeme vás však kroky, jak vyřešit vaše uniklé informace.
-how-it-works-page-data-breaches-step-2-text-2 = A pokud se vaše údaje přece jen dostanou do nesprávných rukou, dáme vám bezpečnostní doporučení, co můžete udělat pro svou nyní i budoucí ochranu.
+how-it-works-page-data-breaches-step-2-text-1 = Vzhledem k tomu, že řešení případů úniku dat obvykle vyžaduje ruční zásahy, jako je změna hesel nebo nastavení upozornění na podvod u vaší úvěrové historie, nemůžeme tyto záležitosti vyřešit za vás. Pomůžeme vám však projít jednotlivými kroky, které jsou nutné k vyřešení úniku vašich osobních údajů.
+how-it-works-page-data-breaches-step-2-text-2 = A pokud se vaše údaje přesto dostanou do nesprávných rukou, poskytneme vám bezpečnostní doporučení, jak se můžete chránit nyní i v budoucnu.
 
 ## Step 3
 
