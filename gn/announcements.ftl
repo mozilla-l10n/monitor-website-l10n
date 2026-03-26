@@ -18,4 +18,11 @@ announcement-big-img-alt = Marandu ñemurã ra’ãnga
 
 # between announcement- and -title or -description is the announcement_id.
 
+# Variables:
+# $emailAddressesCount (string) - number of email addresses allowed for data breach monitoring
+announcement-free-data-breach-monitoring-title =
+    { $emailAddressesCount ->
+        [one] Eñeha’ã ereko mba’ekuaarã ñembogua mongu’eha reigua { $emailAddressesCount }-pe g̃uarã ñanduti veve.
+       *[other] Eñeha’ã ereko mba’ekuaarã ñembogua mongu’eha reigua { $emailAddressesCount }-pe g̃uarã ñanduti veveita.
+    }
 announcement-free-data-breach-monitoring-cta-label = Eikuaave
