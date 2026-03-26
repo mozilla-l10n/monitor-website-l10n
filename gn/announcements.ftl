@@ -10,6 +10,7 @@ announcement-dialog-history-tab = Opavave
 announcement-dialog-back = Tapykue
 announcement-dialog-clear-all = Emongurusu moñe’ẽmbyre
 announcement-dialog-empty-state-title = Ñembohekopyahu’ỹ
+announcement-dialog-empty-state-description = Eikememe ereko hag̃ua tekopyahu ha momarandu ore rembiapoite pyahúgui.
 announcement-dialog-trigger-alt = Embojuruja marandu ñemurã
 announcement-dialog-alt = Marandu ñemurã rysýi
 announcement-small-img-alt = Marandu ñemurã ra’ãnga’i
