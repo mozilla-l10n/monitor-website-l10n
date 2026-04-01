@@ -10,6 +10,7 @@ how-it-works-banner-title = Mba’éichapa omba’apo
 ## Intro
 
 how-it-works-page-data-breaches-intro-title = Ro’e mba’éicha roipytyvõta <data_breaches>mba’ekuaarã ñembogua</data_breaches> moĩporã
+how-it-works-page-data-breaches-intro-text-2 = Emoĩporãvo mba’ekuaarã ñembogua oipytyvõ ani hag̃ua hacker oike nemba’etépe, ojapo mba’evai viru rehegua térã omonda nde reheguaite.
 how-it-works-page-data-breaches-intro-cta-button = Emoha’ãnga reiete
 
 ## Step 1
