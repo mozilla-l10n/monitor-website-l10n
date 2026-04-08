@@ -12,7 +12,9 @@ unsubscribe-link-cta = 取消订阅
 # Success Unsubscription State
 
 unsubscribe-success-from-breach-alerts-header = 退订成功
+unsubscribe-success-from-breach-alerts-body = 您可以随时在 { -brand-monitor } 设置中重新订阅或更新邮件偏好。
 unsubscribe-success-link-cta = 登录 { -brand-monitor }
 
 # Error warning
 
+unsubscribe-failed = 退订失败。
