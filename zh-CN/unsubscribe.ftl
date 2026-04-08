@@ -5,9 +5,13 @@
 
 # Confirm Unsubscription State
 
+unsubscribe-from-breach-alerts-header = 确定要取消订阅外泄事件警报邮件吗？
+unsubscribe-from-breach-alerts-body = 您将不再收到来自 { -brand-mozilla-monitor } 的外泄事件即时警报邮件。
+unsubscribe-link-cta = 取消订阅
 
 # Success Unsubscription State
 
+unsubscribe-success-from-breach-alerts-header = 退订成功
 unsubscribe-success-link-cta = 登录 { -brand-monitor }
 
 # Error warning
