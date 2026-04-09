@@ -17,6 +17,7 @@ how-it-works-page-data-breaches-intro-cta-button = Emoha’ãnga reiete
 
 how-it-works-page-data-breaches-step-1-title = Jeku’e 1
 how-it-works-page-data-breaches-step-1-subtitle = Roheka ñembogua
+how-it-works-page-data-breaches-step-1-text = Eiporúvo ne ñeẽ veve año, rohekáta opaite mba’ekuaarã ñembogua ojekuaávape. Opaite oñemboheraguapýva ojechakuaáta 5 ñeẽ veve peve reiete.
 
 ## Step 2
 
