@@ -23,6 +23,7 @@
 -brand-relay = Firefox Relay
 -brand-mozilla-monitor = Mozilla Monitor
 -brand-monitor-plus = Monitor Plus
+-brand-solo-ai = Solo AI
 
 ##
 
@@ -38,6 +39,7 @@ user-verify-token-error = Se requiere el token de verificación.
 compromised-data = Datos comprometidos:
 # Link title
 more-about-this-breach = Más acerca de esta violación de seguridad
+sensitive-sites = ¿Cómo trata { -product-name } los sitios sensibles?
 what-data = Qué datos fueron comprometidos:
 delayed-reporting-headline = ¿Por qué se tardó tanto en informar de esta filtración?
 delayed-reporting-copy =
