@@ -40,12 +40,14 @@ compromised-data = Taq juq'attzij k'o retztaqan chi rij:
 # Link title
 more-about-this-breach = Nik'aj chi q'alajisanem chi rij we retztaqan
 sensitive-sites = Jas kub'an { -product-name } chech taq wokk'olib'al rech nim ucholajil
+sensitive-sites-copy = { -product-name } Xew kuq0alajisaj taq kemb'i'aj ke ut'iqom rib' kuk' jalajoj uwach relaq'axik juq'attzij, are taq xq'atutaj jun akemriqonib'al rech taqoxa'nib'al. Are wa' kub'ij chi xewi ri at utz kawilo we k'o k'ax xuriq le aq'alajisamem rech relaq'axik juq'attzij (xewi we k'o jun chik winaq utz kok pa le akemriqonib'al rech taqoqxa'nib'al).
 what-data = Jachike taq juq'attzij xkib'an k'amq'ab':
 delayed-reporting-headline = ¿Jasche naj kuk'am uwoktzijob'exik we retztaqan?
 delayed-reporting-copy = K'or kuk'am jampa' ik' on jampa junab' are chi kk'utuk uk'axk'olil rech q'alajisab'al pa jun retztaqan rech uq'eqal web'. Le taq retztaqan aninaqil ke'eya' pa le mulib'al juq'attzij are taq ke'eriqitajik chi'l ke'eq'atutajik.
 
 ##
 
+what-is-a-website-breach = ¿Jas uwach ri' jun retztaqan rech uk'olib'al web'?
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = Nitz'arisanem
