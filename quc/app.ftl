@@ -77,9 +77,26 @@ rec-section-subhead-no-pw = Pine man xe'ek'oji' ta taq retokib'al pa uk'axk'olil
 -brand-mozilla-account = Mozilla account
 open-in-new-tab-alt = Chajaqa' kemriqonib'al pa k'ak' k'utjaqb'al
 
+## Search Engine Optimization
+
+meta-desc-2 = Chawila' we k'o k'axk'olil ariqon rumal retztaqan ruk? { -brand-fx-monitor }. kqa' ub'ixik chi awech jas taq kab'ano we kariq chi jun k'ak' retztaqan.
+
 ## Header
 
+# Deprecated
+brand-fx-monitor = { -brand-fx-monitor }
 sign-in = Umajixik kemchak
+brand-mozilla-monitor = { -brand-fx-monitor }
+
+## Site navigation
+
+mobile-menu-label = Nim ucholajil cholokib'al
+main-nav-button-collapse-label = Chlokib'al rech k'utuwem-owanem
+main-nav-button-collapse-tooltip = Chlokib'al rech k'utuwem-owanem
+main-nav-button-expand-label = Cholokib'al rech nimarisab'al
+main-nav-button-expand-tooltip = Cholokib'al rech nimarisab'al
+main-nav-label = Nik'onem
+main-nav-link-home-label = Majib'al
 
 ## Breach overview page
 
