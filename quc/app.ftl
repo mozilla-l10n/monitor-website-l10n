@@ -48,6 +48,7 @@ delayed-reporting-copy = K'or kuk'am jampa' ik' on jampa junab' are chi kk'utuk 
 ##
 
 what-is-a-website-breach = ¿Jas uwach ri' jun retztaqan rech uk'olib'al web'?
+website-breach-blurb = Kxajtaj jun retztaqan rech juq'attzij rech uk'olib'al web' are taq le ekemelaq'omab' ke'elaq'anik, on kkelesaj uwach on kkiya' winaqilal q'alajisanem pa taq kemb'i'aj rech nimk'atz, Are wa' jun uwachinem kech taq e b'ank'ax are taq kkiriq jun uk'olib'al web' le man k'o ta uchuq'ab'. Le taq retztaqan xuquje' kxajtajik are taq kq'alajisax  le q'alajisanem le man chub'anik taj.
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = Nitz'arisanem
@@ -68,6 +69,13 @@ rec-section-subhead = Kqaya' u
 # Section headline
 rec-section-headline-no-pw = Jan kb'an chech uchajixik le awinaqilal q'alaljisanem
 rec-section-subhead-no-pw = Pine man xe'ek'oji' ta taq retokib'al pa uk'axk'olil pa we retztaqan, k'a k'o na taq ucholajil le utz kab'ano chech qas utz uchajixik le awinaqilal q'alajisanem.
+
+##
+
+# “account” can be localized, “Mozilla” must be treated as a brand,
+# and kept in English.
+-brand-mozilla-account = Mozilla account
+open-in-new-tab-alt = Chajaqa' kemriqonib'al pa k'ak' k'utjaqb'al
 
 ## Header
 
