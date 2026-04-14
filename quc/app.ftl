@@ -31,11 +31,15 @@ error-not-subscribed = We kemriqonib'al man tz'ib'am ta pa { -product-name }
 user-add-invalid-email = Taqoqxa'n man utz taj
 user-add-too-many-emails = Ktajin kawilawachij le nimalaj rajilab'alil kemriqonib'al rech taqoqxa'n.
 user-add-duplicate-email = We taqoqxa'n ya'om chi pa { -product-name }.
+user-add-verification-email-just-sent = Man kkowinb'ex taj aninaq ktaq jun chi taqoqxa'nib'al rech q'atunem. Chab'ana' chi jumul pa jutz'it
+user-add-unknown-error = K'o jun jastaq man utz ta xub'ano are taq xya' jun chi kemriqonib'al rech taqoqxa'nib'al. Chab'ana' chi jumul pa jutz'it.
+user-delete-unknown-error = K'o man utz ta xub'ano are taq xe'elesax jun kemriqb'al rech taqoqxa'nib'al. Chab'ana' chi jumul pa jutz'it.
 user-verify-token-error = Kajawataj uq'atuxik token.
 # compromised-data = the kind of user data exposed to hackers in data breach.
 compromised-data = Taq juq'attzij k'o retztaqan chi rij:
 # Link title
 more-about-this-breach = Nik'aj chi q'alajisanem chi rij we retztaqan
+sensitive-sites = Jas kub'an { -product-name } chech taq wokk'olib'al rech nim ucholajil
 what-data = Jachike taq juq'attzij xkib'an k'amq'ab':
 delayed-reporting-headline = ¿Jasche naj kuk'am uwoktzijob'exik we retztaqan?
 delayed-reporting-copy = K'or kuk'am jampa' ik' on jampa junab' are chi kk'utuk uk'axk'olil rech q'alajisab'al pa jun retztaqan rech uq'eqal web'. Le taq retztaqan aninaqil ke'eya' pa le mulib'al juq'attzij are taq ke'eriqitajik chi'l ke'eq'atutajik.
