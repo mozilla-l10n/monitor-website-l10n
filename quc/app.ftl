@@ -6,13 +6,24 @@
 ## The following messages are brand and should be kept entirely in English
 ## unless otherwise indicated.
 
--product-name = Mozilla Monitor
+-product-name = Monitor rech Mozilla
 -product-short-name = Monitor
 -brand-name = Firefox
 -brand-HIBP = Have I Been Pwned
 -brand-lockwise = Firefox Lockwise
+-brand-firefox = Firefox
+-brand-monitor = Monitor
+-brand-fx-monitor = Mozilla Monitor
+-brand-mozilla = Mozilla
+-brand-premium = Premium
+-brand-monitor-premium = Monitor Premium
+-brand-mozilla-foundation = Mozilla Foundation
+-brand-github = GitHub
 -brand-mozilla-vpn = Mozilla VPN
 -brand-relay = Firefox Relay
+-brand-mozilla-monitor = Monitor rech Mozilla
+-brand-monitor-plus = Monitor Plus
+-brand-solo-ai = Solo AI
 
 ##
 

@@ -25,3 +25,5 @@ announcement-free-data-breach-monitoring-title =
         [one] Chariqa' sipatal q'axeb'al juq'attzij kq'ax pa uwi' { $emailAddressesCount }
        *[other] kemriqb'al rech taqoqxa'nib'al
     }
+announcement-free-data-breach-monitoring-description = Chaya' le aq'alajisanem pa chajinem ruk' ilawachinel relaq'axik juq'attzij { -brand-monitor } kuya' ub'ixik chi awech we kq'alajin le aq'alajisanem pa le relaq'axik juq'attzij.
+announcement-free-data-breach-monitoring-cta-label = Chaweta'maj nik'aj chik
