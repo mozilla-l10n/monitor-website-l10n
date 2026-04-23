@@ -22,3 +22,4 @@ exposure-chart-legend-heading-nr = Ajilab'al
 # Variables:
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }
+exposure-chart-caption = We k'utb'al kuk'utu janipa' mul k'o le aq'alajisanem pa k'axk'olil
