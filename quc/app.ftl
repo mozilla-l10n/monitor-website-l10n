@@ -137,3 +137,12 @@ error-page-error-404-cta-button = B'enam chi rij
 all-breaches-headline-3 = Mulib'al juq'attzij rech taq chayub'al juq'attzij
 all-breaches-lead = Kqilawachij ronojel le retztaqan le eta'matalik are chi kqilo we k'o k'axk'olil chi rij le qalajisanem rech awinaqilal. Waral k'o juj tz'aqat cholalj rech ronojel taq retztaqan le qariqom, xumajij loq pa ri 2007.
 search-breaches = Taq retztaqan rech tzukunem
+# the kind of user data exposed to hackers in data breach.
+exposed-data = Taq juq'attzij k'o chi uwach uk'axal
+
+## Public breach detail page
+
+find-out-if-2 = Chawila' we k'o k'axk'olil ariqom
+find-out-if-description = Aninaq katqato' chech rilik we k'o le ataqoqxa'nib'al pa uk'axk'olil, chil jas rajawaxik kab'analo'xix
+breach-detail-cta-signup = Chaq'atuj we k'o retz'taqan
+loading-accessibility = Ktajin uya'ik uchuq'ab'
