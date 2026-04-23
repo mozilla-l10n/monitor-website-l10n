@@ -97,6 +97,15 @@ main-nav-button-expand-label = Cholokib'al rech nimarisab'al
 main-nav-button-expand-tooltip = Cholokib'al rech nimarisab'al
 main-nav-label = Nik'onem
 main-nav-link-home-label = Majib'al
+main-nav-link-dashboard-label = k'olwokaj
+main-nav-link-settings-label = Taq wiqitajem
+main-nav-link-faq-label = FAQs
+main-nav-link-faq-tooltip = K'otb'al chi'aj qas kb'anik
+
+## User menu
+
+user-menu-trigger-label = Ujaqil cholokib'al rech kojonel
+user-menu-trigger-tooltip = Cholk'aslemal
 
 ## Breach overview page
 
