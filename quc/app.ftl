@@ -106,6 +106,31 @@ main-nav-link-faq-tooltip = K'otb'al chi'aj qas kb'anik
 
 user-menu-trigger-label = Ujaqil cholokib'al rech kojonel
 user-menu-trigger-tooltip = Cholk'aslemal
+user-menu-manage-fxa-label = Chawilawachij le a{ -brand-mozilla-account }
+user-menu-settings-label = Taq wiqitajem
+user-menu-settings-tooltip = Ujeqeb'axik { -brand-mozilla-monitor }
+user-menu-help-label = Tob'anik xuquje' qoq'anem
+user-menu-help-tooltip = Chariqa' tob'anik ruk' ukojik { -brand-mozilla-monitor }
+user-menu-signout-label = Chatz'apij kemchak
+user-menu-signout-tooltip = Chatz'apij kemchak pa { -brand-mozilla-monitor }
+
+## Footer
+
+mozilla = { -brand-mozilla }
+terms-of-service = Taqanem rech pataninem
+privacy-notice = Ub'ixikil rech echeb'alil
+github = { -brand-github }
+footer-nav-recent-breaches = Maja naj taq retztan
+footer-external-link-faq-label = FAQs
+footer-external-link-faq-tooltip = k'otb'al chi'aj qas kb'anik
+
+## Error page
+
+# Variables:
+#   $errorCode (number) - "404"
+error-page-error-404-title = { $errorCode } man xriqitaj ta uxaq wuj
+error-page-error-404-copy = Chakuyu' le uxaq wuj ktajin katzukuj man k'o ta chik.
+error-page-error-404-cta-button = B'enam chi rij
 
 ## Breach overview page
 
