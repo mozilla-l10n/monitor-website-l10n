@@ -31,3 +31,10 @@ exposure-chart-returning-user-upgrade-prompt = K'a maja' kya' rajilab'alil ochoc
 exposure-chart-returning-user-upgrade-prompt-cta = Chamajij uq'atuxik
 exposure-chart-scan-in-progress-prompt = <b>Ktajin uq'atuxik:</b>K'a maja kya' rajilab'alil ochochib'al, ajupaja, chi'l e nik'aj chik.
 modal-active-number-of-exposures-title = Chi rij le rajilab'alil k'axk'olil k'olik
+# Variables:
+#   $limit (number) - Number of email addresses included in the plan
+modal-active-number-of-exposures-part-one-all =
+    { $limit ->
+        [one] We k'utb'al kuk'ut ronojel mul xqariq jalajoj uwach juq'attzij le k'o chi uwach ronojel retztaqan rech { $limit } taqoqxa'nib'al  le ktajin kawilawachij.
+       *[other] We k'utb'al kuk'ut ronojel mul xqariq jalajoj uwach juq'attzij le k'o chi uwach ronojel retztaqan le kopan pa { $limit } taqoqxa'nib'al  le ktajin kawilawachij.
+    }
