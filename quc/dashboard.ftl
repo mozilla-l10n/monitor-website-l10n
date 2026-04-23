@@ -23,3 +23,11 @@ exposure-chart-legend-heading-nr = Ajilab'al
 #   $nr (number) - Number of a particular type of exposure found for the user
 exposure-chart-legend-value-nr = { $nr }
 exposure-chart-caption = We k'utb'al kuk'utu janipa' mul k'o le aq'alajisanem pa k'axk'olil
+# Variables:
+#   $total_fixed_exposures_num (number) - Number of fixed exposures
+#   $total_exposures_num (number) - Number of total exposures
+exposure-chart-caption-fixed = We k'utb'al kuk'utu' janipa' mul suk'uman le k'axk'olil { $total_fixed_exposures_num } man pa { $total_exposures_num } taj
+exposure-chart-returning-user-upgrade-prompt = K'a maja' kya' rajilab'alil ochochib'al, ajupaja chi'l e nik'aj chik.
+exposure-chart-returning-user-upgrade-prompt-cta = Chamajij uq'atuxik
+exposure-chart-scan-in-progress-prompt = <b>Ktajin uq'atuxik:</b>K'a maja kya' rajilab'alil ochochib'al, ajupaja, chi'l e nik'aj chik.
+modal-active-number-of-exposures-title = Chi rij le rajilab'alil k'axk'olil k'olik
