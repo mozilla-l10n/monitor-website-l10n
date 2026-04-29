@@ -23,6 +23,7 @@ how-it-works-page-data-breaches-step-1-text = Eiporúvo ne ñeẽ veve año, roh
 
 how-it-works-page-data-breaches-step-2-title = Jeku’e 2
 how-it-works-page-data-breaches-step-2-subtitle = Roipytyvõta ñembogua ñemboykerã
+how-it-works-page-data-breaches-step-2-text-1 = Mba’ekuaarã ñemboguakue ñemoĩporã hetave jey ejapova’erã nde po rupiete, ikatúva ñe’ẽñemi moambue térã emyandy kyhyjerã ne deveha rembiasakueregua, norosolucionamo’ãi nde rérape. Upéicharamo, rombohapéta emoĩporã hag̃ua ne marandu rehegua.
 how-it-works-page-data-breaches-step-2-text-2 = Ha ne marandu ho’áramo hekovaíva pópe, roñemoñe’ẽta ndéve  tekorosãverã rehegua mba’etépa ikatu rejapo emohekorosãve hag̃ua ko’ág̃a ha tenonderãme.
 
 ## Step 3
