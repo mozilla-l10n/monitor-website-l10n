@@ -9,7 +9,7 @@ account-balances = Остатки на счетах
 address-book-contacts = Контакты адресной книги
 age-groups = Возрастные группы
 ages = Возраст
-ai-prompts = Запросы ИИ
+ai-prompts = ИИ-промты
 # Refers to medical appointments.
 appointments = Записи к врачу
 apps-installed-on-devices = Приложения, установленные на устройствах
@@ -174,7 +174,7 @@ utility-bills = Счета за коммунальные услуги
 vehicle-details = Информация о транспортных средствах
 vehicle-identification-numbers-vins = Идентификационные номера транспортных средств (VINы)
 vehicle-registration-plates = Номерные знаки транспортных средств
-vip-statuses = VIP статусы
+vip-statuses = VIP-статусы
 warranty-claims = Заявления о гарантии
 website-activity = Активность на веб-сайтах
 work-habits = Рабочие привычки
