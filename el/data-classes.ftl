@@ -9,7 +9,7 @@ account-balances = Υπόλοιπα λογαριασμών
 address-book-contacts = Επαφές ευρετηρίου
 age-groups = Ηλικιακές ομάδες
 ages = Ηλικίες
-ai-prompts = Προτροπές AI
+ai-prompts = Προτροπές ΤΝ
 # Refers to medical appointments.
 appointments = Ιατρικά ραντεβού
 apps-installed-on-devices = Εφαρμογές σε συσκευές
