@@ -98,6 +98,7 @@ login-histories = Chronologias de accesso
 loyalty-program-details = Detalios del programma de fidelitate
 mac-addresses = adresses MAC
 marital-statuses = statos conjugal
+military-service = Servicio militar
 # Mnemonic phrases are a group of words used to access the content of cryptocurrency wallets.
 mnemonic-phrases = Phrases mnemonic
 mothers-maiden-names = Nomines de nubile del matres

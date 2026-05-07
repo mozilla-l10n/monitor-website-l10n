@@ -9,7 +9,7 @@ account-balances = Kontostand
 address-book-contacts = Adressbuch-Kontakte
 age-groups = Altersgruppen
 ages = Alter
-ai-prompts = KI-Eingabeaufforderungen
+ai-prompts = KI-Anfragen
 # Refers to medical appointments.
 appointments = Arzttermine
 apps-installed-on-devices = Auf Geräten installierte Apps
