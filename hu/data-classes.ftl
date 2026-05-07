@@ -9,7 +9,7 @@ account-balances = Számlaegyenlegek
 address-book-contacts = Címjegyzék-kapcsolatok
 age-groups = Korcsoportok
 ages = Életkorok
-ai-prompts = MI megkérdezi
+ai-prompts = MI-promptok
 # Refers to medical appointments.
 appointments = Találkozók
 apps-installed-on-devices = Eszközökre telepített alkalmazások
