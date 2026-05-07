@@ -87,8 +87,10 @@ imsi-numbers = IMSI papapy
 income-levels = Mboy virúpa oike
 instant-messenger-identities = Ñe’ẽmondoha ipya’éva reraite
 ip-addresses = IP kundaharape
+iq-levels = CI oĩha
 job-applications = Mba’ejerure mba’aporã
 job-titles = Nerenda mba’apohápe
+language-preferences = Ñe’ẽ jerohoryvéva
 # This string refers to vehicle license plates.
 licence-plates = Ñe’ẽmboguapy
 living-costs = Tekove repy
@@ -98,6 +100,7 @@ login-histories = Tembiapo ñepyrũ rembiasakue
 loyalty-program-details = Mba’emimi tembiaporape jeporumeme rehegua
 mac-addresses = MAC kundaharape
 marital-statuses = Emendávapa
+military-service = Milíkope jeike
 # Mnemonic phrases are a group of words used to access the content of cryptocurrency wallets.
 mnemonic-phrases = Je’epy mnemotécnicava
 mothers-maiden-names = Sykuéra réra omenda’ỹre
