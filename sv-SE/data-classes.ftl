@@ -116,7 +116,6 @@ other-data-class = Annat
 parenting-plans = Föräldraplaner
 partial-credit-card-data = Delvis kreditkortsdata
 partial-dates-of-birth = Delar av födelsedatum
-partial-government-issued-ids = Delvis myndighet utfärdade ID
 partial-phone-numbers = Partiella telefonnummer
 passport-numbers = Passnummer
 password-hints = Lösenordstips
