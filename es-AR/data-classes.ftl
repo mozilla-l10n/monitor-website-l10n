@@ -9,7 +9,7 @@ account-balances = Saldos de cuentas
 address-book-contacts = Contactos de la Libreta de direcciones
 age-groups = Grupos etarios
 ages = Edades
-ai-prompts = Avisos de IA
+ai-prompts = Prompts de IA
 # Refers to medical appointments.
 appointments = Citas
 apps-installed-on-devices = Aplicaciones instaladas en dispositivos
