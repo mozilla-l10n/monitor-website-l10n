@@ -52,6 +52,7 @@ delivery-instructions = Ofleverynstruksjes
 device-information = Apparaatgegevens
 device-serial-numbers = Searjenûmers fan apparaten
 device-usage-tracking-data = Folchgegevens oer apparaatgebrûk
+display-names = Nammen werjaan
 drinking-habits = Drinkgewoanten
 driver-s-licenses = Rydbewizen
 drug-habits = Drugsgewoanten
