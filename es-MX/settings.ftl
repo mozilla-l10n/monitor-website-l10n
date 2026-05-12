@@ -19,6 +19,19 @@ settings-alert-preferences-option-two = Enviar todas las alertas de filtraciones
 ## Monitored email addresses
 
 settings-email-verification-callout = Se requiere verificación de correo electrónico
+settings-remove-email-button-label = Eliminar
+settings-email-addresses-header = Direcciones de correo electrónico
+settings-email-addresses-description = { -brand-monitor } te alertará si estos correos electrónicos aparecen en filtraciones conocidas.
+settings-email-addresses-add-email-button = Agregar dirección de correo electrónico
+# Variables:
+#   $limit (number) - Number of emails that can be added for monitoring.
+settings-email-addresses-add-email-indicator-limit = Agregar hasta { $limit }
+settings-email-addresses-add-email-resend-button-label = Reenviar enlace de verificación
+input-error-alt = Error
+
+## Email address dialog
+
+settings-email-addresses-initial-dialog-header = Agregar una dirección de correo electrónico
 
 ## Delete Monitor account
 
