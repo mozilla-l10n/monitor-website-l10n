@@ -26,6 +26,7 @@ settings-delete-monitor-free-account-title = Eliminar cuenta { -brand-monitor }
 settings-delete-monitor-free-account-description = Esto eliminará permanentemente tu cuenta { -brand-monitor } y desactivará todas las notificaciones.
 settings-delete-monitor-free-account-cta-label = Eliminar cuenta
 settings-delete-monitor-free-account-dialog-title = Su cuenta { -brand-monitor } se eliminará permanentemente
+settings-delete-monitor-free-account-dialog-lead-v2 = Toda la información de tu cuenta de { -brand-monitor } se eliminará y ya no se realizará el monitoreo de nuevas filtraciones de datos. Esto no eliminará tu { -brand-mozilla-account }.
 settings-delete-monitor-free-account-dialog-cta-label = Eliminar cuenta
 settings-delete-monitor-free-account-dialog-cancel-button-label = No importa, llévame de vuelta
 settings-delete-monitor-account-confirmation-toast-label-2 = Tu cuenta { -brand-monitor } ahora esta eliminada.
