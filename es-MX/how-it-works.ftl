@@ -7,9 +7,17 @@
 
 how-it-works-banner-title = Cómo funciona
 
+## Intro
+
+how-it-works-page-data-breaches-intro-title = Proporcionamos pasos para ayudar a resolver las <data_breaches>filtraciones de datos</data_breaches>
+how-it-works-page-data-breaches-intro-text-1 = Las filtraciones de datos son violaciones de seguridad en las que tu información personal queda expuesta accidentalmente o es robada ilegalmente por piratas informáticos, incluyendo contraseñas, información de contacto, datos financieros y mucho más. Cualquier cuenta o lugar donde se almacene tu información en línea podría ser un objetivo.
+how-it-works-page-data-breaches-intro-text-2 = Resolver las filtraciones de datos ayuda a evitar que los piratas informáticos accedan a tus cuentas, te causen daños económicos o te roben la identidad.
+how-it-works-page-data-breaches-intro-cta-button = Obtén un escaneo gratuito
+
 ## Step 1
 
 how-it-works-page-data-breaches-step-1-title = Paso 1
+how-it-works-page-data-breaches-step-1-subtitle = Realizamos escaneo en busca de filtraciones
 
 ## Step 3
 
