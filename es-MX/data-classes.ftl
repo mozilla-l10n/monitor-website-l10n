@@ -89,6 +89,7 @@ instant-messenger-identities = Identidades de mensajería instantánea
 ip-addresses = Direcciones IP
 job-applications = Solicitudes de empleo
 job-titles = Puestos de trabajo
+language-preferences = Preferencias de idioma
 # This string refers to vehicle license plates.
 licence-plates = Matrículas
 living-costs = Costes de vida
@@ -98,6 +99,7 @@ login-histories = Historiales de inicio de sesión
 loyalty-program-details = Detalles del programa de lealtad
 mac-addresses = Direcciones MAC
 marital-statuses = Estados civiles
+military-service = Servicio militar
 # Mnemonic phrases are a group of words used to access the content of cryptocurrency wallets.
 mnemonic-phrases = Frases mnemotécnicas
 mothers-maiden-names = Nombre de soltera de la madre
