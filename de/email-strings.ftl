@@ -86,23 +86,23 @@ email-breach-alert-all-next-steps-button-dashboard = Zur Übersicht
 ## Breach alert redesigned strings
 
 # $company-name is the name of the company/site that was breached.
-email-breach-alert-all-hero-heading-1 = Details des Datenlecks { $company-name }
+email-breach-alert-all-hero-heading-1 = Details des Datenlecks von { $company-name }
 # $company-name is the name of the company/site that was breached.
 # $breach-date is the date of the breach.
-email-breach-alert-all-lead-1 = { -brand-mozilla-monitor } hat Ihre Daten durch ein { $company-name } Datenleck auf { $breach-date } gefunden. Sie erhalten diese Warnung, weil Sie <link_to_settings>Datenschutzbenachrichtigungen</link_to_settings> abonniert haben.
+email-breach-alert-all-lead-1 = { -brand-mozilla-monitor } hat Ihre Daten in einem Datenleck von { $company-name } vom { $breach-date } gefunden. Sie erhalten diese Warnung, weil Sie <link_to_settings>Benachrichtigungen über Datenlecks</link_to_settings> abonniert haben.
 email-breach-alert-all-source-title-1 = Details des Datenlecks
 email-breach-alert-company = Firma:
 email-breach-alert-date-of-breach = Datum des Datenlecks:
 email-breach-alert-info-exposed = Ihre offengelegten Daten:
 email-breach-alert-next-steps = Nächste Schritte
-email-breach-alert-next-steps-description = <sign_in_link>Melden Sie sich an</sign_in_link> bei Ihrer { -brand-mozilla-monitor }-Übersicht. Wir führen Sie durch die Schritte, die zu der Behebung des Problems erforderlich sind.
+email-breach-alert-next-steps-description = <sign_in_link>Melden Sie sich an</sign_in_link> bei Ihrer { -brand-mozilla-monitor }-Übersicht. Wir führen Sie durch die Schritte, die zur Behebung des Problems erforderlich sind.
 email-breach-alert-all-next-steps-button-resolve-breach-on-dashboard = Datenleck in der Übersicht beheben
 email-breach-alert-faqs-title = Häufig gestellte Fragen
 email-breach-alert-faq-qn-1 = Warum erhalte ich das?
-email-breach-alert-faq-ans-1 = Sie haben sich für Warnmeldungen zu Datenlecks angemeldet. <link_to_settings>Aktualisieren Sie Ihre Einstellungen</link_to_settings> jederzeit in den Einstellungen.
+email-breach-alert-faq-ans-1 = Sie haben Warnmeldungen zu Datenlecks abonniert. <link_to_settings>Aktualisieren Sie Ihre Einstellungen</link_to_settings> jederzeit in den Einstellungen.
 email-breach-alert-faq-qn-2 = Warum kenne ich dieses Unternehmen oder die Website nicht?
-email-breach-alert-faq-ans-2 = Sie haben möglicherweise den Besitzer oder Namen geändert, es handelt sich um ein altes Konto oder eines, das für Sie erstellt wurde, oder stammen von einer gekauften Liste mit offengelegten persönlichen Daten.
+email-breach-alert-faq-ans-2 = Sie hat möglicherweise den Besitzer oder Namen geändert, es könnte sich um ein altes Konto handeln oder eines, das für Sie erstellt wurde, oder von einer gekauften Liste mit offengelegten persönlichen Daten stammen.
 email-breach-alert-faq-qn-3 = Was ist eine Warnung vor einem Datenleck?
 email-breach-alert-faq-ans-3 = Eine Benachrichtigung von { -brand-mozilla-monitor } wird gesendet, wenn persönliche Daten, die Sie überwachen, offengelegt, gestohlen oder ohne Erlaubnis kopiert werden.
 email-breach-alert-faq-qn-4 = Was ist { -brand-mozilla-monitor }?
-email-breach-alert-faq-ans-4 = Ein kostenloser Benachrichtigungsdienst bei Datenlecks, der dich warnt, wenn deine Online-Konten von einem Datenleck betroffen sind.
+email-breach-alert-faq-ans-4 = Ein kostenloser Benachrichtigungsdienst bei Datenlecks, der Sie warnt, wenn Ihre Online-Konten von einem Datenleck betroffen sind.
