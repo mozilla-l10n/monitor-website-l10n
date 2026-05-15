@@ -82,3 +82,10 @@ email-breach-alert-all-data-points-title = Dine eksponerte data:
 email-breach-alert-all-next-steps-lead = Vi guidar deg steg for steg om korleis du løyser denne datalekkasjen.
 email-breach-alert-all-next-steps-cta-label = La oss kome i gang
 email-breach-alert-all-next-steps-button-dashboard = Gå til oversynet
+
+## Breach alert redesigned strings
+
+email-breach-alert-info-exposed = Din eksponerte informasjon:
+email-breach-alert-faq-qn-1 = Kvifor får eg dette?
+email-breach-alert-faq-qn-3 = Kva er eit datalekkasjevarsel?
+email-breach-alert-faq-qn-4 = Kva er { -brand-mozilla-monitor }?
