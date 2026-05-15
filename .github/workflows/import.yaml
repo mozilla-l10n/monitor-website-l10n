@@ -9,11 +9,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Clone l10n repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
         with:
           path: l10n_repo
       - name: Clone main code repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
         with:
           repository: mozilla/blurts-server
           fetch-depth: 0
@@ -23,7 +23,7 @@ jobs:
           rsync -avh code_repo/locales/en/ l10n_repo/en/ --delete
       - name: Get the current date for PR title
         run: echo "current_date=$(date +"%Y-%m-%d")" >> $GITHUB_ENV
-      - uses: peter-evans/create-pull-request@v6
+      - uses: peter-evans/create-pull-request@5f6978faf089d4d20b00c7766989d076bb2fc7f1 # v8.1.1
         with:
           path: l10n_repo
           author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
