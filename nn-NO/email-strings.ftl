@@ -90,6 +90,7 @@ email-breach-alert-company = Firma:
 email-breach-alert-date-of-breach = Dato for datalekkasje:
 email-breach-alert-info-exposed = Din eksponerte informasjon:
 email-breach-alert-next-steps = Neste steg
+email-breach-alert-all-next-steps-button-resolve-breach-on-dashboard = Løys datalekkasjen i oversynet
 email-breach-alert-faq-qn-1 = Kvifor får eg dette?
 email-breach-alert-faq-qn-3 = Kva er eit datalekkasjevarsel?
 email-breach-alert-faq-qn-4 = Kva er { -brand-mozilla-monitor }?
