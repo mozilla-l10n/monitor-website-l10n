@@ -12,6 +12,7 @@ email-header-button-sign-in = Iniciar sesión
 email-footer-support-heading = ¿Tienes preguntas sobre { -brand-mozilla-monitor }?
 email-footer-support-content = Visita nuestro <support-link>Centro de asistencia</support-link> para obtener ayuda
 email-footer-trigger-transactional = Estás recibiendo este correo electrónico por tener una suscripción a { -brand-mozilla-monitor }.
+email-footer-reason-subscriber = Recibes este correo automático por tu suscripción a { -brand-mozilla-monitor }. Si lo recibiste por error, no es necesario realizar ninguna acción. Para más información, visita <support-link>{ -brand-mozilla } Soporte</support-link>.
 email-footer-source-hibp = Datos de filtración proporcionados por <hibp-link>{ -brand-HIBP }</hibp-link>
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = Privacidad
