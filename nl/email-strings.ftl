@@ -90,7 +90,7 @@ email-breach-alert-all-hero-heading-1 = Details over { $company-name }-datalekke
 # $company-name is the name of the company/site that was breached.
 # $breach-date is the date of the breach.
 email-breach-alert-all-lead-1 = { -brand-mozilla-monitor } heeft op { $breach-date } uw gegevens gevonden in een { $company-name }-datalek. U krijgt deze melding omdat u zich hebt aangemeld voor <link_to_settings>meldingen van datalekken</link_to_settings>.
-email-breach-alert-all-source-title-1 = Details datalek
+email-breach-alert-all-source-title-1 = Datalekdetails
 email-breach-alert-company = Bedrijf:
 email-breach-alert-date-of-breach = Datum van datalek:
 email-breach-alert-info-exposed = Uw gelekte gegevens:
