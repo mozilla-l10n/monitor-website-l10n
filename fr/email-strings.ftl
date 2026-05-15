@@ -86,16 +86,16 @@ email-breach-alert-all-next-steps-button-dashboard = Accéder au tableau de bord
 ## Breach alert redesigned strings
 
 # $company-name is the name of the company/site that was breached.
-email-breach-alert-all-hero-heading-1 = { $company-name } détails de la fuite de données
+email-breach-alert-all-hero-heading-1 = Détails de la fuite de données de { $company-name }
 # $company-name is the name of the company/site that was breached.
 # $breach-date is the date of the breach.
-email-breach-alert-all-lead-1 = { -brand-mozilla-monitor } a découvert vos informations dans une fuite de données de { $company-name } sur { $breach-date }. Vous recevez cette alerte car vous vous êtes abonné·e aux <link_to_settings>notifications de fuites de données</link_to_settings>.
+email-breach-alert-all-lead-1 = { -brand-mozilla-monitor } a détecté vos informations dans une fuite de données de { $company-name } le { $breach-date }. Vous recevez cette alerte car vous vous êtes abonné·e aux <link_to_settings>notifications de fuites de données</link_to_settings>.
 email-breach-alert-all-source-title-1 = Détails de la fuite
 email-breach-alert-company = Entreprise :
 email-breach-alert-date-of-breach = Date de la fuite de données :
 email-breach-alert-info-exposed = Vos informations qui ont fuité :
 email-breach-alert-next-steps = Prochaines étapes
-email-breach-alert-next-steps-description = <sign_in_link>Connectez-vous</sign_in_link> à votre tableau de bord { -brand-mozilla-monitor }. Nous vous guiderons à travers les étapes nécessaires pour résoudre ce problème.
+email-breach-alert-next-steps-description = <sign_in_link>Connectez-vous</sign_in_link> à votre tableau de bord { -brand-mozilla-monitor }. Nous vous accompagnerons dans les démarches à suivre pour résoudre la fuite.
 email-breach-alert-all-next-steps-button-resolve-breach-on-dashboard = Résoudre la fuite de données sur le tableau de bord
 email-breach-alert-faqs-title = FAQ
 email-breach-alert-faq-qn-1 = Pourquoi reçois-je ceci ?
