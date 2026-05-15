@@ -82,3 +82,27 @@ email-breach-alert-all-data-points-title = A kikerült adatai:
 email-breach-alert-all-next-steps-lead = Lépésről lépésre végigvezetjük az adatvédelmi incidens megoldásán.
 email-breach-alert-all-next-steps-cta-label = Kezdjünk hozzá
 email-breach-alert-all-next-steps-button-dashboard = Ugrás a vezérlőpulthoz
+
+## Breach alert redesigned strings
+
+# $company-name is the name of the company/site that was breached.
+email-breach-alert-all-hero-heading-1 = { $company-name } adatvédelmi incidens részletei
+# $company-name is the name of the company/site that was breached.
+# $breach-date is the date of the breach.
+email-breach-alert-all-lead-1 = { -brand-mozilla-monitor } megtalálta az adatait egy { $company-name } adatsértésben ekkor: { $breach-date }. Azért kapja ezt a figyelmeztetést, mert feliratkozott az <link_to_settings>adatvédelmi incidensek értesítésére</link_to_settings>.
+email-breach-alert-all-source-title-1 = Az adatsértés részletei
+email-breach-alert-company = Cég:
+email-breach-alert-date-of-breach = Az adatvédelmi incidens dátuma:
+email-breach-alert-info-exposed = Érintett információk:
+email-breach-alert-next-steps = Következő lépések
+email-breach-alert-next-steps-description = <sign_in_link>Jelentkezzen be</sign_in_link> a(z) { -brand-mozilla-monitor } vezérlőpultjára. Végigvezetjük a megoldásához szükséges lépéseken.
+email-breach-alert-all-next-steps-button-resolve-breach-on-dashboard = Az adatsértés megoldása a vezérlőpulton
+email-breach-alert-faqs-title = GYIK
+email-breach-alert-faq-qn-1 = Miért kapom ezt?
+email-breach-alert-faq-ans-1 = Feliratkozott az adatsértési figyelmeztetésekre. Bármikor <link_to_settings>Frissítse beállításait</link_to_settings> a beállításokban.
+email-breach-alert-faq-qn-2 = Miért nem ismerem ezt a céget vagy webhelyet?
+email-breach-alert-faq-ans-2 = Előfordulhat, hogy megváltoztatta a tulajdonost vagy a nevet, régi fiókra vonatkozik vagy olyanra, amelyet az Ön számára hoztak létre, illetve a kikerült személyes adatok vásárolt listájáról származik.
+email-breach-alert-faq-qn-3 = Mi az az adatvédelmi incidens riasztás?
+email-breach-alert-faq-ans-3 = { -brand-mozilla-monitor } értesítést küld, ha az Ön által figyelt személyes adata kikerül, ellopják vagy engedély nélkül másolják.
+email-breach-alert-faq-qn-4 = Mi az a { -brand-mozilla-monitor }?
+email-breach-alert-faq-ans-4 = Egy ingyenes adatvédelmi incidens értesítő szolgáltatás, amely figyelmezteti, ha az online fiókjait adatvédelmi incidensben érintették.

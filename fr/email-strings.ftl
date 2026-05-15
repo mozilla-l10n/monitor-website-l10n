@@ -82,3 +82,27 @@ email-breach-alert-all-data-points-title = Vos données qui ont fuité :
 email-breach-alert-all-next-steps-lead = Nous vous guiderons pas à pas sur la façon de résoudre cette fuite de données.
 email-breach-alert-all-next-steps-cta-label = Voyons tout ça de plus près
 email-breach-alert-all-next-steps-button-dashboard = Accéder au tableau de bord
+
+## Breach alert redesigned strings
+
+# $company-name is the name of the company/site that was breached.
+email-breach-alert-all-hero-heading-1 = { $company-name } détails de la fuite de données
+# $company-name is the name of the company/site that was breached.
+# $breach-date is the date of the breach.
+email-breach-alert-all-lead-1 = { -brand-mozilla-monitor } a découvert vos informations dans une fuite de données de { $company-name } sur { $breach-date }. Vous recevez cette alerte car vous vous êtes abonné·e aux <link_to_settings>notifications de fuites de données</link_to_settings>.
+email-breach-alert-all-source-title-1 = Détails de la fuite
+email-breach-alert-company = Entreprise :
+email-breach-alert-date-of-breach = Date de la fuite de données :
+email-breach-alert-info-exposed = Vos informations qui ont fuité :
+email-breach-alert-next-steps = Prochaines étapes
+email-breach-alert-next-steps-description = <sign_in_link>Connectez-vous</sign_in_link> à votre tableau de bord { -brand-mozilla-monitor }. Nous vous guiderons à travers les étapes nécessaires pour résoudre ce problème.
+email-breach-alert-all-next-steps-button-resolve-breach-on-dashboard = Résoudre la fuite de données sur le tableau de bord
+email-breach-alert-faqs-title = FAQ
+email-breach-alert-faq-qn-1 = Pourquoi reçois-je ceci ?
+email-breach-alert-faq-ans-1 = Vous vous êtes abonné·e aux alertes pour les fuites de données. <link_to_settings>Modifiez vos préférences</link_to_settings> depuis les paramètres.
+email-breach-alert-faq-qn-2 = Pourquoi est-ce que je ne reconnais pas cette entreprise ou ce site ?
+email-breach-alert-faq-ans-2 = Il peut avoir changé de propriétaire ou de nom, impliquer un compte ancien ou qui a été créé pour vous, ou encore provenir d’une liste d’informations personnelles compromises achetée.
+email-breach-alert-faq-qn-3 = Qu’est-ce qu’une alerte de fuite de données ?
+email-breach-alert-faq-ans-3 = Une notification { -brand-mozilla-monitor } est envoyée lorsque des informations personnelles que vous surveillez sont exposées, volées ou copiées sans autorisation.
+email-breach-alert-faq-qn-4 = C'est quoi { -brand-mozilla-monitor } ?
+email-breach-alert-faq-ans-4 = Un service gratuit de notification de fuite de données qui vous alerte si vos comptes en ligne ont été impliqués dans une fuite de données.
