@@ -98,3 +98,6 @@ email-breach-alert-next-steps = Passos sequente:
 email-breach-alert-next-steps-description = <sign_in_link>Accede</sign_in_link> a tu pannello de controlo de { -brand-mozilla-monitor }. Nos te guidara per le passos necessari pro resolver lo.
 email-breach-alert-faqs-title = Folio a questiones
 email-breach-alert-faq-qn-1 = Proque recipe io isto?
+email-breach-alert-faq-ans-1 = Tu te inscribeva al avisos de violation de datos. <link_to_settings>Actualisa tu preferentias</link_to_settings> quandocunque in parametros.
+email-breach-alert-faq-qn-2 = Perque non recognosce io iste compania o sito?
+email-breach-alert-faq-ans-2 = Il pote haber cambiate proprietate o nomine, implicar un vetere conto o illo que ha essite create pro te, o venir de un lista comprate de informationes personal exponite.
