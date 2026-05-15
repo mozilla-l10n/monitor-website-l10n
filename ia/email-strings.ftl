@@ -85,8 +85,16 @@ email-breach-alert-all-next-steps-button-dashboard = Va al pannello de controlo
 
 ## Breach alert redesigned strings
 
+# $company-name is the name of the company/site that was breached.
+email-breach-alert-all-hero-heading-1 = Detalios del violation de datos de { $company-name }
+# $company-name is the name of the company/site that was breached.
+# $breach-date is the date of the breach.
+email-breach-alert-all-lead-1 = { -brand-mozilla-monitor } trovava tu informationes in un violation de datos de { $company-name } le { $breach-date }. Tu recipe iste aviso perque tu te inscribeva a <link_to_settings>avisos de violation</link_to_settings>.
+email-breach-alert-all-source-title-1 = Detalios de violation
 email-breach-alert-company = Interprisa:
+email-breach-alert-date-of-breach = Data de violation:
 email-breach-alert-info-exposed = Tu informationes exponite:
 email-breach-alert-next-steps = Passos sequente:
+email-breach-alert-next-steps-description = <sign_in_link>Accede</sign_in_link> a tu pannello de controlo de { -brand-mozilla-monitor }. Nos te guidara per le passos necessari pro resolver lo.
 email-breach-alert-faqs-title = Folio a questiones
 email-breach-alert-faq-qn-1 = Proque recipe io isto?
