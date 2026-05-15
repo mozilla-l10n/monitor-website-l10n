@@ -80,3 +80,18 @@ email-breach-alert-all-data-points-title = Ele geçirilen verileriniz:
 email-breach-alert-all-next-steps-lead = Bu veri ihlalini nasıl çözeceğinizi adım adım anlatacağız.
 email-breach-alert-all-next-steps-cta-label = Başlayalım
 email-breach-alert-all-next-steps-button-dashboard = Kontrol paneline git
+
+## Breach alert redesigned strings
+
+# $company-name is the name of the company/site that was breached.
+email-breach-alert-all-hero-heading-1 = { $company-name } veri ihlali ayrıntıları
+email-breach-alert-all-source-title-1 = İhlal ayrıntıları
+email-breach-alert-company = Şirket:
+email-breach-alert-date-of-breach = İhlal tarihi:
+email-breach-alert-info-exposed = Ele geçirilen bilgileriniz:
+email-breach-alert-next-steps = Sonraki adımlar
+email-breach-alert-faqs-title = SSS
+email-breach-alert-faq-qn-1 = Bu uyarıyı neden alıyorum?
+email-breach-alert-faq-qn-2 = Bu şirketi veya siteyi neden tanımıyorum?
+email-breach-alert-faq-qn-3 = Veri ihlali uyarısı nedir?
+email-breach-alert-faq-qn-4 = { -brand-mozilla-monitor } nedir?
