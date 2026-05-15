@@ -82,8 +82,8 @@ email-breach-alert-all-next-steps-button-dashboard = Mynd i'r Bwrdd Gwaith
 ## Breach alert redesigned strings
 
 # $company-name is the name of the company/site that was breached.
-email-breach-alert-all-hero-heading-1 = Manylion torri data { $company-name }
-email-breach-alert-all-source-title-1 = Manylion tor-amod
+email-breach-alert-all-hero-heading-1 = Manylion tor-data { $company-name }
+email-breach-alert-all-source-title-1 = Manylion y tor-data
 email-breach-alert-company = Cwmni:
 email-breach-alert-date-of-breach = Dyddiad torri:
 email-breach-alert-info-exposed = Eich manylion sydd wedu eu datgelu:
