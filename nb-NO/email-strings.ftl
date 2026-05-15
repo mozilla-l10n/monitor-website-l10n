@@ -82,3 +82,17 @@ email-breach-alert-all-data-points-title = Dine eksponerte data:
 email-breach-alert-all-next-steps-lead = Vi vil veilede deg trinn for trinn i hvordan du løser denne datalekkasjen
 email-breach-alert-all-next-steps-cta-label = La oss komme i gang
 email-breach-alert-all-next-steps-button-dashboard = Gå til oversikten
+
+## Breach alert redesigned strings
+
+email-breach-alert-all-source-title-1 = Datalekasjedetaljer
+email-breach-alert-company = Firma:
+email-breach-alert-date-of-breach = Dato for datalekkasje:
+email-breach-alert-info-exposed = Din eksponerte informasjon:
+email-breach-alert-next-steps = Neste steg
+email-breach-alert-faqs-title = Ofte stilte spørsmål
+email-breach-alert-faq-qn-1 = Hvorfor mottar jeg dette?
+email-breach-alert-faq-qn-2 = Hvorfor kjenner jeg ikke igjen dette firmaet eller nettstedet?
+email-breach-alert-faq-ans-2 = Den kan ha endret eierskap eller navn, involvere en gammel konto eller en som ble opprettet for deg, eller komme fra en kjøpt liste med eksponert personlig informasjon.
+email-breach-alert-faq-qn-3 = Hva er et varsel om datalekkasje?
+email-breach-alert-faq-qn-4 = Hva er { -brand-mozilla-monitor }?
