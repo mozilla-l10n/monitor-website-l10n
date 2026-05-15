@@ -82,3 +82,11 @@ email-breach-alert-all-data-points-title = Tu datos exponite:
 email-breach-alert-all-next-steps-lead = Nos te guidara passo a passo re como resolver iste violation de datos.
 email-breach-alert-all-next-steps-cta-label = Que nos comencia
 email-breach-alert-all-next-steps-button-dashboard = Va al pannello de controlo
+
+## Breach alert redesigned strings
+
+email-breach-alert-company = Interprisa:
+email-breach-alert-info-exposed = Tu informationes exponite:
+email-breach-alert-next-steps = Passos sequente:
+email-breach-alert-faqs-title = Folio a questiones
+email-breach-alert-faq-qn-1 = Proque recipe io isto?
