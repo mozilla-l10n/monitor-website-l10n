@@ -84,7 +84,7 @@ email-breach-alert-all-next-steps-button-dashboard = Gå till översikten
 ## Breach alert redesigned strings
 
 # $company-name is the name of the company/site that was breached.
-email-breach-alert-all-hero-heading-1 = { $company-name } detaljer om dataintrång
+email-breach-alert-all-hero-heading-1 = Detaljer om dataintrång i { $company-name }
 # $company-name is the name of the company/site that was breached.
 # $breach-date is the date of the breach.
 email-breach-alert-all-lead-1 = { -brand-mozilla-monitor } hittade din information i ett dataintrång i { $company-name } den { $breach-date }. Du får den här varningen eftersom du registrerade dig för <link_to_settings>meddelanden om intrång</link_to_settings>.
@@ -99,7 +99,7 @@ email-breach-alert-faqs-title = Vanliga frågor
 email-breach-alert-faq-qn-1 = Varför får jag detta?
 email-breach-alert-faq-ans-1 = Du registrerade dig för varningar om dataintrång. <link_to_settings>Uppdatera dina inställningar</link_to_settings> när som helst i inställningarna.
 email-breach-alert-faq-qn-2 = Varför känner jag inte igen det här företaget eller webbplatsen?
-email-breach-alert-faq-ans-2 = Det kan ha bytt ägare eller namn, röra ett gammalt konto eller ett som har skapats för dig eller komma från en köpt lista med exponerad personlig information.
+email-breach-alert-faq-ans-2 = De kan ha bytt ägare eller namn, röra ett gammalt konto eller ett som har skapats för dig eller komma från en köpt lista med exponerad personlig information.
 email-breach-alert-faq-qn-3 = Vad är en dataintrångsvarning?
 email-breach-alert-faq-ans-3 = En avisering { -brand-mozilla-monitor } skickas när personlig information som du övervakar avslöjas, stjäls eller kopieras utan tillstånd.
 email-breach-alert-faq-qn-4 = Vad är { -brand-mozilla-monitor }?
