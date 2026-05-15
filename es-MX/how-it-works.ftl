@@ -18,6 +18,11 @@ how-it-works-page-data-breaches-intro-cta-button = Obtén un escaneo gratuito
 
 how-it-works-page-data-breaches-step-1-title = Paso 1
 how-it-works-page-data-breaches-step-1-subtitle = Realizamos escaneo en busca de filtraciones
+how-it-works-page-data-breaches-step-1-text = Con tan solo tu dirección de correo electrónico, realizamos una búsqueda en todas las filtraciones de datos conocidas. Quienes tengan una suscripción pueden monitorear 5 direcciones de correo de forma gratuita.
+
+## Step 2
+
+how-it-works-page-data-breaches-step-2-title = Paso 2
 
 ## Step 3
 
