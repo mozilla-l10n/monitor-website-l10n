@@ -101,4 +101,4 @@ email-breach-alert-faq-ans-2 = Potrebbe aver cambiato proprietario o nome, rifer
 email-breach-alert-faq-qn-3 = Che cos’è un avviso di violazione di dati?
 email-breach-alert-faq-ans-3 = { -brand-mozilla-monitor } invia una notifica quando le informazioni personali che stai monitorando vengono esposte, rubate o copiate senza autorizzazione.
 email-breach-alert-faq-qn-4 = Che cos’è { -brand-mozilla-monitor }?
-email-breach-alert-faq-ans-4 = Un servizio gratuito di notifica di violazioni di dati che ti avvisa se i tuoi account online sono stati coinvolti in una violazione di dati.
+email-breach-alert-faq-ans-4 = Un servizio gratuito che ti informa se i tuoi account online sono stati compromessi in una violazione di dati.
