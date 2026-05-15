@@ -101,6 +101,6 @@ email-breach-alert-faq-ans-1 = Du registrerade dig för varningar om dataintrån
 email-breach-alert-faq-qn-2 = Varför känner jag inte igen det här företaget eller webbplatsen?
 email-breach-alert-faq-ans-2 = De kan ha bytt ägare eller namn, röra ett gammalt konto eller ett som har skapats för dig eller komma från en köpt lista med exponerad personlig information.
 email-breach-alert-faq-qn-3 = Vad är en dataintrångsvarning?
-email-breach-alert-faq-ans-3 = En avisering { -brand-mozilla-monitor } skickas när personlig information som du övervakar avslöjas, stjäls eller kopieras utan tillstånd.
+email-breach-alert-faq-ans-3 = En meddelande som { -brand-mozilla-monitor } skickar när personlig information som du övervakar avslöjas, stjäls eller kopieras utan tillstånd.
 email-breach-alert-faq-qn-4 = Vad är { -brand-mozilla-monitor }?
 email-breach-alert-faq-ans-4 = En gratis varningstjänst för dataintrång som varnar dig om dina onlinekonton har varit inblandade i ett dataintrång.
