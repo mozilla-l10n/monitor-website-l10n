@@ -83,9 +83,6 @@ email-breach-alert-all-next-steps-button-dashboard = Mynd i'r Bwrdd Gwaith
 
 # $company-name is the name of the company/site that was breached.
 email-breach-alert-all-hero-heading-1 = Manylion torri data { $company-name }
-# $company-name is the name of the company/site that was breached.
-# $breach-date is the date of the breach.
-email-breach-alert-all-lead-1 = Daeth { -brand-mozilla-monitor } o hyd i'ch gwybodaeth mewn toriad data { $company-name } ar { $breach-date }. Rydych chi'n cael y rhybudd hwn oherwydd i chi gofrestru ar gyfer <link_to_settings>hysbysiadau torri amodau </ link_to_settings>.
 email-breach-alert-all-source-title-1 = Manylion tor-amod
 email-breach-alert-company = Cwmni:
 email-breach-alert-date-of-breach = Dyddiad torri:
