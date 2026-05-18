@@ -89,7 +89,7 @@ email-breach-alert-all-next-steps-button-dashboard = Ir al panel de control
 email-breach-alert-all-hero-heading-1 = Detalles de la filtración de datos de { $company-name }
 # $company-name is the name of the company/site that was breached.
 # $breach-date is the date of the breach.
-email-breach-alert-all-lead-1 = { -brand-mozilla-monitor } encontró tu información en una filtración de datos de { $company-name } el { $breach-date }. Recibes esta alerta porque te registraste para recibir notificaciones de filtraciones de datos.
+email-breach-alert-all-lead-1 = { -brand-mozilla-monitor } encontró tu información en una filtración de datos de { $company-name } el { $breach-date }. Recibes esta alerta porque te registraste para recibir <link_to_settings>notificaciones de filtraciones de datos</link_to_settings>.
 email-breach-alert-all-source-title-1 = Detalles de la filtración
 email-breach-alert-company = Compañía:
 email-breach-alert-date-of-breach = Fecha de la filtración:
