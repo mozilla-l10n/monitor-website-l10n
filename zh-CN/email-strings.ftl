@@ -94,3 +94,7 @@ email-breach-alert-faqs-title = 常见问题
 email-breach-alert-faq-qn-1 = 为什么我会收到这个？
 email-breach-alert-faq-ans-1 = 您已订阅数据外泄事件警报。您可随时在设置中<link_to_settings>更新首选项</link_to_settings>。
 email-breach-alert-faq-qn-2 = 为什么我不认识这个公司或网站？
+email-breach-alert-faq-qn-3 = 什么是数据外泄事件警报？
+email-breach-alert-faq-ans-3 = 当您监控的个人信息被泄露、窃取或未经许可复制时，{ -brand-mozilla-monitor } 所发送的通知。
+email-breach-alert-faq-qn-4 = { -brand-mozilla-monitor } 是什么？
+email-breach-alert-faq-ans-4 = 一项免费的数据外泄事件通知服务，可在您的在线账户受数据外泄事件影响时通知您。
