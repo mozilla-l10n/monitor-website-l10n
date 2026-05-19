@@ -9,6 +9,7 @@ account-balances = 账户余额
 address-book-contacts = 通讯录联系人
 age-groups = 年龄段
 ages = 年龄
+ai-prompts = AI 提示词
 # Refers to medical appointments.
 appointments = 医疗就诊记录
 apps-installed-on-devices = 设备上安装的应用程序
