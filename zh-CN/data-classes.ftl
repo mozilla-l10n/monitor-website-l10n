@@ -138,6 +138,7 @@ political-views = 政治观点
 private-messages = 私人消息
 professional-skills = 专业技能
 profile-photos = 简历照片
+profile-statistics = 个人资料统计信息
 purchases = 购物记录
 purchasing-habits = 购物习惯
 races = 人种
