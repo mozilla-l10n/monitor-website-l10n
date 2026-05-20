@@ -175,6 +175,7 @@ vehicle-details = 车辆详细信息
 vehicle-identification-numbers-vins = 车辆识别号码 (VIN)
 vehicle-registration-plates = 车牌号
 vip-statuses = VIP 状态
+warranty-claims = 保修申请
 website-activity = 网站活动
 work-habits = 工作习惯
 years-of-birth = 出生年份

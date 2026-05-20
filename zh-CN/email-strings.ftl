@@ -83,6 +83,9 @@ email-breach-alert-all-next-steps-button-dashboard = 前往面板
 
 # $company-name is the name of the company/site that was breached.
 email-breach-alert-all-hero-heading-1 = “{ $company-name }”数据外泄事件详情
+# $company-name is the name of the company/site that was breached.
+# $breach-date is the date of the breach.
+email-breach-alert-all-lead-1 = { -brand-mozilla-monitor } 在“{ $company-name }”发生于 { $breach-date } 的数据外泄事件中发现了您的信息。您订阅了<link_to_settings>外泄事件通知</link_to_settings>，因此会收到此警报。
 email-breach-alert-all-source-title-1 = 外泄事件详情
 email-breach-alert-company = 公司：
 email-breach-alert-date-of-breach = 外泄事件发生日期：
