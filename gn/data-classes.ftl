@@ -166,6 +166,7 @@ taxation-records = Registro fiscal
 telecommunications-carrier = Momaranduhára ñemboguataha
 time-zones = Tendaguasu aravogua
 travel-habits = Jehokuévo ejapomeméva
+travel-plans = Jehorã rehegua
 user-statuses = Poruhára rekotee
 user-website-urls = Poruhára ñanduti renda URLs
 usernames = Poruhára réra

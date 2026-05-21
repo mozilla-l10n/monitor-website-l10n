@@ -82,3 +82,11 @@ email-breach-alert-all-data-points-title = Ne mba’ekuaarã imarãkuaa:
 email-breach-alert-all-next-steps-lead = Rombohapéta mba’éichapa emoĩporãta ko mba’ekuaarã ñembogua.
 email-breach-alert-all-next-steps-cta-label = Ñañepyrũkatu
 email-breach-alert-all-next-steps-button-dashboard = Eho ñangarekoha rupápe
+
+## Breach alert redesigned strings
+
+email-breach-alert-company = Mba’apohaguasu
+email-breach-alert-date-of-breach = Ñembogua arange:
+email-breach-alert-next-steps = Jeku’e tenonderãva
+email-breach-alert-faqs-title = FAQs
+email-breach-alert-faq-qn-4 = ¿Mba’e { -brand-mozilla-monitor }?
