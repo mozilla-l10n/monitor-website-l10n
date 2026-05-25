@@ -85,6 +85,7 @@ email-breach-alert-all-next-steps-button-dashboard = Eho ñangarekoha rupápe
 
 ## Breach alert redesigned strings
 
+email-breach-alert-all-source-title-1 = Mba’emimi ñembogua
 email-breach-alert-company = Mba’apohaguasu
 email-breach-alert-date-of-breach = Ñembogua arange:
 email-breach-alert-next-steps = Jeku’e tenonderãva
