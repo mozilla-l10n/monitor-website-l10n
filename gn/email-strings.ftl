@@ -96,4 +96,5 @@ email-breach-alert-all-next-steps-button-resolve-breach-on-dashboard = Emyatyrõ
 email-breach-alert-faqs-title = FAQs
 email-breach-alert-faq-qn-1 = ¿Mba’ére og̃uahẽ chéve kóva?
 email-breach-alert-faq-qn-2 = ¿Mba’ére ndaikuaái ko mba’apoha térã tenda?
+email-breach-alert-faq-qn-3 = ¿Mba’épa mba’ekuaarã kyhyjerã ñembogua?
 email-breach-alert-faq-qn-4 = ¿Mba’e { -brand-mozilla-monitor }?
