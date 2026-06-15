@@ -89,4 +89,5 @@ email-breach-alert-company = Companie:
 email-breach-alert-info-exposed = Informații expuse:
 email-breach-alert-next-steps = Pașii următori
 email-breach-alert-faqs-title = Întrebări frecvente
+email-breach-alert-faq-qn-1 = De ce primesc asta?
 email-breach-alert-faq-qn-4 = Ce este { -brand-mozilla-monitor }?
