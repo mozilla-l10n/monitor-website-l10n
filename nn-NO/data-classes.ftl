@@ -158,6 +158,7 @@ sms-messages = SMS-meldingar
 social-connections = Sosiale kontaktar
 social-media-profiles = Profilar på sosiale medium
 social-security-numbers = Personnummer
+socioeconomic-levels = Sosioøkonomiske nivå
 spoken-languages = Talte språk
 spouses-names = Namn på ektefellar
 support-tickets = Support-spørsmål
