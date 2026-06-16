@@ -5,7 +5,6 @@
 
 # Breach Data Classes
 
-academic-records = Academische records
 account-balances = Banksaldo’s
 address-book-contacts = Adresboekcontacten
 age-groups = Leeftijdsgroepen
@@ -54,7 +53,7 @@ delivery-instructions = Afleverinstructies
 device-information = Apparaatgegevens
 device-serial-numbers = Serienummers van apparaten
 device-usage-tracking-data = Volggegevens over apparaatgebruik
-disabilities = Handicap
+disabilities = Handicaps
 display-names = Namen weergeven
 drinking-habits = Drinkgewoonten
 driver-s-licenses = Rijbewijzen
