@@ -5,7 +5,7 @@
 
 # Breach Data Classes
 
-academic-records = 學習記錄
+academic-records = 學業成績
 account-balances = 帳戶餘額
 address-book-contacts = 通訊錄聯絡人
 age-groups = 年齡組別
@@ -54,7 +54,7 @@ delivery-instructions = 出貨資訊
 device-information = 裝置資訊
 device-serial-numbers = 裝置序號
 device-usage-tracking-data = 裝置使用追蹤資料
-disabilities = 狀態
+disabilities = 身心障礙資料
 display-names = 顯示名稱
 drinking-habits = 飲酒習慣
 driver-s-licenses = 駕照資訊
@@ -94,7 +94,7 @@ iq-levels = 智商水準
 job-applications = 求職申請資料
 job-titles = 工作頭銜
 language-preferences = 語言偏好設定
-latitude-and-longitude-pairs = 經度緯度對
+latitude-and-longitude-pairs = 經緯度資料
 # This string refers to vehicle license plates.
 licence-plates = 汽車牌照
 living-costs = 生活成本
@@ -161,7 +161,7 @@ sms-messages = 簡訊內容
 social-connections = 社交關係
 social-media-profiles = 社交媒體資料
 social-security-numbers = 社會安全號碼
-socioeconomic-levels = 社經水平
+socioeconomic-levels = 社會經濟水準
 spoken-languages = 會說的語言
 spouses-names = 配偶姓名
 support-tickets = 技術支援請求
