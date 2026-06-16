@@ -52,6 +52,7 @@ delivery-instructions = Leveringsinstruksjonar
 device-information = Einingsinformasjon
 device-serial-numbers = Serienummer på einingar
 device-usage-tracking-data = Sporingsdata for bruk av einingar
+disabilities = Funksjonshemmingar
 display-names = Visingsnamn
 drinking-habits = Drikkevanar
 driver-s-licenses = Førarkort
