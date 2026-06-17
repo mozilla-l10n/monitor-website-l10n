@@ -94,7 +94,7 @@ iq-levels = IQ szintek
 job-applications = Állásjelentkezések
 job-titles = Beosztások
 language-preferences = Nyelvi beállítások
-latitude-and-longitude-pairs = Szélesség és hosszúság párok
+latitude-and-longitude-pairs = Szélességi és hosszúsági koordinátapárok
 # This string refers to vehicle license plates.
 licence-plates = Rendszámtáblák
 living-costs = Megélhetési költségek
