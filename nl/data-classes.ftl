@@ -5,6 +5,7 @@
 
 # Breach Data Classes
 
+academic-records = Academische dossiers
 account-balances = Banksaldo’s
 address-book-contacts = Adresboekcontacten
 age-groups = Leeftijdsgroepen
