@@ -5,6 +5,7 @@
 
 # Breach Data Classes
 
+academic-records = Akademyske dossiers
 account-balances = Banksaldo’s
 address-book-contacts = Adresboekkontakten
 age-groups = Leeftiidsgroepen
@@ -37,6 +38,7 @@ comments = Opmerkingen
 company-names = Bedriuwsnammen
 credit-card-cvv = Creditcard-CVV
 credit-cards = Creditcards
+credit-scores = Creditcards
 credit-status-information = Ynformaasje oer kreditsteat
 cryptocurrency-wallet-addresses = Cryptocurrency-portemonnee-adressen
 cryptocurrency-wallet-hashes = Cryptocurrency-portemonnee-hashes
