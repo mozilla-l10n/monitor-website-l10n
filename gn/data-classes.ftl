@@ -5,6 +5,7 @@
 
 # Breach Data Classes
 
+academic-records = Kuatiata tekombo’egua
 account-balances = Mba’ete rembyre
 address-book-contacts = Ehecha kundaharape jehaiha
 age-groups = Aty hi’aryjojáva
@@ -37,6 +38,7 @@ comments = Je’erei
 company-names = Empresa réra
 credit-card-cvv = Kuatia’atã ñemurã CVV
 credit-cards = Kuatia’atã ñemurã
+credit-scores = Jedevekue mbokyta
 credit-status-information = Ñemurã rekotee marandu
 cryptocurrency-wallet-addresses = Criptomoneda kundaharenda
 cryptocurrency-wallet-hashes = Criptomoneda ashes ryru
@@ -52,6 +54,7 @@ delivery-instructions = Delivery jejapo rape
 device-information = Mba’e’oka marandu
 device-serial-numbers = Mba’e’oka papapy hekoetáva
 device-usage-tracking-data = Mba’e’oka jeporu mba’ekuaarã rapykuehoha
+disabilities = Katupyryambue
 display-names = Téra ehechauka hag̃ua
 drinking-habits = Guari ñemokõ meme
 driver-s-licenses = Mongu’ekuaa ñe’ẽme’ẽguigua
