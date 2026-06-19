@@ -94,6 +94,7 @@ iq-levels = CI oĩha
 job-applications = Mba’ejerure mba’aporã
 job-titles = Nerenda mba’apohápe
 language-preferences = Ñe’ẽ jerohoryvéva
+latitude-and-longitude-pairs = Latitud ha longitud rendatee
 # This string refers to vehicle license plates.
 licence-plates = Ñe’ẽmboguapy
 living-costs = Tekove repy
@@ -160,6 +161,7 @@ sms-messages = SMS ñe’ẽmondo
 social-connections = Tekogua jejuaju
 social-media-profiles = Ava ñandutieta mba’etee
 social-security-numbers = Seguridad social papapy
+socioeconomic-levels = Virureko jekuaa rehegua
 spoken-languages = Ñe’ẽnguéra ojeporúva
 spouses-names = Mendare réra
 support-tickets = Pytyvõ jerure
