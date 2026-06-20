@@ -94,7 +94,7 @@ iq-levels = Επίπεδα IQ
 job-applications = Αιτήσεις εργασίας
 job-titles = Τίτλοι επαγγελμάτων
 language-preferences = Προτιμήσεις γλώσσας
-latitude-and-longitude-pairs = Ζεύγη γεωγραφικού πλάτους και γεωγραφικού μήκους
+latitude-and-longitude-pairs = Ζεύγη γεωγραφικού πλάτους και μήκους
 # This string refers to vehicle license plates.
 licence-plates = Πινακίδες οχημάτων
 living-costs = Έξοδα διαβίωσης
