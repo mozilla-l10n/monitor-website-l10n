@@ -56,6 +56,7 @@ delayed-reporting-copy =
 
 what-is-a-website-breach = Kva er ein nettstadlekkasje?
 website-breach-blurb = Ein nettstad-datalekkasje kan skyldast cyber-kriminelle som stel, kopierer eller eksponerer personleg informasjon frå kontoar på nettet. Det er vanlegvis eit resultat av at hackarar finn eit svakt punkt i sikkerheita til nettstaden. Datalekkasje kan også skje når kontoinformasjon blir leken ved eit uhell.
+what-is-data-agg = Kva er ein datainnsamlar?
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = Oversyn
