@@ -34,6 +34,7 @@ chat-logs = 대화 내용
 citizenship-statuses = 시민권 상태
 clothing-sizes = 의류 사이즈
 comments = 댓글
+company-names = 회사명
 credit-card-cvv = 신용카드 CVV
 credit-cards = 신용카드
 credit-status-information = 신용정보
