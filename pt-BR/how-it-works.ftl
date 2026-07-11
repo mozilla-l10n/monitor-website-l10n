@@ -27,3 +27,20 @@ how-it-works-page-data-breaches-step-2-subtitle = Ajudamos você a resolver vaza
 
 how-it-works-page-data-breaches-step-3-title = Etapa 3
 how-it-works-page-data-breaches-step-3-subtitle = Monitoramos novos vazamentos de dados
+how-it-works-page-data-breaches-step-3-text = Quando detectamos um novo vazamento, verificamos se contém seus dados e te alertamos se tiver.
+
+## CTA button
+
+how-it-works-page-data-breaches-cta-button = Faça uma verificação gratuita
+
+## FooterSection
+
+how-it-works-page-footersection-title = Recupere o controle sobre seus dados
+how-it-works-page-footersection-input-placeholder = exemplo@example.com
+how-it-works-page-footersection-cta-button = Faça uma verificação gratuita
+
+## Inbound links
+## Site Navigation
+
+main-nav-link-how-it-works-label = Como funciona
+footer-external-link-how-it-works-label = Como funciona
