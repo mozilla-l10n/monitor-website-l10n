@@ -44,6 +44,7 @@ delayed-reporting-copy = Às vezes demora meses ou anos para que credenciais exp
 
 ##
 
+what-is-data-agg = O que é um agregador de dados?
 # This is a section headline on the breach detail page that appears above
 # a short summary about the breach.
 breach-overview-title = Visão geral
