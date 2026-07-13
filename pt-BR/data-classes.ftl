@@ -5,10 +5,12 @@
 
 # Breach Data Classes
 
+academic-records = Registros acadêmicos
 account-balances = Saldos de conta
 address-book-contacts = Contatos
 age-groups = Grupos etários
 ages = Idades
+ai-prompts = Consultas a inteligência artificial
 # Refers to medical appointments.
 appointments = Consultas
 apps-installed-on-devices = Aplicativos instalados em dispositivos
@@ -32,12 +34,17 @@ charitable-donations = Doações para caridade
 chat-logs = Históricos de conversas
 citizenship-statuses = Status de nacionalidade
 clothing-sizes = Tamanhos de roupas
+comments = Comentários
+company-names = Nomes de empresas
 credit-card-cvv = Códigos de segurança de cartão de crédito
 credit-cards = Cartões de crédito
+credit-scores = Pontuação de crédito
 credit-status-information = Avaliação de crédito
+cryptocurrency-wallet-addresses = Endereços de carteiras de criptomoedas
 cryptocurrency-wallet-hashes = Hashes de carteiras de criptomoedas
 customer-feedback = Opinião de cliente
 customer-interactions = Interações com clientes
+customer-service-comments = Comentários sobre atendimento ao cliente
 dates-of-birth = Datas de nascimento
 deceased-date = Datas de falecimento
 deceased-statuses = Status de falecimento
