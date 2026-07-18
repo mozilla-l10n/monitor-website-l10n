@@ -89,3 +89,4 @@ email-breach-alert-company = 회사:
 email-breach-alert-next-steps = 다음 단계
 email-breach-alert-faqs-title = 자주 묻는 질문
 email-breach-alert-faq-qn-1 = 왜 이 화면이 나왔나요?
+email-breach-alert-faq-qn-4 = { -brand-mozilla-monitor }는 무엇인가요?
