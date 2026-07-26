@@ -167,6 +167,7 @@ utility-bills = 공과금
 vehicle-details = 차량 세부 정보
 vehicle-identification-numbers-vins = 차량 식별 번호(VIN)
 vehicle-registration-plates = 자동차 등록 번호
+vip-statuses = VIP 상태
 website-activity = 웹사이트 활동
 work-habits = 업무 습관
 years-of-birth = 출생년도
