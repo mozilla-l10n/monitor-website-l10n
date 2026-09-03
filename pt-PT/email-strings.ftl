@@ -16,17 +16,17 @@ email-footer-reason-subscriber = Está a receber este email automático como sub
 email-footer-reason-subscriber-one-time = Recebeu este email automático porque subscreve o { -brand-monitor-plus }. Não irá receber mais emails como este. Para mais informação, por favor visite o <support-link>Suporte do { -brand-mozilla }</support-link>.
 # Variables:
 #    $support_link (string) - The URL the user can visit for support, e.g. "https://support.mozilla.org"
-email-footer-support-content-plain = Visite o nosso Centro de Apoio para obter ajuda: { $support_link }
+email-footer-support-content-plain = Para ajuda visite o nosso Centro de Suporte: { $support_link }
 # Variables:
 #   $hibp_link (string) - URL to Have I Been Pwned, e.g. "https://haveibeenpwned.com".
-email-footer-source-hibp-plain = Dados de brechas fornecidos por { -brand-HIBP }: { $hibp_link }
+email-footer-source-hibp-plain = Dados de fugas de informação fornecidos por { -brand-HIBP }: { $hibp_link }
 email-footer-source-hibp = Dados de violação de dados fornecidos por <hibp-link>{ -brand-HIBP }</hibp-link>
 email-footer-logo-mozilla-alt = { -brand-mozilla }
 email-footer-meta-privacy-notice = Privacidade
 email-unsubscribe-link = <link_to_unsub>Cancelar subscrição</link_to_unsub>
 # Variables:
 #   $unsub_link (string) - URL to the unsubscribe page, e.g. "https://monitor.mozilla.org/unsubscribe/...".
-email-unsubscribe-link-plain = Anular a subscrição: { $unsub_link }
+email-unsubscribe-link-plain = Cancelar a subscrição: { $unsub_link }
 # Firefox Relay is a product name and should not be translated.
 -product-name-relay = Firefox Relay
 # Mozilla VPN is a product name and should not be translated.
@@ -87,10 +87,10 @@ email-breach-alert-all-next-steps-button-dashboard = Ir para o painel
 email-breach-alert-all-hero-heading-1 = { $company-name } detalhes da violação de dados
 # $company-name is the name of the company/site that was breached.
 # $breach-date is the date of the breach.
-email-breach-alert-all-lead-1 = { -brand-mozilla-monitor } encontrou a sua informação numa brecha de dados { $company-name } em { $breach-date }. Está a receber este alerta porque subscreveu às <link_to_settings>notificações de violação de dados</link_to_settings>.
+email-breach-alert-all-lead-1 = { -brand-mozilla-monitor } encontrou a sua informação numa violação de dados { $company-name } em { $breach-date }. Está a receber este alerta porque subscreveu às <link_to_settings>notificações de violação de dados</link_to_settings>.
 email-breach-alert-all-source-title-1 = Detalhes da violação de dados
 email-breach-alert-company = Empresa:
-email-breach-alert-date-of-breach = Data da violação de dados
+email-breach-alert-date-of-breach = Data da violação de dados:
 email-breach-alert-info-exposed = A sua informação exposta:
 email-breach-alert-next-steps = Passos seguintes
 email-breach-alert-next-steps-description = <sign_in_link>Inicie sessão</sign_in_link> no seu painel { -brand-mozilla-monitor }. Iremos guiar-lhe através dos passos necessários para o resolver.
@@ -101,6 +101,6 @@ email-breach-alert-faq-ans-1 = Inscreveu-se para alertas de violações de dados
 email-breach-alert-faq-qn-2 = Porque é que não reconheço esta empresa ou site?
 email-breach-alert-faq-ans-2 = Pode ter alterado a propriedade ou o nome, envolver uma conta antiga ou uma que foi criada para si, ou vir de uma lista comprada de informação pessoal exposta.
 email-breach-alert-faq-qn-3 = O que é um alerta de violação de dados?
-email-breach-alert-faq-ans-3 = Uma notificação que o { -brand-mozilla-monitor } envia quando uma informação pessoal que está a monitorizar é exposta, furtada ou copiada sem permissão.
-email-breach-alert-faq-qn-4 = O que é { -brand-mozilla-monitor }?
+email-breach-alert-faq-ans-3 = Uma notificação que o { -brand-mozilla-monitor } envia quando uma informação pessoal que está a monitorizar é exposta, roubada ou copiada sem permissão.
+email-breach-alert-faq-qn-4 = O que é o { -brand-mozilla-monitor }?
 email-breach-alert-faq-ans-4 = Um serviço gratuito de notificação de violações de dados que avisa se as suas contas online estiveram envolvidas numa violação de dados.

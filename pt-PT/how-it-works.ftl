@@ -9,16 +9,16 @@ how-it-works-banner-title = Como funciona
 
 ## Intro
 
-how-it-works-page-data-breaches-intro-title = Nós fornecemos passos para ajudar a resolver <data_breaches> brechas de dados</data_breaches>
-how-it-works-page-data-breaches-intro-text-1 = As brechas de dados são violações de segurança em que a sua informação pessoal é exposta acidentalmente ou furtada ilegalmente por piratas informáticos — incluindo palavras-passe, informações de contacto, financeiras e muito mais. Qualquer conta ou qualquer lugar na qual a sua informação esteja armazenada na Internet pode ser um alvo.
-how-it-works-page-data-breaches-intro-text-2 = Resolver violações de dados ajuda a impedir que piratas informáticos aceda às suas contas, causem problemas financeiros ou roubem a sua identidade.
+how-it-works-page-data-breaches-intro-title = Nós fornecemos passos para ajudar a resolver <data_breaches> violações de dados</data_breaches>
+how-it-works-page-data-breaches-intro-text-1 = As fugas de dados são violações de segurança em que a sua informação pessoal é exposta acidentalmente ou roubada ilegalmente por hackers — incluindo palavras-passe, informações de contacto, financeiras e muito mais. Qualquer conta ou qualquer lugar na qual a sua informação esteja armazenada na internet pode ser um alvo.
+how-it-works-page-data-breaches-intro-text-2 = Resolver violações de dados ajuda a impedir que hackers acedam às suas contas, causem problemas financeiros ou roubem a sua identidade.
 how-it-works-page-data-breaches-intro-cta-button = Obter verificação gratuita
 
 ## Step 1
 
 how-it-works-page-data-breaches-step-1-title = Passo 1
 how-it-works-page-data-breaches-step-1-subtitle = Verificamos por violações de dados
-how-it-works-page-data-breaches-step-1-text = Utilizando apenas o seu endereço de e-mail, pesquisamos por si em todas as violações de dados conhecidas. Todos os subscritores podem monitorizar 5 endereços de e-mail gratuitamente.
+how-it-works-page-data-breaches-step-1-text = Usamos apenas o seu endereço de email, pesquisamos por si em todas as violações de dados conhecidas. Todos os subscritores podem monitorizar 5 endereços de email gratuitamente.
 
 ## Step 2
 
