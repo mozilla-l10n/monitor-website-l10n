@@ -8,16 +8,13 @@ announcement-dialog-default-tab = Novo
 announcement-dialog-history-tab = Tudo
 # To go back to the list of announcements
 announcement-dialog-back = Retroceder
-announcement-dialog-clear-all = Marcar tudo como lida
+announcement-dialog-clear-all = Marcar tudo como lido
 announcement-dialog-empty-state-title = Sem atualizações
 announcement-dialog-empty-state-description = Volte regularmente para atualizações e informações sobre as nossas funcionalidades mais recentes.
 announcement-dialog-trigger-alt = Abrir anúncios
 announcement-dialog-alt = Lista de anúncios
 announcement-small-img-alt = Ícone de anúncio
 announcement-big-img-alt = Imagem de anúncio
-
-# between announcement- and -title or -description is the announcement_id.
-
 # Variables:
 # $emailAddressesCount (string) - number of email addresses allowed for data breach monitoring
 announcement-free-data-breach-monitoring-title =
