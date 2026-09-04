@@ -23,15 +23,15 @@ how-it-works-page-data-breaches-step-1-text = Usamos apenas o seu endereço de e
 ## Step 2
 
 how-it-works-page-data-breaches-step-2-title = Passo 2
-how-it-works-page-data-breaches-step-2-subtitle = Nós ajudamos-lhe a resolver violações de dados
-how-it-works-page-data-breaches-step-2-text-1 = Porque resolver violações de dados geralmente envolve passos manuais como alterar as suas palavras-passe ou colocar um alerta de fraude na sua pontuação de crédito, não podemos resolver estes problemas por si. Mas iremos guiar-lhe através dos passos para resolver a sua informação vazada.
-how-it-works-page-data-breaches-step-2-text-2 = E se a sua informação falhar as mãos erradas, iremos dar-lhe recomendações de segurança sobre o que pode fazer para se proteger agora e no futuro.
+how-it-works-page-data-breaches-step-2-subtitle = Nós ajudamos a resolver violações de dados
+how-it-works-page-data-breaches-step-2-text-1 = Porque resolver violações de dados geralmente envolve passos manuais como alterar as suas palavras-passe ou colocar um alerta de fraude na sua pontuação de crédito, não podemos resolver estes problemas por si. Mas iremos guiá-lo através dos passos para resolver a sua informação vazada.
+how-it-works-page-data-breaches-step-2-text-2 = E se a sua informação cair nas mãos erradas, iremos dar-lhe recomendações de segurança sobre o que pode fazer para se proteger agora e no futuro.
 
 ## Step 3
 
 how-it-works-page-data-breaches-step-3-title = Passo 3
 how-it-works-page-data-breaches-step-3-subtitle = Monitorizamos a deteção de novas violações de dados
-how-it-works-page-data-breaches-step-3-text = Sempre que detetámos uma nova violação de dados, verificaremos se fez parte da mesma e alertaremos se sim.
+how-it-works-page-data-breaches-step-3-text = Sempre que detetarmos uma nova violação de dados, verificaremos se fez parte da mesma e alertaremos se constar nela.
 
 ## CTA button
 
@@ -40,11 +40,11 @@ how-it-works-page-data-breaches-cta-button = Obter verificação gratuita
 ## FooterSection
 
 how-it-works-page-footersection-title = Retome o controlo dos seus dados
-how-it-works-page-footersection-input-placeholder = example@example.com
+how-it-works-page-footersection-input-placeholder = exemplo@exemplo.com
 how-it-works-page-footersection-cta-button = Obter verificação gratuita
 
 ## Inbound links
 ## Site Navigation
 
-main-nav-link-how-it-works-label = Como é que funciona
-footer-external-link-how-it-works-label = Como é que funciona
+main-nav-link-how-it-works-label = Como Funciona
+footer-external-link-how-it-works-label = Como Funciona
