@@ -23,7 +23,6 @@
 -brand-relay = Firefox Relay
 -brand-mozilla-monitor = Mozilla Monitor
 -brand-monitor-plus = 모니터 플러스
--brand-solo-ai = Solo AI
 
 ##
 
